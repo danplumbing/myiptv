@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1,211 (2018)
-http://178.132.4.82:7070/c2eb168c4e1ca2cb8d0c29929e0565b617e7ecb7/211%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/211.2018.720p.WEBRip.x264-%5bYTS.AM%5d.mp4
 #EXTINF:-1, Time Out 20
 http://178.132.4.82:7070/0a0000b90b691acc0d975486c1dc6409099a7237/Time.Out.BdRip.Xvid.Mpeg4.Dolby.ac3.avi
-#EXTINF:-1,Dear John
-http://178.132.4.82:7070/0a3fca2abc29d95cbafa00a85c00741bae68d707/Dear.John.2010.FRENCH.DVDRiP.XViD-SLiM/slim-dearjohn.avi
 #EXTINF:-1,The Predator 2018
 http://178.132.4.82:7070/427447eab5e561c8f47e0fc68bbe8adeb394125c/The%20Predator%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/The.Predator.2018.720p.WEBRip.x264-%5bYTS.AM%5d.mp4
 #EXTINF:-1,Redbad 2018 720p
@@ -13,44 +9,16 @@ http://178.132.4.82:7070/0a285ce4f2447ce88950c32fbc298a62e29836f2/Redbad.2018.72
 http://178.132.4.82:7070/3baaa3b3931de777bae0bd53d160fd493dda70a8/The%20Meg%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/The.Meg.2018.720p.WEBRip.x264-%5bYTS.AM%5d.mp4
 #EXTINF:-1,jumanji Welcome To The Jungle 2017
 http://178.132.4.82:7070/53d6d70cf0112db618d98b345aeb2a3f3411eae0/Jumanji%20Welcome%20To%20The%20Jungle%20(2017)%20%5BWEBRip%5D%20%5B720p%5D%20%5BYTS.AM%5D/Jumanji.Welcome.To.The.Jungle.2017.720p.WEBRip.x264-%5bYTS.AM%5d.mp4
-#EXTINF:-1,Johnny English Strikes Again 2018
-http://pairing:E50FE35DBC58A514F0A8823EF13F2B1BE6454192@127.0.0.1:38569/proxy?sid=2d&file=0&token=E50FE35DBC58A514F0A8823EF13F2B1BE6454192&pairing=E50FE35DBC58A514F0A8823EF13F2B1BE6454192&service=STREAMING
-#EXTINF:-1,SpiderMan 2002
-http://178.132.4.82:7070/0a452c5d40e282d216962b5423b600d1a103f8ba/Spider%20Man%20Trilogy%20(2002-2007)/Spiderman%20(2002)/SpiderMan.2002.720p.BrRip.264.YIFY..mp4
-#EXTINF:-1,SpiderMan 2 2004
-http://178.132.4.82:7070/0a452c5d40e282d216962b5423b600d1a103f8ba/Spider%20Man%20Trilogy%20(2002-2007)/Spiderman%202%20(2004)/Spider.Man.2.2004.720p.BrRip.264.YIFY.mp4
-#EXTINF:-1,SpiderMan 3 2007
-http://178.132.4.82:7070/0a452c5d40e282d216962b5423b600d1a103f8ba/Spider%20Man%20Trilogy%20(2002-2007)/Spiderman%203%20(2007)/SpiderMan.3.2007.720p.BrRip.264.YIFY.mp4
-#EXTINF:-1,Papillon.2018
-http://178.132.4.82:7070/0adeef68b5a47e450ea972926e5f74a8fb686335/%5b%20www.T9.pe%20%5d%20Papillon.2018.FRENCH.BDRip.XviD-EXTREME/Papillon.2018.FRENCH.BDRip.XviD-EXTREME.avi
 #EXTINF:-1,The Avengers 2012
 http://178.132.4.82:7070/0bbca7584749d4e741747e32e6eb588aea03e40f/The%20Avengers%20(2012)/The.Avengers.2012.720p.BluRay.x264.YIFY.mp4
 #EXTINF:-1,Olympus Has Fallen 2013
 http://178.132.4.82:7070/0b8a179b330989562a50fb515a2e0a3504c7ce07/Olympus%20Has%20Fallen%20(2013)/Olympus.Has.Fallen.2013.720p.BluRay.x264.YIFY.mp4
-#EXTINF:-1,I Spit on Your Grave 2 2013
-http://178.132.4.82:7070/0bc67df61318617c89b73f51f0cf366371c71899/I%20Spit%20On%20Your%20Grave%202%20(2013)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/I.Spit.On.Your.Grave.2.2013.720p.WEBRip.x264-%5bYTS.AM%5d.mp4
-#EXTINF:-1,Braven 2018
-http://178.132.4.82:7070/0bc114a8082686ced888f637ab64270afdf34d8d/Braven%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/Braven.2018.720p.BluRay.x264-%5bYTS.AM%5d.mp4
 #EXTINF:-1,The Hobbit An Unexpected Journey 2012
 http://178.132.4.82:7070/0c1d212cf59c921ac52967ac76c8443c72a56fe6/%5bwww.Cpasbien.me%5d%20The.Hobbit.An.Unexpected.Journey.2012.FRENCH.BDRip.AC3.XviD-SANSDouTE/%5bwww.Cpasbien.me%5d%20sde-The.Hobbit.An.Unexpected.Journey.2012.FRENCH.BDRip.AC3.avi
 #EXTINF:-1,Event Horizon 1997
 http://178.132.4.82:7070/0c8317c1638c3c652c002c78082e82d94c354208/Event%20Horizon%20(1997)/Event.Horizon.1997.720p.BrRip.x264.YIFY.mp4
 #EXTINF:-1,Passengers 2016
 http://178.132.4.82:7070/0ca260b68b386afa40bd3c64fda4ffbb7f0c97da/Passengers%20(2016)%20%5bYTS.AG%5d/Passengers.2016.720p.BluRay.x264-%5bYTS.AG%5d.mp4
-#EXTINF:-1,Wanted 2008
-http://178.132.4.82:7070/0cb88b5b8e23171f240ea8a91e84d469b82b1ab5/Wanted%20(2008)/Wanted.2008.720p.BrRip.x264.YIFY.mp44
-#EXTINF:-1,	Insidious the Last Key 2018
-http://178.132.4.82:7070/0ce9b35b1b533ef640b70f4896e23a33a3ef94b4/%5b%20Torrent9.red%20%5d%20Insidious.the.Last.Key.2018.TRUEFRENCH.BDRip.XviD-FuN/Insidious.the.Last.Key.2018.TRUEFRENCH.BDRip.XviD-FuN.avi
-#EXTINF:-1,The Equalizer 2 2018
-http://178.132.4.82:7070/0cef636066f0aa9e38e407770090ef1fb756903c/The.Equalizer.2.2018.1080p.WEB-DL.H264.AC3-EVO%5bEtHD%5d/The.Equalizer.2.2018.1080p.WEB-DL.H264.AC3-EVO%5bEtHD%5d.mkv
-#EXTINF:-1,The Happytime Murders 2018
-http://178.132.4.82:7070/0d5a7f1382763529cc3d2747d4fed90a4260954b/The.Happytime.Murders.2018.1080p.BluRay.H264.AAC-RARBG/The.Happytime.Murders.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#EXTINF:-1,The Best Offer 2013
-http://178.132.4.82:7070/0edca4c0ea2ca8116d96385b2f0a13183df44ac6/%5bwww.Cpasbien.pe%5d%20The.Best.Offer.2013.TRUEFRENCH.DVDRip.x264.AC3-UTT/%5bwww.Cpasbien.pe%5d%20The.Best.Offer.2013.TRUEFRENCH.DVDRip.x264.AC3-UTT.mkv
-#EXTINF:-1,Johnny English Strikes Again
-http://127.0.0.1:49283/
-#EXTINF:-1,Namaste England 2018
-http://peach10.clicknupload.net:182/d/tg5v2rrhlvyd7tr7w7f4n6kwdfj2vkawpyckl7a7iegyj4ou7oqvwxwr2xfzum7lv4ij55wj/N4m4s73En9I4ndPD.mkv
 #EXTINF:-1,2 States 2014
 https://doc-10-74-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/p6hcgs6md336k66j0lp55j9ep020s669/1554883200000/10781457591108767212/*/1pkCS_oA6gd6EdqDprtOaym5z9BOwQn1F?e=m18
 #EXTINF:-1,OK Jaanu (2017)
