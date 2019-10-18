@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="UKe
 #EXTINF:-1 tvg-id="" tvg-name="10 minutes gone (2019)" tvg-logo="https://www.imdb.com/title/tt4154796/images/or06FN3Dka5tukK1e9sl16pB3iy_small.jpg" group-title="Movies",10 minutes gone (2019)
-https://tinyurl.com/y24umsb4
+http://localhost:8096/emby/Videos/40882/stream.mp4?Static=true&mediaSourceId=b1700236701dbdaaf03146ffed0ba2fd&deviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNzcuMC4zODY1LjkwIFNhZmFyaS81MzcuMzZ8MTU2OTUyODk5Mjc4MA11&api_key=55e3269b7333411198d9b5aafce462e9
 #EXTINF:-1 tvg-id="" tvg-name="el chicano 2019" tvg-logo="https://www.imdb.com/title/tt7374952/mediaviewer/rm3875882240_small.jpg" group-title="Movies",el chicano 2019
 https://tinyurl.com/y6xdjpqc
 #EXTINF:-1 tvg-id="" tvg-name="Doom Annihilation 2019" tvg-logo="group-title="Movies",Doom Annihilation 2019
@@ -10,7 +10,3 @@ https://tinyurl.com/y3o9m46y
 https://tinyurl.com/y2c7g5xr
 #EXTINF:-1 tvg-id="" tvg-name="Riot Girls 2019" tvg-logo="https://www.imdb.com/title/tt6049106/mediaviewer/rm2286460161_small.jpg" group-title="Movies",Riot Girls 2019
 https://tinyurl.com/y2ac8zjw
-#EXTINF:-1 tvg-id="" tvg-name="102 Not Out (2018)" tvg-logo="https://www.imdb.com/title/tt6049106/mediaviewer/rm2286460161_small.jpg" group-title="Movies",102 Not Out (2018)
-https://tinyurl.com/y4qwm737
-#EXTINF:-1 tvg-id="" tvg-name="Punjab Nahi Jaungi (2017)" tvg-logo="https://www.imdb.com/title/tt6049106/mediaviewer/rm2286460161_small.jpg" group-title="Movies",Punjab Nahi Jaungi (2017)
-https://tinyurl.com/y2tuq6tb
