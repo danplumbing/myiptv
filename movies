@@ -16,3 +16,7 @@ https://tinyurl.com/y33wktth
 http://pairing:12CB14EBF415B7C7F1B8BBF281AC2DD1FD8D6331@127.0.0.1:40129/proxy?sid=6&file=0&token=12CB14EBF415B7C7F1B8BBF281AC2DD1FD8D6331&pairing=12CB14EBF415B7C7F1B8BBF281AC2DD1FD8D6331&service=STREAMING
 #EXTINF:-1 tvg-id="" tvg-name="Desi Boyz 2011" tvg-logo="https://www.imdb.com/title/tt1985981/mediaviewer/rm4108193536_small.jpg" group-title="Movies",Desi Boyz 2011
 https://www.googleapis.com/drive/v3/files/1ruli5i9tstfvqqROqk66rk9gBN68jxGmog?alt=media&key=AIzaSyBrMvXdNmcA-SJgwVHmI0yp-6a6GQ4U9bo
+#EXTINF:-1 tvg-id="" tvg-name="36 China Town (2006)" tvg-logo="https://www.imdb.com/title/tt0477252/mediaviewer/rm3965211904_small.jpg" group-title="Movies",36 China Town (2006)
+https://www.googleapis.com/drive/v3/files/1btN6Ix2T2KqQUSvVeqtQScZwApzMbF2K?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
+#EXTINF:-1 tvg-id="" tvg-name="Bumblebee (2018)" tvg-logo="https://www.imdb.com/title/tt4701182/mediaviewer/rm4223427072_small.jpg" group-title="Movies",Bumblebee (2018)
+https://www.googleapis.com/drive/v3/files/1xtn8RhIQb0q2a5FWf-gyICnoJMpldMA_?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
