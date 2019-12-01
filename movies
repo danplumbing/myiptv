@@ -1,22 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="UKe
-#EXTINF:-1 tvg-id="" tvg-name="10 minutes gone (2019)" tvg-logo="https://www.imdb.com/title/tt4154796/images/or06FN3Dka5tukK1e9sl16pB3iy_small.jpg" group-title="Movies",10 minutes gone (2019)
-http://localhost:8096/emby/Videos/40882/stream.mp4?Static=true&mediaSourceId=b1700236701dbdaaf03146ffed0ba2fd&deviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNzcuMC4zODY1LjkwIFNhZmFyaS81MzcuMzZ8MTU2OTUyODk5Mjc4MA11&api_key=55e3269b7333411198d9b5aafce462e9
-#EXTINF:-1 tvg-id="" tvg-name="el chicano 2019" tvg-logo="https://www.imdb.com/title/tt7374952/mediaviewer/rm3875882240_small.jpg" group-title="Movies",el chicano 2019
-https://tinyurl.com/y6xdjpqc
-#EXTINF:-1 tvg-id="" tvg-name="Doom Annihilation 2019" tvg-logo="group-title="Movies",Doom Annihilation 2019
-https://tinyurl.com/y3o9m46y
-#EXTINF:-1 tvg-id="" tvg-name="Inside Man: Most Wanted (2019)" tvg-logo="https://www.imdb.com/title/tt7832848/mediaviewer/rm898667265_small.jpg" group-title="Movies",Inside Man: Most Wanted (2019)
-https://tinyurl.com/y2c7g5xr
-#EXTINF:-1 tvg-id="" tvg-name="Riot Girls 2019" tvg-logo="https://www.imdb.com/title/tt6049106/mediaviewer/rm2286460161_small.jpg" group-title="Movies",Eternal Code 2019
-https://tinyurl.com/y2ac8zjw
-#EXTINF:-1 tvg-id="" tvg-name="Eternal Code 2019" tvg-logo="https://www.imdb.com/title/tt6049106/mediaviewer/rm2286460161_small.jpg" group-title="Movies",Riot Girls 2019
-https://tinyurl.com/y33wktth
-#EXTINF:-1 tvg-id="" tvg-name="the kitchen 2019" tvg-logo="https://www.imdb.com/title/tt6049106/mediaviewer/rm2286460161_small.jpg" group-title="Movies",the kitchen 2019
-http://pairing:12CB14EBF415B7C7F1B8BBF281AC2DD1FD8D6331@127.0.0.1:40129/proxy?sid=6&file=0&token=12CB14EBF415B7C7F1B8BBF281AC2DD1FD8D6331&pairing=12CB14EBF415B7C7F1B8BBF281AC2DD1FD8D6331&service=STREAMING
-#EXTINF:-1 tvg-id="" tvg-name="Desi Boyz 2011" tvg-logo="https://www.imdb.com/title/tt1985981/mediaviewer/rm4108193536_small.jpg" group-title="Movies",Desi Boyz 2011
-https://www.googleapis.com/drive/v3/files/1ruli5i9tstfvqqROqk66rk9gBN68jxGmog?alt=media&key=AIzaSyBrMvXdNmcA-SJgwVHmI0yp-6a6GQ4U9bo
-#EXTINF:-1 tvg-id="" tvg-name="36 China Town (2006)" tvg-logo="https://www.imdb.com/title/tt0477252/mediaviewer/rm3965211904_small.jpg" group-title="Movies",36 China Town (2006)
-https://www.googleapis.com/drive/v3/files/1btN6Ix2T2KqQUSvVeqtQScZwApzMbF2K?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Bumblebee (2018)" tvg-logo="https://www.imdb.com/title/tt4701182/mediaviewer/rm4223427072_small.jpg" group-title="Movies",Bumblebee (2018)
-https://www.googleapis.com/drive/v3/files/1xtn8RhIQb0q2a5FWf-gyICnoJMpldMA_?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
+#EXTINF:-1 tvg-id="" tvg-name="2 States 2014" tvg-logo="https://www.imdb.com/title/tt02372678/_small.jpg" group-title="Movies",2 States 2014
+https://www.googleapis.com/drive/v3/files/1pkCS_oA6gd6EdqDprtOaym5z9BOwQn1F?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
+#EXTINF:-1 tvg-id="" tvg-name="2.0 2018" tvg-logo="https://www.imdb.com/title/tt5080556/_small.jpg" group-title="Movies",2.0 2018
+https://www.googleapis.com/drive/v3/files/1_hB2zADr5rmAXHCpvZkS6027a22EM1N9?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
+#EXTINF:-1 tvg-id="" tvg-name="3 AM 2014 1080P" tvg-logo="https://www.imdb.com/title/tt02372678/_small.jpg" group-title="Movies",3 AM 2014 1080P
+https://www.googleapis.com/drive/v3/files/1XUYgwSfeUmU5hJvOE83sGOBLBLpN-xeS?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
