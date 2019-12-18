@@ -1,3 +1,7 @@
-#EXTM3U#EXTINF:
-/movies
-https://raw.githubusercontent.com/danplumbing/myiptv/master/movies
+#EXTM3U
+#EXTINF:164,Lado Rani (2018) - 1 - Lado Rani (128 Kbps) -  DownloadMing.SE
+..\Music\1\01 - Lado Rani (128 Kbps) - DownloadMing.SE.mp3
+#EXTINF:329,Raaz -The Mystery Continues - MyMp3Singer.com -  - 01 - Maahi-(MyMp3Singer.com)
+..\Music\2\01 - Maahi-(MyMp3Singer.net).mp3
+#EXTINF:269,Ae Dil Hai Mushkil - Title Track (Ae Dil Hai Mushkil) - SongsMp3.Net - 1 - Ae Dil Hai Mushkil Title Track (Ae Dil Hai Mushkil) - SongsMp3.Net
+..\Music\2\01 Ae Dil Hai Mushkil - Title Track (Ae Dil Hai Mushkil) (SongsMp3.Com).mp3
