@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
-#EXTINF:-1 tvg-id="" tvg-name="2 States 2014 " tvg-logo="https://subdl.com/p/sd2/sd2611.jpg" group-title="Movies",2 States 2014
+#EXTINF:-1 tvg-id="" tvg-name="2 States 2014" tvg-logo="https://subdl.com/p/sd2/sd2611.jpg" group-title="Movies",2 States 2014
 https://www.googleapis.com/drive/v3/files/1EM0FB6BgvsfqSmuR9oYRxVcRywVkxHOE?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="2.0 2018" tvg-logo="https://subdl.com/p/sd78/sd78203.jpg" group-title="Movies",2.0 2018
 https://www.googleapis.com/drive/v3/files/1s8sdPjFso6XvPwrKRK6oGSURc9dXf4oQ?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
@@ -8,367 +8,377 @@ https://www.googleapis.com/drive/v3/files/1s8sdPjFso6XvPwrKRK6oGSURc9dXf4oQ?alt=
 https://www.googleapis.com/drive/v3/files/1-yxgIxFIo9TCeXqP0olcEHDd3N--E3kM?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="3 Bachelors 2012" tvg-logo="https://i.imgur.com/Cq23jQQ.jpg" group-title="Movies",3 Bachelors 2012
 https://www.googleapis.com/drive/v3/files/12qOwROTMMN9NoFpB4rcw53J0BwUsJExx?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="3 Idiots (2009)" tvg-logo="https://i.imgur.com/3ah1kA7.jpg" group-title="Movies",3 Idiots (2009)
+#EXTINF:-1 tvg-id="" tvg-name="3 Idiots 2009" tvg-logo="https://i.imgur.com/3ah1kA7.jpg" group-title="Movies",3 Idiots 2009
 https://www.googleapis.com/drive/v3/files/1F1t0J0zaL0a11-s7j-JNRl29ctWdmXhe?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="3G (2013)" tvg-logo="https://subdl.com/p/sd11/sd11762.jpg" group-title="Movies",3G (2013)
+#EXTINF:-1 tvg-id="" tvg-name="3G 2013" tvg-logo="https://subdl.com/p/sd11/sd11762.jpg" group-title="Movies",3G 2013
 https://www.googleapis.com/drive/v3/files/1weJDPWarjRAJPdUpK3XeAaeN3QiteJZ3?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="5 Ghantey Mein 5 Crore 2012" tvg-logo="https://i.imgur.com/dRboGDW.jpg" group-title="Movies",5 Ghantey Mein 5 Crore 2012
 https://www.googleapis.com/drive/v3/files/1r3yyWus5-vcfkdzmy63PjE13vu414mwj?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="5 Weddings (2018)" tvg-logo="https://subdl.com/p/sd103/sd103335.jpg" group-title="Movies",5 Weddings (2018)
+#EXTINF:-1 tvg-id="" tvg-name="5 Weddings 2018" tvg-logo="https://subdl.com/p/sd103/sd103335.jpg" group-title="Movies",5 Weddings 2018
 https://www.googleapis.com/drive/v3/files/1XFxMYOyovz1iNc_21TpPE5DNPi_dbzsP?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="7 Hours To Go 2016" tvg-logo="https://i.imgur.com/nTtVLg7.jpg" group-title="Movies",7 Hours To Go 2016
 https://www.googleapis.com/drive/v3/files/1bdZuwGOMGZNaiJMCVtnNjLfGgcJsXmQD?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="7 Khoon Maaf (2011)" tvg-logo="https://subdl.com/p/sd24/sd24618.jpg" group-title="Movies",7 Khoon Maaf (2011)
+#EXTINF:-1 tvg-id="" tvg-name="7 Khoon Maaf 2011" tvg-logo="https://subdl.com/p/sd24/sd24618.jpg" group-title="Movies",7 Khoon Maaf 2011
 https://www.googleapis.com/drive/v3/files/1h2gnfz0_nvFN1tWXHB3Yk1RymPc-Ud-C?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="8 X 10 Tasveer (2009)" tvg-logo="https://i.imgur.com/JfiFdaC.jpg" group-title="Movies",8 X 10 Tasveer (2009)
+#EXTINF:-1 tvg-id="" tvg-name="8 X 10 Tasveer 2009" tvg-logo="https://i.imgur.com/JfiFdaC.jpg" group-title="Movies",8 X 10 Tasveer 2009
 https://www.googleapis.com/drive/v3/files/12Wn54dvDP7wIHb5kcn_yA3shpGAmL3hq?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="18.11 A Code Of Secrecy (2014)" tvg-logo="https://i.imgur.com/feNDoNw.jpg" group-title="Movies",18.11 A Code Of Secrecy (2014)
+#EXTINF:-1 tvg-id="" tvg-name="18.11 A Code Of Secrecy 2014" tvg-logo="https://i.imgur.com/feNDoNw.jpg" group-title="Movies",18.11 A Code Of Secrecy 2014
 https://www.googleapis.com/drive/v3/files/1hRo8GcR6CRsp-vcTxkhydtlPQWbdRW89?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="22 Yards (2019)" tvg-logo="https://subdl.com/p/sd368/sd368985.jpg" group-title="Movies",22 Yards (2019)
+#EXTINF:-1 tvg-id="" tvg-name="22 Yards 2019" tvg-logo="https://subdl.com/p/sd368/sd368985.jpg" group-title="Movies",22 Yards 2019
 https://www.googleapis.com/drive/v3/files/1ilpzNtpAk8jo74j4FQfq0J0OBR70HZVy?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="23rd March 1931 Shaheed (2002)" tvg-logo="https://i.imgur.com/CO7Dutq.jpg" group-title="Movies",23rd March 1931 Shaheed (2002)
+#EXTINF:-1 tvg-id="" tvg-name="23rd March 1931 Shaheed 2002" tvg-logo="https://i.imgur.com/CO7Dutq.jpg" group-title="Movies",23rd March 1931 Shaheed 2002
 https://www.googleapis.com/drive/v3/files/11vsERKqxB_f8iZd1_AjzIcDsi_MxrPHW?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="36 China Town (2006)" tvg-logo="https://subdl.com/p/sd39/sd39173.jpg" group-title="Movies",36 China Town (2006)
+#EXTINF:-1 tvg-id="" tvg-name="36 China Town 2006" tvg-logo="https://subdl.com/p/sd39/sd39173.jpg" group-title="Movies",36 China Town 2006
 https://www.googleapis.com/drive/v3/files/1oTNSRCPyoY_FqGQ2bszIry24ocbBPUWB?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="72 Hours Martyr Who Never Died (2019)" tvg-logo="https://subdl.com/p/sd292/sd292633.jpg" group-title="Movies",72 Hours Martyr Who Never Died (2019)
+#EXTINF:-1 tvg-id="" tvg-name="72 Hours Martyr Who Never Died 2019" tvg-logo="https://subdl.com/p/sd292/sd292633.jpg" group-title="Movies",72 Hours Martyr Who Never Died 2019
 https://www.googleapis.com/drive/v3/files/1C30j7T71wOEERYAqP3laZsvX_yobDBHM?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="99 (2009)" tvg-logo="https://subdl.com/p/sd7/sd7598.jpg" group-title="Movies",99 (2009)
+#EXTINF:-1 tvg-id="" tvg-name="99 2009" tvg-logo="https://subdl.com/p/sd7/sd7598.jpg" group-title="Movies",99 2009
 https://www.googleapis.com/drive/v3/files/17ilx2zz31OlCffW1BV7NPMY_lFEoUVVR?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="102 Not Out (2018)" tvg-logo="https://subdl.com/p/sd2/sd2588.jpg" group-title="Movies",102 Not Out (2018)
+#EXTINF:-1 tvg-id="" tvg-name="102 Not Out 2018" tvg-logo="https://subdl.com/p/sd2/sd2588.jpg" group-title="Movies",102 Not Out 2018
 https://www.googleapis.com/drive/v3/files/13UOjfNCS5h1qLQZGYGK4aXaNZJ1__zpR?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="706 (2019)" tvg-logo="https://i.imgur.com/CQif1Js.jpg" group-title="Movies",706 (2019)
+#EXTINF:-1 tvg-id="" tvg-name="706 2019" tvg-logo="https://i.imgur.com/CQif1Js.jpg" group-title="Movies",706 2019
 https://www.googleapis.com/drive/v3/files/11QNxr_kbuMTYTdRIbg5fiax-S6qr83Ba?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="1920 (2008)" tvg-logo="https://i.imgur.com/oedJ7fk.jpg" group-title="Movies",1920 (2008)
+#EXTINF:-1 tvg-id="" tvg-name="1920 2008" tvg-logo="https://i.imgur.com/oedJ7fk.jpg" group-title="Movies",1920 2008
 https://www.googleapis.com/drive/v3/files/1ZmWeQm94pDYKYL4Bbguq9SgOpARuqQEF?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="1920 Evil Returns 2012" tvg-logo="https://i.imgur.com/gw3sAvv.jpg" group-title="Movies",1920 Evil Returns 2012
 https://www.googleapis.com/drive/v3/files/1iBz1JLwB1Nbw3xVmaH6M54j14e1nWOH3?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="1920 London (2016)" tvg-logo="https://i.imgur.com/iC5FXbr.jpg" group-title="Movies",1920 London (2016)
+#EXTINF:-1 tvg-id="" tvg-name="1920 London 2016" tvg-logo="https://i.imgur.com/iC5FXbr.jpg" group-title="Movies",1920 London 2016
 https://www.googleapis.com/drive/v3/files/1rmcj_b9HalHKK-U-IlbYGb90LWjV6dut?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="1921 (2018)" tvg-logo="https://subdl.com/p/sd75/sd75047.jpg" group-title="Movies",1921 (2018)
+#EXTINF:-1 tvg-id="" tvg-name="1921 2018" tvg-logo="https://subdl.com/p/sd75/sd75047.jpg" group-title="Movies",1921 2018
 https://www.googleapis.com/drive/v3/files/1iGlRPdHZXSaDmtyXtoD5qQmW-9Vjz-cV?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="1942 A Love Story (1994)" tvg-logo="https://i.imgur.com/2s15dWj.jpg" group-title="Movies",1942 A Love Story (1994)
+#EXTINF:-1 tvg-id="" tvg-name="1942 A Love Story 1994" tvg-logo="https://i.imgur.com/2s15dWj.jpg" group-title="Movies",1942 A Love Story 1994
 https://www.googleapis.com/drive/v3/files/1XA1hOFJ7duawWVQxW63Fc8glE7IvlcbQ?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="A Flying Jatt (2016)" tvg-logo="https://i.imgur.com/BfRnVUE.jpg" group-title="Movies",A Flying Jatt (2016)
+#EXTINF:-1 tvg-id="" tvg-name="A Flying Jatt 2016" tvg-logo="https://i.imgur.com/BfRnVUE.jpg" group-title="Movies",A Flying Jatt 2016
 https://www.googleapis.com/drive/v3/files/14WHf8CQOGD452g5ICgMYda5BI3GYaT2x?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="A Gentleman (2017)" tvg-logo="https://subdl.com/p/sd18/sd18436.jpg" group-title="Movies",A Gentleman (2017)
+#EXTINF:-1 tvg-id="" tvg-name="A Gentleman 2017" tvg-logo="https://subdl.com/p/sd18/sd18436.jpg" group-title="Movies",A Gentleman 2017
 https://www.googleapis.com/drive/v3/files/1LjwcqSGaK77AQ1mcGdZnFZdONTiceSbK?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="A Scandall (2016)" tvg-logo="https://i.imgur.com/zcEjNLq.jpg" group-title="Movies",A Scandall (2016)
+#EXTINF:-1 tvg-id="" tvg-name="A Scandall 2016" tvg-logo="https://i.imgur.com/zcEjNLq.jpg" group-title="Movies",A Scandall 2016
 https://www.googleapis.com/drive/v3/files/1ETPRwJKPOQ_FErK4zFU-_BN5knIs7NEp?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="A Wednesday 2008" tvg-logo="https://i.imgur.com/g02Mb8j.jpg" group-title="Movies",A Wednesday 2008
 https://www.googleapis.com/drive/v3/files/1kNXVV5x2tdMzOlsFCsAQvp8M8aa39p9X?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aa Ab Laut Chalen (1999)" tvg-logo="https://subdl.com/p/sd22/sd22540.jpg" group-title="Movies",Aa Ab Laut Chalen (1999)
+#EXTINF:-1 tvg-id="" tvg-name="Aa Ab Laut Chalen 1999" tvg-logo="https://subdl.com/p/sd22/sd22540.jpg" group-title="Movies",Aa Ab Laut Chalen 1999
 https://www.googleapis.com/drive/v3/files/1q0-2jWFg3P-yCysH2y-1MOSElXnkHDi-?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="Aa Dekhen Zara 2009" tvg-logo="https://subdl.com/p/sd7/sd7480.jpg" group-title="Movies",Aa Dekhen Zara 2009
 https://www.googleapis.com/drive/v3/files/14BBeaz7pGbDntWcgwKHnQCFMWIH7O5m_?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aadmi Khilona Hai (1993)" tvg-logo="https://i.imgur.com/ZsQANFF.jpg" group-title="Movies",Aadmi Khilona Hai (1993)
+#EXTINF:-1 tvg-id="" tvg-name="Aadmi Khilona Hai 1993" tvg-logo="https://i.imgur.com/ZsQANFF.jpg" group-title="Movies",Aadmi Khilona Hai 1993
 https://www.googleapis.com/drive/v3/files/1O4F8-XyBoatNeJKmJH63Qf-K3vdk8QfF?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aag (1994)" tvg-logo="https://i.imgur.com/JvYQudn.jpg" group-title="Movies",Aag (1994)
+#EXTINF:-1 tvg-id="" tvg-name="Aag 1994" tvg-logo="https://i.imgur.com/JvYQudn.jpg" group-title="Movies",Aag 1994
 https://www.googleapis.com/drive/v3/files/1rvVpcWcVbfVPmwN0-7uu6XpqD93g4GKO?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="Aagey Se Right 2009" tvg-logo="https://subdl.com/p/sd7/sd7510.jpg" group-title="Movies",Aagey Se Right 2009
 https://www.googleapis.com/drive/v3/files/1JilczBl4ukbQ876ucQqCTYwlTmAP8omh?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aaj Ka Arjun (1990)" tvg-logo="https://subdl.com/p/sd217/sd217269.jpg" group-title="Movies",Aaj Ka Arjun (1990)
+#EXTINF:-1 tvg-id="" tvg-name="Aaj Ka Arjun 1990" tvg-logo="https://subdl.com/p/sd217/sd217269.jpg" group-title="Movies",Aaj Ka Arjun 1990
 https://www.googleapis.com/drive/v3/files/1pED3dsrY8Av5HX86WUA2oAn_xKwLBij-?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aaja Nachle (2007)" tvg-logo="https://subdl.com/p/sd235/sd235873.jpg" group-title="Movies",Aaja Nachle (2007)
+#EXTINF:-1 tvg-id="" tvg-name="Aaja Nachle 2007" tvg-logo="https://subdl.com/p/sd235/sd235873.jpg" group-title="Movies",Aaja Nachle 2007
 https://www.googleapis.com/drive/v3/files/1FTEwOfEAmuuMPdlB4miuK1o1gEtIqIbR?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aakhree Raasta (1986)" tvg-logo="https://i.imgur.com/VGjbhDt.jpg" group-title="Movies",Aakhree Raasta (1986)
+#EXTINF:-1 tvg-id="" tvg-name="Aakhree Raasta 1986" tvg-logo="https://i.imgur.com/VGjbhDt.jpg" group-title="Movies",Aakhree Raasta 1986
 https://www.googleapis.com/drive/v3/files/1W00AezkvYM89J2Eye4AfCde-a06g2GHb?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aakhri Adaalat (1988)" tvg-logo="https://occ-0-300-299.1.nflxso.net/art/1939e/b4bd202b7c47bd29bc3be2d8faa39a375481939e.jpg" group-title="Movies",Aakhri Adaalat (1988)
+#EXTINF:-1 tvg-id="" tvg-name="Aakhri Adaalat 1988" tvg-logo="https://occ-0-300-299.1.nflxso.net/art/1939e/b4bd202b7c47bd29bc3be2d8faa39a375481939e.jpg" group-title="Movies",Aakhri Adaalat 1988
 https://www.googleapis.com/drive/v3/files/1q8273W1UddQ-ZYNgZyhA-OgbwE4Ru0p0?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aakrosh (1998)" tvg-logo="https://i.imgur.com/xxlZH77.jpg" group-title="Movies",Aakrosh (1998)
+#EXTINF:-1 tvg-id="" tvg-name="Aakrosh 1998" tvg-logo="https://i.imgur.com/xxlZH77.jpg" group-title="Movies",Aakrosh 1998
 https://www.googleapis.com/drive/v3/files/1maMRbBnjt9A3252HePgPq-dIKL-ZbO4K?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="Aakrosh 2010" tvg-logo="https://subdl.com/p/sd21/sd21901.jpg" group-title="Movies",Aakrosh 2010
 https://www.googleapis.com/drive/v3/files/1TkNJRCO1izwZZlP1daT0OVU3H5hJ8-gO?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="Aamdani Atthanni Kharcha Rupaiya 2001" tvg-logo="https://i.imgur.com/EeNB4us.jpg" group-title="Movies",Aamdani Atthanni Kharcha Rupaiya 2001
 https://www.googleapis.com/drive/v3/files/1rfee-cROrgKWn-I_DW2n6jC0ONrAR0ln?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aamir (2008)" tvg-logo="https://i.imgur.com/PEfeN8K.jpg" group-title="Movies",Aamir (2008)
+#EXTINF:-1 tvg-id="" tvg-name="Aamir 2008" tvg-logo="https://i.imgur.com/PEfeN8K.jpg" group-title="Movies",Aamir 2008
 https://www.googleapis.com/drive/v3/files/1PDY-vj8FqZZ2ejzr2-O6xaBfTu1vVuaF?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="Aan 2004" tvg-logo="https://i.imgur.com/0XqXODA.jpg" group-title="Movies",Aan 2004
 https://www.googleapis.com/drive/v3/files/1Syi-x8euTdcTdLTTAYTyzD72FAJ2fAUg?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="Aanch 2003" tvg-logo="https://i.imgur.com/aeRuSWc.jpg" group-title="Movies",Aanch 2003
 https://www.googleapis.com/drive/v3/files/1111X4eo6fAvjQnHFAbcz6_WL3R3xejMp?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aankhen (1993)" tvg-logo="https://i.imgur.com/n5OE3Rh.jpg" group-title="Movies",Aankhen (1993)
+#EXTINF:-1 tvg-id="" tvg-name="Aankhen 1993" tvg-logo="https://i.imgur.com/n5OE3Rh.jpg" group-title="Movies",Aankhen 1993
 https://www.googleapis.com/drive/v3/files/1TpQQEELwxvkAbLGPnl22VCU8kQspBQus?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="Aankhen 2002" tvg-logo="https://i.imgur.com/GgOh99T.jpg" group-title="Movies",Aankhen 2002
 https://www.googleapis.com/drive/v3/files/1P_9bfhhRj1RHr7VzcI_VojXqT1tvM-uW?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aao Pyaar Karen (1994) " tvg-logo="https://i.imgur.com/9udz1Hx.jpg" group-title="Movies",Aao Pyaar Karen (1994) 
+#EXTINF:-1 tvg-id="" tvg-name="Aao Pyaar Karen 1994" tvg-logo="https://i.imgur.com/9udz1Hx.jpg" group-title="Movies",Aao Pyaar Karen 1994
 https://www.googleapis.com/drive/v3/files/14Gl5Fqrj34F-bP8kiMR_uNaxA5BR2isr?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aao Wish Karein (2009) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/8754941/p8754941_v_v8_aa.jpg" group-title="Movies",Aao Wish Karein (2009)
+#EXTINF:-1 tvg-id="" tvg-name="Aao Wish Karein 2009" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/8754941/p8754941_v_v8_aa.jpg" group-title="Movies",Aao Wish Karein (2009)
 https://www.googleapis.com/drive/v3/files/1bMekPTUyGGudGbEniPQRAggsq4UTBJQl?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aap Ke Saath (1986) " tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/25001-26000/25285.jpg" group-title="Movies",Aap Ke Saath (1986)
+#EXTINF:-1 tvg-id="" tvg-name="Aap Ke Saath 1986" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/25001-26000/25285.jpg" group-title="Movies",Aap Ke Saath (1986)
 https://www.googleapis.com/drive/v3/files/1R0QFK0G7Z5d-3v4Nfnpq2SILHiwJKoos?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aap Ki Khatir (2006) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/179143/p179143_v_v8_ab.jpg" group-title="Movies",Aap Ki Khatir (2006)
+#EXTINF:-1 tvg-id="" tvg-name="Aap Ki Khatir 2006" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/179143/p179143_v_v8_ab.jpg" group-title="Movies",Aap Ki Khatir (2006)
 https://www.googleapis.com/drive/v3/files/1F2FwsHB0NB1cLTWbvjx-GsRAV4zt9EUb?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aap Mujhe Achche Lagne Lage (2002) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/8375417/p8375417_v_v8_ab.jpg" group-title="Movies",Aap Mujhe Achche Lagne Lage (2002)
+#EXTINF:-1 tvg-id="" tvg-name="Aap Mujhe Achche Lagne Lage 2002" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/8375417/p8375417_v_v8_ab.jpg" group-title="Movies",Aap Mujhe Achche Lagne Lage (2002)
 https://www.googleapis.com/drive/v3/files/1xxcwR6XbAz0QbV-I4eFnbQNBUysi1uQL?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aapko Pehle Bhi Kahin Dekha Hai 2003 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Aapko_Pehle_Bhi_Kahin_Dekha_Hai.jpg" group-title="Movies",Aapko Pehle Bhi Kahin Dekha Hai 2003
+#EXTINF:-1 tvg-id="" tvg-name="Aapko Pehle Bhi Kahin Dekha Hai 2003" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Aapko_Pehle_Bhi_Kahin_Dekha_Hai.jpg" group-title="Movies",Aapko Pehle Bhi Kahin Dekha Hai 2003
 https://www.googleapis.com/drive/v3/files/1BZfcTYgUDAGzQ8-ksh8tnmawqB72t_0t?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aarakshan 2011 " tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwMjIxNTEyM15BMl5BanBnXkFtZTcwNjM0Njk5NQ@@._V1_SY1000_CR0,0,697,1000_AL_.jpg" group-title="Movies",Aarakshan 2011
+#EXTINF:-1 tvg-id="" tvg-name="Aarakshan 2011" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwMjIxNTEyM15BMl5BanBnXkFtZTcwNjM0Njk5NQ@@._V1_SY1000_CR0,0,697,1000_AL_.jpg" group-title="Movies",Aarakshan 2011
 https://www.googleapis.com/drive/v3/files/1JwMtwmVHR0_uKyiMTbV56uDNL8zpgn8w?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aarzoo (1999) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/150517/p150517_v_v7_ab.jpg" group-title="Movies",Aarzoo (1999)
+#EXTINF:-1 tvg-id="" tvg-name="Aarzoo 1999" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/150517/p150517_v_v7_ab.jpg" group-title="Movies",Aarzoo 1999
 https://www.googleapis.com/drive/v3/files/1mfzCVnZr3X5f1w7XFEhfGxi2IKeF-SFQ?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aashayein (2010) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/8261149/p8261149_v_v8_aa.jpg" group-title="Movies",Aashayein (2010)
+#EXTINF:-1 tvg-id="" tvg-name="Aashayein 2010" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/8261149/p8261149_v_v8_aa.jpg" group-title="Movies",Aashayein 2010
 https://www.googleapis.com/drive/v3/files/1MxxRgraDyFyLKD7WduyPt9Uh5R5rD3qv?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aashik Aawara 1993 " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/10803537/p10803537_v_v7_aa.jpg" group-title="Movies",Aashik Aawara 1993
+#EXTINF:-1 tvg-id="" tvg-name="Aashik Aawara 1993" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/10803537/p10803537_v_v7_aa.jpg" group-title="Movies",Aashik Aawara 1993
 https://www.googleapis.com/drive/v3/files/11XgRLYJlAOzq9GA4wS6FxWva2ATTRFDi?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aashiq (2001) " tvg-logo="https://subdl.com/p/sd44/sd44101.jpg" group-title="Movies",Aashiq (2001)
+#EXTINF:-1 tvg-id="" tvg-name="Aashiq 2001" tvg-logo="https://subdl.com/p/sd44/sd44101.jpg" group-title="Movies",Aashiq 2001
 https://www.googleapis.com/drive/v3/files/1VaKfS-xe3mi6ybIno_IBwTM-kq4fjU2e?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aashiq Banaya Aapne 2005 " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/182368/p182368_v_v8_aa.jpg" group-title="Movies",Aashiq Banaya Aapne 2005
+#EXTINF:-1 tvg-id="" tvg-name="Aashiq Banaya Aapne 2005" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/182368/p182368_v_v8_aa.jpg" group-title="Movies",Aashiq Banaya Aapne 2005
 https://www.googleapis.com/drive/v3/files/1UY2Yn5drs-fxod6ySh6nS9QiATcrar0U?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="aashiqui (1990) " tvg-logo="https://images.static-bluray.com/products/20/38360_1_front.jpg" group-title="Movies",aashiqui (1990)
+#EXTINF:-1 tvg-id="" tvg-name="aashiqui 1990" tvg-logo="https://images.static-bluray.com/products/20/38360_1_front.jpg" group-title="Movies",aashiqui 1990
 https://www.googleapis.com/drive/v3/files/1HStXa-3mz71NY4hw5MSGIc3VeMIeaw4M?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aashiqui 2 2013 " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/10045117/p10045117_v_v8_ab.jpg" group-title="Movies",Aashiqui 2 2013
+#EXTINF:-1 tvg-id="" tvg-name="Aashiqui 2 2013" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/10045117/p10045117_v_v8_ab.jpg" group-title="Movies",Aashiqui 2 2013
 https://www.googleapis.com/drive/v3/files/1q7IafjmEq154w6UIHu79VCcC62xbsDGn?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aatish (1994) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/138900/p138900_v_v8_aa.jpg" group-title="Movies",Aatish (1994)
+#EXTINF:-1 tvg-id="" tvg-name="Aatish 1994" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/138900/p138900_v_v8_aa.jpg" group-title="Movies",Aatish 1994
 https://www.googleapis.com/drive/v3/files/1pPq3J6Eofbp-WYzz_eTvM4SvBJ26iqKG?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aatma 2013 " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/10193911/p10193911_v_v8_ab.jpg" group-title="Movies",Aatma 2013
+#EXTINF:-1 tvg-id="" tvg-name="Aatma 2013" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/10193911/p10193911_v_v8_ab.jpg" group-title="Movies",Aatma 2013
 https://www.googleapis.com/drive/v3/files/1cyTpPjBnwehKEdRS_hn3LU3_siK37s28?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Ab Ke Baras (2002) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/8152520/p8152520_v_v8_aa.jpg" group-title="Movies",Ab Ke Baras (2002)
+#EXTINF:-1 tvg-id="" tvg-name="Ab Ke Baras 2002" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/8152520/p8152520_v_v8_aa.jpg" group-title="Movies",Ab Ke Baras 2002
 https://www.googleapis.com/drive/v3/files/1fK-1HYpWOVE95JaaB-karx9LvhwaoLBh?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Ab Tak Chhappan (2015) " tvg-logo="https://subdl.com/p/sd385/sd385863.jpg" group-title="Movies",Ab Tak Chhappan (2015)
+#EXTINF:-1 tvg-id="" tvg-name="Ab Tak Chhappan 2015" tvg-logo="https://subdl.com/p/sd385/sd385863.jpg" group-title="Movies",Ab Tak Chhappan 2015
 https://www.googleapis.com/drive/v3/files/1am8l5kSnIMoyCwU4brnNlkAQd-Lvr_jD?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Ab Tak Chhappan (2004) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/11965361/p11965361_v_v8_aa.jpg" group-title="Movies",Ab Tak Chhappan (2004)
+#EXTINF:-1 tvg-id="" tvg-name="Ab Tak Chhappan 2004" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/11965361/p11965361_v_v8_aa.jpg" group-title="Movies",Ab Tak Chhappan 2004
 https://www.googleapis.com/drive/v3/files/1mRMHogtfaFXykHR9hYMQvaWPiBrP8QNr?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="ABCD 2 (2015) " tvg-logo="http://www.filmylover.in/wp-content/uploads/2019/09/ABCD-2-2015-Hindi-Movie.jpg" group-title="Movies",ABCD 2 (2015)
+#EXTINF:-1 tvg-id="" tvg-name="ABCD 2 2015" tvg-logo="http://www.filmylover.in/wp-content/uploads/2019/09/ABCD-2-2015-Hindi-Movie.jpg" group-title="Movies",ABCD 2 2015
 https://www.googleapis.com/drive/v3/files/1waQZ2GWy0N2gTA0Qu4MJjZC6tPqvT-XD?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Accident On Hill Road (2010) " tvg-logo="https://subdl.com/p/sd8/sd8131.jpg" group-title="Movies",Accident On Hill Road (2010)
+#EXTINF:-1 tvg-id="" tvg-name="Accident On Hill Road 2010" tvg-logo="https://subdl.com/p/sd8/sd8131.jpg" group-title="Movies",Accident On Hill Road 2010
 https://www.googleapis.com/drive/v3/files/1KAC8xq1WjBahlxiugmVDbzp8CipQIkjf?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Achanak 1998 " tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY2MWNmNzgtZDNlMS00OGE5LTgyZDMtYzZiZWRjYTY1N2Q2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_SX720_AL_.jpg" group-title="Movies",Achanak 1998
+#EXTINF:-1 tvg-id="" tvg-name="Achanak 1998" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY2MWNmNzgtZDNlMS00OGE5LTgyZDMtYzZiZWRjYTY1N2Q2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_SX720_AL_.jpg" group-title="Movies",Achanak 1998
 https://www.googleapis.com/drive/v3/files/1LLvRGTIVryQBr1xAu7DIMAwnfjlM0Rso?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Acid Factory (2009) " tvg-logo="https://subdl.com/p/sd9/sd9873.jpg" group-title="Movies",Acid Factory (2009)
+#EXTINF:-1 tvg-id="" tvg-name="Acid Factory 2009" tvg-logo="https://subdl.com/p/sd9/sd9873.jpg" group-title="Movies",Acid Factory 2009
 https://www.googleapis.com/drive/v3/files/1GZE-mfJY3weDvwjl0hLrwL85LFSnf1Ho?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Action Jackson (2014) " tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/pRDyorn68uV1VvKf4iRNEwQFkAZ.jpg" group-title="Movies",Action Jackson (2014)
+#EXTINF:-1 tvg-id="" tvg-name="Action Jackson 2014" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/pRDyorn68uV1VvKf4iRNEwQFkAZ.jpg" group-title="Movies",Action Jackson 2014
 https://www.googleapis.com/drive/v3/files/16Ca4QxQKgGshB9GFyR5MCIZ0fVC7gmOQ?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Action Jackson (2014) 1080p " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/11312638/p11312638_v_v8_ac.jpg" group-title="Movies",Action Jackson (2014) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="Action Jackson 2014 1080p" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/11312638/p11312638_v_v8_ac.jpg" group-title="Movies",Action Jackson 2014 1080p
 https://www.googleapis.com/drive/v3/files/11c6RO9tR32WwPhm_mSZnVVs_ZvyhcHS3?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Action Replayy (2010) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/8383846/p8383846_v_v8_ac.jpg" group-title="Movies",Action Replayy (2010)
+#EXTINF:-1 tvg-id="" tvg-name="Action Replayy 2010" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/8383846/p8383846_v_v8_ac.jpg" group-title="Movies",Action Replayy 2010
 https://www.googleapis.com/drive/v3/files/15G_s0OxzgE48ybIrhHvS1hQq0SGL0B4M?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Adalat (1976) " tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRmNjAxYWItOGE1NS00Mjg0LWFjNDMtNmE4MjI2MmU1OTExXkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_.jpg" group-title="Movies",Adalat (1976)
+#EXTINF:-1 tvg-id="" tvg-name="Adalat 1976" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRmNjAxYWItOGE1NS00Mjg0LWFjNDMtNmE4MjI2MmU1OTExXkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_.jpg" group-title="Movies",Adalat 1976
 https://www.googleapis.com/drive/v3/files/1UXoGk_gKlERmvQHBcLOHUcn_VpN70y1-?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="AE DIL HAI MUSHKIL (2016) " tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2017/01/Ae-Dil-Hai-Mushkil-2016dvdplanetstorepk.jpg" group-title="Movies",AE DIL HAI MUSHKIL (2016)
+#EXTINF:-1 tvg-id="" tvg-name="AE DIL HAI MUSHKIL 2016" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2017/01/Ae-Dil-Hai-Mushkil-2016dvdplanetstorepk.jpg" group-title="Movies",AE DIL HAI MUSHKIL 2016
 https://www.googleapis.com/drive/v3/files/1H0LtIGr4yO2iJDtn6Ca35SXRh5546mEp?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aetbaar {2004} " tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Aetbaar.jpg" group-title="Movies",Aetbaar {2004}
+#EXTINF:-1 tvg-id="" tvg-name="Aetbaar 2004" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Aetbaar.jpg" group-title="Movies",Aetbaar 2004
 https://www.googleapis.com/drive/v3/files/1hT4XFZqX_GlsQ_mQje7t77JVClvv8hHd?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aflatoon 1997 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Aflatoon_%28movie_poster%29.jpg/220px-Aflatoon_%28movie_poster%29.jpg" group-title="Movies",Aflatoon 1997
+#EXTINF:-1 tvg-id="" tvg-name="Aflatoon 1997" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Aflatoon_%28movie_poster%29.jpg/220px-Aflatoon_%28movie_poster%29.jpg" group-title="Movies",Aflatoon 1997
 https://www.googleapis.com/drive/v3/files/1bX7mGvS_AodBM17btwMeVHEw7ZjRZUwi?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Afsana Pyar Ka (1991) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/8255472/p8255472_v_v7_aa.jpg" group-title="Movies",Afsana Pyar Ka (1991)
+#EXTINF:-1 tvg-id="" tvg-name="Afsana Pyar Ka 1991" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/8255472/p8255472_v_v7_aa.jpg" group-title="Movies",Afsana Pyar Ka 1991
 https://www.googleapis.com/drive/v3/files/1F3yiGea7VCfW8T9MNdOvBAkA8GA75GEY?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Agent Vinod 2012 " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/9145148/p9145148_v_v8_ae.jpg" group-title="Movies",Agent Vinod 2012
+#EXTINF:-1 tvg-id="" tvg-name="Agent Vinod 2012" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/9145148/p9145148_v_v8_ae.jpg" group-title="Movies",Agent Vinod 2012
 https://www.googleapis.com/drive/v3/files/1n6iHdwQ2e-h5_yO1zAneI4dM7J7kfyRr?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Agneepath (1990) " tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/ukMKHoc6PjCTfjqVClNjWDJZHXA.jpg" group-title="Movies",Agneepath (1990)
+#EXTINF:-1 tvg-id="" tvg-name="Agneepath 1990" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/ukMKHoc6PjCTfjqVClNjWDJZHXA.jpg" group-title="Movies",Agneepath 1990
 https://www.googleapis.com/drive/v3/files/18nY0HVkdSXoqnjVmGd65gSwCGm5TpNY3?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Agneepath 2012 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Agneepath_poster.jpg/220px-Agneepath_poster.jpg" group-title="Movies",Agneepath 2012
+#EXTINF:-1 tvg-id="" tvg-name="Agneepath 2012" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Agneepath_poster.jpg/220px-Agneepath_poster.jpg" group-title="Movies",Agneepath 2012
 https://www.googleapis.com/drive/v3/files/1SIKx66eDT0ZKwdnr8SJ9ZNA9MngD-EiI?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Agni Varsha (2002) " tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/78380/p78380_p_v8_ab.jpg" group-title="Movies",Agni Varsha (2002)
+#EXTINF:-1 tvg-id="" tvg-name="Agni Varsha 2002" tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/78380/p78380_p_v8_ab.jpg" group-title="Movies",Agni Varsha 2002
 https://www.googleapis.com/drive/v3/files/1u94lS_O2B_wxH70CTDaxTo7XRLy3sFvp?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Agyaat 2009 " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/3589983/p3589983_v_v8_aa.jpg" group-title="Movies",Agyaat 2009
+#EXTINF:-1 tvg-id="" tvg-name="Agyaat 2009" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/3589983/p3589983_v_v8_aa.jpg" group-title="Movies",Agyaat 2009
 https://www.googleapis.com/drive/v3/files/1FWW3L_-U5VABN6TmHJ8CvAIFqUTT01mF?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Airlift 2016 " tvg-logo="https://subdl.com/p/sd2/sd2705.jpg" group-title="Movies",Airlift 2016
+#EXTINF:-1 tvg-id="" tvg-name="Airlift 2016" tvg-logo="https://subdl.com/p/sd2/sd2705.jpg" group-title="Movies",Airlift 2016
 https://www.googleapis.com/drive/v3/files/1U6M4N1di-Ekiaww8jj2t7iifTRmiNS5D?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aisha 2010 " tvg-logo="https://subdl.com/p/sd3/sd3490.jpg" group-title="Movies",Aisha 2010
+#EXTINF:-1 tvg-id="" tvg-name="Aisha 2010" tvg-logo="https://subdl.com/p/sd3/sd3490.jpg" group-title="Movies",Aisha 2010
 https://www.googleapis.com/drive/v3/files/1F4vFPzvL-xg3hUSvlWejNL2NxmUB4uZm?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aitraaz 2004 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Aitraaz.jpg/220px-Aitraaz.jpg" group-title="Movies",Aitraaz 2004
+#EXTINF:-1 tvg-id="" tvg-name="Aitraaz 2004" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Aitraaz.jpg/220px-Aitraaz.jpg" group-title="Movies",Aitraaz 2004
 https://www.googleapis.com/drive/v3/files/1w_cN67i5BcI3Epg7N71qbtN2fEJJzzal?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aiyaary 2018 " tvg-logo="https://subdl.com/p/sd6/sd6034.jpg" group-title="Movies",Aiyaary 2018
+#EXTINF:-1 tvg-id="" tvg-name="Aiyaary 2018" tvg-logo="https://subdl.com/p/sd6/sd6034.jpg" group-title="Movies",Aiyaary 2018
 https://www.googleapis.com/drive/v3/files/1q1GqWODkVrqhXIPD06P8Q-5P2qFNQUQl?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aiyyaa 2012 " tvg-logo="https://subdl.com/p/sd13/sd13040.jpg" group-title="Movies",Aiyyaa 2012
+#EXTINF:-1 tvg-id="" tvg-name="Aiyyaa 2012" tvg-logo="https://subdl.com/p/sd13/sd13040.jpg" group-title="Movies",Aiyyaa 2012
 https://www.googleapis.com/drive/v3/files/1PJX2cfsrcM7lMu1QkjEk_YzwK9dSJww7?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Ajab Gazabb Love (2012) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/9531866/p9531866_v_v8_aa.jpg" group-title="Movies",Ajab Gazabb Love (2012)
+#EXTINF:-1 tvg-id="" tvg-name="Ajab Gazabb Love 2012" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/9531866/p9531866_v_v8_aa.jpg" group-title="Movies",Ajab Gazabb Love 2012
 https://www.googleapis.com/drive/v3/files/1g-8mb7tOEMysBDZPGuEMusE-mJUCBwJd?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Ajab Prem Ki Ghazab Kahani (2009) " tvg-logo="https://subdl.com/p/sd2/sd2543.jpg" group-title="Movies",Ajab Prem Ki Ghazab Kahani (2009)
+#EXTINF:-1 tvg-id="" tvg-name="Ajab Prem Ki Ghazab Kahani 2009" tvg-logo="https://subdl.com/p/sd2/sd2543.jpg" group-title="Movies",Ajab Prem Ki Ghazab Kahani 2009
 https://www.googleapis.com/drive/v3/files/1VtzlcOiOCHw2A6xFMKnyop8iBuVU9Tzr?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Ajnabee (2001) " tvg-logo="https://ringostrack.com/bundles/soundtrackindex/img/cover/8870_ajnabee.jpg" group-title="Movies",Ajnabee (2001)
+#EXTINF:-1 tvg-id="" tvg-name="Ajnabee 2001" tvg-logo="https://ringostrack.com/bundles/soundtrackindex/img/cover/8870_ajnabee.jpg" group-title="Movies",Ajnabee 2001
 https://www.googleapis.com/drive/v3/files/12uJEBnpDYuzrkd3pJjcbh_ROa068SO5Q?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Ajay (1996) " tvg-logo="https://subdl.com/p/sd248/sd248924.jpg" group-title="Movies",Ajay (1996)
+#EXTINF:-1 tvg-id="" tvg-name="Ajay 1996" tvg-logo="https://subdl.com/p/sd248/sd248924.jpg" group-title="Movies",Ajay 1996
 https://www.googleapis.com/drive/v3/files/10kB6gxBU6TJ-98rCROUoPlL5f-ce7xaV?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Akaash Vani (2013) " tvg-logo="https://subdl.com/p/sd5/sd5899.jpg" group-title="Movies",Akaash Vani (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Akaash Vani 2013" tvg-logo="https://subdl.com/p/sd5/sd5899.jpg" group-title="Movies",Akaash Vani 2013
 https://www.googleapis.com/drive/v3/files/1PZGQ2-y1BCFvpKOl0Ne_Yns0DfvBspQJ?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Akele Hum Akele Tum (1995) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/178297/p178297_v_v8_aa.jpg" group-title="Movies",Akele Hum Akele Tum (1995)
+#EXTINF:-1 tvg-id="" tvg-name="Akele Hum Akele Tum 1995" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/178297/p178297_v_v8_aa.jpg" group-title="Movies",Akele Hum Akele Tum 1995
 https://www.googleapis.com/drive/v3/files/1MVxACZznc4CNYtoeqxEEybcud8xFZ5nv?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Akhiyon Se Goli Maare 2002 " tvg-logo="https://subdl.com/p/sd23/sd23213.jpg" group-title="Movies",Akhiyon Se Goli Maare 2002
+#EXTINF:-1 tvg-id="" tvg-name="Akhiyon Se Goli Maare 2002" tvg-logo="https://subdl.com/p/sd23/sd23213.jpg" group-title="Movies",Akhiyon Se Goli Maare 2002
 https://www.googleapis.com/drive/v3/files/1s2OJvNekPGbIQljMcDzyPL8JabrPOH9D?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Akira 2016 " tvg-logo="https://subdl.com/p/sd1/sd1100.jpg" group-title="Movies",Akira 2016
+#EXTINF:-1 tvg-id="" tvg-name="Akira 2016" tvg-logo="https://subdl.com/p/sd1/sd1100.jpg" group-title="Movies",Akira 2016
 https://www.googleapis.com/drive/v3/files/1bDwozxCdclU_00lbFlkkP3njAKDSPhM-?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aksar (2006) " tvg-logo="https://subdl.com/p/sd40/sd40360.jpg" group-title="Movies",Aksar (2006)
+#EXTINF:-1 tvg-id="" tvg-name="Aksar 2006" tvg-logo="https://subdl.com/p/sd40/sd40360.jpg" group-title="Movies",Aksar 2006
 https://www.googleapis.com/drive/v3/files/14F2A2TylR4GdTmpHWFej5sohjNwUqxkB?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aladin 2009 " tvg-logo="https://subdl.com/p/sd9/sd9390.jpg" group-title="Movies",Aladin 2009
+#EXTINF:-1 tvg-id="" tvg-name="Aladin 2009" tvg-logo="https://subdl.com/p/sd9/sd9390.jpg" group-title="Movies",Aladin 2009
 https://www.googleapis.com/drive/v3/files/1gJQ2XQH-S9E3F9Aley7DNmbBnKYy3Shd?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Alag 2006 " tvg-logo="https://subdl.com/p/sd217/sd217917.jpg" group-title="Movies",Alag 20069
+#EXTINF:-1 tvg-id="" tvg-name="Alag 2006" tvg-logo="https://subdl.com/p/sd217/sd217917.jpg" group-title="Movies",Alag 2006
 https://www.googleapis.com/drive/v3/files/1Iz3Ty5bo3kmFCmfI1JBRMCoDwOEwTEEH?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Albela (2001) " tvg-logo="https://subdl.com/p/sd264/sd264489.jpg" group-title="Movies",Albela (2001)
+#EXTINF:-1 tvg-id="" tvg-name="Albela 2001" tvg-logo="https://subdl.com/p/sd264/sd264489.jpg" group-title="Movies",Albela 2001
 https://www.googleapis.com/drive/v3/files/1xq8FFSpBnYSTfvRqYQ5jG3cu7fwZ2iiG?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Ali Baba Aur 40 Chor 1980 " tvg-logo="https://cps-static.rovicorp.com/2/Open/Veveo/Ditto/19067954/_derived_jpg_q90_500x500_m0/19067954.jpg" group-title="Movies",Ali Baba Aur 40 Chor 1980
+#EXTINF:-1 tvg-id="" tvg-name="Ali Baba Aur 40 Chor 1980" tvg-logo="https://cps-static.rovicorp.com/2/Open/Veveo/Ditto/19067954/_derived_jpg_q90_500x500_m0/19067954.jpg" group-title="Movies",Ali Baba Aur 40 Chor 1980
 https://www.googleapis.com/drive/v3/files/1xXpn1QSMiN-gqlmb6z2UWM7d-NA-2MPx?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Alibaba Aur 40 Chor (2004) " tvg-logo="https://img.hindimovies.to/thumbnail/A/Alibaba-Aur-40-Chor-2004.jpg" group-title="Movies",Alibaba Aur 40 Chor (2004)
+#EXTINF:-1 tvg-id="" tvg-name="Alibaba Aur 40 Chor 2004" tvg-logo="https://img.hindimovies.to/thumbnail/A/Alibaba-Aur-40-Chor-2004.jpg" group-title="Movies",Alibaba Aur 40 Chor 2004
 https://www.googleapis.com/drive/v3/files/1zm1UV-YcIUKpo0LYpAYrvh_AjvoCxop2?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aligarh 2016 " tvg-logo="https://subdl.com/p/sd66/sd66987.jpg" group-title="Movies",Aligarh 2016
+#EXTINF:-1 tvg-id="" tvg-name="Aligarh 2016" tvg-logo="https://subdl.com/p/sd66/sd66987.jpg" group-title="Movies",Aligarh 2016
 https://www.googleapis.com/drive/v3/files/1HMRDDgSw1sLbGeQ1LcA78uN3ABOGaNlm?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="All is Well (2015) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/12047329/p12047329_v_v8_aa.jpg" group-title="Movies",All is Well (2015)
+#EXTINF:-1 tvg-id="" tvg-name="All is Well 2015" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/12047329/p12047329_v_v8_aa.jpg" group-title="Movies",All is Well 2015
 https://www.googleapis.com/drive/v3/files/1O9ifx2JWZ4EP51d15ijrcUUVXCLnDxao?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="All the Best 2009 " tvg-logo="https://subdl.com/p/sd3/sd3479.jpg" group-title="Movies",All the Best 2009
+#EXTINF:-1 tvg-id="" tvg-name="All the Best 2009" tvg-logo="https://subdl.com/p/sd3/sd3479.jpg" group-title="Movies",All the Best 2009
 https://www.googleapis.com/drive/v3/files/1JFYOd2lE1UY6vSLAJfjOnXWskHwDqVSe?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Alone (2015) " tvg-logo="https://subdl.com/p/sd16/sd16927.jpg" group-title="Movies",Alone (2015)
+#EXTINF:-1 tvg-id="" tvg-name="Alone 2015" tvg-logo="https://subdl.com/p/sd16/sd16927.jpg" group-title="Movies",Alone (2015)
 https://www.googleapis.com/drive/v3/files/1PxVQ78NPHli-CkrkIL0ZaQ-sUuUF1oa1?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Amaanat 1994 " tvg-logo="https://subdl.com/p/sd391/sd391354.jpg" group-title="Movies",Amaanat 1994
+#EXTINF:-1 tvg-id="" tvg-name="Amaanat 1994" tvg-logo="https://subdl.com/p/sd391/sd391354.jpg" group-title="Movies",Amaanat 1994
 https://www.googleapis.com/drive/v3/files/1oGGiLgrawfvJcgLCBE9ZWrYFYA36M_oV?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Amar Akbar Anthony (1977) 544p " tvg-logo="https://subdl.com/p/sd87/sd87822.jpg" group-title="Movies",Amar Akbar Anthony (1977) 544p
+#EXTINF:-1 tvg-id="" tvg-name="Amar Akbar Anthony 1977" tvg-logo="https://subdl.com/p/sd87/sd87822.jpg" group-title="Movies",Amar Akbar Anthony 1977 544p
 https://www.googleapis.com/drive/v3/files/1F0xI7ZaK2_JG7ZQmKNxkHlAbZsyHwKNB?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Amar Akbar Anthony (1977) 1080p " tvg-logo="https://subdl.com/p/sd87/sd87822.jpg" group-title="Movies",Amar Akbar Anthony (1977) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="Amar Akbar Anthony 19771080p" tvg-logo="https://subdl.com/p/sd87/sd87822.jpg" group-title="Movies",Amar Akbar Anthony 1977 1080p
 https://www.googleapis.com/drive/v3/files/1J63EkhDxJu1n4kiVU9iqz9f19YQIpBi0?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Amar Prem 1972 " tvg-logo="https://subdl.com/p/sd74/sd74107.jpg" group-title="Movies",Amar Prem 1972
+#EXTINF:-1 tvg-id="" tvg-name="Amar Prem 1972" tvg-logo="https://subdl.com/p/sd74/sd74107.jpg" group-title="Movies",Amar Prem 1972
 https://www.googleapis.com/drive/v3/files/1ZGXZoENtQQW359kJhhKjAF8pDWoqNlmt?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Amavas (2019) " tvg-logo="https://subdl.com/p/sd256/sd256277.jpg" group-title="Movies",Amavas (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Amavas 2019" tvg-logo="https://subdl.com/p/sd256/sd256277.jpg" group-title="Movies",Amavas 2019
 https://www.googleapis.com/drive/v3/files/1CLJ-sKYZ6nutXRuOF9gO7b8m8sf3i1ic?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Anand (1971) " tvg-logo="https://m.media-amazon.com/images/M/MV5BZTYxNTFmZWItNzdkZC00Y2RhLTgwMzItNWM5ZjI2ZjcwMWFiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,670,1000_AL_.jpg" group-title="Movies",Anand (1971)
+#EXTINF:-1 tvg-id="" tvg-name="Anand 1971" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTYxNTFmZWItNzdkZC00Y2RhLTgwMzItNWM5ZjI2ZjcwMWFiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,670,1000_AL_.jpg" group-title="Movies",Anand 1971
 https://www.googleapis.com/drive/v3/files/1o0_mfI3LTV1048eTrudbGH4uCCTc6DAa?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Anari 1993 " tvg-logo="https://2.bp.blogspot.com/-fnANpxjzMU4/WMlhyn9U6uI/AAAAAAAAA6k/iFaobg13n6MM2iyqHswm6Q7OMN4A9mftgCLcB/s1600/Anari.jpg" group-title="Movies",Anari 1993
+#EXTINF:-1 tvg-id="" tvg-name="Anari 1993" tvg-logo="https://2.bp.blogspot.com/-fnANpxjzMU4/WMlhyn9U6uI/AAAAAAAAA6k/iFaobg13n6MM2iyqHswm6Q7OMN4A9mftgCLcB/s1600/Anari.jpg" group-title="Movies",Anari 1993
 https://www.googleapis.com/drive/v3/files/1cAT22qnSUBZb9bdQb706nX5fEfRXvWUS?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Anari No. 1 1999 " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/14936656/p14936656_v_v8_aa.jpg" group-title="Movies",Anari No. 1 1999
+#EXTINF:-1 tvg-id="" tvg-name="Anari No. 1 1999" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/14936656/p14936656_v_v8_aa.jpg" group-title="Movies",Anari No. 1 1999
 https://www.googleapis.com/drive/v3/files/1RUw-T50pn39iN4llUZIKM3UF3SarWfTv?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Andaaz (2003) " tvg-logo="https://subdl.com/p/sd41/sd41383.jpg" group-title="Movies",Andaaz (2003)
+#EXTINF:-1 tvg-id="" tvg-name="Andaaz 2003" tvg-logo="https://subdl.com/p/sd41/sd41383.jpg" group-title="Movies",Andaaz 2003
 https://www.googleapis.com/drive/v3/files/1qEOTviGp0BLa4TgAo14kEwER2eyptCyF?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Andar Bahar 1984 " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/8177694/p8177694_v_v8_ab.jpg" group-title="Movies",Andar Bahar 1984
+#EXTINF:-1 tvg-id="" tvg-name="Andar Bahar 1984" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/8177694/p8177694_v_v8_ab.jpg" group-title="Movies",Andar Bahar 1984
 https://www.googleapis.com/drive/v3/files/1CFS5YSVkhJ6VHnMIhdxb2vgy3epFF0wL?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Andaz 1994 " tvg-logo="https://subdl.com/movie-posters/a/andaz.154-1201.jpg" group-title="Movies",Andaz 1994
+#EXTINF:-1 tvg-id="" tvg-name="Andaz 1994" tvg-logo="https://subdl.com/movie-posters/a/andaz.154-1201.jpg" group-title="Movies",Andaz 1994
 https://www.googleapis.com/drive/v3/files/1yE2TRaUQxpfd6UauYewXyDjx5bP7pIoh?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Andaz Apna Apna (1994) " tvg-logo="https://subdl.com/p/sd19/sd19622.jpg" group-title="Movies",Andaz Apna Apna (1994)
+#EXTINF:-1 tvg-id="" tvg-name="Andaz Apna Apna 1994" tvg-logo="https://subdl.com/p/sd19/sd19622.jpg" group-title="Movies",Andaz Apna Apna 1994
 https://www.googleapis.com/drive/v3/files/166bvzEt8ndD5WARuzpJ5IcpL67iMr6KP?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Andhaa Kaanoon 1983 " tvg-logo="https://subdl.com/p/sd224/sd224901.jpg" group-title="Movies",Andhaa Kaanoon 1983
+#EXTINF:-1 tvg-id="" tvg-name="Andhaa Kaanoon 1983" tvg-logo="https://subdl.com/p/sd224/sd224901.jpg" group-title="Movies",Andhaa Kaanoon 1983
 https://www.googleapis.com/drive/v3/files/1MuBPxY7DnZlB1hui80pZ0hww-_ulL9sq?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Andhadhun (2018) " tvg-logo="https://subdl.com/p/sd98/sd98438.jpg" group-title="Movies",Andhadhun (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Andhadhun 2018" tvg-logo="https://subdl.com/p/sd98/sd98438.jpg" group-title="Movies",Andhadhun 2018
 https://www.googleapis.com/drive/v3/files/1nfsQajXYDbtk4jiinBvh_o4rWHdswD4X?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Andolan 1995 " tvg-logo="https://subdl.com/p/sd110/sd110691.jpg" group-title="Movies",Andolan 1995
+#EXTINF:-1 tvg-id="" tvg-name="Andolan 1995" tvg-logo="https://subdl.com/p/sd110/sd110691.jpg" group-title="Movies",Andolan 1995
 https://www.googleapis.com/drive/v3/files/1IcJPHb7pxpjSkxUXTtZU1ll_wh0sVTO9?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Anjaam (1994) 544p " tvg-logo="https://subdl.com/p/sd42/sd42617.jpg" group-title="Movies",Anjaam (1994) 544p
+#EXTINF:-1 tvg-id="" tvg-name="Anjaam 1994" tvg-logo="https://subdl.com/p/sd42/sd42617.jpg" group-title="Movies",Anjaam 1994 544p
 https://www.googleapis.com/drive/v3/files/1DvdgiqujOpJt8aYzkHvA865G-nnc38d6?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Anjaana Anjaani 2010 544p " tvg-logo="https://subdl.com/p/sd2/sd2791.jpg" group-title="Movies",Anjaana Anjaani 2010
+#EXTINF:-1 tvg-id="" tvg-name="Anjaana Anjaani 2010" tvg-logo="https://subdl.com/p/sd2/sd2791.jpg" group-title="Movies",Anjaana Anjaani 2010
 https://www.googleapis.com/drive/v3/files/1M6Ddu6CH8LLGhIl_h93eU1A-7_lFZmOm?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Ankahee 2006 " tvg-logo="https://cdn.bollywoodmdb.com/movies/smallthumb/2006/ankahee/poster.jpg" group-title="Movies",Ankahee 2006
+#EXTINF:-1 tvg-id="" tvg-name="Ankahee 2006" tvg-logo="https://cdn.bollywoodmdb.com/movies/smallthumb/2006/ankahee/poster.jpg" group-title="Movies",Ankahee 2006
 https://www.googleapis.com/drive/v3/files/1Cs86mPYZ6ecpZJn_x8qYvmBX-lDz0bEP?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Ankhon Mein Tum Ho 1997 " tvg-logo="https://www.filmlinks4u.is/wp-content/uploads/2010/06/Ankhon-Mein-Tum-Ho-1997-Hindi-Movie-Watch-Online.jpg" group-title="Movies",Ankhon Mein Tum Ho 1997
+#EXTINF:-1 tvg-id="" tvg-name="Ankhon Mein Tum Ho 1997" tvg-logo="https://www.filmlinks4u.is/wp-content/uploads/2010/06/Ankhon-Mein-Tum-Ho-1997-Hindi-Movie-Watch-Online.jpg" group-title="Movies",Ankhon Mein Tum Ho 1997
 https://www.googleapis.com/drive/v3/files/1RjZwv8FbhZu12sTAy0iKQ7IuChWl5K-C?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Anthony Kaun Hai (2006) " tvg-logo="https://subdl.com/movie-posters/a/anthony-kaun-hai.154-20249.jpg" group-title="Movies",Anthony Kaun Hai (2006)
+#EXTINF:-1 tvg-id="" tvg-name="Anthony Kaun Hai 2006" tvg-logo="https://subdl.com/movie-posters/a/anthony-kaun-hai.154-20249.jpg" group-title="Movies",Anthony Kaun Hai 2006
 https://www.googleapis.com/drive/v3/files/1Fj3mMQf2MU5cDV8IbVqLbln9ULSVyXP6?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Apaharan 2005 " tvg-logo="https://subdl.com/p/sd29/sd29982.jpg" group-title="Movies",Apaharan 2005
+#EXTINF:-1 tvg-id="" tvg-name="Apaharan 2005" tvg-logo="https://subdl.com/p/sd29/sd29982.jpg" group-title="Movies",Apaharan 2005
 https://www.googleapis.com/drive/v3/files/1s56eQjBuLUiwzg3tIZ2dVbSlb5YjprYu?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Apna Sapna Money Money (2006) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/165111/p165111_v_v8_aa.jpg" group-title="Movies",Apna Sapna Money Money (2006)
+#EXTINF:-1 tvg-id="" tvg-name="Apna Sapna Money Money 2006" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/165111/p165111_v_v8_aa.jpg" group-title="Movies",Apna Sapna Money Money 2006
 https://www.googleapis.com/drive/v3/files/1i-VCs3X1lv5Ud8xQNh-yZP1PkqOPumVn?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Apne (2007) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/171207/p171207_v_v8_ab.jpg" group-title="Movies",Apne (2007)
+#EXTINF:-1 tvg-id="" tvg-name="Apne 2007" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/171207/p171207_v_v8_ab.jpg" group-title="Movies",Apne 2007
 https://www.googleapis.com/drive/v3/files/1KnQP-mgrMM8OnKoHX3FPrW14d9IFzBrZ?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Apradhi 1992 " tvg-logo="https://i.ebayimg.com/images/g/9wYAAOSwQTVV8DV0/s-l300.jpg" group-title="Movies",Apradhi 1992
+#EXTINF:-1 tvg-id="" tvg-name="Apradhi 1992" tvg-logo="https://i.ebayimg.com/images/g/9wYAAOSwQTVV8DV0/s-l300.jpg" group-title="Movies",Apradhi 1992
 https://www.googleapis.com/drive/v3/files/1aN7yemU8FViJ2NBM3vP7L0FvFNeDCEa9?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aradhana 1969 " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/144132/p144132_v_v8_aa.jpg" group-title="Movies",Aradhana 1969
+#EXTINF:-1 tvg-id="" tvg-name="Aradhana 1969" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/144132/p144132_v_v8_aa.jpg" group-title="Movies",Aradhana 1969
 https://www.googleapis.com/drive/v3/files/1y_kTdpBLmZ0hXM7ij1oDbhBU_kkhFEUZ?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Arjun Pandit (1999) " tvg-logo="https://i.imgur.com/4X0y4vs.jpg" group-title="Movies",Arjun Pandit (1999)
+#EXTINF:-1 tvg-id="" tvg-name="Arjun Pandit 1999" tvg-logo="https://i.imgur.com/4X0y4vs.jpg" group-title="Movies",Arjun Pandit 1999
 https://www.googleapis.com/drive/v3/files/1sovLIT3G_WVXy4JJmZAahndZu2tB6TfA?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Army (1996) " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/ArmySRK.jpg/220px-ArmySRK.jpg" group-title="Movies",Army (1996)
+#EXTINF:-1 tvg-id="" tvg-name="Army 1996" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/ArmySRK.jpg/220px-ArmySRK.jpg" group-title="Movies",Army 1996
 https://www.googleapis.com/drive/v3/files/1R8t0qyJDwg81C3-c5mhwreqUbaFF_UsE?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Article 15 (2019) " tvg-logo="https://subdl.com/p/sd294/sd294152.jpg" group-title="Movies",Article 15 (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Article 15 2019" tvg-logo="https://subdl.com/p/sd294/sd294152.jpg" group-title="Movies",Article 15 2019
 https://www.googleapis.com/drive/v3/files/15E4rUAlq4buII7YwjfjJkZ4-YzDhJkdP?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Asoka (2001) " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Asoka_%282001_film%29.jpg/220px-Asoka_%282001_film%29.jpg" group-title="Movies",Asoka (2001)
+#EXTINF:-1 tvg-id="" tvg-name="Asoka 2001" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Asoka_%282001_film%29.jpg/220px-Asoka_%282001_film%29.jpg" group-title="Movies",Asoka 2001
 https://www.googleapis.com/drive/v3/files/1SWNpwpdbA8E-P8LvGOr09twaKrxsCTvd?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Atithi Tum Kab Jaoge 2010 " tvg-logo="https://cdn.cinematerial.com/p/500x/3upwffwe/atithi-tum-kab-jaoge-indian-movie-poster.jpg?v=1456801937" group-title="Movies",Atithi Tum Kab Jaoge 2010
+#EXTINF:-1 tvg-id="" tvg-name="Atithi Tum Kab Jaoge 2010" tvg-logo="https://cdn.cinematerial.com/p/500x/3upwffwe/atithi-tum-kab-jaoge-indian-movie-poster.jpg?v=1456801937" group-title="Movies",Atithi Tum Kab Jaoge 2010
 https://www.googleapis.com/drive/v3/files/1exk-nYfRRiXq_mFs6jmkQBEXYongN8Id?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aulad (1987) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/10050297/p10050297_v_v8_aa.jpg" group-title="Movies",Aulad (1987)
+#EXTINF:-1 tvg-id="" tvg-name="Aulad 1987" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/10050297/p10050297_v_v8_aa.jpg" group-title="Movies",Aulad 1987
 https://www.googleapis.com/drive/v3/files/1qkB4PLFR7WPiOlmF4KwKJDrqJ8sv-VWq?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aur Pyaar Ho Gaya (1997) " tvg-logo="https://subdl.com/p/sd221/sd221602.jpg" group-title="Movies",Aur Pyaar Ho Gaya (1997)
+#EXTINF:-1 tvg-id="" tvg-name="Aur Pyaar Ho Gaya 1997" tvg-logo="https://subdl.com/p/sd221/sd221602.jpg" group-title="Movies",Aur Pyaar Ho Gaya 1997
 https://www.googleapis.com/drive/v3/files/1R-fEePWy26Ka8gzonykqEOyakGoIU4er?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Aurangzeb 2013 " tvg-logo="https://subdl.com/p/sd170/sd170816.jpg" group-title="Movies",Aurangzeb 2013
+#EXTINF:-1 tvg-id="" tvg-name="Aurangzeb 2013" tvg-logo="https://subdl.com/p/sd170/sd170816.jpg" group-title="Movies",Aurangzeb 2013
 https://www.googleapis.com/drive/v3/files/1hal53u5oux1MmLF_6JiaNlRa1_5C1DvJ?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Auzaar 1997 " tvg-logo="https://subdl.com/p/sd265/sd265801.jpg" group-title="Movies",Auzaar 1997
+#EXTINF:-1 tvg-id="" tvg-name="Auzaar 1997" tvg-logo="https://subdl.com/p/sd265/sd265801.jpg" group-title="Movies",Auzaar 1997
 https://www.googleapis.com/drive/v3/files/1_UklaKYcYGesrhJV2H7Hz-brFn7grqZ1?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Awara Paagal Deewana (2002) " tvg-logo="https://subdl.com/p/sd226/sd226528.jpg" group-title="Movies",Awara Paagal Deewana (2002)
+#EXTINF:-1 tvg-id="" tvg-name="Awara Paagal Deewana 2002" tvg-logo="https://subdl.com/p/sd226/sd226528.jpg" group-title="Movies",Awara Paagal Deewana 2002
 https://www.googleapis.com/drive/v3/files/1pJftYAnKYCKwlkZR-2-Vff86pCeBFvgh?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Awarapan 2007 " tvg-logo="https://subdl.com/p/sd5/sd5932.jpg" group-title="Movies",Awarapan 2007
+#EXTINF:-1 tvg-id="" tvg-name="Awarapan 2007" tvg-logo="https://subdl.com/p/sd5/sd5932.jpg" group-title="Movies",Awarapan 2007
 https://www.googleapis.com/drive/v3/files/1FS1moW3NaMPP4pVhblRZJNKyRUnJfIx8?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Azaan 2011 " tvg-logo="http://3.bp.blogspot.com/-SByFozEaJi0/TpmAMx8owOI/AAAAAAAAIy0/EOZSS2_cb-s/s400/azaan4.jpg" group-title="Movies",Azaan 2011
+#EXTINF:-1 tvg-id="" tvg-name="Azaan 2011" tvg-logo="http://3.bp.blogspot.com/-SByFozEaJi0/TpmAMx8owOI/AAAAAAAAIy0/EOZSS2_cb-s/s400/azaan4.jpg" group-title="Movies",Azaan 2011
 https://www.googleapis.com/drive/v3/files/1adQ4hJlV61gHD7TQTb-u96tAP-r-4wBQ?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Azhar 2016 " tvg-logo="https://subdl.com/p/sd374/sd374570.jpg" group-title="Movies",Azhar 2016
+#EXTINF:-1 tvg-id="" tvg-name="Azhar 2016" tvg-logo="https://subdl.com/p/sd374/sd374570.jpg" group-title="Movies",Azhar 2016
 https://www.googleapis.com/drive/v3/files/1IIPr2y64crdeZOo72ps6cQBvJtmq3tg1?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="B A  Pass 2 (2017) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/15591223/p15591223_v_v8_aa.jpg" group-title="Movies",B A  Pass 2 (2017)
+#EXTINF:-1 tvg-id="" tvg-name="B A  Pass 2 2017" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/15591223/p15591223_v_v8_aa.jpg" group-title="Movies",B A  Pass 2 2017
 https://www.googleapis.com/drive/v3/files/1VUIugaWaVnOP3gmABCxehI_4y4bmZ0tp?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="B A Pass 2012 " tvg-logo="https://subdl.com/p/sd5/sd5350.jpg" group-title="Movies",B A Pass 2012
+#EXTINF:-1 tvg-id="" tvg-name="B A Pass 2012" tvg-logo="https://subdl.com/p/sd5/sd5350.jpg" group-title="Movies",B A Pass 2012
 https://www.googleapis.com/drive/v3/files/144aMHIOqOcld3_98qwYT4Ac4ESRjJhe-?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Baabul 2006 544p " tvg-logo="https://subdl.com/p/sd214/sd214162.jpg" group-title="Movies",Baabul 2006 544p
+#EXTINF:-1 tvg-id="" tvg-name="Baabul 2006 544p" tvg-logo="https://subdl.com/p/sd214/sd214162.jpg" group-title="Movies",Baabul 2006 544p
 https://www.googleapis.com/drive/v3/files/1cdocLyR2nknPurDj0U0LgbsMRJ8jLjf5?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Baabul 2006 320p " tvg-logo="https://subdl.com/p/sd214/sd214162.jpg" group-title="Movies",Baabul 2006 320p
+#EXTINF:-1 tvg-id="" tvg-name="Baabul 2006 320p" tvg-logo="https://subdl.com/p/sd214/sd214162.jpg" group-title="Movies",Baabul 2006 320p
 https://www.googleapis.com/drive/v3/files/15wBI558A4LJ4cp9zA9-4iwLJOT4O3Sg4?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Baabul 2006 1080p " tvg-logo="https://subdl.com/p/sd214/sd214162.jpg" group-title="Movies",Baabul 2006 1080p
+#EXTINF:-1 tvg-id="" tvg-name="Baabul 2006 1080p" tvg-logo="https://subdl.com/p/sd214/sd214162.jpg" group-title="Movies",Baabul 2006 1080p
 https://www.googleapis.com/drive/v3/files/1yvwPMEaVHMLI3HZSh0za8QiMth7iKzVh?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Baadshah (1999) " tvg-logo="https://subdl.com/p/sd28/sd28581.jpg" group-title="Movies",Baadshah (1999)
+#EXTINF:-1 tvg-id="" tvg-name="Baadshah 1999" tvg-logo="https://subdl.com/p/sd28/sd28581.jpg" group-title="Movies",Baadshah 1999
 https://www.googleapis.com/drive/v3/files/1pd2-Zafsu1LZLDyw1bxoTwPsX6Z0-AN-?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Baadshaho (2017)" tvg-logo="https://subdl.com/p/sd18/sd18660.jpg" group-title="Movies",Baadshaho (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Baadshaho 2017" tvg-logo="https://subdl.com/p/sd18/sd18660.jpg" group-title="Movies",Baadshaho 2017
 https://www.googleapis.com/drive/v3/files/1RWj5_tezf0_DyAIUiG9tSSmpxr2cmBKh?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Baaghi (2000)" tvg-logo="https://subdl.com/movie-posters/b/baaghi.154-9811.jpg" group-title="Movies",Baaghi (2000)
+#EXTINF:-1 tvg-id="" tvg-name="Baaghi 2000" tvg-logo="https://subdl.com/movie-posters/b/baaghi.154-9811.jpg" group-title="Movies",Baaghi 2000
 https://www.googleapis.com/drive/v3/files/1K_HCrK7QVSlXFNxoDX1ejTDB2SxaQrp1?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="Baaghi 2 2018" tvg-logo="https://subdl.com/p/sd4/sd4953.jpg" group-title="Movies",Baaghi 2 2018
 https://www.googleapis.com/drive/v3/files/1zcMgsP-B679d8iUFYhuFDd1BOh2utqNz?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Baaghi 1990 " tvg-logo="https://i.pinimg.com/originals/42/a2/fa/42a2fabe810d4f29c410fa18fb31cd1a.jpg" group-title="Movies",Baaghi 1990
+#EXTINF:-1 tvg-id="" tvg-name="Baaghi 1990" tvg-logo="https://i.pinimg.com/originals/42/a2/fa/42a2fabe810d4f29c410fa18fb31cd1a.jpg" group-title="Movies",Baaghi 1990
 https://www.googleapis.com/drive/v3/files/1aAqvX9JaBdhKq_AL8FGMovkKRkJPFM4d?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="Baaghi 2016" tvg-logo="https://subdl.com/p/sd1/sd1745.jpg" group-title="Movies",Baaghi 2016
 https://www.googleapis.com/drive/v3/files/1LeDD3InTDbqGn28p233073Eu0gs1JbkV?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Baahubali (2015) " tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/11546593/p11546593_v_v8_ad.jpg" group-title="Movies",Baahubali (2015) 
+#EXTINF:-1 tvg-id="" tvg-name="Baahubali 2015" tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/11546593/p11546593_v_v8_ad.jpg" group-title="Movies",Baahubali 2015 
 https://www.googleapis.com/drive/v3/files/1YfAgjIXVaXdU6G2d-FPakh7pcMPBFJCu?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Baar Baar Dekho (2016)" tvg-logo="https://subdl.com/p/sd11/sd11033.jpg" group-title="Movies",Baar Baar Dekho (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Baar Baar Dekho 2016" tvg-logo="https://subdl.com/p/sd11/sd11033.jpg" group-title="Movies",Baar Baar Dekho 2016
 https://www.googleapis.com/drive/v3/files/1XkkXzGUpV77zBJjy46gEr_yc4Fr-fo6a?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="baaz 2003 " tvg-logo="https://subdl.com/p/sd214/sd214177.jpg" group-title="Movies",baaz 2003
+#EXTINF:-1 tvg-id="" tvg-name="baaz 2003" tvg-logo="https://subdl.com/p/sd214/sd214177.jpg" group-title="Movies",baaz 2003
 https://www.googleapis.com/drive/v3/files/1fr-uH5iAxwTLnBbCDFRqPbTSclBvrtjE?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Baazaar 2018 " tvg-logo="https://subdl.com/p/sd141/sd141305.jpg" group-title="Movies",Baazaar 2018
+#EXTINF:-1 tvg-id="" tvg-name="Baazaar 2018" tvg-logo="https://subdl.com/p/sd141/sd141305.jpg" group-title="Movies",Baazaar 2018
 https://www.googleapis.com/drive/v3/files/1gGZK2RxUZWd9vgbIRH-wVJoBMvCEsVjQ?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="BAAZI 1995 " tvg-logo="https://subdl.com/p/sd242/sd242584.jpg" group-title="Movies",BAAZI 1995
+#EXTINF:-1 tvg-id="" tvg-name="BAAZI 1995" tvg-logo="https://subdl.com/p/sd242/sd242584.jpg" group-title="Movies",BAAZI 1995
 https://www.googleapis.com/drive/v3/files/13Rmg80F852MNCGJK60wJug5CJe5-5jC1?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Baazigar 1993 " tvg-logo="https://subdl.com/p/sd213/sd213841.jpg" group-title="Movies",Baazigar 1993
+#EXTINF:-1 tvg-id="" tvg-name="Baazigar 1993" tvg-logo="https://subdl.com/p/sd213/sd213841.jpg" group-title="Movies",Baazigar 1993
 https://www.googleapis.com/drive/v3/files/10WqVyQ2UBhovHm4IqlV5xdaOBQLRChNu?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
 #EXTINF:-1 tvg-id="" tvg-name="Babumoshai Bandookbaaz 2017" tvg-logo="https://subdl.com/p/sd132/sd132086.jpg" group-title="Movies",Babumoshai Bandookbaaz 2017
 https://www.googleapis.com/drive/v3/files/1vOPOK6o8xCxXDZuygo3gk2ALRXETT8Sd?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Baby 2015 " tvg-logo="https://subdl.com/p/sd2/sd2260.jpg" group-title="Movies",Baby 2015
+#EXTINF:-1 tvg-id="" tvg-name="Baby 2015" tvg-logo="https://subdl.com/p/sd2/sd2260.jpg" group-title="Movies",Baby 2015
 https://www.googleapis.com/drive/v3/files/1s9IFstVmqcqLlZC9sPEta3BzGhC2ye5J?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Bachke Rehna Re Baba 2005 " tvg-logo="https://subdl.com/p/sd327/sd327916.jpg" group-title="Movies",Bachke Rehna Re Baba 2005
+#EXTINF:-1 tvg-id="" tvg-name="Bachke Rehna Re Baba 2005" tvg-logo="https://subdl.com/p/sd327/sd327916.jpg" group-title="Movies",Bachke Rehna Re Baba 2005
 https://www.googleapis.com/drive/v3/files/1vIHm6aYMSqemLASHfty3pq40kVmzchUX?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Bachna A Haseeno 2008 " tvg-logo="https://i.imgur.com/wq5yPc8.jpg" group-title="Movies",Bachna A Haseeno 2008
+#EXTINF:-1 tvg-id="" tvg-name="Bachna A Haseeno 2008" tvg-logo="https://i.imgur.com/wq5yPc8.jpg" group-title="Movies",Bachna A Haseeno 2008
 https://www.googleapis.com/drive/v3/files/1gRQvsGYrrcTlJa1-QPuTrUbOmqNNAop3?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Badal 2000 " tvg-logo="https://subdl.com/movie-posters/c/change-badal.154-9205.jpg" group-title="Movies",Badal 2000
+#EXTINF:-1 tvg-id="" tvg-name="Badal 2000" tvg-logo="https://subdl.com/movie-posters/c/change-badal.154-9205.jpg" group-title="Movies",Badal 2000
 https://www.googleapis.com/drive/v3/files/1P8IYI-JQB5Qbt2_VW9VEg3G-PR5jVMD0?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Bade Miyan Chote Miyan (1998) " tvg-logo="https://subdl.com/p/sd412/sd412002.jpg" group-title="Movies",Bade Miyan Chote Miyan (1998)
+#EXTINF:-1 tvg-id="" tvg-name="Bade Miyan Chote Miyan 1998" tvg-logo="https://subdl.com/p/sd412/sd412002.jpg" group-title="Movies",Bade Miyan Chote Miyan 1998
 https://www.googleapis.com/drive/v3/files/1JLgkdb6oKAGACBCycf9DfDsIQzaOVcB3?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Bade Miyan Chote Miyan (1998) 1080p " tvg-logo="https://subdl.com/p/sd412/sd412002.jpg" group-title="Movies",Bade Miyan Chote Miyan (1998) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="Bade Miyan Chote Miyan 1998 1080p" tvg-logo="https://subdl.com/p/sd412/sd412002.jpg" group-title="Movies",Bade Miyan Chote Miyan 1998 1080p
 https://www.googleapis.com/drive/v3/files/1rimqL62EgynkfpoAde_tLYEJwUQOqcn7?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Badhaai Ho 2018 1080p " tvg-logo="https://i.imgur.com/NIBWv9t.jpg" group-title="Movies",Badhaai Ho 2018
+#EXTINF:-1 tvg-id="" tvg-name="Badhaai Ho 2018 1080p" tvg-logo="https://i.imgur.com/NIBWv9t.jpg" group-title="Movies",Badhaai Ho 2018
 https://www.googleapis.com/drive/v3/files/17U913m1JaTrwxRfmOnoiQdhLdaaIvmr7?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Badhaai Ho Badhaai 2002 " tvg-logo="https://subdl.com/p/sd27/sd27332.jpg" group-title="Movies",Badhaai Ho Badhaai 2002
+#EXTINF:-1 tvg-id="" tvg-name="Badhaai Ho Badhaai 2002" tvg-logo="https://subdl.com/p/sd27/sd27332.jpg" group-title="Movies",Badhaai Ho Badhaai 2002
 https://www.googleapis.com/drive/v3/files/1ttmRSxnZQtoVDmKJrsEjLm9ZYaxaoxmV?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Badla 2019 " tvg-logo="https://subdl.com/p/sd222/sd222562.jpg" group-title="Movies",Badla 2019
+#EXTINF:-1 tvg-id="" tvg-name="Badla 2019" tvg-logo="https://subdl.com/p/sd222/sd222562.jpg" group-title="Movies",Badla 2019
 https://www.googleapis.com/drive/v3/files/1zBOo0jCCooWNZRYcfddHC4zMOcEdpO9p?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="BADLAPUR 2015 1080p " tvg-logo="https://i.imgur.com/nFRolZd.jpg" group-title="Movies",BADLAPUR 2015 1080p
+#EXTINF:-1 tvg-id="" tvg-name="BADLAPUR 2015 1080p" tvg-logo="https://i.imgur.com/nFRolZd.jpg" group-title="Movies",BADLAPUR 2015 1080p
 https://www.googleapis.com/drive/v3/files/1WtK5UEbySd-V8kurSKavN4TXeHt_nReR?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Badmaash Company 2010 " tvg-logo="https://i.imgur.com/hGzC7Ll.jpg" group-title="Movies",Badmaash Company 2010
+#EXTINF:-1 tvg-id="" tvg-name="Badmaash Company 2010" tvg-logo="https://i.imgur.com/hGzC7Ll.jpg" group-title="Movies",Badmaash Company 2010
 https://www.googleapis.com/drive/v3/files/1ilsFFZt4fc_gYeE_-s_2-BQKW_dH0Cva?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Badmashiyaan 2015 " tvg-logo="https://i.imgur.com/HXFNCBt.jpg" group-title="Movies",Badmashiyaan 2015
+#EXTINF:-1 tvg-id="" tvg-name="Badmashiyaan 2015" tvg-logo="https://i.imgur.com/HXFNCBt.jpg" group-title="Movies",Badmashiyaan 2015
 https://www.googleapis.com/drive/v3/files/13PXGlWv2--Xnk8NEBKDY4HFtLG_N3uFz?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Badrinath Ki Dulhania 2017 1080p " tvg-logo="https://subdl.com/p/sd2/sd2892.jpg" group-title="Movies",Badrinath Ki Dulhania 2017 1080p
+#EXTINF:-1 tvg-id="" tvg-name="Badrinath Ki Dulhania 2017 1080p" tvg-logo="https://subdl.com/p/sd2/sd2892.jpg" group-title="Movies",Badrinath Ki Dulhania 2017 1080p
 https://www.googleapis.com/drive/v3/files/1FYIBiJkc52bxiCO1N0orfEyjBPnG-VYg?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Badrinath Ki Dulhania 2017 " tvg-logo="https://subdl.com/p/sd2/sd2892.jpg" group-title="Movies",Badrinath Ki Dulhania 2017
+#EXTINF:-1 tvg-id="" tvg-name="Badrinath Ki Dulhania 2017" tvg-logo="https://subdl.com/p/sd2/sd2892.jpg" group-title="Movies",Badrinath Ki Dulhania 2017
 https://www.googleapis.com/drive/v3/files/1VTVdfGT0zVCxARdpkhFreL_uA-rOeGEj?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Baghban (2003) 1080p " tvg-logo="https://i.imgur.com/VfqFna7.jpg" group-title="Movies",Baghban (2003) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="Baghban 2003 1080p" tvg-logo="https://i.imgur.com/VfqFna7.jpg" group-title="Movies",Baghban 2003 1080p
 https://www.googleapis.com/drive/v3/files/1MAE4bwdx3P1Dx02Ti9WjlHti5ZGaPESW?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Baghban (2003) " tvg-logo="https://i.imgur.com/VfqFna7.jpg" group-title="Movies",Baghban (2003)
+#EXTINF:-1 tvg-id="" tvg-name="Baghban 2003" tvg-logo="https://i.imgur.com/VfqFna7.jpg" group-title="Movies",Baghban 2003
 https://www.googleapis.com/drive/v3/files/1Yxem_IntD9NIRqWbnxxDx1n7d_rSEVT4?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Bajatey Raho (2013) " tvg-logo="https://i.imgur.com/20AOe1U.jpg" group-title="Movies",Bajatey Raho (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Bajatey Raho 2013" tvg-logo="https://i.imgur.com/20AOe1U.jpg" group-title="Movies",Bajatey Raho 2013
 https://www.googleapis.com/drive/v3/files/1WBOG4SH6wuwVRUU9uhsLUT2GWpQSKT8D?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Bajirao Mastani 2015 " tvg-logo="https://i.imgur.com/uh2HmfJ.jpg" group-title="Movies",Bajirao Mastani 2015
+#EXTINF:-1 tvg-id="" tvg-name="Bajirao Mastani 2015" tvg-logo="https://i.imgur.com/uh2HmfJ.jpg" group-title="Movies",Bajirao Mastani 2015
 https://www.googleapis.com/drive/v3/files/1uWhnk-O9PBDJqGknZtOEcVa55HVT-leM?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Bajirao Mastani 2015 1080p " tvg-logo="https://i.imgur.com/uh2HmfJ.jpg" group-title="Movies",Bajirao Mastani 2015 1080p
+#EXTINF:-1 tvg-id="" tvg-name="Bajirao Mastani 2015 1080p" tvg-logo="https://i.imgur.com/uh2HmfJ.jpg" group-title="Movies",Bajirao Mastani 2015 1080p
 https://www.googleapis.com/drive/v3/files/1a4qoRq53NjmcgHQyb-a6I2VhvfBfrwBZ?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Bajrangi Bhaijaan 2015 1080p " tvg-logo="https://i.imgur.com/StDsmGc.jpg" group-title="Movies",Bajrangi Bhaijaan 2015 1080p
+#EXTINF:-1 tvg-id="" tvg-name="Bajrangi Bhaijaan 2015 1080p" tvg-logo="https://i.imgur.com/StDsmGc.jpg" group-title="Movies",Bajrangi Bhaijaan 2015 1080p
 https://www.googleapis.com/drive/v3/files/11nchJkXqqBeRZYKhACZvTl4I3jIbi-QP?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Balwaan 1992 " tvg-logo="https://i.imgur.com/lDJ2FZc.jpg" group-title="Movies",Balwaan 1992
+#EXTINF:-1 tvg-id="" tvg-name="Balwaan 1992" tvg-logo="https://i.imgur.com/lDJ2FZc.jpg" group-title="Movies",Balwaan 1992
 https://www.googleapis.com/drive/v3/files/1U5GfgZYH4OZJcpPuyBVGGezg4-d5RKwJ?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Band Baaja Baaraat (2010) " tvg-logo="https://i.imgur.com/cMjitNh.jpg" group-title="Movies",Band Baaja Baaraat (2010)
+#EXTINF:-1 tvg-id="" tvg-name="Banajran 1991" tvg-logo="https://i.imgur.com/y9MoM5i.jpg" group-title="Movies",Banajran 1991
+https://www.googleapis.com/drive/v3/files/1S7ZPZl45ciXVaHj0ZUO5JDrNmo077_l4?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
+#EXTINF:-1 tvg-id="" tvg-name="Band Baaja Baaraat 2010" tvg-logo="https://i.imgur.com/cMjitNh.jpg" group-title="Movies",Band Baaja Baaraat 2010
 https://www.googleapis.com/drive/v3/files/1Ml9OLvqOHROoL-SwbIINZ_jJq7xTY6bW?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="House Arrest 2019 " tvg-logo="https://subdl.com/p/sd388/sd388537.jpg" group-title="Movies",House Arrest 2019
+#EXTINF:-1 tvg-id="" tvg-name="Bandhan 1998 480p" tvg-logo="https://i.imgur.com/SVa4RfE.jpg" group-title="Movies",Bandhan 1998 480p
+https://www.googleapis.com/drive/v3/files/14cMcAdh2O5SmmVT3LE0R5FxS4G8YUXeP?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
+#EXTINF:-1 tvg-id="" tvg-name="Bandit Queen 1994" tvg-logo="https://i.imgur.com/HD9xtgh.jpg" group-title="Movies",Bandit Queen 1994
+https://www.googleapis.com/drive/v3/files/1u0kqLZK-6yE4qYKR7Z7vRqg0fAWcVhdy?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
+#EXTINF:-1 tvg-id="" tvg-name="Bandook 2013" tvg-logo="https://i.imgur.com/aVGAAaa.jpg" group-title="Movies",Bandook 2013
+https://www.googleapis.com/drive/v3/files/1Hwk6vuR0w0qT-AiSxu4_EE2csuZ0qe3g?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
+#EXTINF:-1 tvg-id="" tvg-name="Bang Bang 2014 544p" tvg-logo="https://i.imgur.com/t0J7jln.jpg" group-title="Movies",Bang Bang 2014 544p
+https://www.googleapis.com/drive/v3/files/1BS2GDJ-4oRPL-KrvM59tSyJuibaCqgnl?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
+#EXTINF:-1 tvg-id="" tvg-name="House Arrest 2019" tvg-logo="https://subdl.com/p/sd388/sd388537.jpg" group-title="Movies",House Arrest 2019
 https://www.googleapis.com/drive/v3/files/1kA5RCi5m6nxXf402X7odY2sEgM8xoGLs?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Housefull 4 (2019) " tvg-logo="https://i.imgur.com/tM8D3Qx.jpg" group-title="Movies",Housefull 4 (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Housefull 4 2019" tvg-logo="https://i.imgur.com/tM8D3Qx.jpg" group-title="Movies",Housefull 4 2019
 https://www.googleapis.com/drive/v3/files/17lZHDnO4z8i6Nc1IQIS_xZkj7Kbd7Nb6?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="Raja Hindustani 1996 " tvg-logo="https://subdl.com/p/sd13/sd13563.jpg" group-title="Movies",Raja Hindustani 1996
+#EXTINF:-1 tvg-id="" tvg-name="Raja Hindustani 1996" tvg-logo="https://subdl.com/p/sd13/sd13563.jpg" group-title="Movies",Raja Hindustani 1996
 https://www.googleapis.com/drive/v3/files/1O1NqhEmjQkl-mopGV57hDTznU4ocxiUE?alt=media&key=AIzaSyC78JM-sgGyD9rOmI7pN-c-ICy5enWMor4
-#EXTINF:-1 tvg-id="" tvg-name="2 Fast 2 Furious (2003)" tvg-logo="https://i.imgur.com/92FZYXp.jpg" group-title="Movies",2 Fast 2 Furious (2003)
+#EXTINF:-1 tvg-id="" tvg-name="2 Fast 2 Furious 2003" tvg-logo="https://i.imgur.com/92FZYXp.jpg" group-title="Movies",2 Fast 2 Furious 2003
 http://uzzy.club:27373/movie/u26174/ersfw/5429.mp4
