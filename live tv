@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:164,Lado Rani (2018) - 1 - Lado Rani (128 Kbps) -  DownloadMing.SE
-..\Music\1\01 - Lado Rani (128 Kbps) - DownloadMing.SE.mp3
-#EXTINF:329,Raaz -The Mystery Continues - MyMp3Singer.com -  - 01 - Maahi-(MyMp3Singer.com)
-..\Music\2\01 - Maahi-(MyMp3Singer.net).mp3
-#EXTINF:269,Ae Dil Hai Mushkil - Title Track (Ae Dil Hai Mushkil) - SongsMp3.Net - 1 - Ae Dil Hai Mushkil Title Track (Ae Dil Hai Mushkil) - SongsMp3.Net
-..\Music\2\01 Ae Dil Hai Mushkil - Title Track (Ae Dil Hai Mushkil) (SongsMp3.Com).mp3
+#EXTINF:-1 movieg-id="" movieg-name="UKe: ======= ENTERTAINMENT =======" movieg-logo="" group-title="UK.Entertainment",UKe: ======= ENTERTAINMENT =======
+#EXTINF:-1 tvg-id="" tvg-name="2 States 2014" tvg-logo="https://subdl.com/p/sd2/sd2611.jpg" group-title="Movies",2 States 2014
+https://www.googleapis.com/drive/v3/files/1sPcGXd4xIxLYB_7_FLggIIOhJ08rq3uF?alt=media&key=AIzaSyBrMvXdNmcA-SJgwVHmI0yp-6a6GQ4U9bo
+#EXTINF:-1 tvg-id="" tvg-name="2 Fast 2 Furious 2003" tvg-logo="https://i.imgur.com/92FZYXp.jpg" group-title="Movies",2 Fast 2 Furious 2003
+http://uzzy.club:27373/movie/u26174/ersfw/5429.mp4
