@@ -814,3 +814,5 @@ EXTINF:-1 tvg-id="" tvg-name="Vaah Life Ho Toh Aisi 2005 816p" tvg-logo="https:/
 https://www.googleapis.com/drive/v3/files/1pV3-zax7dN36Q-QLQRVM1EGHFgRaLVC9?alt=media&key=AIzaSyBrMvXdNmcA-SJgwVHmI0yp-6a6GQ4U9bo
 #EXTINF:-1 tvg-id="" tvg-name="2 Fast 2 Furious 2003" tvg-logo="https://i.imgur.com/92FZYXp.jpg" group-title="Movies",2 Fast 2 Furious 2003
 http://uzzy.club:27373/movie/u26174/ersfw/5429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 States 2014" tvg-logo="https://subdl.com/p/sd2/sd2611.jpg" group-title="Movies",2 States 2014
+http://localhost/wordpress/wp-content/uploads/2020/02/2-States-2014.avi
