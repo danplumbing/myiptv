@@ -10,6 +10,8 @@ https://www.googleapis.com/drive/v3/files/1r0AU0M6AOPPtWL88rhTMFsdUpYrNoKRy?alt=
 https://www.googleapis.com/drive/v3/files/1XUMsPHatfWFEYDKMRRZmfHiOFjpF42PT?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="Ghost 2019 544p" tvg-logo="https://i.imgur.com/QmczUNP.jpg" group-title="Movies",Ghost 2019 544p
 https://www.googleapis.com/drive/v3/files/1VXrkCPSOwH-81oejauQ2UzFUpkF_FVpl?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji The Next Level 2019 1080p" tvg-logo="https://i.imgur.com/Eg2I8IC.jpg" group-title="Movies",Jumanji The Next Level 2019 1080p
+https://www.googleapis.com/drive/v3/files/1orQUgij6ZuWMnTndSfHLRXz8kLFPdl6R?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="Mardaani 2 2019 800p" tvg-logo="https://i.imgur.com/EWvF0t1.jpg" group-title="Movies",Mardaani 2 2019 800p
 https://www.googleapis.com/drive/v3/files/1WNVAyGFcDC5IVL7FUBL7NDPSi5DJjJka?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="Pal Pal Dil Ke Paas 2019 1080p" tvg-logo="https://i.imgur.com/hDZ6NCM.jpg" group-title="Movies",Pal Pal Dil Ke Paas 2019 1080p
