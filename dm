@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
-#EXTINF:-1 tvg-id="" tvg-name="Dil Se 1998 720p" tvg-logo="https://i.imgur.com/QmczUNP.jpg" group-title="Movies",Dil Se 1998 720p
+#EXTINF:-1 tvg-id="" tvg-name="Dil Se 1998 720p" tvg-logo="https://i.imgur.com/YxS8GER.jpg" group-title="Movies",Dil Se 1998 720p
 https://www.googleapis.com/drive/v3/files/1HUldRq3ngdOxZwdb93fE6sGZDkNm41RT?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="Dil Tera Aashiq 1993 1080p" tvg-logo="https://i.imgur.com/9KXjXiT.jpg" group-title="Movies",Dil Tera Aashiq 1993 1080p
 https://www.googleapis.com/drive/v3/files/1FDVZ8Ub8uqqVJiLxi0FIIUqfBbMNtcJy?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
