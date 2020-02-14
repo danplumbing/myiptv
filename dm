@@ -13,7 +13,7 @@ https://www.googleapis.com/drive/v3/files/1XUMsPHatfWFEYDKMRRZmfHiOFjpF42PT?alt=
 #EXTINF:-1 tvg-id="" tvg-name="Ghost 2019 544p" tvg-logo="https://i.imgur.com/QmczUNP.jpg" group-title="Movies",Ghost 2019 544p
 https://www.googleapis.com/drive/v3/files/1VXrkCPSOwH-81oejauQ2UzFUpkF_FVpl?alt=media&key=AIzaSyBrMvXdNmcA-SJgwVHmI0yp-6a6GQ4U9bo
 #EXTINF:-1 tvg-id="" tvg-name="Jumanji The Next Level 2019 1080p" tvg-logo="https://i.imgur.com/Eg2I8IC.jpg" group-title="Movies",Jumanji The Next Level 2019 1080p
-https://doc-08-18-docs.googleusercontent.com/docs/securesc/bsfd6e76am5dr0vudrjng2ls0dfm828b/s325qi9cokr5nt2i16tj98fefboe2c4o/1581708600000/03580870193856066687/03580870193856066687/1orQUgij6ZuWMnTndSfHLRXz8kLFPdl6R?e=download&authuser=0&nonce=k69i6nn3bev60&user=03580870193856066687&hash=1nusa5d69pcflhb84pjgof5cg95nedu2
+https://firebasestorage.googleapis.com/v0/b/lucid-box-239407.appspot.com/o/1Feb.2020%2F3%2Fjumanji2%2FJumanji.The.Next.Level.2019.HDRip.1080p.Hindi.English.MoviezFlix.co.in.mkv?alt=media&token=6d57f1cb-20d9-4c56-86c1-7f0822514b9c
 #EXTINF:-1 tvg-id="" tvg-name="Mardaani 2 2019 800p" tvg-logo="https://i.imgur.com/EWvF0t1.jpg" group-title="Movies",Mardaani 2 2019 800p
 https://www.googleapis.com/drive/v3/files/1WNVAyGFcDC5IVL7FUBL7NDPSi5DJjJka?alt=media&key=AIzaSyBrMvXdNmcA-SJgwVHmI0yp-6a6GQ4U9bo
 #EXTINF:-1 tvg-id="" tvg-name="Pal Pal Dil Ke Paas 2019 1080p" tvg-logo="https://i.imgur.com/hDZ6NCM.jpg" group-title="Movies",Pal Pal Dil Ke Paas 2019 1080p
