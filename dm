@@ -13,7 +13,7 @@ https://www.googleapis.com/drive/v3/files/1XUMsPHatfWFEYDKMRRZmfHiOFjpF42PT?alt=
 #EXTINF:-1 tvg-id="" tvg-name="Dishoom 2016" tvg-logo="https://i.imgur.com/S8HqJob.jpg" group-title="Movies",Dishoom 2016
 https://s6.uppom.live/d/x5r6y2rkbgeyf3tkbaojpkajf44xfrmoeozx2xlkhark6agwxbapqpprdcx6guffpqs5wn3j/Dishoom_2016_www.9kmovies.red_Hindi_Movie_1080p_HDRip_1.5GB.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ghost 2019 544p" tvg-logo="https://i.imgur.com/QmczUNP.jpg" group-title="Movies",Ghost 2019 544p
-https://www.googleapis.com/drive/v3/files/1VXrkCPSOwH-81oejauQ2UzFUpkF_FVpl?alt=media&key=AIzaSyBrMvXdNmcA-SJgwVHmI0yp-6a6GQ4U9bo
+http://z74z.filecdn.pw/70e81e1389534d9f?download_token=828cbf22042780175998cf812b96e8ba38ec64476898f2386ad5b07dcea82e0d
 #EXTINF:-1 tvg-id="" tvg-name="Jumanji The Next Level 2019 1080p" tvg-logo="https://i.imgur.com/Eg2I8IC.jpg" group-title="Movies",Jumanji The Next Level 2019 1080p
 https://firebasestorage.googleapis.com/v0/b/lucid-box-239407.appspot.com/o/1Feb.2020%2F3%2Fjumanji2%2FJumanji.The.Next.Level.2019.HDRip.1080p.Hindi.English.MoviezFlix.co.in.mkv?alt=media&token=6d57f1cb-20d9-4c56-86c1-7f0822514b9c
 #EXTINF:-1 tvg-id="" tvg-name="Mardaani 2 2019 800p" tvg-logo="https://i.imgur.com/EWvF0t1.jpg" group-title="Movies",Mardaani 2 2019 800p
