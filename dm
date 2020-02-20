@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
+#EXTINF:-1 tvg-id="" tvg-name="2.0 (2018)" tvg-logo="https://subdl.com/p/sd78/sd78203.jpg" group-title="Movies",2.0 (2018)
+http://silver01.clicknupload.net:8080/d/wg55dykrlvyd7tr7xpen752bdiuq74tdqofny4nuzmf2qnfjuzu2o4ie3gnfysnyh5f5ommh/2.0%20(2018)%20Hindi%20Movie%20www.9kmovies.vip%201080p%20HDRip%202GB.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dabangg 3 2019" tvg-logo="https://i.imgur.com/E1xqEjl.jpg" group-title="Movies",Dabangg 3 2019
 http://ups23.uplod.xyz:182/d/hogdwotxgezbbbdanxpwk6pitvp2r2fvuo5fnwyh4qt435ydr2lkcmmutizcd3nqjcbnhwk6/Dabangg%203%20(2019)%20Hindi%20Movie%20www.9kmovies.red%201080p%20HDRip%202.7GB%20ESubs.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dil Se 1998 720p" tvg-logo="https://i.imgur.com/YxS8GER.jpg" group-title="Movies",Dil Se 1998 720p
@@ -32,3 +34,5 @@ https://www.googleapis.com/drive/v3/files/1LHwNjcqo7QmCuohvvdfMDmlgpKq9SaHE?alt=
 http://ups23.uplod.xyz:182/d/hoghyldxgezbbbdantpww5f7rhgooyg5nn6i5c4nd5mkxjdjayp4yafdfavgtpzqn2cosgtq/War%202019%20www.9kmovies.red%20Hindi%20Movie%201080p%20BluRay%202.3GB.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yeh Suhaag Raat Impossible 2019 1080p" tvg-logo="https://i.imgur.com/NPzQFhf.jpg" group-title="Movies",Yeh Suhaag Raat Impossible 2019 1080p
 http://ups27.uplod.xyz:182/d/gsgaqo3xgezbbbdanxpxu3xkqlzxfwddw47rm5oihax46nwm5vwhl7prvs4idd3vstt55geg/Yeh%20Suhaag%20Raat%20Impossible%202019%20www.9kmovies.red%20Hindi%20Movie%201080p%20HDRip%201.2GB.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Street Dancer 3D (2020)" tvg-logo="https://subdl.com/p/sd510/sd510807.jpg" group-title="Movies",Street Dancer 3D (2020)
+http://ups24.uplod.xyz:182/d/hkgjsitxgezbbbdantpwaz77qcj77ab6xknoq6w67s4liepv5k2eck2c2x6ygo4u7nipgmio/Street%20Dancer%203D%20(2020)%20www.9kmovies.xyz%20Hindi%20Movie%20720p%20pDVDRip%201.2GB.mkv
