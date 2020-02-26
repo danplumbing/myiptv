@@ -1,7 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
+#EXTINF:-1 tvg-id="" tvg-name="2 States 2014" tvg-logo="https://subdl.com/p/sd2/sd2611.jpg" group-title="Movies",2 States 2014
+https://www.googleapis.com/drive/v3/files/1N5BxB9-JtztFAqaD5gcUea3avSThTqjl?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="2.0 (2018)" tvg-logo="https://subdl.com/p/sd78/sd78203.jpg" group-title="Movies",2.0 (2018)
-http://silver01.clicknupload.net:8080/d/wg55dykrlvyd7tr7xpen752bdiuq74tdqofny4nuzmf2qnfjuzu2o4ie3gnfysnyh5f5ommh/2.0%20(2018)%20Hindi%20Movie%20www.9kmovies.vip%201080p%20HDRip%202GB.mkv
+https://www.googleapis.com/drive/v3/files/1Zc_zQ0L_Ku2_3JxTZIa76rixf7aHGZwG?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="3 AM 2014" tvg-logo="https://i.imgur.com/PJ5Y1DS.jpg" group-title="Movies",3 AM 2014
+https://www.googleapis.com/drive/v3/files/14Sn_GlbV5UscnlOugt8QzJLAFaiFiROH?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="3 Bachelors 2012" tvg-logo="https://i.imgur.com/Cq23jQQ.jpg" group-title="Movies",3 Bachelors 2012
+https://www.googleapis.com/drive/v3/files/1CO7_szo1WHB-RW8vlP1JuNwKEu-Rz_Y_?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="3 Idiots 2009" tvg-logo="https://i.imgur.com/3ah1kA7.jpg" group-title="Movies",3 Idiots 2009
+https://www.googleapis.com/drive/v3/files/11hVs3coZQymlMxDhC02b7spFNbE-SLpG?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="3G 2013" tvg-logo="https://subdl.com/p/sd11/sd11762.jpg" group-title="Movies",3G 2013
+https://www.googleapis.com/drive/v3/files/1hs8v4kfWdGxVY7Mzf0ZS9tSWAcFTMJK6?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="5 Ghantey Mein 5 Crore 2012" tvg-logo="https://i.imgur.com/dRboGDW.jpg" group-title="Movies",5 Ghantey Mein 5 Crore 2012
+https://www.googleapis.com/drive/v3/files/1IHg2cTFuiA1iIEseNX4HUizM5N4HVp7F?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="5 Weddings 2018" tvg-logo="https://subdl.com/p/sd103/sd103335.jpg" group-title="Movies",5 Weddings 2018
+https://www.googleapis.com/drive/v3/files/1GxXMr_CDwW7z-gwymAM5jxfxFerOX5ou?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="7 Hours To Go 2016" tvg-logo="https://i.imgur.com/nTtVLg7.jpg" group-title="Movies",7 Hours To Go 2016
+https://www.googleapis.com/drive/v3/files/1tIH2FgX1lCxe7XRDTLaJgDFRhb-P9pxr?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="7 Khoon Maaf 2011" tvg-logo="https://subdl.com/p/sd24/sd24618.jpg" group-title="Movies",7 Khoon Maaf 2011
+https://www.googleapis.com/drive/v3/files/1kkjHo0BEq8HzwWWhntvc1bVHdZGllV-m?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="8 X 10 Tasveer 2009" tvg-logo="https://i.imgur.com/JfiFdaC.jpg" group-title="Movies",8 X 10 Tasveer 2009
+https://www.googleapis.com/drive/v3/files/1bMyYWSHKh1qjIDMfvGyfHzAfr6mLY9Fl?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="13B 2009" tvg-logo="https://i.imgur.com/VH8LGs2.jpg" group-title="Movies",13B 2009
+https://www.googleapis.com/drive/v3/files/1Zcy79t2tbRUvSQxvb58a40fUz_0bh-Z-?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="18.11 A Code Of Secrecy 2014" tvg-logo="https://i.imgur.com/feNDoNw.jpg" group-title="Movies",18.11 A Code Of Secrecy 2014
+https://www.googleapis.com/drive/v3/files/1OdPStiDOLgrpMhsrRqCoAkQ9IFQVo6xs?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="22 Yards 2019" tvg-logo="https://subdl.com/p/sd368/sd368985.jpg" group-title="Movies",22 Yards 2019
+https://www.googleapis.com/drive/v3/files/1IKv_liDgW33BR6xgt3QMEG5I12K-v5UV?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="Dabangg 3 2019" tvg-logo="https://i.imgur.com/E1xqEjl.jpg" group-title="Movies",Dabangg 3 2019
 http://ups23.uplod.xyz:182/d/hogdwotxgezbbbdanxpwk6pitvp2r2fvuo5fnwyh4qt435ydr2lkcmmutizcd3nqjcbnhwk6/Dabangg%203%20(2019)%20Hindi%20Movie%20www.9kmovies.red%201080p%20HDRip%202.7GB%20ESubs.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dil Se 1998 720p" tvg-logo="https://i.imgur.com/YxS8GER.jpg" group-title="Movies",Dil Se 1998 720p
