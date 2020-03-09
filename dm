@@ -21,7 +21,7 @@ https://www.googleapis.com/drive/v3/files/1tIH2FgX1lCxe7XRDTLaJgDFRhb-P9pxr?alt=
 #EXTINF:-1 tvg-id="" tvg-name="7 Khoon Maaf 2011" tvg-logo="https://subdl.com/p/sd24/sd24618.jpg" group-title="Movies",7 Khoon Maaf 2011
 https://www.googleapis.com/drive/v3/files/1kkjHo0BEq8HzwWWhntvc1bVHdZGllV-m?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="8 X 10 Tasveer 2009" tvg-logo="https://i.imgur.com/JfiFdaC.jpg" group-title="Movies",8 X 10 Tasveer 2009
-https://www.googleapis.com/drive/v3/files/1bMyYWSHKh1qjIDMfvGyfHzAfr6mLY9Fl?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+file:///D:/sub/102%20Not%20Out%20(2018).mp4
 #EXTINF:-1 tvg-id="" tvg-name="13B 2009" tvg-logo="https://i.imgur.com/VH8LGs2.jpg" group-title="Movies",13B 2009
 https://www.googleapis.com/drive/v3/files/1Zcy79t2tbRUvSQxvb58a40fUz_0bh-Z-?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="18.11 A Code Of Secrecy 2014" tvg-logo="https://i.imgur.com/feNDoNw.jpg" group-title="Movies",18.11 A Code Of Secrecy 2014
