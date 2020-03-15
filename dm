@@ -51,7 +51,9 @@ https://www.googleapis.com/drive/v3/files/1sV3a2-PT5pUpU7WRTJ3s5OeiM6_KALV_?alt=
 #EXTINF:-1 tvg-id="" tvg-name="Pal Pal Dil Ke Paas 2019 1080p" tvg-logo="https://i.imgur.com/hDZ6NCM.jpg" group-title="Movies",Pal Pal Dil Ke Paas 2019 1080p
 https://www.googleapis.com/drive/v3/files/1erefJOwMoKOf2yURoZdC_a_n1OYwy-2Q?alt=media&key=AIzaSyBrMvXdNmcA-SJgwVHmI0yp-6a6GQ4U9bo
 #EXTINF:-1 tvg-id="" tvg-name="Panipat 2019" tvg-logo="https://i.imgur.com/CKO0cZQ.jpg" group-title="Movies",Panipat 2019
-http://ups27.uplod.xyz:182/d/gsgkoo3xgezbbbdanxpws477rinhufdqjuj66h53gmkcfgpwnnduh3af7owwpotvgcy4fre5/Panipat%202019%20www.9kmovies.red%20Hindi%20Movie%20720p%20HDRip%201.1GB%20ESubs.mkv
+https://f70.megaup.net/3wLuw/Panipat_2019_www.9kmovies.red_Hindi_Movie_720p_HDRip_1.1GB_ESubs.mkv?download_token=74359ccd9dead43689f5be907397760eac2ddace346c163adfbffeae0c4daa55
+#EXTINF:-1 tvg-id="" tvg-name="Panipat 2019 1080p" tvg-logo="https://i.imgur.com/CKO0cZQ.jpg" group-title="Movies",Panipat 2019 1080p
+http://s7.cz7.org:182/d/v3daidkbmyu4ayhb4jsrrdtec5ubx7h5dagmn2dn5tyru474ednomqv5yk2hzl6sy4witv3m/Panipat%202019%20[Worldfree4u.Vin]%20[Hindi]%201080p%20HDRip%20x264%20AAC%20ESub.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pati Patni Aur Woh 2019" tvg-logo="https://i.imgur.com/0aJ4dHP.jpg" group-title="Movies",Pati Patni Aur Woh 2019
 http://ups24.uplod.xyz:182/d/hkggqldxgezbbbdantptu2pty32g4k4qzwhwyhf47octs55lodqof7roifxra7wze4dvqqve/Pati%20Patni%20Aur%20Woh%202019%20www.9kmovies.red%20Hindi%20Movie%201080p%20HDRip%202.3GB%20ESubs.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shimla Mirchi 2020 1080p" tvg-logo="https://i.imgur.com/6ULuahv.jpg" group-title="Movies",Shimla Mirchi 2020 1080p
