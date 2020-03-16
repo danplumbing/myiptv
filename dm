@@ -28,6 +28,8 @@ https://www.googleapis.com/drive/v3/files/1Zcy79t2tbRUvSQxvb58a40fUz_0bh-Z-?alt=
 https://www.googleapis.com/drive/v3/files/1OdPStiDOLgrpMhsrRqCoAkQ9IFQVo6xs?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="22 Yards 2019" tvg-logo="https://subdl.com/p/sd368/sd368985.jpg" group-title="Movies",22 Yards 2019
 https://www.googleapis.com/drive/v3/files/1IKv_liDgW33BR6xgt3QMEG5I12K-v5UV?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="Commando 3 (2019)" tvg-logo="https://extraimage.net/images/2020/02/21/f05ff91a2c1b322a57351709a0383f8e.jpg" group-title="Movies",Commando 3 (2019)
+http://apricot01.clicknupload.net:8080/d/vw5zaa3ylvyd7tr7r7hilisaczkoyl57z567zkkbxoprtwx4fspp5jyycuhdp65jhpqovq5j/Commando%203%20(2019)%20www.9kmovies.red%20Hindi%20Movie%201080p%20HDRip%202GB%20ESubs.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dabangg 3 2019" tvg-logo="https://i.imgur.com/E1xqEjl.jpg" group-title="Movies",Dabangg 3 2019
 http://ups23.uplod.xyz:182/d/hogdwotxgezbbbdanxpwk6pitvp2r2fvuo5fnwyh4qt435ydr2lkcmmutizcd3nqjcbnhwk6/Dabangg%203%20(2019)%20Hindi%20Movie%20www.9kmovies.red%201080p%20HDRip%202.7GB%20ESubs.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dil Se 1998 720p" tvg-logo="https://i.imgur.com/YxS8GER.jpg" group-title="Movies",Dil Se 1998 720p
@@ -44,6 +46,8 @@ https://s6.uppom.live/d/x5r6y2rkbgeyf3tkbaojpkajf44xfrmoeozx2xlkhark6agwxbapqppr
 http://ups23.uplod.xyz:182/d/hoggqqtxgezbbbdan3pt25xjymhsjj5yop7u5dlhkmvrn5qv7fmmcjpzkibksr2bxuw45erm/The%20Body%202019%20www.9kmovies.red%20Hindi%20Movie%201080p%20HDRip%202.7GB%20ESubs.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ghost 2019 544p" tvg-logo="https://i.imgur.com/QmczUNP.jpg" group-title="Movies",Ghost 2019 544p
 http://z74z.filecdn.pw/70e81e1389534d9f?download_token=828cbf22042780175998cf812b96e8ba38ec64476898f2386ad5b07dcea82e0d
+#EXTINF:-1 tvg-id="" tvg-name="Good Newwz 2019" tvg-logo="https://extraimage.net/images/2019/11/18/300ce482fd0dc556b7ca2527f3f66439.jpg" group-title="Movies",Good Newwz 2019
+http://mango01.clicknupload.net:8080/d/w6574itylvyd7tr7rxhmfmsaahklhdzlgpvono52pivxbnqynhgve4wgcpdlk3fvaqpg2qth/Good%20Newwz%202019%20Hindi%201080p%20www.9kmovies.com%20HDRip%202500MB.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jumanji The Next Level 2019 1080p" tvg-logo="https://i.imgur.com/Eg2I8IC.jpg" group-title="Movies",Jumanji The Next Level 2019 1080p
 https://firebasestorage.googleapis.com/v0/b/lucid-box-239407.appspot.com/o/1Feb.2020%2F3%2Fjumanji2%2FJumanji.The.Next.Level.2019.HDRip.1080p.Hindi.English.MoviezFlix.co.in.mkv?alt=media&token=6d57f1cb-20d9-4c56-86c1-7f0822514b9c
 #EXTINF:-1 tvg-id="" tvg-name="Mardaani 2 2019 800p" tvg-logo="https://i.imgur.com/EWvF0t1.jpg" group-title="Movies",Mardaani 2 2019 800p
