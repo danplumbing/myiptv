@@ -8,6 +8,8 @@ https://www.googleapis.com/drive/v3/files/1Zc_zQ0L_Ku2_3JxTZIa76rixf7aHGZwG?alt=
 https://www.googleapis.com/drive/v3/files/14Sn_GlbV5UscnlOugt8QzJLAFaiFiROH?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="3 Bachelors 2012" tvg-logo="https://i.imgur.com/Cq23jQQ.jpg" group-title="Movies",3 Bachelors 2012
 https://www.googleapis.com/drive/v3/files/1CO7_szo1WHB-RW8vlP1JuNwKEu-Rz_Y_?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="Bypass Road 2019" tvg-logo="https://extraimage.net/images/2019/11/05/112a12659860b7fc9b07cee1f594b942.jpg" group-title="Movies",Bypass Road 2019
+http://ups23.uplod.xyz:182/d/hogfi3txgezbbbdan7pwu65sthffqxcpe52hji65wwneshq7kxcnduer6ezhrhvr5cs7x7wq/Bypass%20Road%202019%20Hindi%20Movie%20www.9kmovies.club%201080p%20HDRip%202.1GB%20ESubs.mkv
 #EXTINF:-1 tvg-id="" tvg-name="3 Idiots 2009" tvg-logo="https://i.imgur.com/3ah1kA7.jpg" group-title="Movies",3 Idiots 2009
 https://www.googleapis.com/drive/v3/files/11hVs3coZQymlMxDhC02b7spFNbE-SLpG?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="3G 2013" tvg-logo="https://subdl.com/p/sd11/sd11762.jpg" group-title="Movies",3G 2013
@@ -52,6 +54,8 @@ http://mango01.clicknupload.net:8080/d/w6574itylvyd7tr7rxhmfmsaahklhdzlgpvono52p
 https://firebasestorage.googleapis.com/v0/b/lucid-box-239407.appspot.com/o/1Feb.2020%2F3%2Fjumanji2%2FJumanji.The.Next.Level.2019.HDRip.1080p.Hindi.English.MoviezFlix.co.in.mkv?alt=media&token=6d57f1cb-20d9-4c56-86c1-7f0822514b9c
 #EXTINF:-1 tvg-id="" tvg-name="Mardaani 2 2019 800p" tvg-logo="https://i.imgur.com/EWvF0t1.jpg" group-title="Movies",Mardaani 2 2019 800p
 https://www.googleapis.com/drive/v3/files/1sV3a2-PT5pUpU7WRTJ3s5OeiM6_KALV_?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="One Day Justice Delivered 2019" tvg-logo="https://extraimage.net/images/2020/02/28/6107b476dff12c0eeaf5a6919f5f4944.jpg" group-title="Movies",One Day Justice Delivered 2019
+http://fs6.uptomega.com:8080/d/zear67jspwpky7hmyoonedazcbbzk7mez7eyqrihujda7d3acoejkhh7ehmub7hwyd4pggnc/One%20Day%20Justice%20Delivered%202019%20www.9kmovies.red%20Hindi%20Movie%201080p%20HDRip%202.5GB.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pal Pal Dil Ke Paas 2019 1080p" tvg-logo="https://i.imgur.com/hDZ6NCM.jpg" group-title="Movies",Pal Pal Dil Ke Paas 2019 1080p
 https://www.googleapis.com/drive/v3/files/1erefJOwMoKOf2yURoZdC_a_n1OYwy-2Q?alt=media&key=AIzaSyBrMvXdNmcA-SJgwVHmI0yp-6a6GQ4U9bo
 #EXTINF:-1 tvg-id="" tvg-name="Panipat 2019" tvg-logo="https://i.imgur.com/CKO0cZQ.jpg" group-title="Movies",Panipat 2019
