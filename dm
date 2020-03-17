@@ -4,6 +4,8 @@
 https://www.googleapis.com/drive/v3/files/1N5BxB9-JtztFAqaD5gcUea3avSThTqjl?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="2.0 (2018)" tvg-logo="https://subdl.com/p/sd78/sd78203.jpg" group-title="Movies",2.0 (2018)
 https://www.googleapis.com/drive/v3/files/1Zc_zQ0L_Ku2_3JxTZIa76rixf7aHGZwG?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="Aashiqui 2 2013" tvg-logo="https://subdl.com/p/sd1/sd1103.jpg" group-title="Movies",Aashiqui 2 2013
+http://download.multcloud.com/action/share!downloadShare?drives.cloudType=nNpyDZwwR16wQ6JzWx1JtA%3D%3D&drives.tokenId=fd28773d22974905a655daec7159fc1c&drives.fileId=8dN%2F4ZKmzZdFlfnQEj6qhjXByioMpE0ru2i9Pz2N2Cbt0HdwJDjiGR%2BhSlJ85b0d&drives.fileName=Aashiqui%202%20(2013)%201080.avi&drives.fileSize=2773992688&shareId=c25cd090-08d5-4e03-b5f6-61d2615f2e7b
 #EXTINF:-1 tvg-id="" tvg-name="3 AM 2014" tvg-logo="https://i.imgur.com/PJ5Y1DS.jpg" group-title="Movies",3 AM 2014
 https://www.googleapis.com/drive/v3/files/14Sn_GlbV5UscnlOugt8QzJLAFaiFiROH?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="3 Bachelors 2012" tvg-logo="https://i.imgur.com/Cq23jQQ.jpg" group-title="Movies",3 Bachelors 2012
