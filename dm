@@ -57,7 +57,7 @@ https://firebasestorage.googleapis.com/v0/b/lucid-box-239407.appspot.com/o/1Feb.
 #EXTINF:-1 tvg-id="" tvg-name="Mardaani 2 2019 800p" tvg-logo="https://i.imgur.com/EWvF0t1.jpg" group-title="Movies",Mardaani 2 2019 800p
 https://www.googleapis.com/drive/v3/files/1sV3a2-PT5pUpU7WRTJ3s5OeiM6_KALV_?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="One Day Justice Delivered 2019" tvg-logo="https://extraimage.net/images/2020/02/28/6107b476dff12c0eeaf5a6919f5f4944.jpg" group-title="Movies",One Day Justice Delivered 2019
-http://fs6.uptomega.com:8080/d/zear67jspwpky7hmyoonedazcbbzk7mez7eyqrihujda7d3acocydk5xonz6gxbkgfn2cfhv/One%20Day%20Justice%20Delivered%202019%20www.9kmovies.red%20Hindi%20Movie%201080p%20HDRip%202.5GB.mkv
+https://www.googleapis.com/drive/v3/files/1Snm73dYOLgSEWk37PJteZgQAil-X4u8B?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="Pal Pal Dil Ke Paas 2019 1080p" tvg-logo="https://i.imgur.com/hDZ6NCM.jpg" group-title="Movies",Pal Pal Dil Ke Paas 2019 1080p
 https://www.googleapis.com/drive/v3/files/1erefJOwMoKOf2yURoZdC_a_n1OYwy-2Q?alt=media&key=AIzaSyBrMvXdNmcA-SJgwVHmI0yp-6a6GQ4U9bo
 #EXTINF:-1 tvg-id="" tvg-name="Panipat 2019" tvg-logo="https://i.imgur.com/CKO0cZQ.jpg" group-title="Movies",Panipat 2019
