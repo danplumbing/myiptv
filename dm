@@ -11,7 +11,7 @@ https://www.googleapis.com/drive/v3/files/14Sn_GlbV5UscnlOugt8QzJLAFaiFiROH?alt=
 #EXTINF:-1 tvg-id="" tvg-name="3 Bachelors 2012" tvg-logo="https://i.imgur.com/Cq23jQQ.jpg" group-title="Movies",3 Bachelors 2012
 https://www.googleapis.com/drive/v3/files/1CO7_szo1WHB-RW8vlP1JuNwKEu-Rz_Y_?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="Bypass Road 2019" tvg-logo="https://extraimage.net/images/2019/11/05/112a12659860b7fc9b07cee1f594b942.jpg" group-title="Movies",Bypass Road 2019
-http://ups23.uplod.xyz:182/d/hogfi3txgezbbbdan7pwu65sthffqxcpe52hji65wwneshq7kxcnduer6ezhrhvr5cs7x7wq/Bypass%20Road%202019%20Hindi%20Movie%20www.9kmovies.club%201080p%20HDRip%202.1GB%20ESubs.mkv
+https://cdn-09.megaupload.is/9cueEfheo9/1c543b22-1584824757/Bypass%20Road%202019%20Hindi%20Movie%20www.9kmovies.club%201080p%20HDRip%202.1GB%20ESubs.mkv
 #EXTINF:-1 tvg-id="" tvg-name="3 Idiots 2009" tvg-logo="https://i.imgur.com/3ah1kA7.jpg" group-title="Movies",3 Idiots 2009
 https://www.googleapis.com/drive/v3/files/11hVs3coZQymlMxDhC02b7spFNbE-SLpG?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="3G 2013" tvg-logo="https://subdl.com/p/sd11/sd11762.jpg" group-title="Movies",3G 2013
@@ -47,7 +47,7 @@ https://www.googleapis.com/drive/v3/files/1XUMsPHatfWFEYDKMRRZmfHiOFjpF42PT?alt=
 #EXTINF:-1 tvg-id="" tvg-name="Dishoom 2016" tvg-logo="https://i.imgur.com/S8HqJob.jpg" group-title="Movies",Dishoom 2016
 https://s6.uppom.live/d/x5r6y2rkbgeyf3tkbaojpkajf44xfrmoeozx2xlkhark6agwxbapqpprdcx6guffpqs5wn3j/Dishoom_2016_www.9kmovies.red_Hindi_Movie_1080p_HDRip_1.5GB.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Body 2019" tvg-logo="https://core.crazyhd.com/torrentimg/1c0bcb1b0ff4bad6a34b1355b1422cd64f7df2ce.jpg" group-title="Movies",The Body 2019
-http://ups23.uplod.xyz:182/d/hoggqqtxgezbbbdan3pt25xjymhsjj5yop7u5dlhkmvrn5qv7fmmcjpzkibksr2bxuw45erm/The%20Body%202019%20www.9kmovies.red%20Hindi%20Movie%201080p%20HDRip%202.7GB%20ESubs.mkv
+https://f100.megaup.net/1v331/The_Body_2019_www.9kmovies.red_Hindi_Movie_1080p_HDRip_2.7GB_ESubs.mkv?download_token=ea6ec25b41fb4b3fa46a4319fa0032fbc8ba3d9f8e097ccf94cf7eb81d6ba0b8
 #EXTINF:-1 tvg-id="" tvg-name="Ghost 2019 544p" tvg-logo="https://i.imgur.com/QmczUNP.jpg" group-title="Movies",Ghost 2019 544p
 http://z74z.filecdn.pw/70e81e1389534d9f?download_token=828cbf22042780175998cf812b96e8ba38ec64476898f2386ad5b07dcea82e0d
 #EXTINF:-1 tvg-id="" tvg-name="Good Newwz 2019" tvg-logo="https://extraimage.net/images/2019/11/18/300ce482fd0dc556b7ca2527f3f66439.jpg" group-title="Movies",Good Newwz 2019
