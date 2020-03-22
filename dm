@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
 #EXTINF:-1 tvg-id="" tvg-name="2 States 2014" tvg-logo="https://subdl.com/p/sd2/sd2611.jpg" group-title="Movies",2 States 2014
-https://www.googleapis.com/drive/v3/files/1N5BxB9-JtztFAqaD5gcUea3avSThTqjl?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+https://www.googleapis.com/drive/v3/files/17iq7Rc5MIerlaSX0wDz_lKJfq8cXPuAt?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="2.0 (2018)" tvg-logo="https://subdl.com/p/sd78/sd78203.jpg" group-title="Movies",2.0 (2018)
 https://www.googleapis.com/drive/v3/files/1Zc_zQ0L_Ku2_3JxTZIa76rixf7aHGZwG?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="Aashiqui 2 2013" tvg-logo="https://subdl.com/p/sd1/sd1103.jpg" group-title="Movies",Aashiqui 2 2013
 http://download.multcloud.com/action/share!downloadShare?drives.cloudType=nNpyDZwwR16wQ6JzWx1JtA%3D%3D&drives.tokenId=fd28773d22974905a655daec7159fc1c&drives.fileId=8dN%2F4ZKmzZdFlfnQEj6qhjXByioMpE0ru2i9Pz2N2Cbt0HdwJDjiGR%2BhSlJ85b0d&drives.fileName=Aashiqui%202%20(2013)%201080.avi&drives.fileSize=2773992688&shareId=c25cd090-08d5-4e03-b5f6-61d2615f2e7b
 #EXTINF:-1 tvg-id="" tvg-name="3 AM 2014" tvg-logo="https://i.imgur.com/PJ5Y1DS.jpg" group-title="Movies",3 AM 2014
-https://www.googleapis.com/drive/v3/files/14Sn_GlbV5UscnlOugt8QzJLAFaiFiROH?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+https://www.googleapis.com/drive/v3/files/1RAcnVh2BegF9EmmDs4dTQjKMcdWfZz35?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="3 Bachelors 2012" tvg-logo="https://i.imgur.com/Cq23jQQ.jpg" group-title="Movies",3 Bachelors 2012
 https://www.googleapis.com/drive/v3/files/1CO7_szo1WHB-RW8vlP1JuNwKEu-Rz_Y_?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="Bypass Road 2019" tvg-logo="https://extraimage.net/images/2019/11/05/112a12659860b7fc9b07cee1f594b942.jpg" group-title="Movies",Bypass Road 2019
@@ -72,7 +72,7 @@ https://www.googleapis.com/drive/v3/files/1LHwNjcqo7QmCuohvvdfMDmlgpKq9SaHE?alt=
 http://ups23.uplod.xyz:182/d/hoghyldxgezbbbdantpww5f7rhgooyg5nn6i5c4nd5mkxjdjayp4yafdfavgtpzqn2cosgtq/War%202019%20www.9kmovies.red%20Hindi%20Movie%201080p%20BluRay%202.3GB.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yeh Suhaag Raat Impossible 2019 1080p" tvg-logo="https://i.imgur.com/NPzQFhf.jpg" group-title="Movies",Yeh Suhaag Raat Impossible 2019 1080p
 http://ups27.uplod.xyz:182/d/gsgaqo3xgezbbbdanxpxu3xkqlzxfwddw47rm5oihax46nwm5vwhl7prvs4idd3vstt55geg/Yeh%20Suhaag%20Raat%20Impossible%202019%20www.9kmovies.red%20Hindi%20Movie%201080p%20HDRip%201.2GB.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Street Dancer 3D (2020)" tvg-logo="https://subdl.com/p/sd510/sd510807.jpg" group-title="Movies",Street Dancer 3D (2020)
-http://ups24.uplod.xyz:182/d/hkgjsitxgezbbbdantpwaz77qcj77ab6xknoq6w67s4liepv5k2eck2c2x6ygo4u7nipgmio/Street%20Dancer%203D%20(2020)%20www.9kmovies.xyz%20Hindi%20Movie%20720p%20pDVDRip%201.2GB.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Street Dancer 2020" tvg-logo="https://subdl.com/p/sd510/sd510807.jpg" group-title="Movies",Street Dancer 2020
+https://www.googleapis.com/drive/v3/files/1VIv8T_uaXCK4XmEgBEImkpeyZXguNUSa?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="Tanhaji The Unsung Warrior 2020" tvg-logo="https://extraimage.net/images/2020/01/08/c1fa18c5c8ce95d4b83ad76d851888ee.jpg" group-title="Movies",Tanhaji The Unsung Warrior 2020
 http://ups23.uplod.xyz:182/d/hogoexdxgezbbbdan7px25x4yu5d2dmbtogwiozmf3wbhdfgemiuyqgd3jeyud5ufrumfdxq/Tanhaji%20The%20Unsung%20Warrior%20(2020)%20Hindi%20www.9kmovies.club%201080p%20HDRip%201.7GB%20ESubs.mkv
