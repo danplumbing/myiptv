@@ -77,4 +77,4 @@ http://ups27.uplod.xyz:182/d/gsgaqo3xgezbbbdanxpxu3xkqlzxfwddw47rm5oihax46nwm5vw
 #EXTINF:-1 tvg-id="" tvg-name="Street Dancer 2020" tvg-logo="https://subdl.com/p/sd510/sd510807.jpg" group-title="Movies",Street Dancer 2020
 https://www.googleapis.com/drive/v3/files/1VIv8T_uaXCK4XmEgBEImkpeyZXguNUSa?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="Tanhaji The Unsung Warrior 2020" tvg-logo="https://extraimage.net/images/2020/01/08/c1fa18c5c8ce95d4b83ad76d851888ee.jpg" group-title="Movies",Tanhaji The Unsung Warrior 2020
-http://ups23.uplod.xyz:182/d/hogoexdxgezbbbdan7px25x4yu5d2dmbtogwiozmf3wbhdfgemiuyqgd3jeyud5ufrumfdxq/Tanhaji%20The%20Unsung%20Warrior%20(2020)%20Hindi%20www.9kmovies.club%201080p%20HDRip%201.7GB%20ESubs.mkv
+https://www.googleapis.com/drive/v3/files/1bng3OqyjqqlEhu6vs-9CPHr57zUMKyU7?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
