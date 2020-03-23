@@ -11,7 +11,7 @@ https://www.googleapis.com/drive/v3/files/1RAcnVh2BegF9EmmDs4dTQjKMcdWfZz35?alt=
 #EXTINF:-1 tvg-id="" tvg-name="3 Bachelors 2012" tvg-logo="https://i.imgur.com/Cq23jQQ.jpg" group-title="Movies",3 Bachelors 2012
 https://www.googleapis.com/drive/v3/files/1CO7_szo1WHB-RW8vlP1JuNwKEu-Rz_Y_?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="Bypass Road 2019" tvg-logo="https://extraimage.net/images/2019/11/05/112a12659860b7fc9b07cee1f594b942.jpg" group-title="Movies",Bypass Road 2019
-https://cdn-14.megaupload.is/9cueEfheo9/20495324-1584826181/Bypass%20Road%202019%20Hindi%20Movie%20www.9kmovies.club%201080p%20HDRip%202.1GB%20ESubs.mkv
+https://www.googleapis.com/drive/v3/files/1iLIKhvgaSNIgKc8qu6AWiJvhiUc_c9cO?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="3 Idiots 2009" tvg-logo="https://i.imgur.com/3ah1kA7.jpg" group-title="Movies",3 Idiots 2009
 https://www.googleapis.com/drive/v3/files/11hVs3coZQymlMxDhC02b7spFNbE-SLpG?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="3G 2013" tvg-logo="https://subdl.com/p/sd11/sd11762.jpg" group-title="Movies",3G 2013
