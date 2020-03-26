@@ -37,7 +37,7 @@ https://www.googleapis.com/drive/v3/files/1etamYiyVa-aa52bJ-DH6RubdgaGteJ1Fiw?al
 #EXTINF:-1 tvg-id="" tvg-name="Commando 3 (2019)" tvg-logo="https://extraimage.net/images/2020/02/21/f05ff91a2c1b322a57351709a0383f8e.jpg" group-title="Movies",Commando 3 (2019)
 http://apricot01.clicknupload.net:8080/d/vw5zaa3ylvyd7tr7r7hilisaczkoyl57z567zkkbxoprtwx4fspp5jyycuhdp65jhpqovq5j/Commando%203%20(2019)%20www.9kmovies.red%20Hindi%20Movie%201080p%20HDRip%202GB%20ESubs.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dabangg 3 2019" tvg-logo="https://i.imgur.com/E1xqEjl.jpg" group-title="Movies",Dabangg 3 2019
-http://ups23.uplod.xyz:182/d/hogdwotxgezbbbdanxpwk6pitvp2r2fvuo5fnwyh4qt435ydr2lkcmmutizcd3nqjcbnhwk6/Dabangg%203%20(2019)%20Hindi%20Movie%20www.9kmovies.red%201080p%20HDRip%202.7GB%20ESubs.mkv
+https://www.googleapis.com/drive/v3/files/1CJni2-ok5a4PHkvgtD-C-Uhmsq0Z9dQS?alt=media&key=AIzaSyBjxBNSlYwZj7s2mremdLR5Q3enVUuF5p4
 #EXTINF:-1 tvg-id="" tvg-name="Dil Se 1998 720p" tvg-logo="https://i.imgur.com/YxS8GER.jpg" group-title="Movies",Dil Se 1998 720p
 https://www.googleapis.com/drive/v3/files/1HUldRq3ngdOxZwdb93fE6sGZDkNm41RT?alt=media&key=AIzaSyBrMvXdNmcA-SJgwVHmI0yp-6a6GQ4U9bo
 #EXTINF:-1 tvg-id="" tvg-name="Dil Tera Aashiq 1993 1080p" tvg-logo="https://i.imgur.com/9KXjXiT.jpg" group-title="Movies",Dil Tera Aashiq 1993 1080p
