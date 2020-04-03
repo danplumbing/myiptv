@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
 #EXTINF:-1 tvg-id="" tvg-name="2 States 2014" tvg-logo="https://subdl.com/p/sd2/sd2611.jpg" group-title="Movies",2 States 2014
-https://0wx.org/B2HI4DTHIXS653XO4XGO33PM5WGKYLQNFZS4Y3PNUXWI4TJOZSS65RTF5TGS3DFOMXTCOJNIFTUMT3WIR4WIWKUIFWEGNSRGRGEE43EPBBWGSTLMUWW2UDBH5QWY5B5NVSWI2LBEZVWK6J5IFEXUYKTPFAUYYKHMJRFKNLJGJ2HCN3TOY2TKQTDNRDW2NDVJ4ZUSUCRNZWECYZRGU4DKOJVGY4DQMYJZBDESCJGRCFISCJLBJTMNJTLBHTIWCHJ
+https://cutt.ly/NtPvPLb
 #EXTINF:-1 tvg-id="" tvg-name="2.0 (2018)" tvg-logo="https://subdl.com/p/sd78/sd78203.jpg" group-title="Movies",2.0 (2018)
 https://www.googleapis.com/drive/v3/files/1Zc_zQ0L_Ku2_3JxTZIa76rixf7aHGZwG?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="Aashiqui 2 2013" tvg-logo="https://subdl.com/p/sd1/sd1103.jpg" group-title="Movies",Aashiqui 2 2013
