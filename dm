@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
+#EXTINF:-1 tvg-id="" tvg-name="2.0 (2018)" tvg-logo="https://subdl.com/p/sd78/sd78203.jpg" group-title="Movies",2.0 (2018)
+https://www.googleapis.com/drive/v3/files/1ZM4jumbUl0Ke2R31w-kdIcsgRCtidjaF?alt=media&key=AIzaSyALaGbbU5i2tq7sv55BclGm4uO3IPQnlAc
+#EXTINF:-1 tvg-id="" tvg-name="3 AM 2014" tvg-logo="https://i.imgur.com/PJ5Y1DS.jpg" group-title="Movies",3 AM 2014
+https://www.googleapis.com/drive/v3/files/1c3OwV-G_4m1tCCZnM7DjAaqiGnmwyTFf?alt=media&key=AIzaSyALaGbbU5i2tq7sv55BclGm4uO3IPQnlAc
 #EXTINF:-1 tvg-id="" tvg-name="2 States 2014" tvg-logo="https://subdl.com/p/sd2/sd2611.jpg" group-title="Movies",2 States 2014
 https://cutt.ly/NtPvPLb
-#EXTINF:-1 tvg-id="" tvg-name="2.0 (2018)" tvg-logo="https://subdl.com/p/sd78/sd78203.jpg" group-title="Movies",2.0 (2018)
-https://www.googleapis.com/drive/v3/files/1Zc_zQ0L_Ku2_3JxTZIa76rixf7aHGZwG?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="Aashiqui 2 2013" tvg-logo="https://subdl.com/p/sd1/sd1103.jpg" group-title="Movies",Aashiqui 2 2013
 http://download.multcloud.com/action/share!downloadShare?drives.cloudType=nNpyDZwwR16wQ6JzWx1JtA%3D%3D&drives.tokenId=fd28773d22974905a655daec7159fc1c&drives.fileId=8dN%2F4ZKmzZdFlfnQEj6qhjXByioMpE0ru2i9Pz2N2Cbt0HdwJDjiGR%2BhSlJ85b0d&drives.fileName=Aashiqui%202%20(2013)%201080.avi&drives.fileSize=2773992688&shareId=c25cd090-08d5-4e03-b5f6-61d2615f2e7b
-#EXTINF:-1 tvg-id="" tvg-name="3 AM 2014" tvg-logo="https://i.imgur.com/PJ5Y1DS.jpg" group-title="Movies",3 AM 2014
-https://www.googleapis.com/drive/v3/files/1RAcnVh2BegF9EmmDs4dTQjKMcdWfZz35?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="3 Bachelors 2012" tvg-logo="https://i.imgur.com/Cq23jQQ.jpg" group-title="Movies",3 Bachelors 2012
-https://www.googleapis.com/drive/v3/files/1CO7_szo1WHB-RW8vlP1JuNwKEu-Rz_Y_?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+https://www.googleapis.com/drive/v3/files/11pkf6e5oQ8ajK5pe3jjrR7OA0O1VTxAY?alt=media&key=AIzaSyALaGbbU5i2tq7sv55BclGm4uO3IPQnlAc
 #EXTINF:-1 tvg-id="" tvg-name="Bypass Road 2019" tvg-logo="https://extraimage.net/images/2019/11/05/112a12659860b7fc9b07cee1f594b942.jpg" group-title="Movies",Bypass Road 2019
 https://www.googleapis.com/drive/v3/files/1vMVPSplpWaLrpn-_k3ySU1lYDOTgzDAA?alt=media&key=AIzaSyBjxBNSlYwZj7s2mremdLR5Q3enVUuF5p4
-#EXTINF:-1 tvg-id="" tvg-name="3 Idiots 2009" tvg-logo="https://i.imgur.com/3ah1kA7.jpg" group-title="Movies",3 Idiots 2009
-https://www.googleapis.com/drive/v3/files/11hVs3coZQymlMxDhC02b7spFNbE-SLpG?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+#EXTINF:-1 tvg-id="" tvg-name="3 Idiots 2009" tvg-logo="https://i.imgur.com/3ah1kA7.jpg" group-title="Movies",
+https://www.googleapis.com/drive/v3/files/1BmzWWJR0ZCyHPV2qfdL4xo16FXQigNBV?alt=media&key=AIzaSyALaGbbU5i2tq7sv55BclGm4uO3IPQnlAc
 #EXTINF:-1 tvg-id="" tvg-name="3G 2013" tvg-logo="https://subdl.com/p/sd11/sd11762.jpg" group-title="Movies",3G 2013
 https://www.googleapis.com/drive/v3/files/1hs8v4kfWdGxVY7Mzf0ZS9tSWAcFTMJK6?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
 #EXTINF:-1 tvg-id="" tvg-name="5 Ghantey Mein 5 Crore 2012" tvg-logo="https://i.imgur.com/dRboGDW.jpg" group-title="Movies",5 Ghantey Mein 5 Crore 2012
