@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
-#EXTINF:-1 tvg-id="" tvg-name="2.0 (2018)" tvg-logo="https://subdl.com/p/sd78/sd78203.jpg" group-title="Movies",2.0 (2018)
-https://www.googleapis.com/drive/v3/files/1ZM4jumbUl0Ke2R31w-kdIcsgRCtidjaF?alt=media&key=AIzaSyALaGbbU5i2tq7sv55BclGm4uO3IPQnlAc
-#EXTINF:-1 tvg-id="" tvg-name="3 AM 2014" tvg-logo="https://i.imgur.com/PJ5Y1DS.jpg" group-title="Movies",3 AM 2014
-https://www.googleapis.com/drive/v3/files/1c3OwV-G_4m1tCCZnM7DjAaqiGnmwyTFf?alt=media&key=AIzaSyALaGbbU5i2tq7sv55BclGm4uO3IPQnlAc
-#EXTINF:-1 tvg-id="" tvg-name="2 States 2014" tvg-logo="https://subdl.com/p/sd2/sd2611.jpg" group-title="Movies",2 State 2014
-https://cutt.ly/NtPvPLb
+#EXTINF:-1 tvg-id="" tvg-name="Maska 2020" tvg-logo="https://subdl.com/p/sd588/sd588384.jpg" group-title="Movies",Maska 2020
+https://www.googleapis.com/drive/v3/files/1BE-u75GP1l3hoW7gjRGKKR7SsmC49gk4?alt=media&key=AIzaSyALaGbbU5i2tq7sv55BclGm4uO3IPQnlAc
+#EXTINF:-1 tvg-id="" tvg-name="Guilty 2020" tvg-logo="https://subdl.com/p/sd547/sd547413.jpg" group-title="Movies",Guilty 2020
+https://www.googleapis.com/drive/v3/files/1CJr0bzWfqdLk8dlb8FtA3YdPHbLE2_bo?alt=media&key=AIzaSyALaGbbU5i2tq7sv55BclGm4uO3IPQnlAc
+#EXTINF:-1 tvg-id="" tvg-name="Angrezi Medium 2020" tvg-logo="https://subdl.com/p/sd627/sd627486.jpg" group-title="Movies",Angrezi Medium 2020
+https://www.googleapis.com/drive/v3/files/1MEPT0hDytZu5e6XfX6J_NbPT1gviu3uW?alt=media&key=AIzaSyALaGbbU5i2tq7sv55BclGm4uO3IPQnlAc
 #EXTINF:-1 tvg-id="" tvg-name="Aashiqui 2 2013" tvg-logo="https://subdl.com/p/sd1/sd1103.jpg" group-title="Movies",Aashiqui 2 2013
 http://download.multcloud.com/action/share!downloadShare?drives.cloudType=nNpyDZwwR16wQ6JzWx1JtA%3D%3D&drives.tokenId=fd28773d22974905a655daec7159fc1c&drives.fileId=8dN%2F4ZKmzZdFlfnQEj6qhjXByioMpE0ru2i9Pz2N2Cbt0HdwJDjiGR%2BhSlJ85b0d&drives.fileName=Aashiqui%202%20(2013)%201080.avi&drives.fileSize=2773992688&shareId=c25cd090-08d5-4e03-b5f6-61d2615f2e7b
 #EXTINF:-1 tvg-id="" tvg-name="3 Bachelors 2012" tvg-logo="https://i.imgur.com/Cq23jQQ.jpg" group-title="Movies",3 Bachelors 2012
