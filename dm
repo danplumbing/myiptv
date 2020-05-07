@@ -34,7 +34,7 @@ https://www.googleapis.com/drive/v3/files/18vuQFzmfJicknBr9DxQkECFCh3GMgB7j?alt=
 https://www.googleapis.com/drive/v3/files/1chl_jQro5OZNRJ707ohEyyEKls4eZ_1d?alt=media&key=AIzaSyC_3X9rH9oEtfdaKoAoiArBolPgloNECu0
 #EXTINF:-1 tvg-id="" tvg-name="Bhangra Paa Le 3/1/2020" tvg-logo="https://subdl.com/p/sd545/sd545004.jpg" group-title="Movies",Bhangra Paa Le 3/1/2020
 https://www.googleapis.com/drive/v3/files/1tn7KPT-lp9U6zCTT3mVEebuMUPiOAUKi?alt=media&key=AIzaSyC_3X9rH9oEtfdaKoAoiArBolPgloNECu0
-EXTINF:-1 tvg-id="" tvg-name="Chhapaak 6/12/2020" tvg-logo="https://subdl.com/p/sd547/sd547046.jpg" group-title="Movies",Chhapaak 6/12/2020
+#EXTINF:-1 tvg-id="" tvg-name="Chhapaak 6/12/2020" tvg-logo="https://subdl.com/p/sd547/sd547046.jpg" group-title="Movies",Chhapaak 6/12/2020
 https://www.googleapis.com/drive/v3/files/1cYnpFlq9zf_v55tCv4v0JWXDA5eQHoge?alt=media&key=AIzaSyBMSQVDr63d8PaWuejpwLcJqLuzdj9YsiQ
 #EXTINF:-1 tvg-id="" tvg-name="Dabangg 3 14/12/2019" tvg-logo="https://i.imgur.com/E1xqEjl.jpg" group-title="Movies",Dabangg 3 14/12/2019
 https://www.googleapis.com/drive/v3/files/1CJni2-ok5a4PHkvgtD-C-Uhmsq0Z9dQS?alt=media&key=AIzaSyC_3X9rH9oEtfdaKoAoiArBolPgloNECu0
