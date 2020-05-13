@@ -36,12 +36,20 @@ https://www.googleapis.com/drive/v3/files/1chl_jQro5OZNRJ707ohEyyEKls4eZ_1d?alt=
 https://www.googleapis.com/drive/v3/files/1tn7KPT-lp9U6zCTT3mVEebuMUPiOAUKi?alt=media&key=AIzaSyC_3X9rH9oEtfdaKoAoiArBolPgloNECu0
 #EXTINF:-1 tvg-id="" tvg-name="Chhapaak 6/12/2020" tvg-logo="https://subdl.com/p/sd547/sd547046.jpg" group-title="Movies",Chhapaak 6/12/2020
 https://www.googleapis.com/drive/v3/files/1cYnpFlq9zf_v55tCv4v0JWXDA5eQHoge?alt=media&key=AIzaSyBMSQVDr63d8PaWuejpwLcJqLuzdj9YsiQ
+#EXTINF:-1 tvg-id="" tvg-name="Panga 30/12/2019" tvg-logo="https://subdl.com/p/sd560/sd560717.jpg" group-title="Movies",Panga 30/12/2019
+https://www.googleapis.com/drive/v3/files/1i3LK_IZqq8uvygRX52rD9krChys1As3i?alt=media&key=AIzaSyBMSQVDr63d8PaWuejpwLcJqLuzdj9YsiQ
+#EXTINF:-1 tvg-id="" tvg-name="Good Newwz 17/12/2019" tvg-logo="https://subdl.com/p/sd536/sd536494.jpg" group-title="Movies",Good Newwz 17/12/2019
+https://www.googleapis.com/drive/v3/files/1WwXsX4wEqBMyLXrVdJhG-lw_21UDPfpf?alt=media&key=AIzaSyB1jPSOSLSpKEeFnkXpiIDwIkoTvudoVKU
 #EXTINF:-1 tvg-id="" tvg-name="Dabangg 3 14/12/2019" tvg-logo="https://i.imgur.com/E1xqEjl.jpg" group-title="Movies",Dabangg 3 14/12/2019
 https://www.googleapis.com/drive/v3/files/1CJni2-ok5a4PHkvgtD-C-Uhmsq0Z9dQS?alt=media&key=AIzaSyC_3X9rH9oEtfdaKoAoiArBolPgloNECu0
+#EXTINF:-1 tvg-id="" tvg-name="Mauli 12/12/2019" tvg-logo="https://subdl.com/p/sd172/sd172370.jpg" group-title="Movies",Mauli 12/12/2019
+https://www.googleapis.com/drive/v3/files/17KxwuZhzVVHKC6411lDRU_XpqMAgbxLu?alt=media&key=AIzaSyB1jPSOSLSpKEeFnkXpiIDwIkoTvudoVKU
 #EXTINF:-1 tvg-id="" tvg-name="The Body 12/12/2019" tvg-logo="https://images.newasiantv.tv/s2/the-body.7144.jpg" group-title="Movies",The Body 2019
 https://www.googleapis.com/drive/v3/files/1LejxUo1JmwM8KE7V9d7-gpqNtDiBSdYe?alt=media&key=AIzaSyDHc_ZGUHsW_1Yy8FSL9Hht_wQzO9G3Dgs
 #EXTINF:-1 tvg-id="" tvg-name="Panipat 5/12/2019" tvg-logo="https://i.imgur.com/CKO0cZQ.jpg" group-title="Movies",Panipat 5/12/2019
 https://www.googleapis.com/drive/v3/files/1XEzQ8qOViqghKSYIqP0v4pSJIHgLZ1Mu?alt=media&key=AIzaSyDHc_ZGUHsW_1Yy8FSL9Hht_wQzO9G3Dgs
+#EXTINF:-1 tvg-id="" tvg-name="Mardaani 2 3/12/2019" tvg-logo="https://subdl.com/p/sd518/sd518067.jpg" group-title="Movies",Mardaani 2 3/12/2019
+https://www.googleapis.com/drive/v3/files/17KxwuZhzVVHKC6411lDRU_XpqMAgbxLu?alt=media&key=AIzaSyB1jPSOSLSpKEeFnkXpiIDwIkoTvudoVKU
 #EXTINF:-1 tvg-id="" tvg-name="Housefull 4 15/10/2019" tvg-logo="https://i.imgur.com/1XrzfH8.jpg" group-title="Movies",Housefull 4 15/10/2019
 https://www.googleapis.com/drive/v3/files/1hX_Ypt-tmTsg9mr-sTwteABUTmVUNDwn?alt=media&key=AIzaSyDHc_ZGUHsW_1Yy8FSL9Hht_wQzO9G3Dgs
 #EXTINF:-1 tvg-id="" tvg-name="Kalank 9/4/2019" tvg-logo="https://i.imgur.com/9RTqxRR.jpg?1" group-title="Movies",Kalank 9/4/2019
