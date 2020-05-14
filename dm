@@ -62,7 +62,7 @@ https://www.googleapis.com/drive/v3/files/17wA3lsjAxOvMa0ymioXO1Xhptxd532-s?alt=
 https://www.googleapis.com/drive/v3/files/1o8iOrnPskeS1MViu7aNnD-wfq3YbK4mo?alt=media&key=AIzaSyB3zifMe_Po3eJk8z-zNj2zLODmMKYceCc
 #EXTINF:-1 tvg-id="" tvg-name="Pagalpanti 15/11/2019" tvg-logo="https://i.imgur.com/zdsJxbH.jpg" group-title="Movies",Pagalpanti 15/11/2019
 https://www.googleapis.com/drive/v3/files/17AynMO6Ky8SXQM6259fjPxd-p_NcFi9d?alt=media&key=AIzaSyB3zifMe_Po3eJk8z-zNj2zLODmMKYceCc
-#EXTINF:-1 tvg-id="" tvg-name="Bypass Road 8/11/2019" tvg-logo="https://subdl.com/p/sd556/sd556657.jpg" group-title="Movies",
+#EXTINF:-1 tvg-id="" tvg-name="Bypass Road 8/11/2019" tvg-logo="https://subdl.com/p/sd556/sd556657.jpg" group-title="Movies",Bypass Road 8/11/2019
 https://www.googleapis.com/drive/v3/files/1Tf7htXVvBNwS9S-qp2Vcz-JWJ6u7i8gE?alt=media&key=AIzaSyCHMRsNljmQoSdUCsuP9rBjv_-K6Oa0Jac
 #EXTINF:-1 tvg-id="" tvg-name="Bala 25/10/2019" tvg-logo="https://subdl.com/p/sd492/sd492156.jpg" group-title="Movies",Bala 25/10/2019
 https://www.googleapis.com/drive/v3/files/1BuxK8r4d2n1fr3c2eDUPjqtfKQsBF943?alt=media&key=AIzaSyCHMRsNljmQoSdUCsuP9rBjv_-K6Oa0Jac
