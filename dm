@@ -80,5 +80,21 @@ https://www.googleapis.com/drive/v3/files/1hX_Ypt-tmTsg9mr-sTwteABUTmVUNDwn?alt=
 https://www.googleapis.com/drive/v3/files/1jee4cZXbiZfQSzBYTaluk7wZX9zBkF3_?alt=media&key=AIzaSyBNjojnujdde3xh0N5zSkojfM_vHPzB008
 #EXTINF:-1 tvg-id="" tvg-name="The Sky Is Pink 11/10/2019" tvg-logo="https://i.imgur.com/fKGygEc.jpg" group-title="Movies",The Sky Is Pink 11/10/2019
 https://www.googleapis.com/drive/v3/files/128KB9dKBH9ESVPXxqz6LjB7UgOzTzVip?alt=media&key=AIzaSyBNjojnujdde3xh0N5zSkojfM_vHPzB008
+#EXTINF:-1 tvg-id="" tvg-name="Sye Raa Narasimha Reddy 30/9/2019" tvg-logo="https://i.imgur.com/ApgKK90.jpg" group-title="Movies",Sye Raa Narasimha Reddy 30/9/2019
+https://www.googleapis.com/drive/v3/files/1B6fStD9wTCp2tqfGDwnwsrZtCByJ-Jh0?alt=media&key=AIzaSyBNjojnujdde3xh0N5zSkojfM_vHPzB008
+#EXTINF:-1 tvg-id="" tvg-name="War 23/9/2019" tvg-logo="https://subdl.com/p/sd405/sd405744.jpg" group-title="Movies",War 23/9/2019
+https://www.googleapis.com/drive/v3/files/18eR5f5v7MwVzMlPa63m00ILycwmYFq7_?alt=media&key=AIzaSyBG8mJcHowLw9UWinEEmFrznoyZjcdyKWY
+#EXTINF:-1 tvg-id="" tvg-name="The Family Man 20/9/2019" tvg-logo="https://i.imgur.com/j9utBoL.jpg" group-title="Movies",The Family Man 20/9/2019
+https://www.googleapis.com/drive/v3/files/1fLMDtMQ1xFa7A2gOUDI9D_myVvJruBKh?alt=media&key=AIzaSyBG8mJcHowLw9UWinEEmFrznoyZjcdyKWY
+#EXTINF:-1 tvg-id="" tvg-name="The Zoya Factor 20/9/2019" tvg-logo="https://subdl.com/p/sd409/sd409184.jpg" group-title="Movies",The Zoya Factor 20/9/2019
+https://www.googleapis.com/drive/v3/files/1UvyUDWdNAVcw0EweY3dNQcvZ3xQmiEB9?alt=media&key=AIzaSyBG8mJcHowLw9UWinEEmFrznoyZjcdyKWY
+#EXTINF:-1 tvg-id="" tvg-name="Pal Pal Dil Ke Paas 18/9/2019" tvg-logo="https://i.imgur.com/jH2BxBI.jpg" group-title="Movies",Pal Pal Dil Ke Paas 18/9/2019
+https://www.googleapis.com/drive/v3/files/1uomItKcAQc1Tv14r7s8QerbmlYYJIW5U?alt=media&key=AIzaSyCgvLRuHUO_pu4_wSfoeDItv8uncKlKHYA
+#EXTINF:-1 tvg-id="" tvg-name="Prassthanam 17/9/2019" tvg-logo="https://i.imgur.com/RfAvIMG.jpg" group-title="Movies",Prassthanam 17/9/2019
+https://www.googleapis.com/drive/v3/files/12_v7KxDh-BNLqwO3vrcZDoTpz1OC5n1X?alt=media&key=AIzaSyCgvLRuHUO_pu4_wSfoeDItv8uncKlKHYA
+#EXTINF:-1 tvg-id="" tvg-name="Dream Girl 9/9/2019" tvg-logo="https://subdl.com/p/sd395/sd395631.jpg" group-title="Movies",Dream Girl 9/9/2019
+https://www.googleapis.com/drive/v3/files/1akJPbWiHj9U4Fsg6ivhZZU9MGnxaFhnb?alt=media&key=AIzaSyCgvLRuHUO_pu4_wSfoeDItv8uncKlKHYA
+#EXTINF:-1 tvg-id="" tvg-name="Section 375 9/9/2019" tvg-logo="https://i.imgur.com/7dtuwXn.jpg" group-title="Movies",Section 375 9/9/2019
+https://www.googleapis.com/drive/v3/files/1SD9BjMR5jg39O9fF_AX-BMNcAlQ_C6vb?alt=media&key=AIzaSyDebrkdiQ_jE3E4d2uo5HR_C1TpHTrlKSc
 #EXTINF:-1 tvg-id="" tvg-name="Kalank 9/4/2019" tvg-logo="https://i.imgur.com/9RTqxRR.jpg?1" group-title="Movies",Kalank 9/4/2019
 https://www.googleapis.com/drive/v3/files/16eGTQumD3luwbES-7F7UBz2jkqv2DdsZ?alt=media&key=AIzaSyBMSQVDr63d8PaWuejpwLcJqLuzdj9YsiQ
