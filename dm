@@ -116,5 +116,11 @@ https://www.googleapis.com/drive/v3/files/18EBvUe1SkdyG41Ti2P2GEa7x1XpZIIgU?alt=
 https://www.googleapis.com/drive/v3/files/13wvwRzamuyj53AzA_Ro7RXKpEeeK8r1_?alt=media&key=AIzaSyAXrR7rvxDZnVBfNqQOnf3jDJVU7eesJ1E
 #EXTINF:-1 tvg-id="" tvg-name="Malaal 5/7/2019" tvg-logo="https://subdl.com/p/sd340/sd340512.jpg" group-title="Movies",Malaal 5/7/2019
 https://www.googleapis.com/drive/v3/files/1jldh37Hj0fYC_KhBZ1BtXEmiOXWbkqCr?alt=media&key=AIzaSyAXrR7rvxDZnVBfNqQOnf3jDJVU7eesJ1E
+#EXTINF:-1 tvg-id="" tvg-name="Article 15 28/6/2019" tvg-logo="https://subdl.com/p/sd294/sd294152.jpg" group-title="Movies",Article 15 28/6/2019
+https://www.googleapis.com/drive/v3/files/1Med2dqFs3n3hG7GVssGN3CfPIM1UcVIY?alt=media&key=AIzaSyAXrR7rvxDZnVBfNqQOnf3jDJVU7eesJ1E
+#EXTINF:-1 tvg-id="" tvg-name="Noblemen 28/6/2019" tvg-logo="https://subdl.com/p/sd510/sd510291.jpg" group-title="Movies",Noblemen 28/6/2019
+https://www.googleapis.com/drive/v3/files/15Ebd0rESmrvVxAL0NahvdWurJriBdjkD?alt=media&key=AIzaSyDmfWAIcOW6eChCkj-MPLoVo6uJWaLWUEw
+#EXTINF:-1 tvg-id="" tvg-name="One Day Justice Delivered 18/6/2019" tvg-logo="https://i.imgur.com/vibWw3L.jpg" group-title="Movies",One Day Justice Delivered 18/6/2019
+https://www.googleapis.com/drive/v3/files/1eCijhBTXVUVvcVAr3IR-VIF30PM4QlOZ?alt=media&key=AIzaSyDmfWAIcOW6eChCkj-MPLoVo6uJWaLWUEw
 #EXTINF:-1 tvg-id="" tvg-name="Kalank 9/4/2019" tvg-logo="https://i.imgur.com/9RTqxRR.jpg?1" group-title="Movies",Kalank 9/4/2019
 https://www.googleapis.com/drive/v3/files/16eGTQumD3luwbES-7F7UBz2jkqv2DdsZ?alt=media&key=AIzaSyBMSQVDr63d8PaWuejpwLcJqLuzdj9YsiQ
