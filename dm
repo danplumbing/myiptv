@@ -106,5 +106,15 @@ https://www.googleapis.com/drive/v3/files/18FQz8ZTWMZkpdntaQdHPG-X_U3a9_hWD?alt=
 https://www.googleapis.com/drive/v3/files/1drSW3VPcFxjithW8zlTe2V_-OwFTNfrV?alt=media&key=AIzaSyAOTy-ZHVtt4rrd2KJr5n2yzrbBJXp6C_E
 #EXTINF:-1 tvg-id="" tvg-name="Mission Mangal 6/8/2019" tvg-logo="https://subdl.com/p/sd349/sd349713.jpg" group-title="Movies",Mission Mangal 6/8/2019
 https://www.googleapis.com/drive/v3/files/1yo6pMi2kQjyaQsmoZ2srIzGMrlLIKdO9?alt=media&key=AIzaSyAOTy-ZHVtt4rrd2KJr5n2yzrbBJXp6C_E
+#EXTINF:-1 tvg-id="" tvg-name="Batla House 31/7/2019" tvg-logo="https://i.imgur.com/zZBdm1G.jpg" group-title="Movies",Batla House 31/7/2019
+https://www.googleapis.com/drive/v3/files/190BiBqmU0FOSXh70NN6e6JrlW1ez2ab4?alt=media&key=AIzaSyAjFf07920oc2HsRE4pDQUJiahzlpoR9tY
+#EXTINF:-1 tvg-id="" tvg-name="Khandaani Shafakhana 30/7/2019" tvg-logo="https://i.imgur.com/5IYS5sk.jpg" group-title="Movies",Khandaani Shafakhana 30/7/2019
+https://www.googleapis.com/drive/v3/files/1_Du2C46xLxgY8zmotAsX6WOZSs5-FIhb?alt=media&key=AIzaSyAjFf07920oc2HsRE4pDQUJiahzlpoR9tY
+#EXTINF:-1 tvg-id="" tvg-name="Judgementall Hai Kya 22/7/2019" tvg-logo="https://i.imgur.com/7bBf0qA.jpg" group-title="Movies",Judgementall Hai Kya 22/7/2019
+https://www.googleapis.com/drive/v3/files/18EBvUe1SkdyG41Ti2P2GEa7x1XpZIIgU?alt=media&key=AIzaSyAjFf07920oc2HsRE4pDQUJiahzlpoR9tY
+#EXTINF:-1 tvg-id="" tvg-name="Super 30 6/7/2019" tvg-logo="https://i.imgur.com/wNPpr1t.jpg" group-title="Movies",Super 30 6/7/2019
+https://www.googleapis.com/drive/v3/files/13wvwRzamuyj53AzA_Ro7RXKpEeeK8r1_?alt=media&key=AIzaSyAXrR7rvxDZnVBfNqQOnf3jDJVU7eesJ1E
+#EXTINF:-1 tvg-id="" tvg-name="Malaal 5/7/2019" tvg-logo="https://subdl.com/p/sd340/sd340512.jpg" group-title="Movies",Malaal 5/7/2019
+https://www.googleapis.com/drive/v3/files/1jldh37Hj0fYC_KhBZ1BtXEmiOXWbkqCr?alt=media&key=AIzaSyAXrR7rvxDZnVBfNqQOnf3jDJVU7eesJ1E
 #EXTINF:-1 tvg-id="" tvg-name="Kalank 9/4/2019" tvg-logo="https://i.imgur.com/9RTqxRR.jpg?1" group-title="Movies",Kalank 9/4/2019
 https://www.googleapis.com/drive/v3/files/16eGTQumD3luwbES-7F7UBz2jkqv2DdsZ?alt=media&key=AIzaSyBMSQVDr63d8PaWuejpwLcJqLuzdj9YsiQ
