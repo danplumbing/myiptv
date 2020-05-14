@@ -64,7 +64,21 @@ https://www.googleapis.com/drive/v3/files/1o8iOrnPskeS1MViu7aNnD-wfq3YbK4mo?alt=
 https://www.googleapis.com/drive/v3/files/17AynMO6Ky8SXQM6259fjPxd-p_NcFi9d?alt=media&key=AIzaSyB3zifMe_Po3eJk8z-zNj2zLODmMKYceCc
 #EXTINF:-1 tvg-id="" tvg-name="Bypass Road 8/11/2019" tvg-logo="https://subdl.com/p/sd556/sd556657.jpg" group-title="Movies",Bypass Road 2019
 https://www.googleapis.com/drive/v3/files/1Tf7htXVvBNwS9S-qp2Vcz-JWJ6u7i8gE?alt=media&key=AIzaSyCHMRsNljmQoSdUCsuP9rBjv_-K6Oa0Jac
+#EXTINF:-1 tvg-id="" tvg-name="Bala 25/10/2019" tvg-logo="https://subdl.com/p/sd492/sd492156.jpg" group-title="Movies",Bala 25/10/2019
+https://www.googleapis.com/drive/v3/files/1BuxK8r4d2n1fr3c2eDUPjqtfKQsBF943?alt=media&key=AIzaSyCHMRsNljmQoSdUCsuP9rBjv_-K6Oa0Jac
+#EXTINF:-1 tvg-id="" tvg-name="Made in China 25/10/2019" tvg-logo="https://subdl.com/p/sd487/sd487738.jpg" group-title="Movies",Made in China 25/10/2019
+https://www.googleapis.com/drive/v3/files/1Ej6MxGSeN23ndO3lyuw6BM1mD3JlBxfj?alt=media&key=AIzaSyCHMRsNljmQoSdUCsuP9rBjv_-K6Oa0Jac
+#EXTINF:-1 tvg-id="" tvg-name="Terminator Dark Fate 23/10/2019" tvg-logo="https://i.imgur.com/xTqqVft.jpg" group-title="Movies",Terminator Dark Fate 23/10/2019
+https://www.googleapis.com/drive/v3/files/1A5YbjA_ZuTrrinp_ooDxEN--S-c1eRNP?alt=media&key=AIzaSyB9ida5jeh0h5q2C7bxTRWNGFB-xqTbpRU
+#EXTINF:-1 tvg-id="" tvg-name="Saand Ki Aankh 18/10/2019" tvg-logo="https://subdl.com/p/sd455/sd455354.jpg" group-title="Movies",Saand Ki Aankh 18/10/2019
+https://www.googleapis.com/drive/v3/files/1iJVjMQrCO_2qHobADcswsMZBe2bicZe8?alt=media&key=AIzaSyB9ida5jeh0h5q2C7bxTRWNGFB-xqTbpRU
+#EXTINF:-1 tvg-id="" tvg-name="Ghost 15/10/2019" tvg-logo="https://subdl.com/p/sd516/sd516760.jpg" group-title="Movies",Ghost 15/10/2019
+https://www.googleapis.com/drive/v3/files/1Et3DbIK3qwOxby_V-K6jj54d-IgTD_P9?alt=media&key=AIzaSyB9ida5jeh0h5q2C7bxTRWNGFB-xqTbpRU
 #EXTINF:-1 tvg-id="" tvg-name="Housefull 4 15/10/2019" tvg-logo="https://i.imgur.com/1XrzfH8.jpg" group-title="Movies",Housefull 4 15/10/2019
 https://www.googleapis.com/drive/v3/files/1hX_Ypt-tmTsg9mr-sTwteABUTmVUNDwn?alt=media&key=AIzaSyDHc_ZGUHsW_1Yy8FSL9Hht_wQzO9G3Dgs
+#EXTINF:-1 tvg-id="" tvg-name="Laal Kaptaan 11/10/2019" tvg-logo="https://i.imgur.com/yLfIBFi.jpg" group-title="Movies",Laal Kaptaan 11/10/2019
+https://www.googleapis.com/drive/v3/files/1jee4cZXbiZfQSzBYTaluk7wZX9zBkF3_?alt=media&key=AIzaSyBNjojnujdde3xh0N5zSkojfM_vHPzB008
+#EXTINF:-1 tvg-id="" tvg-name="The Sky Is Pink 11/10/2019" tvg-logo="https://i.imgur.com/fKGygEc.jpg" group-title="Movies",The Sky Is Pink 11/10/2019
+https://www.googleapis.com/drive/v3/files/128KB9dKBH9ESVPXxqz6LjB7UgOzTzVip?alt=media&key=AIzaSyBNjojnujdde3xh0N5zSkojfM_vHPzB008
 #EXTINF:-1 tvg-id="" tvg-name="Kalank 9/4/2019" tvg-logo="https://i.imgur.com/9RTqxRR.jpg?1" group-title="Movies",Kalank 9/4/2019
 https://www.googleapis.com/drive/v3/files/16eGTQumD3luwbES-7F7UBz2jkqv2DdsZ?alt=media&key=AIzaSyBMSQVDr63d8PaWuejpwLcJqLuzdj9YsiQ
