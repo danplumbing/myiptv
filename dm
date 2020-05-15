@@ -118,6 +118,8 @@ https://www.googleapis.com/drive/v3/files/13wvwRzamuyj53AzA_Ro7RXKpEeeK8r1_?alt=
 https://www.googleapis.com/drive/v3/files/1jldh37Hj0fYC_KhBZ1BtXEmiOXWbkqCr?alt=media&key=AIzaSyAXrR7rvxDZnVBfNqQOnf3jDJVU7eesJ1E
 #EXTINF:-1 tvg-id="" tvg-name="Article 15 28/6/2019" tvg-logo="https://subdl.com/p/sd294/sd294152.jpg" group-title="Movies",Article 15 28/6/2019
 https://www.googleapis.com/drive/v3/files/1Med2dqFs3n3hG7GVssGN3CfPIM1UcVIY?alt=media&key=AIzaSyAXrR7rvxDZnVBfNqQOnf3jDJVU7eesJ1E
+#EXTINF:-1 tvg-id="" tvg-name="Drive 28/6/2019" tvg-logo="https://subdl.com/p/sd371/sd371456.jpg" group-title="Movies"Drive 28/6/2019
+https://www.googleapis.com/drive/v3/files/1MI6lK2xGeIrNVWxlOx5VY3VF4mnzAYEd?alt=media&key=AIzaSyAo9qF1Peq9uUqMpoqZSbp8UcF2Jh5o6ag
 #EXTINF:-1 tvg-id="" tvg-name="Noblemen 28/6/2019" tvg-logo="https://subdl.com/p/sd510/sd510291.jpg" group-title="Movies",Noblemen 28/6/2019
 https://www.googleapis.com/drive/v3/files/15Ebd0rESmrvVxAL0NahvdWurJriBdjkD?alt=media&key=AIzaSyDmfWAIcOW6eChCkj-MPLoVo6uJWaLWUEw
 #EXTINF:-1 tvg-id="" tvg-name="One Day Justice Delivered 18/6/2019" tvg-logo="https://i.imgur.com/vibWw3L.jpg" group-title="Movies",One Day Justice Delivered 18/6/2019
@@ -156,6 +158,40 @@ https://www.googleapis.com/drive/v3/files/1Sn0p4_g-UdllA8CMSuiVe_jOtD5WAh9D?alt=
 https://www.googleapis.com/drive/v3/files/1y26reGEqJoIir5bXpdGvl8drghdGN5lx?alt=media&key=AIzaSyDzVTC47MuYMFjISIShG53j5fSdMHDdtcU
 #EXTINF:-1 tvg-id="" tvg-name="The Sholay Girl 8/3/2019" tvg-logo="https://i.imgur.com/6bQfaS7.jpg" group-title="Movies",The Sholay Girl 8/3/2019
 https://www.googleapis.com/drive/v3/files/1Xy3WFWqHAGt8PWtjlOPNKp6If2qOPGG4?alt=media&key=AIzaSyDzVTC47MuYMFjISIShG53j5fSdMHDdtcU
+#EXTINF:-1 tvg-id="" tvg-name="Luka Chuppi 19/2/2019" tvg-logo="https://subdl.com/p/sd257/sd257379.jpg" group-title="Movies",Luka Chuppi 19/2/2019
+https://www.googleapis.com/drive/v3/files/1j6HgBLi3KK8u2EarbNlM9xTvL7RPnUxb?alt=media&key=AIzaSyAo9qF1Peq9uUqMpoqZSbp8UcF2Jh5o6ag
+#EXTINF:-1 tvg-id="" tvg-name="Total Dhamaal 12/2/2019" tvg-logo="https://subdl.com/p/sd184/sd184100.jpg" group-title="Movies",Total Dhamaal 12/2/2019
+https://www.googleapis.com/drive/v3/files/12gGxa8DEJ7_C7krqEHVS_fGxGTDgzi55?alt=media&key=AIzaSyAo9qF1Peq9uUqMpoqZSbp8UcF2Jh5o6ag
+#EXTINF:-1 tvg-id="" tvg-name="Gully Boy 8/2/2019" tvg-logo="https://subdl.com/p/sd219/sd219180.jpg" group-title="Movies",Gully Boy 8/2/2019
+https://www.googleapis.com/drive/v3/files/1abeamT1-58xs7okkfUSqASQeAnfqR92l?alt=media&key=AIzaSyBwYQf_jyE3eYLgCmLM5UIftUHlMWYNxFc
+#EXTINF:-1 tvg-id="" tvg-name="Dosti Ke Side Effects 5/2/2019" tvg-logo="https://subdl.com/p/sd450/sd450377.jpg" group-title="Movies",Dosti Ke Side Effects 5/2/2019
+https://www.googleapis.com/drive/v3/files/1i2tdI9rVaa5uSKCMRLqZTAx_v2ga1yy6?alt=media&key=AIzaSyBwYQf_jyE3eYLgCmLM5UIftUHlMWYNxFc
+#EXTINF:-1 tvg-id="" tvg-name="Ek Ladki Ko Dekha Toh Aisa Laga 1/2/2019" tvg-logo="https://subdl.com/p/sd221/sd221381.jpg" group-title="Movies",Ek Ladki Ko Dekha Toh Aisa Laga 1/2/2019
+https://www.googleapis.com/drive/v3/files/1I-HV4pPCwDtOKgZFZ6p4Fl17c6zeWG1B?alt=media&key=AIzaSyBwYQf_jyE3eYLgCmLM5UIftUHlMWYNxFc
+#EXTINF:-1 tvg-id="" tvg-name="Sonchiriya 31/1/2019" tvg-logo="https://subdl.com/p/sd226/sd226075.jpg" group-title="Movies",Sonchiriya 31/1/2019
+https://www.googleapis.com/drive/v3/files/1w8CwA7dNRqV2hwHqBtFo3txcvbMgvV2k?alt=media&key=AIzaSyAwX0AqIASixuOljK7eFlQ119wxvuw6doU
+#EXTINF:-1 tvg-id="" tvg-name="Thackeray 25/1/2019" tvg-logo="https://subdl.com/p/sd225/sd225446.jpg" group-title="Movies",Thackeray 25/1/2019
+https://www.googleapis.com/drive/v3/files/1BIW9uO_9rZFYZi2MbL_nrEjeeCEo-cQt?alt=media&key=AIzaSyAwX0AqIASixuOljK7eFlQ119wxvuw6doU
+#EXTINF:-1 tvg-id="" tvg-name="Fraud Saiyyan 18/1/2019" tvg-logo="https://subdl.com/p/sd206/sd206862.jpg" group-title="Movies",Fraud Saiyyan 18/1/2019
+https://www.googleapis.com/drive/v3/files/15mbdkNyQP4FCAGErNo2YAZbo9lTo1nVj?alt=media&key=AIzaSyAwX0AqIASixuOljK7eFlQ119wxvuw6doU
+#EXTINF:-1 tvg-id="" tvg-name="Manikarnika The Queen of Jhansi 16/1/2019" tvg-logo="https://i.imgur.com/yjypjKu.jpg" group-title="Movies",Manikarnika The Queen of Jhansi 16/1/2019
+https://www.googleapis.com/drive/v3/files/1F33pwEZ5aK8s3XT-MBT5-BjbekeULKva?alt=media&key=AIzaSyB519aCMrz63xFZOgr2aGX8Gf6WvfgIGlI
+#EXTINF:-1 tvg-id="" tvg-name="72 Hours Martyr Who Never Died 14/01/2019" tvg-logo="https://i.imgur.com/WQfJWKS.jpg" group-title="Movies",72 Hours Martyr Who Never Died 14/01/2019
+https://www.googleapis.com/drive/v3/files/1IN8JYNZrz_VmP_aR0Y71hWQRQ3q3Bl0z?alt=media&key=AIzaSyB519aCMrz63xFZOgr2aGX8Gf6WvfgIGlI
+#EXTINF:-1 tvg-id="" tvg-name="706 11/01/2019" tvg-logo="https://i.imgur.com/dDrboIB.jpg" group-title="Movies",706 11/01/2019
+https://www.googleapis.com/drive/v3/files/1M9OxEQ_dcMrl5WScofQD1WiuKHuLsPKC?alt=media&key=AIzaSyB519aCMrz63xFZOgr2aGX8Gf6WvfgIGlI
+#EXTINF:-1 tvg-id="" tvg-name="Amavas 9/1/2019" tvg-logo="https://i.imgur.com/vZb6uFI.jpg" group-title="Movies",Amavas 9/1/2019
+https://www.googleapis.com/drive/v3/files/16S71fUUypMVpzeXDwALe6K2KUjGSeOJc?alt=media&key=AIzaSyCkyhZqbltow-6dlQQOnFExM3v-RR-NhPk
+#EXTINF:-1 tvg-id="" tvg-name="Petta 9/1/2019" tvg-logo="https://i.imgur.com/1Fmeemj.jpg" group-title="Movies",Petta 9/1/2019
+https://www.googleapis.com/drive/v3/files/1-CCN1O8QRhQrPqsSCzsj7Ih-PrvHE_F2?alt=media&key=AIzaSyCkyhZqbltow-6dlQQOnFExM3v-RR-NhPk
+#EXTINF:-1 tvg-id="" tvg-name="Why Cheat India 9/1/2019" tvg-logo="https://i.imgur.com/K61QVwq.jpg" group-title="Movies",Why Cheat India 9/1/2019
+https://www.googleapis.com/drive/v3/files/1_qG_gBLZL0sTWWbCvz_J_SWjL9KSSxuk?alt=media&key=AIzaSyCkyhZqbltow-6dlQQOnFExM3v-RR-NhPk
+#EXTINF:-1 tvg-id="" tvg-name="Marjaavaan 8/11/2019" tvg-logo="https://subdl.com/p/sd479/sd479261.jpg" group-title="Movies",Marjaavaan 8/11/2019
+https://www.googleapis.com/drive/v3/files/1wx0QAEDXG5qg5g7WuUgq9WZxiGKG_YfA?alt=media&key=AIzaSyAT-6yZBM_451ktSION65Mh7A2Ca756fxQ
+#EXTINF:-1 tvg-id="" tvg-name="Battalion 609 7/1/2019" tvg-logo="https://subdl.com/p/sd7/sd7701.jpg" group-title="Movies",Battalion 609 7/1/2019
+https://www.googleapis.com/drive/v3/files/1ZyLoje7bl1KBQPyg5JcBJ3-90CPBtWQe?alt=media&key=AIzaSyAT-6yZBM_451ktSION65Mh7A2Ca756fxQ
+
+
 
 
 
