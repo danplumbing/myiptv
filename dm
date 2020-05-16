@@ -38,6 +38,8 @@ https://www.googleapis.com/drive/v3/files/1tn7KPT-lp9U6zCTT3mVEebuMUPiOAUKi?alt=
 https://www.googleapis.com/drive/v3/files/1cYnpFlq9zf_v55tCv4v0JWXDA5eQHoge?alt=media&key=AIzaSyBMSQVDr63d8PaWuejpwLcJqLuzdj9YsiQ
 #EXTINF:-1 tvg-id="" tvg-name="Panga 30/12/2019" tvg-logo="https://subdl.com/p/sd560/sd560717.jpg" group-title="Movies",Panga 30/12/2019
 https://www.googleapis.com/drive/v3/files/1i3LK_IZqq8uvygRX52rD9krChys1As3i?alt=media&key=AIzaSyBMSQVDr63d8PaWuejpwLcJqLuzdj9YsiQ
+#EXTINF:-1 tvg-id="" tvg-name="The Accidental Prime Minister 27/12/2019" tvg-logo="https://subdl.com/p/sd225/sd225097.jpg" group-title="Movies",The Accidental Prime Minister 27/12/2019
+https://www.googleapis.com/drive/v3/files/1dziX3zWqWxVFf6QMXOcKyaKBpehopDTG?alt=media&key=AIzaSyATiRQIb68t6ILJeFT84CHg8ezTDHE73ns
 #EXTINF:-1 tvg-id="" tvg-name="Good Newwz 17/12/2019" tvg-logo="https://subdl.com/p/sd536/sd536494.jpg" group-title="Movies",Good Newwz 17/12/2019
 https://www.googleapis.com/drive/v3/files/1WwXsX4wEqBMyLXrVdJhG-lw_21UDPfpf?alt=media&key=AIzaSyB1jPSOSLSpKEeFnkXpiIDwIkoTvudoVKU
 #EXTINF:-1 tvg-id="" tvg-name="Dabangg 3 14/12/2019" tvg-logo="https://i.imgur.com/E1xqEjl.jpg" group-title="Movies",Dabangg 3 14/12/2019
@@ -124,10 +126,18 @@ https://www.googleapis.com/drive/v3/files/1MI6lK2xGeIrNVWxlOx5VY3VF4mnzAYEd?alt=
 https://www.googleapis.com/drive/v3/files/15Ebd0rESmrvVxAL0NahvdWurJriBdjkD?alt=media&key=AIzaSyDmfWAIcOW6eChCkj-MPLoVo6uJWaLWUEw
 #EXTINF:-1 tvg-id="" tvg-name="One Day Justice Delivered 18/6/2019" tvg-logo="https://i.imgur.com/vibWw3L.jpg" group-title="Movies",One Day Justice Delivered 18/6/2019
 https://www.googleapis.com/drive/v3/files/1eCijhBTXVUVvcVAr3IR-VIF30PM4QlOZ?alt=media&key=AIzaSyDmfWAIcOW6eChCkj-MPLoVo6uJWaLWUEw
+#EXTINF:-1 tvg-id="" tvg-name="Game Over 14/6/2019" tvg-logo="https://i.imgur.com/j6gSNth.jpg" group-title="Movies",Game Over 14/6/2019
+https://www.googleapis.com/drive/v3/files/1OqpBXr0JUgWnQqpZGvkG7_Gf5gNwhBqS?alt=media&key=AIzaSyATiRQIb68t6ILJeFT84CHg8ezTDHE73ns
+#EXTINF:-1 tvg-id="" tvg-name="Kabir Singh 13/6/2019" tvg-logo="https://subdl.com/p/sd256/sd256899.jpg" group-title="Movies",Kabir Singh 13/6/2019
+https://www.googleapis.com/drive/v3/files/1MDK4Fpk-9aDvtGEkSY1ym98NerK5461B?alt=media&key=AIzaSyATiRQIb68t6ILJeFT84CHg8ezTDHE73ns
+#EXTINF:-1 tvg-id="" tvg-name="Khamoshi 3/6/2019" tvg-logo="https://subdl.com/p/sd298/sd298554.jpg" group-title="Movies",Khamoshi 3/6/2019
+https://www.googleapis.com/drive/v3/files/1YccqhfoGtNu14zfhL73HUVBqJh1vszUT?alt=media&key=AIzaSyAQ2MM5RPHrHQIkEW5FS0yWdFps_F6TvZM
 #EXTINF:-1 tvg-id="" tvg-name="Chopsticks 31/5/2019" tvg-logo="https://subdl.com/p/sd260/sd260933.jpg" group-title="Movies",Chopsticks 31/5/2019
 https://www.googleapis.com/drive/v3/files/1b_3tEF_4N0uscdMzIZFihB-oajNEEES4?alt=media&key=AIzaSyDmfWAIcOW6eChCkj-MPLoVo6uJWaLWUEw
 #EXTINF:-1 tvg-id="" tvg-name="Bharat 23/5/2019" tvg-logo="https://i.imgur.com/FdCPHSc.jpg" group-title="Movies",Bharat 23/5/2019
 https://www.googleapis.com/drive/v3/files/11lqf4ZHlGUJ2yFWUde17AE_TV8-3Dkhk?alt=media&key=AIzaSyCw-g6wm8QwuF3oQrvCYD0qt6Y86_jyGBU
+#EXTINF:-1 tvg-id="" tvg-name="Once Again 16/5/2019" tvg-logo="https://subdl.com/p/sd486/sd486728.jpg" group-title="Movies",Once Again 16/5/2019
+https://www.googleapis.com/drive/v3/files/1kSrYwIgfgE3xtRo2fdi7koo-CV44MOko?alt=media&key=AIzaSyAQ2MM5RPHrHQIkEW5FS0yWdFps_F6TvZM
 #EXTINF:-1 tvg-id="" tvg-name="De De Pyaar De 7/5/2019" tvg-logo="https://i.imgur.com/YjFkdQ5.jpg" group-title="Movies",De De Pyaar De 7/5/2019
 https://www.googleapis.com/drive/v3/files/1JVpdByTilA2u5yL1m5-FhZ9lyAOUfxb9?alt=media&key=AIzaSyCw-g6wm8QwuF3oQrvCYD0qt6Y86_jyGBU
 #EXTINF:-1 tvg-id="" tvg-name="Indias Most Wanted 7/5/2019" tvg-logo="https://i.imgur.com/lUPN2Gl.jpg" group-title="Movies",Indias Most Wanted 7/5/2019
