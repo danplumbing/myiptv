@@ -20,6 +20,8 @@ https://www.googleapis.com/drive/v3/files/1QGRV0e8TH3l63KKaLrG-wD_1-qH3dk1Q?alt=
 https://www.googleapis.com/drive/v3/files/1d5OiuTd6egj9Z4uZmsNvzowYs-UBVg3v?alt=media&key=AIzaSyCY2E-jkbo7T0ycyhxcqzH01V8zzIwroGM
 #EXTINF:-1 tvg-id="" tvg-name="Shikara 7/2/2020" tvg-logo="https://subdl.com/p/sd620/sd620027.jpg" group-title="Movies",Shikara 7/2/2020
 https://www.googleapis.com/drive/v3/files/1NuE6mgSk-cvKKZTYUJtfrXWQpv0xXft1?alt=media&key=AIzaSyDdoC_D3BF2G6JePf6AOZI_rx04yqXPzsc
+#EXTINF:-1 tvg-id="" tvg-name="Malang 6/2/2020" tvg-logo="https://i.imgur.com/xWfDdS1.jpg" group-title="Movies",Malang 6/2/2020
+https://www.googleapis.com/drive/v3/files/1u5BbOvWBhY6yK0HiF4RRE-kjpBQUbcc5?alt=media&key=AIzaSyBi7PGbASUKT5r_0SUDN2MgpGydyqzIuuc
 #EXTINF:-1 tvg-id="" tvg-name="Jawaani Jaaneman 31/1/2020" tvg-logo="https://subdl.com/p/sd589/sd589322.jpg" group-title="Movies",Jawaani Jaaneman 31/1/2020
 https://www.googleapis.com/drive/v3/files/1rbXuyNjaxvc4Vu0LMxLAwCdamb7g7PNC?alt=media&key=AIzaSyD8g60Vn96KJtGnoFvPBLg4_NqW8EhD1RU
 #EXTINF:-1 tvg-id="" tvg-name="Hacked 31/1/2020" tvg-logo="https://subdl.com/p/sd613/sd613701.jpg" group-title="Movies",Hacked 31/1/2020
@@ -85,7 +87,7 @@ https://www.googleapis.com/drive/v3/files/128KB9dKBH9ESVPXxqz6LjB7UgOzTzVip?alt=
 #EXTINF:-1 tvg-id="" tvg-name="Sye Raa Narasimha Reddy 30/9/2019" tvg-logo="https://i.imgur.com/ApgKK90.jpg" group-title="Movies",Sye Raa Narasimha Reddy 30/9/2019
 https://www.googleapis.com/drive/v3/files/1B6fStD9wTCp2tqfGDwnwsrZtCByJ-Jh0?alt=media&key=AIzaSyDdoC_D3BF2G6JePf6AOZI_rx04yqXPzsc
 #EXTINF:-1 tvg-id="" tvg-name="War 23/9/2019" tvg-logo="https://subdl.com/p/sd405/sd405744.jpg" group-title="Movies",War 23/9/2019
-https://www.googleapis.com/drive/v3/files/15S9BfzmM_Oocn4XmgbXumYYtCA9cBPve?alt=media&key=AIzaSyCY2E-jkbo7T0ycyhxcqzH01V8zzIwroGM
+https://www.googleapis.com/drive/v3/files/15S9BfzmM_Oocn4XmgbXumYYtCA9cBPve?alt=media&key=AIzaSyAWwvWi55dyP8pNFc6PjFxUisepy9WU01o
 #EXTINF:-1 tvg-id="" tvg-name="The Family Man 20/9/2019" tvg-logo="https://i.imgur.com/j9utBoL.jpg" group-title="Movies",The Family Man 20/9/2019
 https://www.googleapis.com/drive/v3/files/1fLMDtMQ1xFa7A2gOUDI9D_myVvJruBKh?alt=media&key=AIzaSyBG8mJcHowLw9UWinEEmFrznoyZjcdyKWY
 #EXTINF:-1 tvg-id="" tvg-name="The Zoya Factor 20/9/2019" tvg-logo="https://subdl.com/p/sd409/sd409184.jpg" group-title="Movies",The Zoya Factor 20/9/2019
