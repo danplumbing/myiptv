@@ -1,7 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Soldiers 11/5/2020" tvg-logo="https://subdl.com/p/sd799/sd799104.jpg" group-title="Movies",Dragon Soldiers 11/5/2020
+https://www.googleapis.com/drive/v3/files/1OlC5LFYlKnFTv_9FltWA6E_vdoWZIaEQ?alt=media&key=AIzaSyDLJl9pVmm7rAWAZMwqav4rSyEEjGW-mS0
+#EXTINF:-1 tvg-id="" tvg-name="The Legion 8/5/2020" tvg-logo="https://i.imgur.com/5Ydy03H.jpg" group-title="Movies",The Legion 8/5/2020
+https://www.googleapis.com/drive/v3/files/13kXg5KFHpxdSbicxvp-1__FzBk0QpY2S?alt=media&key=AIzaSyBdyvV2jSFAN9plaekU4AabiCrozgnvyDE
+#EXTINF:-1 tvg-id="" tvg-name="Extraction 24/4/2020" tvg-logo="https://subdl.com/p/sd636/sd636302.jpg" group-title="Movies",Extraction 24/4/2020
+https://www.googleapis.com/drive/v3/files/1K4ULRhbMTy6rIVkQQxCOxkbBPfBvvBnb?alt=media&key=AIzaSyAJlqOlUfFytDPzdwYRCNav_9LORAiYH80
+#EXTINF:-1 tvg-id="" tvg-name="The Main Event 10/4/2020" tvg-logo="https://subdl.com/p/sd651/sd651102.jpg" group-title="Movies",The Main Event 10/4/2020
+https://www.googleapis.com/drive/v3/files/1DR24luLQMbJyFFRFrukrOHlI8orwN-NB?alt=media&key=AIzaSyAq95YyoBPBdczXbYO-F2DQc6OVVIRG1ys
+#EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem 3/4/2020" tvg-logo="https://i.imgur.com/D2dmLrS.jpg" group-title="Movies",Coffee & Kareem 3/4/2020
+https://www.googleapis.com/drive/v3/files/1oDJ-4PNz73Xma8gBMrgDqDVzsUEVXWri?alt=media&key=AIzaSyABgq-aPLFYzldqOBw98GAXq2AbN7btEsk
+#EXTINF:-1 tvg-id="" tvg-name="Shooting Heroin 3/4/2020" tvg-logo="https://i.imgur.com/OklIW3s.jpg" group-title="Movies",Shooting Heroin 3/4/2020
+https://www.googleapis.com/drive/v3/files/1zTURE_DpJ-rd2I_pzliZJD29BfiiBbZm?alt=media&key=AIzaSyARwORTyJDwGqq0sPdeFP3wToTjcAavvWE
 #EXTINF:-1 tvg-id="" tvg-name="Maska 27/3/2020" tvg-logo="https://subdl.com/p/sd588/sd588384.jpg" group-title="Movies",Maska 27/3/2020
 https://www.googleapis.com/drive/v3/files/1BE-u75GP1l3hoW7gjRGKKR7SsmC49gk4?alt=media&key=AIzaSyCTSUwvXrxPobJvxHRCg2bRCKyZYAiKLow
+#EXTINF:-1 tvg-id="" tvg-name="Bulletproof 2 20/3/2020" tvg-logo="https://subdl.com/p/sd470/sd470168.jpg" group-title="Movies",Bulletproof 2 20/3/2020
+https://www.googleapis.com/drive/v3/files/1RL2ri-Yd8GNa_jtli6yQ-Jt-32JPVUY6?alt=media&key=AIzaSyCcK8LFrEee3kUJhZnjiytoaxewS-5VQ2w
+#EXTINF:-1 tvg-id="" tvg-name="Bloodshot 13/3/2020" tvg-logo="https://subdl.com/p/sd533/sd533925.jpg" group-title="Movies",Bloodshot 13/3/2020
+https://www.googleapis.com/drive/v3/files/1pf67Umz1_-yYOLJeSrG34Phrh67NcHJ3?alt=media&key=AIzaSyD5a8dKEfnyr1azR5m8Xx_bm-rynzBjTTg
+#EXTINF:-1 tvg-id="" tvg-name="Bloodshot 2020" tvg-logo="https://subdl.com/p/sd533/sd533925.jpg" group-title="Movies",Bloodshot 2020
+https://www.googleapis.com/drive/v3/files/157sKOOSky-ZBBgRcb_Lk7-Y5MGXyMM55?alt=media&key=AIzaSyC7QSaFx3H8D4VC5XZB2Nyqe48HxdpUUB4
+#EXTINF:-1 tvg-id="" tvg-name="My Spy 13/3/2020" tvg-logo="https://subdl.com/p/sd636/sd636813.jpg" group-title="Movies",My Spy 13/3/2020
+https://www.googleapis.com/drive/v3/files/12v4wLbFckD0frP7yAVV0FiWqFd0mfutJ?alt=media&key=AIzaSyARLDrOb08MeQrBLoCBwkEKNaQOBoEAkF4
+#EXTINF:-1 tvg-id="" tvg-name="Final Kill 6/3/2020" tvg-logo="https://subdl.com/p/sd547/sd547968.jpg" group-title="Movies",Final Kill 6/3/2020
+https://www.googleapis.com/drive/v3/files/1WZ6joy_uij6v8VtSMHALbB2mUAS9YnvE?alt=media&key=AIzaSyDhnzY0X0rzn2uAHfBqEeP_I5vwc133cVo
 #EXTINF:-1 tvg-id="" tvg-name="Guilty 6/3/2020" tvg-logo="https://subdl.com/p/sd547/sd547413.jpg" group-title="Movies",Guilty 6/3/2020
 https://www.googleapis.com/drive/v3/files/1CJr0bzWfqdLk8dlb8FtA3YdPHbLE2_bo?alt=media&key=AIzaSyALaGbbU5i2tq7sv55BclGm4uO3IPQnlAc
 #EXTINF:-1 tvg-id="" tvg-name="Kaamyaab 6/3/2020" tvg-logo="https://subdl.com/p/sd635/sd635783.jpg" group-title="Movies",Kaamyaab 6/3/2020
@@ -10,26 +32,40 @@ https://www.googleapis.com/drive/v3/files/1v7T-Yt39b3DRN8Mm2WWgRAPoN2Dixall?alt=
 https://www.googleapis.com/drive/v3/files/1MEPT0hDytZu5e6XfX6J_NbPT1gviu3uW?alt=media&key=AIzaSyBv_L1XoeK-C4LWt7WzwJdAq3kXkY6GhSo
 #EXTINF:-1 tvg-id="" tvg-name="Baaghi 3 26/2/2020" tvg-logo="https://subdl.com/p/sd547/sd547988.jpg" group-title="Movies",Baaghi 3 26/2/2020
 https://www.googleapis.com/drive/v3/files/1YzYZxTrORWtL4P9cg17GTvo65exaNcLC?alt=media&key=AIzaSyDG9ju6MNEE9Gm22DVMTtu-E0cMOl92qt4
+#EXTINF:-1 tvg-id="" tvg-name="Rag Doll 26/2/2020" tvg-logo="https://subdl.com/p/sd546/sd546010.jpg" group-title="Movies",Rag Doll 26/2/2020
+https://www.googleapis.com/drive/v3/files/1n5m2ZNskY1f0dvZ86soRjt4MsVUi2uB8?alt=media&key=AIzaSyAKBWuM5Gn3YsM3dIEjwoUXDdOcYddXJTc
 #EXTINF:-1 tvg-id="" tvg-name="Thappad 17/2/2020" tvg-logo="https://subdl.com/p/sd562/sd562489.jpg" group-title="Movies",Thappad 17/2/2020
 https://www.googleapis.com/drive/v3/files/1SqMJfB12PgFnLZG5LS7UMJIej0LGgeP1?alt=media&key=AIzaSyCVSJtMqvpL5Epd9bBD46bh3WymKObGS5c
-#EXTINF:-1 tvg-id="" tvg-name="Shubh Mangal Zyada Saavdhan 14/2/2020" tvg-logo="https://subdl.com/p/sd690/sd690037.jpg" group-title="Movies",Shubh Mangal Zyada Saavdhan 14/2/2020
-https://www.googleapis.com/drive/v3/files/1m9AyWFcvIwJWerZN390xlYU-ZjE59Ipr?alt=media&key=AIzaSyBrMvXdNmcA-SJgwVHmI0yp-6a6GQ4U9bo
-#EXTINF:-1 tvg-id="" tvg-name="Love Aaj Kal 14/2/2020" tvg-logo="https://subdl.com/p/sd730/sd730703.jpg" group-title="Movies",Love Aaj Kal 14/2/2020
-https://www.googleapis.com/drive/v3/files/1QGRV0e8TH3l63KKaLrG-wD_1-qH3dk1Q?alt=media&key=AIzaSyBnEC_pDnuN21BoZ8Rp3nGAAjptCC7WQP8
 #EXTINF:-1 tvg-id="" tvg-name="Bhoot Part One The Haunted Ship 14/2/2020" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1jz1ChAwSL._RI_.jpg" group-title="Movies",Bhoot Part One The Haunted Ship 14/2/2020
 https://www.googleapis.com/drive/v3/files/1d5OiuTd6egj9Z4uZmsNvzowYs-UBVg3v?alt=media&key=AIzaSyCY2E-jkbo7T0ycyhxcqzH01V8zzIwroGM
+#EXTINF:-1 tvg-id="" tvg-name="Love Aaj Kal 14/2/2020" tvg-logo="https://subdl.com/p/sd730/sd730703.jpg" group-title="Movies",Love Aaj Kal 14/2/2020
+https://www.googleapis.com/drive/v3/files/1QGRV0e8TH3l63KKaLrG-wD_1-qH3dk1Q?alt=media&key=AIzaSyBnEC_pDnuN21BoZ8Rp3nGAAjptCC7WQP8
+#EXTINF:-1 tvg-id="" tvg-name="Shubh Mangal Zyada Saavdhan 14/2/2020" tvg-logo="https://subdl.com/p/sd690/sd690037.jpg" group-title="Movies",Shubh Mangal Zyada Saavdhan 14/2/2020
+https://www.googleapis.com/drive/v3/files/1m9AyWFcvIwJWerZN390xlYU-ZjE59Ipr?alt=media&key=AIzaSyBrMvXdNmcA-SJgwVHmI0yp-6a6GQ4U9bo
+#EXTINF:-1 tvg-id="" tvg-name="Sonic The Hedgehog 14/2/2020" tvg-logo="https://i.imgur.com/xhJfD2w.jpg" group-title="Movies",Sonic The Hedgehog 14/2/2020
+https://www.googleapis.com/drive/v3/files/1RCLbIsWyFVr1pP2r0luAoAXJEtbtE1Tg?alt=media&key=AIzaSyBoiozxVJ2092HW2_T-YTWgOzDCh5n1P34
 #EXTINF:-1 tvg-id="" tvg-name="Shikara 7/2/2020" tvg-logo="https://subdl.com/p/sd620/sd620027.jpg" group-title="Movies",Shikara 7/2/2020
 https://www.googleapis.com/drive/v3/files/1NuE6mgSk-cvKKZTYUJtfrXWQpv0xXft1?alt=media&key=AIzaSyDdoC_D3BF2G6JePf6AOZI_rx04yqXPzsc
+#EXTINF:-1 tvg-id="" tvg-name="Underwater 7/2/2020" tvg-logo="https://subdl.com/p/sd478/sd478169.jpg" group-title="Movies",Underwater 7/2/2020
+https://www.googleapis.com/drive/v3/files/1jr2BdRvHoTpQWPhA6nJEKYSXi7nJANnS?alt=media&key=AIzaSyD_x0bt3hCV7uI0dGKZwspi2NW86Z0Kb-I
 #EXTINF:-1 tvg-id="" tvg-name="Malang 6/2/2020" tvg-logo="https://i.imgur.com/xWfDdS1.jpg" group-title="Movies",Malang 6/2/2020
 https://www.googleapis.com/drive/v3/files/1u5BbOvWBhY6yK0HiF4RRE-kjpBQUbcc5?alt=media&key=AIzaSyBi7PGbASUKT5r_0SUDN2MgpGydyqzIuuc
-#EXTINF:-1 tvg-id="" tvg-name="Jawaani Jaaneman 31/1/2020" tvg-logo="https://subdl.com/p/sd589/sd589322.jpg" group-title="Movies",Jawaani Jaaneman 31/1/2020
-https://www.googleapis.com/drive/v3/files/1rbXuyNjaxvc4Vu0LMxLAwCdamb7g7PNC?alt=media&key=AIzaSyD8g60Vn96KJtGnoFvPBLg4_NqW8EhD1RU
 #EXTINF:-1 tvg-id="" tvg-name="Hacked 31/1/2020" tvg-logo="https://subdl.com/p/sd613/sd613701.jpg" group-title="Movies",Hacked 31/1/2020
 https://www.googleapis.com/drive/v3/files/1XGZADF5IxsswuiJTVnIS8qajp2I5jHtN?alt=media&key=AIzaSyBqxDWNbxu6mRdCLxrQxaeYzHw5zJgavMk
+#EXTINF:-1 tvg-id="" tvg-name="Jawaani Jaaneman 31/1/2020" tvg-logo="https://subdl.com/p/sd589/sd589322.jpg" group-title="Movies",Jawaani Jaaneman 31/1/2020
+https://www.googleapis.com/drive/v3/files/1rbXuyNjaxvc4Vu0LMxLAwCdamb7g7PNC?alt=media&key=AIzaSyD8g60Vn96KJtGnoFvPBLg4_NqW8EhD1RU
+#EXTINF:-1 tvg-id="" tvg-name="The Rhythm Section 31/1/2020" tvg-logo="https://subdl.com/p/sd499/sd499429.jpg" group-title="Movies",The Rhythm Section 31/1/2020
+https://www.googleapis.com/drive/v3/files/1dr6FcSVVbU-DmNwQcBLQsxV7VaoAl3XN?alt=media&key=AIzaSyDqYOGVkbWxKSEi6Z7Wi8zlgSgPk-Gnp4Q
+#EXTINF:-1 tvg-id="" tvg-name="Enter The Fat Dragon 23/1/2020" tvg-logo="https://i.imgur.com/eqzBFTd.jpg" group-title="Movies",Enter The Fat Dragon 23/1/2020
+https://www.googleapis.com/drive/v3/files/1JYm_CWyEAOjrGenxa3GOBAde605QvgHw?alt=media&key=AIzaSyBJWzQIEknmUzu_mWvKPXkqhgUS1gK9oDc
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life 17/1/2020" tvg-logo="https://i.imgur.com/ZGZ3PD3.jpg" group-title="Movies",Bad Boys for Life 17/1/2020
+https://www.googleapis.com/drive/v3/files/14HtxeqkajhlFh_HIrHosFQMNZxzMh1v9?alt=media&key=AIzaSyC08DAy1CN31QCOP5g0rhAFTD-3yMIrvh4
 #EXTINF:-1 tvg-id="" tvg-name="Street Dancer 3D 17/1/2020" tvg-logo="https://subdl.com/p/sd510/sd510807.jpg" group-title="Movies",Street Dancer 3D 17/1/2020
 https://www.googleapis.com/drive/v3/files/1ZI2uBrqdK34roMht-hxNLO8cTg-8LQm_?alt=media&key=AIzaSyBjxBNSlYwZj7s2mremdLR5Q3enVUuF5p4
 #EXTINF:-1 tvg-id="" tvg-name="Jai Mummy Di 16/1/2020" tvg-logo="https://subdl.com/p/sd556/sd556473.jpg" group-title="Movies",Jai Mummy Di 16/1/2020
 https://www.googleapis.com/drive/v3/files/1cAN-tXmE33mP8qU-i7W7p5ocw1l89cDz?alt=media&key=AIzaSyCMwkWU8iSkM3D712e1vp5hS5KM1noZQqM
+#EXTINF:-1 tvg-id="" tvg-name="Jesus 12/1/2020" tvg-logo="https://i.imgur.com/DgUSKXX.jpg" group-title="Movies",Jesus 12/1/2020
+https://www.googleapis.com/drive/v3/files/1KgLYDJTKltpRCGW0JPi2M7MVl3iEhlgq?alt=media&key=AIzaSyBUKAzQFLowsUbd6isnamadB80EfMtS2Cc
 #EXTINF:-1 tvg-id="" tvg-name="Tanhaji The Unsung Warrior 4/1/2020" tvg-logo="https://subdl.com/p/sd485/sd485004.jpg" group-title="Movies",Tanhaji The Unsung Warrior 4/1/2020
 https://www.googleapis.com/drive/v3/files/18vuQFzmfJicknBr9DxQkECFCh3GMgB7j?alt=media&key=AIzaSyAlbrr4v9sF-YAidyxMXJgkgl_hBvWKufs
 #EXTINF:-1 tvg-id="" tvg-name="Shimla Mirchi 3/1/2020" tvg-logo="https://subdl.com/p/sd504/sd504692.jpg" group-title="Movies",Shimla Mirchi 3/1/2020
