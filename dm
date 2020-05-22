@@ -238,4 +238,42 @@ https://www.googleapis.com/drive/v3/files/1adbJzTk9kAAxieZ_KeVnvX6AQrw0smnV?alt=
 https://www.googleapis.com/drive/v3/files/1wx0QAEDXG5qg5g7WuUgq9WZxiGKG_YfA?alt=media&key=AIzaSyCQ9JVKpgYXiwoGKEodat6jbVFW_bEOfOQ
 #EXTINF:-1 tvg-id="" tvg-name="Battalion 609 7/1/2019" tvg-logo="https://subdl.com/p/sd7/sd7701.jpg" group-title="Movies",Battalion 609 7/1/2019
 https://www.googleapis.com/drive/v3/files/1ZyLoje7bl1KBQPyg5JcBJ3-90CPBtWQe?alt=media&key=AIzaSyCREC28RTJDrXL_dgICSvbF_X_4_7D-U74
+#EXTINF:-1 tvg-id="" tvg-name="Uri The Surgical Strike 31/12/2018" tvg-logo="https://subdl.com/p/sd187/sd187394.jpg" group-title="Movies",Uri The Surgical Strike 31/12/2018
+https://www.googleapis.com/drive/v3/files/1h3xYK8bY24DF0BZKjXVlIdRL60bZ6W8w?alt=media&key=AIzaSyDm2r06CgqyiQdtFWMZ3uvZ2n2TfCnu_W8
+#EXTINF:-1 tvg-id="" tvg-name="22 Yards 28/12/2018" tvg-logo="https://subdl.com/p/sd368/sd368985.jpg" group-title="Movies",22 Yards 28/12/2018
+https://www.googleapis.com/drive/v3/files/1aM74KXbisiKRaZEMM7hQdqGo6umBWUqI?alt=media&key=AIzaSyDfnpGe0RiFj_w7PW4o96GnIOAB9dl1dkg
+#EXTINF:-1 tvg-id="" tvg-name="Simmba 24/12/2018" tvg-logo="https://subdl.com/p/sd116/sd116633.jpg" group-title="Movies",Simmba 24/12/2018
+https://www.googleapis.com/drive/v3/files/1qTAF58yBuv5RIVIbOncm-F3loMPDozNB?alt=media&key=AIzaSyAeb4AYCwLLMAozQjPwpirsWGxR14lJSlo
+#EXTINF:-1 tvg-id="" tvg-name="Zero 21/12/2018" tvg-logo="https://subdl.com/p/sd100/sd100536.jpg" group-title="Movies",Zero 21/12/2018
+https://www.googleapis.com/drive/v3/files/1ozuqGWDrlR8Rgr4KA0xTx7HQHhTCrEVi?alt=media&key=AIzaSyCUlOq7s6IK-XIPGIsPnvtzY2ABBRjR24M
+#EXTINF:-1 tvg-id="" tvg-name="K G F Chapter 1 20/12/2018" tvg-logo="https://i.imgur.com/xwcuN2X.jpg" group-title="Movies",K G F Chapter 1 20/12/2018
+https://www.googleapis.com/drive/v3/files/1U2ED8Fzqs_Ifw-mJ_BL_PRPCu4zR9uXT?alt=media&key=AIzaSyBaMuhniUIh1Pz81iV08jWQ9TaYgapX9e8
+#EXTINF:-1 tvg-id="" tvg-name="2.0 26/11/2018" tvg-logo="https://subdl.com/p/sd78/sd78203.jpg" group-title="Movies",2.0 26/11/2018
+https://www.googleapis.com/drive/v3/files/1A0HwqdBal5etiupH3Y8pX8cUqnw-Shz4?alt=media&key=AIzaSyDRV0yzC_3X_JOuFzLtVk-78gI0k4Z5adw
+#EXTINF:-1 tvg-id="" tvg-name="Bhaiaji Superhit 20/11/2018" tvg-logo="https://i.imgur.com/4EbknK4.jpg" group-title="Movies",Bhaiaji Superhit 20/11/2018
+https://www.googleapis.com/drive/v3/files/1ibxEwIv1SOhV4XLpKBC2MClrDzVMWwc6?alt=media&key=AIzaSyCxd2WUeBiyyitLryZO-N6bQSoIqrol6mg
+#EXTINF:-1 tvg-id="" tvg-name="Pihu 16/11/2018" tvg-logo="https://i.imgur.com/gRotfaj.jpg" group-title="Movies",Pihu 16/11/2018
+https://www.googleapis.com/drive/v3/files/1q29GEWpBY08I9NZjNaPJOaB49T0juqBx?alt=media&key=AIzaSyCI1eHXECwXjmDDiQ4n1um_zww1EGXa-rw
+#EXTINF:-1 tvg-id="" tvg-name="Thugs of Hindostan 5/11/2018" tvg-logo="https://subdl.com/p/sd52/sd52217.jpg" group-title="Movies",Thugs of Hindostan 5/11/2018
+https://www.googleapis.com/drive/v3/files/1gFioI_vObAYVlj0eGgU07Y3ZWjOLdH6l?alt=media&key=AIzaSyC8i_vWlL4VPkJnUQhPLQZz74jQb437S_Q
+#EXTINF:-1 tvg-id="" tvg-name="Lupt 2/11/2018" tvg-logo="https://i.imgur.com/qQhhBH7.jpg" group-title="Movies",Lupt 2/11/2018
+https://www.googleapis.com/drive/v3/files/1rz7Cp9Vbm9tmXaCMJKZHKTeT21ViVg6i?alt=media&key=AIzaSyDplGFs7f7VIOTssV6ggxC-smoCeEdwcbc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
