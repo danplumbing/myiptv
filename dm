@@ -258,19 +258,24 @@ https://www.googleapis.com/drive/v3/files/1q29GEWpBY08I9NZjNaPJOaB49T0juqBx?alt=
 https://www.googleapis.com/drive/v3/files/1gFioI_vObAYVlj0eGgU07Y3ZWjOLdH6l?alt=media&key=AIzaSyC8i_vWlL4VPkJnUQhPLQZz74jQb437S_Q
 #EXTINF:-1 tvg-id="" tvg-name="Lupt 2/11/2018" tvg-logo="https://i.imgur.com/qQhhBH7.jpg" group-title="Movies",Lupt 2/11/2018
 https://www.googleapis.com/drive/v3/files/1rz7Cp9Vbm9tmXaCMJKZHKTeT21ViVg6i?alt=media&key=AIzaSyDplGFs7f7VIOTssV6ggxC-smoCeEdwcbc
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="5 Weddings 26/10/2018" tvg-logo="https://subdl.com/p/sd103/sd103335.jpg" group-title="Movies",5 Weddings 26/10/2018
+https://www.googleapis.com/drive/v3/files/13TT8G0JBM-aKVv22IJKhg6p-U95iM0Vt?alt=media&key=AIzaSyDGdqAob2qIL-hgyzU1-KKI7KwtLyADkv8
+#EXTINF:-1 tvg-id="" tvg-name="Baazaar 26/10/2018" tvg-logo="https://i.imgur.com/dieH2Gc.jpg" group-title="Movies",Baazaar 26/10/2018
+https://www.googleapis.com/drive/v3/files/1loJ5TN9yaq9P4ey4CEuCupav3XauIpoQ?alt=media&key=AIzaSyAA_DnmGsNGafB7kBjXa_TfMCHS9olXd7I
+#EXTINF:-1 tvg-id="" tvg-name="Dassehra 23/10/2018" tvg-logo="https://i.imgur.com/EuFPoKo.jpg" group-title="Movies",Dassehra 23/10/2018
+https://www.googleapis.com/drive/v3/files/1fhFmd9faz4bA9NzR-CwlfGFEJcSsZv8w?alt=media&key=AIzaSyCYaKJrMe6cRwlP6c92vJmMrjpmS-jOxxQ
+#EXTINF:-1 tvg-id="" tvg-name="Namaste England 18/10/2018" tvg-logo="https://i.imgur.com/i96WANv.jpg" group-title="Movies",Namaste England 18/10/2018
+https://www.googleapis.com/drive/v3/files/1_oSFXEuFuNB4QZjLSFTsUP8DYbj_j_XC?alt=media&key=AIzaSyDu-ozStoHtbkyiYv9cZ1I_lzx5OD4YxhU
+#EXTINF:-1 tvg-id="" tvg-name="Rajma Chawal 13/10/2018" tvg-logo="https://subdl.com/p/sd83/sd83530.jpg" group-title="Movies",Rajma Chawal 13/10/2018
+https://www.googleapis.com/drive/v3/files/1_-S8tvTVglWMZBsCuh96laKdlKdBkr9l?alt=media&key=AIzaSyDF_iUtBlMbyUo4--8BXU-Q98IFOV2aP1s
+#EXTINF:-1 tvg-id="" tvg-name="Badhaai Ho 12/10/2018" tvg-logo="https://subdl.com/p/sd98/sd98502.jpg" group-title="Movies",Badhaai Ho 12/10/2018
+https://www.googleapis.com/drive/v3/files/1tnVR2_gpKJsGf9MZVQAwa872Zc5FW5aW?alt=media&key=AIzaSyC_ZpNH6gzhichzcFOmMvGx3rKR_7AGMs0
+#EXTINF:-1 tvg-id="" tvg-name="Kaalakaandi 12/10/2018" tvg-logo="https://subdl.com/p/sd5/sd5692.jpg" group-title="Movies",Kaalakaandi 12/10/2018
+https://www.googleapis.com/drive/v3/files/14LKGKBUS70dKaFdcUBzB4q-Zvy-aqgeh?alt=media&key=AIzaSyCWEAkJvlXtG9roT4xyTfR3Q62-EqUZwQ4
+#EXTINF:-1 tvg-id="" tvg-name="Tigers 12/10/2018" tvg-logo="https://subdl.com/p/sd106/sd106532.jpg" group-title="Movies",Tigers 12/10/2018
+https://www.googleapis.com/drive/v3/files/108O1wwzf4NL9GiLBCWX-XQmH8-aIa-XG?alt=media&key=AIzaSyCKky2v9APC2jRbyLXc0MWeGsoyicws6IU
+#EXTINF:-1 tvg-id="" tvg-name="FryDay 9/10/2018" tvg-logo="https://subdl.com/p/sd114/sd114164.jpg" group-title="Movies",FryDay 9/10/2018
+https://www.googleapis.com/drive/v3/files/1v788-vY2_zVxX6w-jEJPxuYMukFZSb58?alt=media&key=AIzaSyDS_ZbBxGu9TQ5aPx05OwqDXE2Bx2uVoZg
 
 
 
