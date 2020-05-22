@@ -276,8 +276,36 @@ https://www.googleapis.com/drive/v3/files/14LKGKBUS70dKaFdcUBzB4q-Zvy-aqgeh?alt=
 https://www.googleapis.com/drive/v3/files/108O1wwzf4NL9GiLBCWX-XQmH8-aIa-XG?alt=media&key=AIzaSyCKky2v9APC2jRbyLXc0MWeGsoyicws6IU
 #EXTINF:-1 tvg-id="" tvg-name="FryDay 9/10/2018" tvg-logo="https://subdl.com/p/sd114/sd114164.jpg" group-title="Movies",FryDay 9/10/2018
 https://www.googleapis.com/drive/v3/files/1v788-vY2_zVxX6w-jEJPxuYMukFZSb58?alt=media&key=AIzaSyDS_ZbBxGu9TQ5aPx05OwqDXE2Bx2uVoZg
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Andhadhun 28/9/2018" tvg-logo="https://subdl.com/p/sd98/sd98438.jpg" group-title="Movies",Andhadhun 28/9/2018
+https://www.googleapis.com/drive/v3/files/13VNKN2RSYtxrGhIgmB07GavqWeh8fZ5l?alt=media&key=AIzaSyAMPgWZArzbdY_ifAbzUyseuJbgBPeFGbo
+#EXTINF:-1 tvg-id="" tvg-name="Loveyatri 28/9/2018" tvg-logo="https://subdl.com/p/sd80/sd80652.jpg" group-title="Movies",Loveyatri 28/9/2018
+https://www.googleapis.com/drive/v3/files/16GfrvWEIrnu9PqH5pwdf2aRbPhlYMp9J?alt=media&key=AIzaSyAkqGbiNrkgj_qaZXtvnQ578aYUKvDnmrQ
+#EXTINF:-1 tvg-id="" tvg-name="Helicopter Eela 19/9/2018" tvg-logo="https://subdl.com/p/sd159/sd159195.jpg" group-title="Movies",Helicopter Eela 19/9/2018
+https://www.googleapis.com/drive/v3/files/1n4nDoyyo3wah9g8PMa099YqkZmO19UtN?alt=media&key=AIzaSyDeueSngvlSyRHvZfLdyhcm9zYBRlZo7VE
+#EXTINF:-1 tvg-id="" tvg-name="Dobaara 21/9/2018" tvg-logo="https://i.imgur.com/BHQ2qVt.jpg" group-title="Movies",Dobaara 21/9/2018
+https://www.googleapis.com/drive/v3/files/1nkF597S8UKFDr8SHl1Ysu6nPyVR8bN6H?alt=media&key=AIzaSyAAgzM4e-m0NoB0vD5RWvg_TGpmmwWLsXo
+#EXTINF:-1 tvg-id="" tvg-name="Manto 21/9/2018" tvg-logo="https://subdl.com/p/sd83/sd83341.jpg" group-title="Movies",Manto 21/9/2018
+https://www.googleapis.com/drive/v3/files/1i0xpFr4tl9B5vRnURN9k9lf0YG-plR6x?alt=media&key=AIzaSyDv_DXWZZMbA4qA6TiOg9x_t7nlpvJhQTE
+#EXTINF:-1 tvg-id="" tvg-name="Jalebi 19/9/2018" tvg-logo="https://subdl.com/p/sd94/sd94677.jpg" group-title="Movies",Jalebi 19/9/2018
+https://www.googleapis.com/drive/v3/files/1lRwXbe_rUyEb5I20Jdv10qnUIcInyvzY?alt=media&key=AIzaSyDWWETzh9ih_wiAP28MsWwh48sC96UgxCw
+#EXTINF:-1 tvg-id="" tvg-name="Pataakha 19/9/2018" tvg-logo="https://i.imgur.com/oirOMpn.jpg" group-title="Movies",Pataakha 19/9/2018
+https://www.googleapis.com/drive/v3/files/1hC8VqYcCJwav13S-wGqEjSUP0mYFXNKI?alt=media&key=AIzaSyCkigw6rrn6GmIG_XnO39zVML53dg9uZyU
+#EXTINF:-1 tvg-id="" tvg-name="Sui Dhaaga Made in India 19/9/2018" tvg-logo="https://i.imgur.com/PcGXaWA.jpg" group-title="Movies",Sui Dhaaga Made in India 19/9/2018
+https://www.googleapis.com/drive/v3/files/1hGZ1h93mjG5X_Lwi6vvyM8GbLCtSTFX-?alt=media&key=AIzaSyAL21sQDbNo1_0VkSuq6gQg7brawBJJdOk
+#EXTINF:-1 tvg-id="" tvg-name="Batti Gul Meter Chalu 14/9/2018" tvg-logo="https://i.imgur.com/7btLVug.jpg" group-title="Movies",Batti Gul Meter Chalu 14/9/2018
+https://www.googleapis.com/drive/v3/files/1tuKAo0jn5yPAVES5bnb5wVhZJMvAKByl?alt=media&key=AIzaSyAaYMGcrIYDyUbMH_7Wpqw38p2_AjFfsFM
+#EXTINF:-1 tvg-id="" tvg-name="Tumbbad 14/9/2018" tvg-logo="https://subdl.com/p/sd80/sd80240.jpg" group-title="Movies",Tumbbad 14/9/2018
+https://www.googleapis.com/drive/v3/files/1ULqla395wYSWBgbWtmyAHsUXS6U-pUEA?alt=media&key=AIzaSyAWO8qujrSx8Gd3NZEe2zoeWd5zileY2hc
+#EXTINF:-1 tvg-id="" tvg-name="Manmarziyaan 11/9/2018" tvg-logo="https://subdl.com/p/sd97/sd97721.jpg" group-title="Movies",Manmarziyaan 11/9/2018
+https://www.googleapis.com/drive/v3/files/1bwrFPbiyHEEoDI5WqATYbve1wSejX7uI?alt=media&key=AIzaSyAeDPPjaGFT4LezDMqSUcIowVqK7AFanZI
+#EXTINF:-1 tvg-id="" tvg-name="Mitron 11/9/2018" tvg-logo="https://subdl.com/p/sd63/sd63044.jpg" group-title="Movies",Mitron 11/9/2018
+https://www.googleapis.com/drive/v3/files/1aUM6WEWG5StMd31Mex11zJLnHzHzJXWf?alt=media&key=AIzaSyB2R6FeC0K5G-E9e0ZsbDktnqlr8w4Zrfw
+#EXTINF:-1 tvg-id="" tvg-name="Silvat 7/9/2018" tvg-logo="https://i.imgur.com/damVLPA.jpg" group-title="Movies",Silvat 7/9/2018
+https://www.googleapis.com/drive/v3/files/1C-eznet-e7CFuCCReiFLXQxHCVg2kfsC?alt=media&key=AIzaSyCGJqZ96as88Aj0kUEg8lGvJrxeVYNxDWw
+#EXTINF:-1 tvg-id="" tvg-name="Paltan 6/9/2018" tvg-logo="https://subdl.com/p/sd171/sd171665.jpg" group-title="Movies",Paltan 6/9/2018
+https://www.googleapis.com/drive/v3/files/14zr_TjSX-JrGkokP63FIeRP8QMS9qYbc?alt=media&key=AIzaSyAtlvnCzf8z0SG943APJHk9hqJBSyUQbho
+#EXTINF:-1 tvg-id="" tvg-name="Soni 5/9/2018" tvg-logo="https://subdl.com/p/sd148/sd148443.jpg" group-title="Movies",Soni 5/9/2018
+https://www.googleapis.com/drive/v3/files/1ocuscjQMAHD3Uf3C7OD--viOHcCkUOuY?alt=media&key=AIzaSyC4j0tZQiRujiEpSRHMm7oqWu2UefUMjRU
 
 
 
