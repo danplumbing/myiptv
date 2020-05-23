@@ -404,16 +404,16 @@ https://www.googleapis.com/drive/v3/files/1BLtiEPCCHS0HoVs9Y0sCmjsDtlHOcyud?alt=
 https://www.googleapis.com/drive/v3/files/18wLNB3x_hTjH_mBzHNTAXg_EwzGB1m3v?alt=media&key=AIzaSyDlM6zb-Malik0OzuuAKtCnbKaRqnA-moI
 #EXTINF:-1 tvg-id="" tvg-name="Pad Man 15/1/2018" tvg-logo="https://i.imgur.com/jBehVVr.jpg" group-title="Movies",Pad Man 15/1/2018
 https://www.googleapis.com/drive/v3/files/1v0MHqYEJtnDzhJZEaptWVO64oQkRoQwd?alt=media&key=AIzaSyB79Dl-m6CmtxFLiKeqd7SNFgCCN-Z6Nt0
-#EXTINF:-1 tvg-id="" tvg-name="Vodka Diaries 15/1/2018" tvg-https://subdl.com/p/sd84/sd84118.jpg" group-title="Movies",Vodka Diaries 15/1/2018
+#EXTINF:-1 tvg-id="" tvg-name="Vodka Diaries 15/1/2018" tvg-logo="https://subdl.com/p/sd84/sd84118.jpg" group-title="Movies",Vodka Diaries 15/1/2018
 https://www.googleapis.com/drive/v3/files/1o2fzePrSHW-PhmlxQ6Z9Vbpb7axd0-v6?alt=media&key=AIzaSyCOyWH0Ou3nRVYfFf_-4VCSTw-2ulwqKn0
-#EXTINF:-1 tvg-id="" tvg-name="Mohalla Assi 10/1/2018" tvg-https://i.imgur.com/tNmvbG1.jpg" group-title="Movies",Mohalla Assi 10/1/2018
+#EXTINF:-1 tvg-id="" tvg-name="Mohalla Assi 10/1/2018" tvg-logo="https://i.imgur.com/tNmvbG1.jpg" group-title="Movies",Mohalla Assi 10/1/2018
 https://www.googleapis.com/drive/v3/files/1EjibfdO1vDvWVh75bOoOU4x_6hwuyupe?alt=media&key=AIzaSyBygPIrDAYtRKp5KeCrHuEriiS-54gm9x4
-#EXTINF:-1 tvg-id="" tvg-name="Union Leader 8/1/2018" tvg-https://subdl.com/p/sd730/sd730130.jpg" group-title="Movies",Union Leader 8/1/2018
+#EXTINF:-1 tvg-id="" tvg-name="Union Leader 8/1/2018" tvg-logo="https://subdl.com/p/sd730/sd730130.jpg" group-title="Movies",Union Leader 8/1/2018
 https://www.googleapis.com/drive/v3/files/1lAdE6LLuekyuCGcPzLRkxxzTsT6x4n7A?alt=media&key=AIzaSyBlVnSV6MrVIu6eo7AAMUxNjgJrWhzFJ1A
-#EXTINF:-1 tvg-id="" tvg-name="1921 05/01/2018" tvg-https://subdl.com/p/sd75/sd75047.jpg" group-title="Movies",1921 05/01/2018
+#EXTINF:-1 tvg-id="" tvg-name="1921 05/01/2018" tvg-logo="https://subdl.com/p/sd75/sd75047.jpg" group-title="Movies",1921 05/01/2018
 https://www.googleapis.com/drive/v3/files/1zUfuvY8y6RtEg4mMPprlt9iRfmxArHA3?alt=media&key=AIzaSyCOF8_ys6cHZp0dnjdlgTWbb1BhTmLXu7s
-#EXTINF:-1 tvg-id="" tvg-name="Chupan Chupai 5/1/2018" tvg-https://i.imgur.com/yhm2HgQ.jpg" group-title="Movies",Chupan Chupai 5/1/2018
+#EXTINF:-1 tvg-id="" tvg-name="Chupan Chupai 5/1/2018" tvg-logo="https://i.imgur.com/yhm2HgQ.jpg" group-title="Movies",Chupan Chupai 5/1/2018
 https://www.googleapis.com/drive/v3/files/1o_OJ9x2vi6j3bGzbNZOY6vo2ASeenov5?alt=media&key=AIzaSyB7gYUaS4VXLHfI-LdT2pXCTLW3m7gk-hk
-#EXTINF:-1 tvg-id="" tvg-name="Haseena 5/1/2018" tvg-https://i.imgur.com/4DtRBv6.jpg" group-title="Movies",Haseena 5/1/2018
+#EXTINF:-1 tvg-id="" tvg-name="Haseena 5/1/2018" tvg-logo="https://i.imgur.com/4DtRBv6.jpg" group-title="Movies",Haseena 5/1/2018
 https://www.googleapis.com/drive/v3/files/1Q9en_UpHu3fI5y1MJiD28XwWr8pYD3Fr?alt=media&key=AIzaSyBoa7TQvcvWaEIjgFUEVfXUtTHmQGo5cWo
 
