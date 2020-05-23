@@ -364,8 +364,24 @@ https://www.googleapis.com/drive/v3/files/1jo8AK7NdQv4rCxKJL_U2w9MlFCHCAvDo?alt=
 https://www.googleapis.com/drive/v3/files/13ehEnkLyzxfF3a7q9UsOepMW6BSUZhpq?alt=media&key=AIzaSyCYkOBMeM7FGIMciqu6r6F4q20NKyqzRv4
 #EXTINF:-1 tvg-id="" tvg-name="Khido Khundi 20/4/2018" tvg-logo="https://i.imgur.com/XOC78tV.jpg" group-title="Movies",Khido Khundi 20/4/2018
 https://www.googleapis.com/drive/v3/files/19XPT0LIwsPdkB4t8E1gh95flklqVsNzH?alt=media&key=AIzaSyAR_uU7tyJmGvUGPEGqDOvy_TPcWxHaLBY
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Love Per Square Foot 20/4/2018" tvg-logo="https://subdl.com/p/sd9/sd9525.jpg" group-title="Movies",Love Per Square Foot 20/4/2018
+https://www.googleapis.com/drive/v3/files/11Ywuixl-segT3-U8vviZee9RvaNyqx4g?alt=media&key=AIzaSyAy5xk4zpJsj8nHNwU84_X1UCaByLfMLxw
+#EXTINF:-1 tvg-id="" tvg-name="Nanu Ki Jaanu 16/4/2018" tvg-logo="https://subdl.com/p/sd74/sd74301.jpg" group-title="Movies",Nanu Ki Jaanu 16/4/2018
+https://www.googleapis.com/drive/v3/files/1n3f3NWnXngss6RVoiyLDdEHZWwpaWfKk?alt=media&key=AIzaSyD710Bc20yuzNajiRbNZzjh1sSnnnn1w4c
+#EXTINF:-1 tvg-id="" tvg-name="Daas Dev 10/4/2018" tvg-logo="https://i.imgur.com/i4OpsGb.jpg" group-title="Movies",Daas Dev 10/4/2018
+https://www.googleapis.com/drive/v3/files/1Bfh4p43nnjcb7C87zqMT7qAtrfvLCQzz?alt=media&key=AIzaSyAzV6cBCe9DJGPCm6yCd2P5Y9gdqDDjVcQ
+#EXTINF:-1 tvg-id="" tvg-name="Missing 20/3/2018" tvg-logo="https://i.imgur.com/5qo06HU.jpg" group-title="Movies",Missing 20/3/2018
+https://www.googleapis.com/drive/v3/files/1ET_WBbS_Bc99wNyHOu9L-mwPZLshVoQR?alt=media&key=AIzaSyAOpf3VlZZMJogKJwFOye2oZXi66QO9Mbg
+#EXTINF:-1 tvg-id="" tvg-name="Baaghi 2 14/3/2018" tvg-logo="https://subdl.com/p/sd4/sd4953.jpg" group-title="Movies",Baaghi 2 14/3/2018
+https://www.googleapis.com/drive/v3/files/1ZKwYto9FDXBtQxHDNnqlF6vjcjdViJ3p?alt=media&key=AIzaSyBfRUUmTJQw9sbQPsDrwqQMSbv8Nv9GcaE
+#EXTINF:-1 tvg-id="" tvg-name="Blackmail 14/3/2018" tvg-logo="https://subdl.com/p/sd2/sd2854.jpg" group-title="Movies",Blackmail 14/3/2018
+https://www.googleapis.com/drive/v3/files/1MitfBY9ssB-RXKkkWA_BDa_GYWnJIb_J?alt=media&key=AIzaSyA9VslvZ5KN23vhWF4mA_vifnVyIRtVdXc
+#EXTINF:-1 tvg-id="" tvg-name="Dil Juunglee 9/3/2018" tvg-logo="https://subdl.com/p/sd159/sd159471.jpg" group-title="Movies",Dil Juunglee 9/3/2018
+https://www.googleapis.com/drive/v3/files/1gFJR10FbvtiAdYxtNgWmHlnT5J8bKJKT?alt=media&key=AIzaSyBUPhob3gWCViW4UvVNKygsXrM3faZZwvI
+#EXTINF:-1 tvg-id="" tvg-name="raid 8/3/2018" tvg-logo="https://subdl.com/p/sd6/sd6123.jpg" group-title="Movies",raid 8/3/2018
+https://www.googleapis.com/drive/v3/files/1f-sRC22az0owkk5TAwmzYRsU_95kBm9H?alt=media&key=AIzaSyBLxo4CZoIUI9llmYBYndCISNfdWEivKsg
+#EXTINF:-1 tvg-id="" tvg-name="Parmanu 6/3/2018" tvg-logo="https://subdl.com/p/sd4/sd4615.jpg" group-title="Movies",Parmanu 6/3/2018
+https://www.googleapis.com/drive/v3/files/1BkfT78cCJINDBPkDnHLUhqq2rKHGBkDs?alt=media&key=AIzaSyBZzIM2YFkT4O9tnxrNAobN4-8hxv0USgg
 
 
 
