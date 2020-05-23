@@ -284,6 +284,8 @@ https://www.googleapis.com/drive/v3/files/16GfrvWEIrnu9PqH5pwdf2aRbPhlYMp9J?alt=
 https://www.googleapis.com/drive/v3/files/1n4nDoyyo3wah9g8PMa099YqkZmO19UtN?alt=media&key=AIzaSyDeueSngvlSyRHvZfLdyhcm9zYBRlZo7VE
 #EXTINF:-1 tvg-id="" tvg-name="Dobaara 21/9/2018" tvg-logo="https://i.imgur.com/BHQ2qVt.jpg" group-title="Movies",Dobaara 21/9/2018
 https://www.googleapis.com/drive/v3/files/1nkF597S8UKFDr8SHl1Ysu6nPyVR8bN6H?alt=media&key=AIzaSyAAgzM4e-m0NoB0vD5RWvg_TGpmmwWLsXo
+#EXTINF:-1 tvg-id="" tvg-name="Ishqeria 15/1/2018" tvg-logo="https://subdl.com/p/sd319/sd319691.jpg" group-title="Movies",Ishqeria 15/1/2018
+https://www.googleapis.com/drive/v3/files/1s2vxjhz5oxfdxy7e9YiRiK4JpdNXjJXN?alt=media&key=AIzaSyAEIdzYrIQN8S4NQORXOFsWl_QDaH5CSFE
 #EXTINF:-1 tvg-id="" tvg-name="Manto 21/9/2018" tvg-logo="https://subdl.com/p/sd83/sd83341.jpg" group-title="Movies",Manto 21/9/2018
 https://www.googleapis.com/drive/v3/files/1i0xpFr4tl9B5vRnURN9k9lf0YG-plR6x?alt=media&key=AIzaSyDv_DXWZZMbA4qA6TiOg9x_t7nlpvJhQTE
 #EXTINF:-1 tvg-id="" tvg-name="Jalebi 19/9/2018" tvg-logo="https://subdl.com/p/sd94/sd94677.jpg" group-title="Movies",Jalebi 19/9/2018
@@ -382,6 +384,26 @@ https://www.googleapis.com/drive/v3/files/1gFJR10FbvtiAdYxtNgWmHlnT5J8bKJKT?alt=
 https://www.googleapis.com/drive/v3/files/1f-sRC22az0owkk5TAwmzYRsU_95kBm9H?alt=media&key=AIzaSyBLxo4CZoIUI9llmYBYndCISNfdWEivKsg
 #EXTINF:-1 tvg-id="" tvg-name="Parmanu 6/3/2018" tvg-logo="https://subdl.com/p/sd4/sd4615.jpg" group-title="Movies",Parmanu 6/3/2018
 https://www.googleapis.com/drive/v3/files/1BkfT78cCJINDBPkDnHLUhqq2rKHGBkDs?alt=media&key=AIzaSyBZzIM2YFkT4O9tnxrNAobN4-8hxv0USgg
+#EXTINF:-1 tvg-id="" tvg-name="Kedarnath 31/2/2018" tvg-logo="https://subdl.com/p/sd175/sd175071.jpg" group-title="Movies",Kedarnath 31/2/2018
+https://www.googleapis.com/drive/v3/files/1crCOU_0CeGYNvkZSvcMHSzlmdEkMLpVz?alt=media&key=AIzaSyDHvIrdCJoLOB2Kp1fSy9RN06DU5grGe-4
+#EXTINF:-1 tvg-id="" tvg-name="Hate Story 4 23/2/2018" tvg-logo="https://i.imgur.com/7vgLbxB.jpg" group-title="Movies",Hate Story 4 23/2/2018
+https://www.googleapis.com/drive/v3/files/1t-zuv3hmvb6wAEgjs5MWFKgBPF1jlibU?alt=media&key=AIzaSyAKEq55LA1GENdWfoCheHfI0lUkkK9T1lU
+#EXTINF:-1 tvg-id="" tvg-name="Garbage 17/2/2018" tvg-logo="https://i.imgur.com/5aztfJA.jpg" group-title="Movies",Garbage 17/2/2018
+https://www.googleapis.com/drive/v3/files/1h7ddxLLP7UmV6rImvENn27R3kf23_7YA?alt=media&key=AIzaSyBd6mtphE8kCgQfF09G9GA6DwVs8weW5Vo
+#EXTINF:-1 tvg-id="" tvg-name="Aiyaary 16/2/2018" tvg-logo="https://subdl.com/p/sd6/sd6034.jpg" group-title="Movies",Aiyaary 16/2/2018
+https://www.googleapis.com/drive/v3/files/1N6rmVsYGfB3rjJGMiDaXWjz15CJkLRn6?alt=media&key=AIzaSyDusI8yNrsfLZaSzRDnYc0GVgEpnBWwrKo
+#EXTINF:-1 tvg-id="" tvg-name="Kuch Bheege Alfaaz 16/2/2018" tvg-logo="https://i.imgur.com/csPqv5V.jpg" group-title="Movies",Kuch Bheege Alfaaz 16/2/2018
+https://www.googleapis.com/drive/v3/files/1jiMovUFXxpLochY3ZMABRNLaAliTqzTV?alt=media&key=AIzaSyANMHH5Jhk9DzKrFme8Fa1Om49dWI4fleI
+#EXTINF:-1 tvg-id="" tvg-name="Sonu Ke Titu Ki Sweety 16/2/2018" tvg-logo="https://subdl.com/p/sd10/sd10681.jpg" group-title="Movies",Sonu Ke Titu Ki Sweety 16/2/2018
+https://www.googleapis.com/drive/v3/files/1kLhmdjve5H_lV-VvCf2NJ2e-8i3DEfRc?alt=media&key=AIzaSyDoIUNVCuQfTVXJhsA-FoLUsRCahlNVaDI
+#EXTINF:-1 tvg-id="" tvg-name="For Here or to Go 14/2/2018" tvg-logo="https://i.imgur.com/a7IxPlB.jpg" group-title="Movies",For Here or to Go 14/2/2018
+https://www.googleapis.com/drive/v3/files/1Qh49tkPlI0spIOcrH05-XK2nAOr2_O8h?alt=media&key=AIzaSyBPlFJ201GIei_GAL7BRBtIFOpZ4Y3-nKQ
+#EXTINF:-1 tvg-id="" tvg-name="Veerey Ki Wedding 14/2/2018" tvg-logo="https://subdl.com/p/sd256/sd256278.jpg" group-title="Movies",Veerey Ki Wedding 14/2/2018
+https://www.googleapis.com/drive/v3/files/1BLtiEPCCHS0HoVs9Y0sCmjsDtlHOcyud?alt=media&key=AIzaSyCD57LoKAWN5MMlExXaB3LKNuaRNmoGEh0
+#EXTINF:-1 tvg-id="" tvg-name="Hichki 12/2/2018" tvg-logo="https://subdl.com/p/sd2/sd2552.jpg" group-title="Movies",Hichki 12/2/2018
+https://www.googleapis.com/drive/v3/files/18wLNB3x_hTjH_mBzHNTAXg_EwzGB1m3v?alt=media&key=AIzaSyDlM6zb-Malik0OzuuAKtCnbKaRqnA-moI
+
+
 
 
 
