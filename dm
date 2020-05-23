@@ -334,7 +334,30 @@ https://www.googleapis.com/drive/v3/files/13skUayy4y68NI1Efflq7malFen67DyEf?alt=
 https://www.googleapis.com/drive/v3/files/1oruRT9ejf69tjqMUP1rPkMG-D99jSO6_?alt=media&key=AIzaSyDZb6Huemx3Yv6pdMOV4mzds6AABfJQWgM
 #EXTINF:-1 tvg-id="" tvg-name="Teefa in Trouble 19/7/2018" tvg-logo="https://subdl.com/p/sd84/sd84713.jpg" group-title="Movies",Teefa in Trouble 19/7/2018
 https://www.googleapis.com/drive/v3/files/1qdhY0_wWL0hI_cFKCMTbfB87ztImCjhp?alt=media&key=AIzaSyBHxxl6S3DqvaGXsVX3K2jH-kLk98ckzx8
-
+#EXTINF:-1 tvg-id="" tvg-name="Soorma 13/7/2018" tvg-logo="https://subdl.com/p/sd27/sd27345.jpg" group-title="Movies",Soorma 13/7/2018
+https://www.googleapis.com/drive/v3/files/1-kCGPxajqJNxmR9z-6ECQ_A0SJ7g8Kfr?alt=media&key=AIzaSyBIsy03vtuJK1E3JvHrO2OaONeRyUVj2K4
+#EXTINF:-1 tvg-id="" tvg-name="Dhadak 11/7/2018" tvg-logo="https://i.imgur.com/NwFqMCd.jpg" group-title="Movies",Dhadak 11/7/2018
+https://www.googleapis.com/drive/v3/files/1-lH0ZuSZM1TK70OHHXBkNF1H5HJXgqvs?alt=media&key=AIzaSyDyvNAaqZW5ZcxhO4elIPfGuGAvpjjMv0M
+#EXTINF:-1 tvg-id="" tvg-name="Teri Bhabhi Hai Pagle 10/7/2018" tvg-logo="https://i.imgur.com/9C15Tw3.jpg" group-title="Movies",Teri Bhabhi Hai Pagle 10/7/2018
+https://www.googleapis.com/drive/v3/files/1EkgDXa8BlZw7sTDlO25VcUgLyLiilRMl?alt=media&key=AIzaSyD6dpwEeNotfrrmMEGIPixZnPDK-_ZRxs0
+#EXTINF:-1 tvg-id="" tvg-name="Sanju 28/6/2018" tvg-logo="https://subdl.com/p/sd10/sd10853.jpg" group-title="Movies",Sanju 28/6/2018
+https://www.googleapis.com/drive/v3/files/1-pAWItUElG02a7SzEsj2Ec-dorvV7VI3?alt=media&key=AIzaSyCOIGPOBtgCrqEDRYrwHeODTx9X6Kl2vSA
+#EXTINF:-1 tvg-id="" tvg-name="Carry On Jatta 2 28/5/2018" tvg-logo="https://i.imgur.com/pKwgIZz.jpg" group-title="Movies",Carry On Jatta 2 28/5/2018
+https://www.googleapis.com/drive/v3/files/15RnAibtqaVzSAbMDiB_mrUKzifl10GKi?alt=media&key=AIzaSyBnOyiCkaXWHft8FCHyq_iF_cEJwvBx1PM
+#EXTINF:-1 tvg-id="" tvg-name="Veere Di Wedding 23/5/2018" tvg-logo="https://subdl.com/p/sd6/sd6929.jpg" group-title="Movies",Veere Di Wedding 23/5/2018
+https://www.googleapis.com/drive/v3/files/1BQs1XwfWpiE7VNAIzfeBpPpVoZRt73rG?alt=media&key=AIzaSyBhWnfQrpC9WV-au0PBmGDUW95WHMteM18
+#EXTINF:-1 tvg-id="" tvg-name="High Jack 11/5/2018" tvg-logo="https://i.imgur.com/tbaSGRt.jpg" group-title="Movies",High Jack 11/5/2018
+https://www.googleapis.com/drive/v3/files/1Y4-u9ttE4UThVcxdIFmAssu5ajNP8b-X?alt=media&key=AIzaSyC2i53nEgNh5ygLUUS8lC02P8RiT4J-vlc
+#EXTINF:-1 tvg-id="" tvg-name="Hope Aur Hum 11/5/2018" tvg-logo="https://subdl.com/p/sd188/sd188668.jpg" group-title="Movies",Hope Aur Hum 11/5/2018
+https://www.googleapis.com/drive/v3/files/1PXjwTxGKDzwvo5SwXGysTulgdP5GU1ON?alt=media&key=AIzaSyBrQnaG8U5RRnjbMbuifdAoUFu8PCISudw
+#EXTINF:-1 tvg-id="" tvg-name="Love Sonia 7/5/2018" tvg-logo="https://subdl.com/p/sd148/sd148651.jpg" group-title="Movies",Love Sonia 7/5/2018
+https://www.googleapis.com/drive/v3/files/1i1n4g4A-XtLndkM-h-v6PMG2KTkZLxkb?alt=media&key=AIzaSyAjiJfPZ1CRWPnfNqUUj3Qf1P4TwWCkqmI
+#EXTINF:-1 tvg-id="" tvg-name="Khajoor Pe Atke 2/5/2018" tvg-logo="https://i.imgur.com/ZegPgma.jpg" group-title="Movies",Khajoor Pe Atke 2/5/2018
+https://www.googleapis.com/drive/v3/files/1QM9nj6klOrrrQ2MTcaUUHSMRzo_hSJ-3?alt=media&key=AIzaSyApMb4Z-zlSFg-KRkjdBAL0c-T9q9CeKJk
+#EXTINF:-1 tvg-id="" tvg-name="Daana Paani 1/5/2018" tvg-logo="https://subdl.com/p/sd161/sd161658.jpg" group-title="Movies",Daana Paani 1/5/2018
+https://www.googleapis.com/drive/v3/files/1UganDIFCaBRxmxXPyQSPl9-KRmgBMz1e?alt=media&key=AIzaSyAbiCaHNF8bo_q2BYOkW4SrRmWMkIYtp4U
+#EXTINF:-1 tvg-id="" tvg-name="The Past 26/4/2018" tvg-logo="https://i.imgur.com/0xlxTXx.jpg" group-title="Movies",The Past 26/4/2018
+https://www.googleapis.com/drive/v3/files/1IS9mhFL_0K6GBkmMl9R-maulSDXCxidi?alt=media&key=AIzaSyBcblWO4KUAza36QkudZ1V-BoWidc9nq14
 
 
 
