@@ -306,6 +306,42 @@ https://www.googleapis.com/drive/v3/files/1C-eznet-e7CFuCCReiFLXQxHCVg2kfsC?alt=
 https://www.googleapis.com/drive/v3/files/14zr_TjSX-JrGkokP63FIeRP8QMS9qYbc?alt=media&key=AIzaSyAtlvnCzf8z0SG943APJHk9hqJBSyUQbho
 #EXTINF:-1 tvg-id="" tvg-name="Soni 5/9/2018" tvg-logo="https://subdl.com/p/sd148/sd148443.jpg" group-title="Movies",Soni 5/9/2018
 https://www.googleapis.com/drive/v3/files/1ocuscjQMAHD3Uf3C7OD--viOHcCkUOuY?alt=media&key=AIzaSyC4j0tZQiRujiEpSRHMm7oqWu2UefUMjRU
+#EXTINF:-1 tvg-id="" tvg-name="Baarish Aur Chowmein 31/8/2018" tvg-logo="https://i.imgur.com/XOHiajM.jpg" group-title="Movies",Baarish Aur Chowmein 31/8/2018
+https://www.googleapis.com/drive/v3/files/1aH0gmr3_zqVJifaYFoR0WIlNFaHB6XmY?alt=media&key=AIzaSyDBo40TS29ujlzJyWwA-_JB_vk8u-pE3ls
+#EXTINF:-1 tvg-id="" tvg-name="Laila Majnu 30/8/2018" tvg-logo="https://i.imgur.com/L5HC5nB.jpg" group-title="Movies",Laila Majnu 30/8/2018
+https://www.googleapis.com/drive/v3/files/1m6QFR7tXrQsKu6blcRYJTdXQQVnbiMRS?alt=media&key=AIzaSyAbBRYKmv4WK1ohtkC0eu0gTH4X2KSt118
+#EXTINF:-1 tvg-id="" tvg-name="Stree 28/8/2018" tvg-logo="https://subdl.com/p/sd12/sd12203.jpg" group-title="Movies",Stree 28/8/2018
+https://www.googleapis.com/drive/v3/files/1MFgP-RYNnBlYd9FK_yx_VePEk19kk0jb?alt=media&key=AIzaSyBUeK4JQla5xLym060-uGWx5nuVv0hrH7c
+#EXTINF:-1 tvg-id="" tvg-name="Yamla Pagla Deewana Phir Se 28/8/2018" tvg-logo="https://i.imgur.com/y9xAgJx.jpg" group-title="Movies",Yamla Pagla Deewana Phir Se 28/8/2018
+https://www.googleapis.com/drive/v3/files/1ysKTSmhUwhVKdn1zPbYqnDLyG7doC2aE?alt=media&key=AIzaSyAUnpr_VSvXvdT-5BmwNwoBwu394afRmgY
+#EXTINF:-1 tvg-id="" tvg-name="Genius 20/8/2018" tvg-logo="https://i.imgur.com/cham299.jpg" group-title="Movies",Genius 20/8/2018
+https://www.googleapis.com/drive/v3/files/1Jo_BkEPgAaGIw7-cnOKiYAy80O3XP_K9?alt=media&key=AIzaSyCL7MElBZr1lYLaf_ZeGNAT6KA8xKpOSqA
+#EXTINF:-1 tvg-id="" tvg-name="Happy Phirr Bhag Jayegi 20/8/2018" tvg-logo="https://i.imgur.com/T026nUo.jpg" group-title="Movies",Happy Phirr Bhag Jayegi 20/8/2018
+https://www.googleapis.com/drive/v3/files/1uYD7_pNgYmz3rFLlWipgBvF2nrzBp1xj?alt=media&key=AIzaSyAc-qC83Kz6DtKPxR4do3o_yS1zhStW-ek
+#EXTINF:-1 tvg-id="" tvg-name="Gold 10/8/2018" tvg-logo="https://subdl.com/p/sd42/sd42462.jpg" group-title="Movies",Gold 10/8/2018
+https://www.googleapis.com/drive/v3/files/1Zfs8fhtfueJCRRqnXhASVBzveuK4NPFU?alt=media&key=AIzaSyBLok0-wD6ePcWJkTvgeV8U-AV26sCsCaQ
+#EXTINF:-1 tvg-id="" tvg-name="Satyameva Jayate 9/8/2018" tvg-logo="https://subdl.com/p/sd8/sd8029.jpg" group-title="Movies",Satyameva Jayate 9/8/2018
+https://www.googleapis.com/drive/v3/files/18EX_BzMYiTXbM66HtemgXmAIQmSJpqxK?alt=media&key=AIzaSyB8_fIX192QBPJD6fINnAowXBRU4vYupwk
+#EXTINF:-1 tvg-id="" tvg-name="Fanney Khan 30/7/2018" tvg-logo="https://subdl.com/p/sd12/sd12300.jpg" group-title="Movies",Fanney Khan 30/7/2018
+https://www.googleapis.com/drive/v3/files/1ij67PQT358InpJOq9jwoiLjWRpD8c1_z?alt=media&key=AIzaSyDcy8qfd5RJ95vVojC9ndbUS7hpIU_oVeY
+#EXTINF:-1 tvg-id="" tvg-name="Mulk 27/7/2018" tvg-logo="https://i.imgur.com/Nri5tAb.jpg" group-title="Movies",Mulk 27/7/2018
+https://www.googleapis.com/drive/v3/files/1uF9MRBby77zTVzVTmFnokzogoQ4_-Lau?alt=media&key=AIzaSyBH_HtQHcGq9rbxFHyhbGW-jB_0iPHdlT0
+#EXTINF:-1 tvg-id="" tvg-name="Saheb Biwi Aur Gangster 3 25/7/2018" tvg-logo="https://subdl.com/p/sd47/sd47981.jpg" group-title="Movies",Saheb Biwi Aur Gangster 3 25/7/2018
+https://www.googleapis.com/drive/v3/files/1H-6--Es9HIY3QVAsDd7FRbMn1r6qnZ7f?alt=media&key=AIzaSyAC1ThL-qT9wOGMHzSQ8tQNIjQL8x3rCqQ
+#EXTINF:-1 tvg-id="" tvg-name="Nawabzaade 24/7/2018" tvg-logo="https://subdl.com/p/sd302/sd302331.jpg" group-title="Movies",Nawabzaade 24/7/2018
+https://www.googleapis.com/drive/v3/files/13skUayy4y68NI1Efflq7malFen67DyEf?alt=media&key=AIzaSyC1T-rjEfd5IBgMv5E6CxjtOnpR6Osy684
+#EXTINF:-1 tvg-id="" tvg-name="Karwaan 19/7/2018" tvg-logo="https://subdl.com/p/sd18/sd18443.jpg" group-title="Movies",Karwaan 19/7/2018
+https://www.googleapis.com/drive/v3/files/1oruRT9ejf69tjqMUP1rPkMG-D99jSO6_?alt=media&key=AIzaSyDZb6Huemx3Yv6pdMOV4mzds6AABfJQWgM
+#EXTINF:-1 tvg-id="" tvg-name="Teefa in Trouble 19/7/2018" tvg-logo="https://subdl.com/p/sd84/sd84713.jpg" group-title="Movies",Teefa in Trouble 19/7/2018
+https://www.googleapis.com/drive/v3/files/1qdhY0_wWL0hI_cFKCMTbfB87ztImCjhp?alt=media&key=AIzaSyBHxxl6S3DqvaGXsVX3K2jH-kLk98ckzx8
+
+
+
+
+
+
+
+
 
 
 
