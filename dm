@@ -358,12 +358,12 @@ https://www.googleapis.com/drive/v3/files/1QM9nj6klOrrrQ2MTcaUUHSMRzo_hSJ-3?alt=
 https://www.googleapis.com/drive/v3/files/1UganDIFCaBRxmxXPyQSPl9-KRmgBMz1e?alt=media&key=AIzaSyAbiCaHNF8bo_q2BYOkW4SrRmWMkIYtp4U
 #EXTINF:-1 tvg-id="" tvg-name="The Past 26/4/2018" tvg-logo="https://i.imgur.com/0xlxTXx.jpg" group-title="Movies",The Past 26/4/2018
 https://www.googleapis.com/drive/v3/files/1IS9mhFL_0K6GBkmMl9R-maulSDXCxidi?alt=media&key=AIzaSyBcblWO4KUAza36QkudZ1V-BoWidc9nq14
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="102 Not Out 25/04/2018" tvg-logo="https://subdl.com/p/sd2/sd2588.jpg" group-title="Movies",102 Not Out 25/04/2018
+https://www.googleapis.com/drive/v3/files/1jo8AK7NdQv4rCxKJL_U2w9MlFCHCAvDo?alt=media&key=AIzaSyBszTOKcCPPO_LIRIxlH7HwE_0f-ECVCpo
+#EXTINF:-1 tvg-id="" tvg-name="Lashtam Pashtam 25/4/2018" tvg-logo="https://i.imgur.com/8mHZrYF.jpg" group-title="Movies",Lashtam Pashtam 25/4/2018
+https://www.googleapis.com/drive/v3/files/13ehEnkLyzxfF3a7q9UsOepMW6BSUZhpq?alt=media&key=AIzaSyCYkOBMeM7FGIMciqu6r6F4q20NKyqzRv4
+#EXTINF:-1 tvg-id="" tvg-name="Khido Khundi 20/4/2018" tvg-logo="https://i.imgur.com/XOC78tV.jpg" group-title="Movies",Khido Khundi 20/4/2018
+https://www.googleapis.com/drive/v3/files/19XPT0LIwsPdkB4t8E1gh95flklqVsNzH?alt=media&key=AIzaSyAR_uU7tyJmGvUGPEGqDOvy_TPcWxHaLBY
 
 
 
