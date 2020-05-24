@@ -426,9 +426,54 @@ https://www.googleapis.com/drive/v3/files/1naMrH84Ukp515OQFmff7yXNa14CraorW?alt=
 https://www.googleapis.com/drive/v3/files/1vRu3HZZGh4Hiqw8YzY4SVyIedOxLqBpJ?alt=media&key=AIzaSyCFUZbM39wWQklzIy2gER5VZdO-SjeHbZQ
 #EXTINF:-1 tvg-id="" tvg-name="Love And Shukla 13/10/2017" tvg-logo="https://subdl.com/p/sd517/sd517342.jpg" group-title="Movies",Love And Shukla 13/10/2017
 https://www.googleapis.com/drive/v3/files/1vpLihsb5rdH4NZwfex0sRu4gNblzg9Bq?alt=media&key=AIzaSyCIYUsfV4Mp2mZL-QAWM4M8GLHuGKZnFD0
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Chef 29/9/2017" tvg-logo="https://subdl.com/p/sd5/sd5450.jpg" group-title="Movies",Chef 29/9/2017
+https://www.googleapis.com/drive/v3/files/17IzsZvzAd-Bq4eoc26bp710HUsMGlRMY?alt=media&key=AIzaSyC8GUqBz8TeJCy0AcdhRYb4cc3yFfTRY9k
+#EXTINF:-1 tvg-id="" tvg-name="Bhoomi 22/9/2017" tvg-logo="https://subdl.com/p/sd5/sd5450.jpg" group-title="Movies",Bhoomi 22/9/2017
+https://www.googleapis.com/drive/v3/files/1dIMY7MOoz5e9euzGmYkc6N-X3wtKLIHA?alt=media&key=AIzaSyCLeLf8Pp5_FF83trmNmFMlJtgZ_EV0qQQ
+#EXTINF:-1 tvg-id="" tvg-name="B A  Pass 2 15/9/2017" tvg-logo="https://i.imgur.com/mMLDOrs.jpg" group-title="Movies",B A  Pass 2 15/9/2017
+https://www.googleapis.com/drive/v3/files/1p-1kgtN1TxnCcA-PwkP94MU9N3woSDbp?alt=media&key=AIzaSyAegBjrT9nfMuFL71apCkkZpJCC-7a7Chk
+#EXTINF:-1 tvg-id="" tvg-name="Baadshaho 1/9/2017" tvg-logo="https://subdl.com/p/sd18/sd18660.jpg" group-title="Movies",Baadshaho 1/9/2017
+https://www.googleapis.com/drive/v3/files/19xVzVNfbyYiUWwuh6Y0beSPcvivcWOFj?alt=media&key=AIzaSyCNw1o8nUqR_Imom5N19aO6KYcwpzpnWZ0
+#EXTINF:-1 tvg-id="" tvg-name="Shubh Mangal Saavdhan 24/8/2017" tvg-logo="https://i.imgur.com/9uus56y.jpg" group-title="Movies",Shubh Mangal Saavdhan 24/8/2017
+https://www.googleapis.com/drive/v3/files/17NVDOTEOTMxcfpRWg2UKPye-rUtXqWN2?alt=media&key=AIzaSyBSLTh9bYoAZ1J2MBm-c5z7zC2q11P-p6Y
+#EXTINF:-1 tvg-id="" tvg-name="Babumoshai Bandookbaaz 21/8/2017" tvg-logo="https://subdl.com/p/sd132/sd132086.jpg" group-title="Movies",Babumoshai Bandookbaaz 21/8/2017
+https://www.googleapis.com/drive/v3/files/1vzL7ccb8xPKffdWerM_TvIN3EP4a9L-_?alt=media&key=AIzaSyAm9zrKOppUh7wqxLQFkddUpPJAM1AkEAU
+#EXTINF:-1 tvg-id="" tvg-name="A Gentleman 16/8/2017" tvg-logo="https://subdl.com/p/sd18/sd18436.jpg" group-title="Movies",A Gentleman 16/8/2017
+https://www.googleapis.com/drive/v3/files/14WRE0fYZ1pjYh4KvzJC4M1NxtuJteReg?alt=media&key=AIzaSyChNDoYJMnuSlbNMVY0tS5603Z9xljrgxw
+#EXTINF:-1 tvg-id="" tvg-name="Bareilly Ki Barfi 14/8/2017" tvg-logo="https://subdl.com/p/sd11/sd11677.jpg" group-title="Movies",Bareilly Ki Barfi 14/8/2017
+https://www.googleapis.com/drive/v3/files/1kT9xTSgT3XNgFLeY0KCTAt9akkk9utVX?alt=media&key=AIzaSyAxwLH-p7cZN8s_lmq4hjjOgdI9XOGAK5s
+#EXTINF:-1 tvg-id="" tvg-name="Gurgaon 4/8/2017" tvg-logo="https://i.imgur.com/OtuBqZk.jpg" group-title="Movies",Gurgaon 4/8/2017
+https://www.googleapis.com/drive/v3/files/1Cc6t_SH6M6mGH1IOh8ipjmplMeRuOgGM?alt=media&key=AIzaSyAqAw7xo3Go_mpyR3K3GYo_ybkNXgIrE_8
+#EXTINF:-1 tvg-id="" tvg-name="Newton 13/7/2017" tvg-logo="https://subdl.com/p/sd12/sd12356.jpg" group-title="Movies",Newton 13/7/2017
+https://www.googleapis.com/drive/v3/files/1mdW-odtxL46Rxbtkn1RTOB-z254C_xPn?alt=media&key=AIzaSyCqVC6_jhqkGw5cU-8p4KKrT0TTW4iUB10
+#EXTINF:-1 tvg-id="" tvg-name="Awarapan 21/6/2007" tvg-logo="https://subdl.com/p/sd5/sd5932.jpg" group-title="Movies",Awarapan 21/6/2007
+https://www.googleapis.com/drive/v3/files/19sfTEZQOrMJXk7o-d717SZqDRWh5NxIK?alt=media&key=AIzaSyC8qeQ5yaNtaiMhq7jncWuEhOFDgAJXLkQ
+#EXTINF:-1 tvg-id="" tvg-name="Guest In London 21/6/2017" tvg-logo="https://i.imgur.com/kljhjX8.jpg" group-title="Movies",Guest In London 21/6/2017
+https://www.googleapis.com/drive/v3/files/1FadH935zNjXg6xqcqPLhZh8PR4pu4ZCF?alt=media&key=AIzaSyCaXwwPbo8BoBct6sNW1F-CN2OAsCAVMEY
+#EXTINF:-1 tvg-id="" tvg-name="The Wishing Tree 9/6/2017" tvg-logo="https://i.imgur.com/2XuP9pc.jpg" group-title="Movies",The Wishing Tree 9/6/2017
+https://www.googleapis.com/drive/v3/files/1rR3JhBj92aC77SeMsVkt3TnkecsiWANJ?alt=media&key=AIzaSyDYDX3PB_VlOlf7g4QwUoYzJP2SrDJip-g
+#EXTINF:-1 tvg-id="" tvg-name="Raabta 5/6/2017" tvg-logo="https://subdl.com/p/sd2/sd2802.jpg" group-title="Movies",Raabta 5/6/2017
+https://www.googleapis.com/drive/v3/files/1mbJsrUU9uRCay63GjgVCObPmrPf9tdmu?alt=media&key=AIzaSyAyBrGRxR__DVJw7Z0iGHRa2_9y0gJmF-g
+#EXTINF:-1 tvg-id="" tvg-name="Bank Chor 29/5/2017" tvg-logo="https://subdl.com/p/sd16/sd16511.jpg" group-title="Movies",Bank Chor 29/5/2017
+https://www.googleapis.com/drive/v3/files/1P7hgWGxttdBAoyLEBZ75hjS5dSM8wttK?alt=media&key=AIzaSyAsDc1102sAEPSaIg0BL84ypjUiosPevI0
+#EXTINF:-1 tvg-id="" tvg-name="Half Girlfriend 19/5/2017" tvg-logo="https://subdl.com/p/sd1/sd1931.jpg" group-title="Movies",Half Girlfriend 19/5/2017
+https://www.googleapis.com/drive/v3/files/1Xh24JtJvAaqffvzGb5zuwWk9IbfuOrp1?alt=media&key=AIzaSyCvVjFJtGayBTTWKrVH9t1w9eJSzBZwe_8
+#EXTINF:-1 tvg-id="" tvg-name="Sargoshiyan 8/5/2017" tvg-logo="https://subdl.com/p/sd807/sd807133.jpg" group-title="Movies",Sargoshiyan 8/5/2017
+https://www.googleapis.com/drive/v3/files/10WCQ_2Q3LlxtO90p0O8nZvgXRikIIwsT?alt=media&key=AIzaSyCQUHnME4Yhsfw3xfrevRGNXmVaZPYoKBM
+#EXTINF:-1 tvg-id="" tvg-name="Sarkar 3 8/5/2017" tvg-logo="https://subdl.com/p/sd12/sd12174.jpg" group-title="Movies",Sarkar 3 8/5/2017
+https://www.googleapis.com/drive/v3/files/12N84Ddh-zIEkaGbgqdv_t4Y68GwAq9WP?alt=media&key=AIzaSyBWuZ8bKBBJYuPMcPEOOPlNLP-N3cWpPco
+#EXTINF:-1 tvg-id="" tvg-name="Begum Jaan 14/4/2017" tvg-logo="https://subdl.com/p/sd3/sd3334.jpg" group-title="Movies",Begum Jaan 14/4/2017
+https://www.googleapis.com/drive/v3/files/187FbY6H4Z3I_7ej2iyU2x8R0LIwH9l7d?alt=media&key=AIzaSyCi14wKmcSPackkC3DrSn3dSNNbEHcGhYY
+#EXTINF:-1 tvg-id="" tvg-name="Manje Bistre 14/4/2017" tvg-logo="https://i.imgur.com/3oihw9f.jpg" group-title="Movies",Manje Bistre 14/4/2017
+https://www.googleapis.com/drive/v3/files/1ZcMA_-eoUbL2X2CGWYk4IDhqlcHFE_F3?alt=media&key=AIzaSyD_d0FxczPzZsL03yAwQ1tgIyiDuekd0wg
+#EXTINF:-1 tvg-id="" tvg-name="Badrinath Ki Dulhania 1/3/2017" tvg-logo="https://subdl.com/p/sd2/sd2892.jpg" group-title="Movies",Badrinath Ki Dulhania 1/3/2017
+https://www.googleapis.com/drive/v3/files/1GwdmpBY_4DKRbCj1vuZsqkEbzin6uCVz?alt=media&key=AIzaSyCjikVpI4y4Ejvplu0McROe6OgREUbnvTA
+#EXTINF:-1 tvg-id="" tvg-name="Commando 2 27/2/2017" tvg-logo="https://subdl.com/p/sd4/sd4315.jpg" group-title="Movies",Commando 2 27/2/2017
+https://www.googleapis.com/drive/v3/files/1sJ-9AzcQfpDB54tSRzNWvSRzSY6AivqW?alt=media&key=AIzaSyAAJEm2UApaxCFMzDxKbOfT5j6izxeroq0
+#EXTINF:-1 tvg-id="" tvg-name="Bhouri 24/2/2017" tvg-logo="https://subdl.com/p/sd474/sd474863.jpg" group-title="Movies",Bhouri 24/2/2017
+https://www.googleapis.com/drive/v3/files/1dIMY7MOoz5e9euzGmYkc6N-X3wtKLIHA?alt=media&key=AIzaSyCBqBzf76tx6Rl5U-4NRtShb02zvmnTdnc
+#EXTINF:-1 tvg-id="" tvg-name="Coffee with D 10/1/2017" tvg-logo="https://i.imgur.com/MCffBf3.jpg" group-title="Movies",Coffee with D 10/1/2017
+https://www.googleapis.com/drive/v3/files/16440CxqYREfSYNFcJ1fbbODRjamJMH27?alt=media&key=AIzaSyD992fVbm0OntqqMFSChpOtweHe2U1PHMM
 
 
 
