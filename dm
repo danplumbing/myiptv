@@ -492,13 +492,72 @@ https://www.googleapis.com/drive/v3/files/1ZUUt9VKxtCj5bLiJiq82kzk4mw7S2JbC?alt=
 https://www.googleapis.com/drive/v3/files/1r2ZyMQ1c4rAquy5gZXxmtytg5sXmrUF8?alt=media&key=AIzaSyD5PPSEJs9b3O-kpq14OJSvNOMLIePho2g
 #EXTINF:-1 tvg-id="" tvg-name="Dongri Ka Raja 8/11/2016" tvg-logo="https://subdl.com/p/sd13/sd13945.jpg" group-title="Movies",Dongri Ka Raja 8/11/2016
 https://www.googleapis.com/drive/v3/files/1UZDxfXll2_pgzmXeJPftUwVpsW6Ziphw?alt=media&key=AIzaSyA6BO0rfFFgImuZR4J5J2W8eYwtFfNxg4M
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="AE DIL HAI MUSHKIL 14/10/2016" tvg-logo="https://i.imgur.com/I1u58pF.jpg" group-title="Movies",AE DIL HAI MUSHKIL 14/10/2016
+https://www.googleapis.com/drive/v3/files/1H5subvrAwTLuLSZZaq29Lyk4gWX9LikU?alt=media&key=AIzaSyDAc4kgrCl8NE_SJYni7jdLyee7amQ_f1w
+#EXTINF:-1 tvg-id="" tvg-name="Banjo 15/9/2016" tvg-logo="https://subdl.com/p/sd6/sd6799.jpg" group-title="Movies",Banjo 15/9/2016
+https://www.googleapis.com/drive/v3/files/1_0Ok7HRXrbA4ozeeqV-VHcQapJublR9G?alt=media&key=AIzaSyBr6DzxhlYT_CFvJ5k44ebtMS9gF3OL8Og
+#EXTINF:-1 tvg-id="" tvg-name="Beiimaan Love 9/9/2016" tvg-logo="https://i.imgur.com/j8nXECV.jpg" group-title="Movies",Beiimaan Love 9/9/2016
+https://www.googleapis.com/drive/v3/files/1s1htWSwhouVxzDbn6D8mZkQb8THUBoY7?alt=media&key=AIzaSyBCWrlCl9VuZhsX9ryQIsYsOTiPc3AF6as
+#EXTINF:-1 tvg-id="" tvg-name="Baar Baar Dekho 30/8/2016" tvg-logo="https://subdl.com/p/sd11/sd11033.jpg" group-title="Movies",Baar Baar Dekho 30/8/2016
+https://www.googleapis.com/drive/v3/files/1qXKcAvXCQMsH7ZdxnFWjJ6a81rfBxcYk?alt=media&key=AIzaSyDwWTmYfUlZqQhyL_0DdEyqXKjeNqOPdK0
+#EXTINF:-1 tvg-id="" tvg-name="Akira 26/8/2016" tvg-logo="https://subdl.com/p/sd1/sd1100.jpg" group-title="Movies",Akira 26/8/2016
+https://www.googleapis.com/drive/v3/files/1O5QOS3Prv_9l4GBf5okqLvpFAdohBBil?alt=media&key=AIzaSyD_pNVVptZMajggjr3L1ogbNxDUV6lEvjM
+#EXTINF:-1 tvg-id="" tvg-name="A Flying Jatt 25/08/2016" tvg-logo="https://subdl.com/p/sd3/sd3542.jpg" group-title="Movies",A Flying Jatt 25/08/2016
+https://www.googleapis.com/drive/v3/files/19dSUqliPztTXspf2EYclXyk8ReXNzdv6?alt=media&key=AIzaSyAwTI_vwtETG7POPXWwBWA3_5WQv4fzwXE
+#EXTINF:-1 tvg-id="" tvg-name="Dishoom 21/7/2016" tvg-logo="https://subdl.com/p/sd5/sd5262.jpg" group-title="Movies",Dishoom 21/7/2016
+https://www.googleapis.com/drive/v3/files/1DSE0KeJ8wHaLgyBr02L57iwjuBSC9PdH?alt=media&key=AIzaSyAG8pxEJjzGm51LUlM83U3W-iOXqPI_WLw
+#EXTINF:-1 tvg-id="" tvg-name="Fever 8/7/2016" tvg-logo="https://subdl.com/p/sd103/sd103431.jpg" group-title="Movies",Fever 8/7/2016
+https://www.googleapis.com/drive/v3/files/19uatGqtx8tJLjNh9PoV3UgPf6bm5ocxX?alt=media&key=AIzaSyDssVklbcguHgMKC8qPg6ASODEFl3ZokTA
+#EXTINF:-1 tvg-id="" tvg-name="Guddu Ki Gun 30/6/2016" tvg-logo="https://subdl.com/p/sd196/sd196814.jpg" group-title="Movies",Guddu Ki Gun 30/6/2016
+https://www.googleapis.com/drive/v3/files/1s86XoUypfmJsJSFRMs3AauYfsgnmmCV6?alt=media&key=AIzaSyBC-w1XLAAUGE-kCzyml93R1HpFgc2ok6E
+#EXTINF:-1 tvg-id="" tvg-name="A Scandall 24/06/2016" tvg-logo="https://subdl.com/p/sd374/sd374515.jpg" group-title="Movies",A Scandall 24/06/2016
+https://www.googleapis.com/drive/v3/files/1KI9vhSzbsu7VsjutTW6i2alTmbpIPDtj?alt=media&key=AIzaSyD9EbAahZat-NZoqxGDHjd3g1EJVH84KAo
+#EXTINF:-1 tvg-id="" tvg-name="Udta Punjab 15/6/2016" tvg-logo="https://subdl.com/p/sd4/sd4927.jpg" group-title="Movies",Udta Punjab 15/6/2016
+https://www.googleapis.com/drive/v3/files/1VOktEtFCA10fhApzm5xUq_kULAGRIPhj?alt=media&key=AIzaSyCDuIL_9HetuxQfTdNgBGJrw4ifDU7O72A
+#EXTINF:-1 tvg-id="" tvg-name="7 Hours To Go 14/06/2016" tvg-logo="https://i.imgur.com/b68RBYM.jpg" group-title="Movies",7 Hours To Go 14/06/2016
+https://www.googleapis.com/drive/v3/files/1YfMzoCiBDkMyru-ZZR4SNsmkM-HOCvGW?alt=media&key=AIzaSyBXOH8s2o-K887geyGFQN_wrjzeYlaScTE
+#EXTINF:-1 tvg-id="" tvg-name="Junooniyat 10/6/2016" tvg-logo="https://subdl.com/p/sd16/sd16681.jpg" group-title="Movies",Junooniyat 10/6/2016
+https://www.googleapis.com/drive/v3/files/1YDrZAp_h5rd5M5zdAMpe2uDkY53s1RLm?alt=media&key=AIzaSyDPMqcW0gC9t4D5OIrKq7VZ-uDp2cpPLOU
+#EXTINF:-1 tvg-id="" tvg-name="Housefull 3 26/5/2016" tvg-logo="https://subdl.com/p/sd176/sd176637.jpg" group-title="Movies",Housefull 3 26/5/2016
+https://www.googleapis.com/drive/v3/files/1tQgfukWZgaVwfy-xTOaJlf_vkoh_dp1H?alt=media&key=AIzaSyDR2GwSUgW3kM_BlVTRJn1ALuE3-L1Wbio
+#EXTINF:-1 tvg-id="" tvg-name="Buddha in a Traffic Jam 13/5/2016" tvg-logo="https://subdl.com/p/sd74/sd74422.jpg" group-title="Movies",Buddha in a Traffic Jam 13/5/2016
+https://www.googleapis.com/drive/v3/files/1NlIcDWdpCqXn6NUzA6q8QXFV_KJXrFg2?alt=media&key=AIzaSyDOJdyY1w7HlHZ-IKO0DZFhVipRXYWeImA
+#EXTINF:-1 tvg-id="" tvg-name="Sarbjit 11/5/2016" tvg-logo="https://subdl.com/p/sd52/sd52892.jpg" group-title="Movies",Sarbjit 11/5/2016
+https://www.googleapis.com/drive/v3/files/1-zJgDrprzNZsDhCfSEtwnBVwYDhdIuK7?alt=media&key=AIzaSyCThhmnqAxpiZca0JcMqiMT8StKplc15jo
+#EXTINF:-1 tvg-id="" tvg-name="Azhar 6/5/2016" tvg-logo="https://subdl.com/p/sd374/sd374570.jpg" group-title="Movies",Azhar 6/5/2016
+https://www.googleapis.com/drive/v3/files/1AxKMqPW8ChmvYygHZPxqiFLcGAohqram?alt=media&key=AIzaSyCizIz_vo71peF1PIfQ0m2pM5zoYYnbJZQ
+#EXTINF:-1 tvg-id="" tvg-name="1920 London 26/04/2016" tvg-logo="https://subdl.com/p/sd9/sd9394.jpg" group-title="Movies",1920 London 26/04/2016
+https://www.googleapis.com/drive/v3/files/1oCjJXd21CMvQmUrvOqMHOAAjMccobkFQ?alt=media&key=AIzaSyCagCVUY6KTgc5lea5mLs3YktsY-MrjPZ0
+#EXTINF:-1 tvg-id="" tvg-name="Baaghi 18/4/2016" tvg-logo="https://subdl.com/p/sd1/sd1745.jpg" group-title="Movies",Baaghi 18/4/2016
+https://www.googleapis.com/drive/v3/files/1VtVgNJt9fg8HpiITkXBobDlxNxf49zuR?alt=media&key=AIzaSyCKCyIySHdwYXEnCm5OcELO-7_MHIQ6D80
+#EXTINF:-1 tvg-id="" tvg-name="Chudail Story 13/4/2016" tvg-logo="https://subdl.com/p/sd708/sd708328.jpg" group-title="Movies",Chudail Story 13/4/2016
+https://www.googleapis.com/drive/v3/files/1B5kuJx_Ytp-z87pXsKyjkp0w9ru3ajek?alt=media&key=AIzaSyAi0bOZfGR8A88bCR19L-jSTHwI6gnutOw
+#EXTINF:-1 tvg-id="" tvg-name="Fan 7/4/2016" tvg-logo="https://subdl.com/p/sd8/sd8093.jpg" group-title="Movies",Fan 7/4/2016
+https://www.googleapis.com/drive/v3/files/1DYmrQsrK_wE1yurSxvdODA0C6QLNsFTH?alt=media&key=AIzaSyDGwQf6Rh4fOjfREnFJgXFR9xlp6ZWMZi0
+#EXTINF:-1 tvg-id="" tvg-name="One Night Stand 7/4/2016" tvg-logo="https://i.imgur.com/LILLZh5.jpg" group-title="Movies",One Night Stand 7/4/2016
+https://www.googleapis.com/drive/v3/files/1bIMvK2g5GHzfBNTtxzxdMiQ5bq9qMqCY?alt=media&key=AIzaSyAke8-fw6Zp80QtAocoAkL7tlJPQsK889U
+#EXTINF:-1 tvg-id="" tvg-name="Great Grand Masti 1/4/2016" tvg-logo="https://subdl.com/p/sd10/sd10855.jpg" group-title="Movies",Great Grand Masti 1/4/2016
+https://www.googleapis.com/drive/v3/files/1iw9clvJUDgjCo-CqVBUjpjH9cd-i5McM?alt=media&key=AIzaSyCZMTLEOY1dqEytNTOU158VIxAnQgcYaB8
+#EXTINF:-1 tvg-id="" tvg-name="Aligarh 26/2/2016" tvg-logo="https://subdl.com/p/sd66/sd66987.jpg" group-title="Movies",Aligarh 26/2/2016
+https://www.googleapis.com/drive/v3/files/1LwjsAlp-wwwN0IDxL4VkwkPkN-YdHo6K?alt=media&key=AIzaSyDR9NGNHReQNTh8wBoBBzBT941L--XDz_Y
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood Diaries 22/2/2016" tvg-logo="https://subdl.com/p/sd70/sd70066.jpg" group-title="Movies",Bollywood Diaries 22/2/2016
+https://www.googleapis.com/drive/v3/files/1wfUUICR9jN0scgjaJLEG6y-MEFyLDsSd?alt=media&key=AIzaSyA42lDLIz3KNYCZNLw0MFBD716fh7zIU9M
+#EXTINF:-1 tvg-id="" tvg-name="Haunted 22/2/2016" tvg-logo="https://i.imgur.com/l3rxysy.jpg" group-title="Movies",Haunted 22/2/2016
+https://www.googleapis.com/drive/v3/files/1wtX16q_wZrVn_p9R5xRGB7vXzL0VVDzY?alt=media&key=AIzaSyDGThJHQL70HqeAzys8HtDPe7vyiDq5O2U
+#EXTINF:-1 tvg-id="" tvg-name="Jai Gangaajal 16/2/2016" tvg-logo="https://subdl.com/p/sd67/sd67436.jpg" group-title="Movies",Jai Gangaajal 16/2/2016
+https://www.googleapis.com/drive/v3/files/18c8GplQBME3qTWidqf6m3AjTsn6mdtqm?alt=media&key=AIzaSyCMeFmPs_C6x3bxDMm_5mU3GY3-77s0gMs
+#EXTINF:-1 tvg-id="" tvg-name="Fitoor 11/2/2016" tvg-logo="https://i.imgur.com/ziFF6jQ.jpg" group-title="Movies",Fitoor 11/2/2016
+https://www.googleapis.com/drive/v3/files/1k8tb_IeLUgblygz7y3CroBOda0OPKCFF?alt=media&key=AIzaSyB7ecQd5_vaGV2QGhNdtNs0YBowE2fdGZY
+#EXTINF:-1 tvg-id="" tvg-name="Sanam Re 2/2/2016" tvg-logo="https://i.imgur.com/A9idOnD.jpg" group-title="Movies",Sanam Re 2/2/2016
+https://www.googleapis.com/drive/v3/files/1d85xi19P5pjz_yX2epxK2ffPmSR0fg1T?alt=media&key=AIzaSyAs2a4WjqTh_b_92BAS7DQOj5nydiAT-_U
+#EXTINF:-1 tvg-id="" tvg-name="Love Games 25/1/2016" tvg-logo="https://i.imgur.com/Dddii92.jpg" group-title="Movies",Love Games 25/1/2016
+https://www.googleapis.com/drive/v3/files/1xKXfZLa9s90KXykcsnZUbF97B8W5Ojf2?alt=media&key=AIzaSyDxSIo0uKBLFcmlz2De9s3dxyecPCfD4h8
+#EXTINF:-1 tvg-id="" tvg-name="Kyaa Kool Hain Hum 3 22/1/2016" tvg-logo="https://i.imgur.com/sBVC9Pn.jpg" group-title="Movies",Kyaa Kool Hain Hum 3 22/1/2016
+https://www.googleapis.com/drive/v3/files/1Ypa3G88lDPQRgDcJtj894-KJT7TXsymP?alt=media&key=AIzaSyCQy0BEiB6gYSb1FoQu_GTdvc5QIRg8PP0
+#EXTINF:-1 tvg-id="" tvg-name="Ghayal Once Again 13/1/2016" tvg-logo="https://i.imgur.com/6u9Z2gk.jpg" group-title="Movies",Ghayal Once Again 13/1/2016
+https://www.googleapis.com/drive/v3/files/1k6yRRGQh2Gfl_GS2QWVQ7oXAyqUN1qoI?alt=media&key=AIzaSyDXaFc_Bnb8gDRKpusk3T6CEcGoig-qNn4
+#EXTINF:-1 tvg-id="" tvg-name="Airlift 8/1/2016" tvg-logo="https://subdl.com/p/sd2/sd2705.jpg
+https://www.googleapis.com/drive/v3/files/1nExTuTSlm1_uxtTAIW18fa4XNFHuDf4G?alt=media&key=AIzaSyD7SHMe1AL1dxrPt2xArU2wS6Pp1lfADik
 
 
 
