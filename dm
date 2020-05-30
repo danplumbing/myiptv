@@ -558,6 +558,24 @@ https://www.googleapis.com/drive/v3/files/1Ypa3G88lDPQRgDcJtj894-KJT7TXsymP?alt=
 https://www.googleapis.com/drive/v3/files/1k6yRRGQh2Gfl_GS2QWVQ7oXAyqUN1qoI?alt=media&key=AIzaSyDXaFc_Bnb8gDRKpusk3T6CEcGoig-qNn4
 #EXTINF:-1 tvg-id="" tvg-name="Airlift 8/1/2016" tvg-logo="https://subdl.com/p/sd2/sd2705.jpg" group-title="Movies",Airlift 8/1/2016
 https://www.googleapis.com/drive/v3/files/1nExTuTSlm1_uxtTAIW18fa4XNFHuDf4G?alt=media&key=AIzaSyD7SHMe1AL1dxrPt2xArU2wS6Pp1lfADik
+#EXTINF:-1 tvg-id="" tvg-name="Dilwale 18/12/2015" tvg-logo="https://subdl.com/p/sd1/sd1012.jpg" group-title="Movies",Dilwale 18/12/2015
+https://www.googleapis.com/drive/v3/files/1XwKlQjluZD8wjFD-spfakQMb26XE1yJu?alt=media&key=AIzaSyCGH4tTfWwxboxtG1DVhKUWldqdr0ed_fk
+#EXTINF:-1 tvg-id="" tvg-name="Budhia Singh Born to Run 16/12/2015" tvg-logo="https://i.imgur.com/jPlvkOz.jpg" group-title="Movies",Budhia Singh Born to Run 16/12/2015
+https://www.googleapis.com/drive/v3/files/1sN5VKNmSjYWWHnPrOYcOxeZ43JFWa8-_?alt=media&key=AIzaSyDtNgKbcU7ZOuertoYko7Yt1LMs5HqyXiE
+#EXTINF:-1 tvg-id="" tvg-name="Bajirao Mastani 11/12/2015" tvg-logo="https://subdl.com/p/sd4/sd4436.jpg" group-title="Movies",Bajirao Mastani 11/12/2015
+https://www.googleapis.com/drive/v3/files/19xo28bZGeYpIOZsmHEeiYnVNlltwWE1B?alt=media&key=AIzaSyDwWAX8MjotDKG7oPC12mXQw9Uff46QJ_8
+#EXTINF:-1 tvg-id="" tvg-name="Charlie Kay Chakkar Mein 6/11/2015" tvg-logo="https://subdl.com/p/sd484/sd484069.jpg" group-title="Movies",Charlie Kay Chakkar Mein 6/11/2015
+https://www.googleapis.com/drive/v3/files/1vXoRRj04IslnFVA94Q7ThoRMmXsM-pxT?alt=media&key=AIzaSyCR8JKno6rrCmlvH_OqSGbTtVIL48yWVPs
+#EXTINF:-1 tvg-id="" tvg-name="Shaandaar 13/10/2015" tvg-logo="https://subdl.com/p/sd11/sd11546.jpg" group-title="Movies",Shaandaar 13/10/2015
+https://www.googleapis.com/drive/v3/files/1AvQtQPSYtaQm6FJ_nZ52_2ABr8F0eJ_H?alt=media&key=AIzaSyBNiXJgl_3ljgKp1fHGUkPQ2hlloQbx3Cs
+#EXTINF:-1 tvg-id="" tvg-name="Wedding Pullav 5/10/2015" tvg-logo="https://subdl.com/p/sd85/sd85981.jpg" group-title="Movies",Wedding Pullav 5/10/2015 
+https://www.googleapis.com/drive/v3/files/1eCIZNjY7nf1_k_VaEuJk1ZkQCD6OOBro?alt=media&key=AIzaSyCQJYZF-Aa2ofnTHaFOsbsYVepil9-gEVg
+#EXTINF:-1 tvg-id="" tvg-name="Bhaag Johnny 19/9/2015" tvg-logo="https://i.imgur.com/Uj8UwT8.jpg" group-title="Movies",Bhaag Johnny 19/9/2015
+https://www.googleapis.com/drive/v3/files/1wnCa7p27brMRV8DgAQ7mFk2FpfQkeA8O?alt=media&key=AIzaSyCGoYXsIYu__55Tc91HU9Yli_hWZJQXOPU
+
+
+
+
 
 
 
