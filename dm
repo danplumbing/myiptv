@@ -572,8 +572,8 @@ https://www.googleapis.com/drive/v3/files/1AvQtQPSYtaQm6FJ_nZ52_2ABr8F0eJ_H?alt=
 https://www.googleapis.com/drive/v3/files/1eCIZNjY7nf1_k_VaEuJk1ZkQCD6OOBro?alt=media&key=AIzaSyCQJYZF-Aa2ofnTHaFOsbsYVepil9-gEVg
 #EXTINF:-1 tvg-id="" tvg-name="Bhaag Johnny 19/9/2015" tvg-logo="https://i.imgur.com/Uj8UwT8.jpg" group-title="Movies",Bhaag Johnny 19/9/2015
 https://www.googleapis.com/drive/v3/files/1wnCa7p27brMRV8DgAQ7mFk2FpfQkeA8O?alt=media&key=AIzaSyCGoYXsIYu__55Tc91HU9Yli_hWZJQXOPU
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Kis Kisko Pyaar Karu 15/9/2015" tvg-logo="https://i.imgur.com/2sLCj6M.jpg" group-title="Movies",Kis Kisko Pyaar Karu 15/9/2015
+https://www.googleapis.com/drive/v3/files/1kohEBgZZqnUAqetFwShSD7m6O3WrZeyt?alt=media&key=AIzaSyD41MeWkaxzpK3DDSz0kvNWzS6onAgcL4s
 
 
 
