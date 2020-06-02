@@ -636,6 +636,74 @@ https://www.googleapis.com/drive/v3/files/1hlS07CczrAerGrmafskZn8jjSShNVqOV?alt=
 https://www.googleapis.com/drive/v3/files/19F0hhWJ3nnc-f2lpszReeN3r41SOGKBr?alt=media&key=AIzaSyA3pQZvxdB-SfWqLxuC0_L1TWnLAV-dcUk
 #EXTINF:-1 tvg-id="" tvg-name="Sharafat Gayi Tel Lene 2/1/2015 " tvg-logo="https://subdl.com/p/sd22/sd22063.jpg" group-title="Movies",Sharafat Gayi Tel Lene 2/1/2015
 https://www.googleapis.com/drive/v3/files/1YtaZDdRb0CpIov7V-63zTylcydqVQ69X?alt=media&key=AIzaSyAlmH8th9IOfesDjw-ybEgBaTHm4vTGT8o
+#EXTINF:-1 tvg-id="" tvg-name="Hawaizaada 31/12/2014 " tvg-logo="https://subdl.com/p/sd184/sd184089.jpg" group-title="Movies",Hawaizaada 31/12/2014
+https://www.googleapis.com/drive/v3/files/1QFwnePE5dDVEsJPAaRlDla7SsmDmsuhK?alt=media&key=AIzaSyAcbdMCUFpmfOu7GUZoIsVLefBYXHXG924
+#EXTINF:-1 tvg-id="" tvg-name="Action Jackson 27/11/2014 " tvg-logo="https://subdl.com/p/sd14/sd14789.jpg" group-title="Movies",Action Jackson 27/11/2014
+https://www.googleapis.com/drive/v3/files/1x0LzeM4ezvkxCBLW0MqqsZoPU3y2c8FL?alt=media&key=AIzaSyAStQzkKez3SVt0IHyFWJGoVcvshJoct3k
+#EXTINF:-1 tvg-id="" tvg-name="Happy Ending 12/11/2014 " tvg-logo="https://i.imgur.com/a96jzne.jpg" group-title="Movies",Happy Ending 12/11/2014
+https://www.googleapis.com/drive/v3/files/1Qz39-iIbmoylxlGBVGEzVZ9anQTkP3ru?alt=media&key=AIzaSyAvlJByyHgGdet4zDWaAhCGD-d5fb-fios
+#EXTINF:-1 tvg-id="" tvg-name="Dirty Politics 7/11/2014 " tvg-logo="https://subdl.com/p/sd7/sd7667.jpg" group-title="Movies",Dirty Politics 7/11/2014
+https://www.googleapis.com/drive/v3/files/19k-X7OAXF38XFwHHA50A_xHG4LzJ7oIj?alt=media&key=AIzaSyBjqz2varccyeNLHGBqSUccIT_Jp2Da_-I
+#EXTINF:-1 tvg-id="" tvg-name="Happy New Year 16/10/2014 " tvg-logo="https://subdl.com/p/sd1/sd1569.jpg" group-title="Movies",Happy New Year 16/10/2014
+https://www.googleapis.com/drive/v3/files/1dL45LUCfYHTw4RRhkDUe43-bEnirlefM?alt=media&key=AIzaSyA1xZnnzI7K5JmPE3Z--C-BmFGUQgEs22g
+#EXTINF:-1 tvg-id="" tvg-name="Bang Bang 23/9/2014 " tvg-logo="https://i.imgur.com/dzCg7RV.jpg" group-title="Movies",Bang Bang 23/9/2014
+https://www.googleapis.com/drive/v3/files/1SV13M_Pd0vi9qbQFzsBVS7LqUQfsLSNR?alt=media&key=AIzaSyA-Bl9_6rZ2l0re2urxr2s-qIoe3Pah1zY
+#EXTINF:-1 tvg-id="" tvg-name="Desi Kattey 23/9/2014 " tvg-logo="https://i.imgur.com/GRaqGHG.jpg" group-title="Movies",Desi Kattey 23/9/2014
+https://www.googleapis.com/drive/v3/files/15QF_eQV1KHzadeeOR200H54FkEZFDUUe?alt=media&key=AIzaSyC0_ebdkZdnh_YDMdXqsBUK9Fz3dfyHOjw
+#EXTINF:-1 tvg-id="" tvg-name="3 AM 22/09/2014 " tvg-logo="https://i.imgur.com/UrgRAL0.jpg" group-title="Movies",3 AM 22/09/2014
+https://www.googleapis.com/drive/v3/files/1B82g61ibJ0zjv-ojeODlBhNx0NLLnvVG?alt=media&key=AIzaSyAo0iL7bc9leSM_7vhhMb_AcL_U_rC9y8M
+#EXTINF:-1 tvg-id="" tvg-name="Daawat-e-Ishq 1/9/2014 " tvg-logo="https://subdl.com/p/sd9/sd9332.jpg" group-title="Movies",Daawat-e-Ishq 1/9/2014
+https://www.googleapis.com/drive/v3/files/1RfuamuvBeim2y8o4IthX3i4uK7-cwZHy?alt=media&key=AIzaSyDmOf-NUnHMsUQkUHusyuTOo_YaC1eI1f0
+#EXTINF:-1 tvg-id="" tvg-name="Its Entertainment 31/7/2014 " tvg-logo="https://i.imgur.com/sMIy7md.jpg" group-title="Movies",Its Entertainment 31/7/2014
+https://www.googleapis.com/drive/v3/files/1dmd2GtJMofHQvGqp3ectXJ5r1DArMKuI?alt=media&key=AIzaSyDUhhBNo37imNa1jrBxun6FIdXIlEMTK_Y
+#EXTINF:-1 tvg-id="" tvg-name="Hate Story 2 10/7/2014 " tvg-logo="https://i.imgur.com/7U0kw6r.jpg" group-title="Movies",Hate Story 2 10/7/2014
+https://www.googleapis.com/drive/v3/files/1HTHCKgwRDZ2relqOwj97MWDDpxYMzNRj?alt=media&key=AIzaSyAXC5xLKaPHMMdJj6z6xwUniWDA0I3Twqo
+#EXTINF:-1 tvg-id="" tvg-name="Humpty Sharma Ki Dulhania 26/6/2014 " tvg-logo="https://subdl.com/p/sd1/sd1273.jpg" group-title="Movies",Humpty Sharma Ki Dulhania 26/6/2014
+https://www.googleapis.com/drive/v3/files/1UrYiksN0cYtO79de_Cqrz6P1GDUqS_0v?alt=media&key=AIzaSyC9XEEzhSWXYVQtJX00i9UHLU9l1eIr5S4
+#EXTINF:-1 tvg-id="" tvg-name="Bobby Jasoos 23/6/2014 " tvg-logo="https://subdl.com/p/sd11/sd11756.jpg" group-title="Movies",Bobby Jasoos 23/6/2014
+https://www.googleapis.com/drive/v3/files/1z76rs-KXOqKfSktM7fhzS8saBe9G1f0C?alt=media&key=AIzaSyCN6vp_3Gs4GoN-KHySa0-cVz-RnmFejGo
+#EXTINF:-1 tvg-id="" tvg-name="Ek Villain 13/6/2014 " tvg-logo="https://subdl.com/p/sd1/sd1023.jpg" group-title="Movies",Ek Villain 13/6/2014
+https://www.googleapis.com/drive/v3/files/1j0nHx2deXrb2bW2O7QKOnq1HxNB70TPi?alt=media&key=AIzaSyDnXat1Z0co3IM_0cmXYx3Lcmdz6kp6AHA
+#EXTINF:-1 tvg-id="" tvg-name="Fugly 12/6/2014 " tvg-logo="https://subdl.com/p/sd7/sd7866.jpg" group-title="Movies",Fugly 12/6/2014
+https://www.googleapis.com/drive/v3/files/1s1IL7Z3WNL44cfFhpLupO22rg5X3eGAA?alt=media&key=AIzaSyCxyDOJvKrnsZY1XHD-jgXuyRppKPnJq50
+#EXTINF:-1 tvg-id="" tvg-name="Humshakals 11/6/2014 " tvg-logo="https://subdl.com/p/sd4/sd4958.jpg" group-title="Movies",Humshakals 11/6/2014
+https://www.googleapis.com/drive/v3/files/1u7iZRG7azATgq3prGtwI8zRDKGFGDylI?alt=media&key=AIzaSyC_-FR3QBJXmL1J_sg2EkC4dBQuQya76wM
+#EXTINF:-1 tvg-id="" tvg-name="Holiday 26/5/2014 " tvg-logo="https://i.imgur.com/9ds9Ckn.jpg" group-title="Movies",Holiday 26/5/2014
+https://www.googleapis.com/drive/v3/files/10pFULKpeUACLkJUpBpOV4_oFqia-8QO8?alt=media&key=AIzaSyDE5WSm8omb2PqrwbEYNDwkHVyL067Ukps
+#EXTINF:-1 tvg-id="" tvg-name="Ugly 23/5/2014 " tvg-logo="https://subdl.com/p/sd2/sd2296.jpg" group-title="Movies",Ugly 23/5/2014
+https://www.googleapis.com/drive/v3/files/1LyqKQjO5zEtj-Y4v0Nz_Vb_-hhi5POQe?alt=media&key=AIzaSyCdrYLGCAtqSZUWTiLCQy-yrEtI_b04zFw
+#EXTINF:-1 tvg-id="" tvg-name="Heropanti 9/5/2014 " tvg-logo="https://i.imgur.com/872EhyC.jpg" group-title="Movies",Heropanti 9/5/2014
+https://www.googleapis.com/drive/v3/files/1MGYTccEz-MYeCsR3ttp-0lXcldWgs90a?alt=media&key=AIzaSyDAg7SfMNAqIXtY5WzJXeR6larJRlruRug
+#EXTINF:-1 tvg-id="" tvg-name="18.11 A Code Of Secrecy 30/04/2014 " tvg-logo="https://i.imgur.com/IgtvfSg.jpg" group-title="Movies",18.11 A Code Of Secrecy 30/04/2014
+https://www.googleapis.com/drive/v3/files/1lcZtfaiHs8ZlnfEu0FyyEyzPC2MQ1ld_?alt=media&key=AIzaSyBXUGcsPOzF1-ufyWExgH_EQ_si8qRrm-Y
+#EXTINF:-1 tvg-id="" tvg-name="I Love NY 29/4/2014 " tvg-logo="https://subdl.com/p/sd6/sd6446.jpg" group-title="Movies",I Love NY 29/4/2014
+https://www.googleapis.com/drive/v3/files/1L_e2t9XJQehAFj3WGBUIMv9dsJjdB4rd?alt=media&key=AIzaSyDIObaqsUwy6zi0JNH9wmWPmJDCrBsCn9w
+#EXTINF:-1 tvg-id="" tvg-name="Bhoothnath Returns 1/4/2014 " tvg-logo="https://subdl.com/p/sd44/sd44939.jpg" group-title="Movies",Bhoothnath Returns 1/4/2014
+https://www.googleapis.com/drive/v3/files/1O1swYQze95hMLqofZ0LJItuPRkSNLFZy?alt=media&key=AIzaSyC15j5XQEM9_X-DwrxL46uszxbhSslJ_k8
+#EXTINF:-1 tvg-id="" tvg-name="2 States 26/3/2014 " tvg-logo="https://subdl.com/p/sd2/sd2611.jpg" group-title="Movies",2 States 26/3/2014
+https://www.googleapis.com/drive/v3/files/1MteXIo74rwcXyEHlWFokSAaLUPK0qpvD?alt=media&key=AIzaSyAdJlUqmcj6Jo4iN9a5S_wzoVk-bj38y6g
+#EXTINF:-1 tvg-id="" tvg-name="Gulaab Gang 7/3/2014 " tvg-logo="https://i.imgur.com/oOsMYkO.jpg" group-title="Movies",Gulaab Gang 7/3/2014
+https://www.googleapis.com/drive/v3/files/1JD2QEanonMIO13hLFhQ5LPRr0C8Lrjoy?alt=media&key=AIzaSyBy-hjM-ME0xMs6c_fMdQrtL4LemzenT4Y
+#EXTINF:-1 tvg-id="" tvg-name="Total Siyapaa 7/3/2014 " tvg-logo="https://subdl.com/p/sd6/sd6210.jpg" group-title="Movies",Total Siyapaa 7/3/2014
+https://www.googleapis.com/drive/v3/files/1GB9rfoQ0S5UfBJIaZ25ioMQVbWeUsW_0?alt=media&key=AIzaSyD0Qmzv-930Hf_vp7zMc7RR_71NnJnpOks
+#EXTINF:-1 tvg-id="" tvg-name="Queen 28/2/2014 " tvg-logo="https://subdl.com/p/sd1/sd1407.jpg" group-title="Movies",Queen 28/2/2014
+https://www.googleapis.com/drive/v3/files/1BDpRXNmmPqCLuHy9oyO8pWVzwah1ToXL?alt=media&key=AIzaSyBuZp1mtIg2UDSJ9MPghCCxL3D-ClgiBnA
+#EXTINF:-1 tvg-id="" tvg-name="Highway 14/2/2014 " tvg-logo="https://subdl.com/p/sd1/sd1656.jpg" group-title="Movies",Highway 14/2/2014
+https://www.googleapis.com/drive/v3/files/14_CqLLyFETCmg4e1LG90nv4Dny10QUMv?alt=media&key=AIzaSyDCpqOQ1hSIkoQFBylzf0zEbJ6xwMN-2C0
+#EXTINF:-1 tvg-id="" tvg-name="Gunday 5/2/2014 " tvg-logo="https://subdl.com/p/sd9/sd9410.jpg" group-title="Movies",Gunday 5/2/2014
+https://www.googleapis.com/drive/v3/files/1-0zY6qbVdf4_DFYqpxODwTRsHGGOHJe6?alt=media&key=AIzaSyC2NMJ4aUy-WK1qxceKGVTRxqfrCm4nMmk
+#EXTINF:-1 tvg-id="" tvg-name="Hasee Toh Phasee 21/1/2014 " tvg-logo="https://i.imgur.com/nTjVY9c.jpg" group-title="Movies",Hasee Toh Phasee 21/1/2014
+https://www.googleapis.com/drive/v3/files/1ZQSeD8D6YGe6Ukw4MYHkFM5QXuKhwSFA?alt=media&key=AIzaSyCbgeDT3T5O6GCtviJXEV3ikxpHGBRN2Y0
+#EXTINF:-1 tvg-id="" tvg-name="Dedh Ishqiya 9/1/2014 " tvg-logo="https://i.imgur.com/5TQfVCb.jpg" group-title="Movies",Dedh Ishqiya 9/1/2014
+https://www.googleapis.com/drive/v3/files/1ZPL110cJA1u92hZ0hYGw2GAyxU_aXipX?alt=media&key=AIzaSyByDGLh_deK-hvD45wBL0234RJ2xp6GxpA
+#EXTINF:-1 tvg-id="" tvg-name="Rahasya 8/1/2014 " tvg-logo="https://i.imgur.com/R8uwW9b.jpg" group-title="Movies",Rahasya 8/1/2014
+https://www.googleapis.com/drive/v3/files/1pE3M9Fg3p7_8pRBIYHa7pxnpKplEwKGN?alt=media&key=AIzaSyBbRLv6eEK2fuA63C-X1ycDedPXBpRDHxQ
+
+
+
+
+
+
 
 
 
