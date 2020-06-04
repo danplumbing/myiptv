@@ -698,10 +698,10 @@ https://www.googleapis.com/drive/v3/files/1ZQSeD8D6YGe6Ukw4MYHkFM5QXuKhwSFA?alt=
 https://www.googleapis.com/drive/v3/files/1ZPL110cJA1u92hZ0hYGw2GAyxU_aXipX?alt=media&key=AIzaSyByDGLh_deK-hvD45wBL0234RJ2xp6GxpA
 #EXTINF:-1 tvg-id="" tvg-name="Rahasya 8/1/2014 " tvg-logo="https://i.imgur.com/R8uwW9b.jpg" group-title="Movies",Rahasya 8/1/2014
 https://www.googleapis.com/drive/v3/files/1pE3M9Fg3p7_8pRBIYHa7pxnpKplEwKGN?alt=media&key=AIzaSyBbRLv6eEK2fuA63C-X1ycDedPXBpRDHxQ
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Yaariyan 27/12/2013 " tvg-logo="https://i.imgur.com/ABSzWnB.jpg" group-title="Movies",Yaariyan 27/12/2013
+https://www.googleapis.com/drive/v3/files/1lWKNq35VnCwiqOxbTHTmPon4mgbYQbLh?alt=media&key=AIzaSyBhRnihkMe4VBVr0LLnHDnVfeSREvryr8M
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom 3 5/12/2013 " tvg-logo="https://subdl.com/p/sd1/sd1588.jpg" group-title="Movies",Dhoom 3 5/12/2013
+https://www.googleapis.com/drive/v3/files/1qWXlQ8_u4H8lyGlYnp56aVpkRJpHh-6p?alt=media&key=AIzaSyCRNlKCEZYsIsIkQvnJTk4YRaRbINLnwRs
 
 
 
