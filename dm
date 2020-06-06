@@ -428,7 +428,7 @@ https://www.googleapis.com/drive/v3/files/1vRu3HZZGh4Hiqw8YzY4SVyIedOxLqBpJ?alt=
 https://www.googleapis.com/drive/v3/files/1vpLihsb5rdH4NZwfex0sRu4gNblzg9Bq?alt=media&key=AIzaSyCIYUsfV4Mp2mZL-QAWM4M8GLHuGKZnFD0
 #EXTINF:-1 tvg-id="" tvg-name="Chef 29/9/2017" tvg-logo="https://subdl.com/p/sd5/sd5450.jpg" group-title="Movies",Chef 29/9/2017
 https://www.googleapis.com/drive/v3/files/17IzsZvzAd-Bq4eoc26bp710HUsMGlRMY?alt=media&key=AIzaSyC8GUqBz8TeJCy0AcdhRYb4cc3yFfTRY9k
-#EXTINF:-1 tvg-id="" tvg-name="Bhoomi 22/9/2017" tvg-logo="https://subdl.com/p/sd5/sd5450.jpg" group-title="Movies",Bhoomi 22/9/2017
+#EXTINF:-1 tvg-id="" tvg-name="Bhoomi 22/9/2017" tvg-logo="https://i.imgur.com/Nbizqk5.jpg" group-title="Movies",Bhoomi 22/9/2017
 https://www.googleapis.com/drive/v3/files/1dIMY7MOoz5e9euzGmYkc6N-X3wtKLIHA?alt=media&key=AIzaSyCLeLf8Pp5_FF83trmNmFMlJtgZ_EV0qQQ
 #EXTINF:-1 tvg-id="" tvg-name="B A  Pass 2 15/9/2017" tvg-logo="https://i.imgur.com/mMLDOrs.jpg" group-title="Movies",B A  Pass 2 15/9/2017
 https://www.googleapis.com/drive/v3/files/1p-1kgtN1TxnCcA-PwkP94MU9N3woSDbp?alt=media&key=AIzaSyAegBjrT9nfMuFL71apCkkZpJCC-7a7Chk
@@ -794,6 +794,89 @@ https://www.googleapis.com/drive/v3/files/1hI9-HFJQqFcM8SJYe2VBV_diRDgue4lg?alt=
 https://www.googleapis.com/drive/v3/files/1v52hVscMlLspdqEhig2W_hPnmyvDE8Vn?alt=media&key=AIzaSyA59ThzTVLFYjGh2nChXnn8OXcsLxfajPI
 #EXTINF:-1 tvg-id="" tvg-name="B A Pass 2/1/2013 " tvg-logo="https://i.imgur.com/qIrFwrA.jpg" group-title="Movies",B A Pass 2/1/2013
 https://www.googleapis.com/drive/v3/files/1csm6kLFsJlI_pXC9HksXYwxdlSSLGnFJ?alt=media&key=AIzaSyBfxUo5aAOybrN0jaRc-W_iyJk3-zRER3E
+#EXTINF:-1 tvg-id="" tvg-name="Bandook 31/12/2012 " tvg-logo="https://i.imgur.com/eJVSAKu.jpg" group-title="Movies",Bandook 31/12/2012
+https://www.googleapis.com/drive/v3/files/1TAURSspQ1O_8BW8mbhIbux3kcpkfUV1f?alt=media&key=AIzaSyBwoqEFlKyIWAnpmid_XC76BX97C7HX5CI
+#EXTINF:-1 tvg-id="" tvg-name="Table No 21 20/12/2012 " tvg-logo="https://subdl.com/p/sd1/sd1128.jpg" group-title="Movies",Table No 21 20/12/2012
+https://www.googleapis.com/drive/v3/files/1RmYfvyqG5SNfl_XGwAtDtvm6af_WTlzq?alt=media&key=AIzaSyCPwKfTheOqKV5FG21xtMSzsJStLfF0Nkg
+#EXTINF:-1 tvg-id="" tvg-name="Dabangg 2 11/12/2012 " tvg-logo="https://subdl.com/p/sd10/sd10825.jpg" group-title="Movies",Dabangg 2 11/12/2012
+https://www.googleapis.com/drive/v3/files/1bDaMmkBseljzVX3j2bXxgUpttBOzx-hI?alt=media&key=AIzaSyAdCVWGCLqvLalTvbLC2vTmTBohrSLW2HE
+#EXTINF:-1 tvg-id="" tvg-name="Four Two Ka One 27/11/2012 " tvg-logo="https://subdl.com/p/sd14/sd14154.jpg" group-title="Movies",Four Two Ka One 27/11/2012
+https://www.googleapis.com/drive/v3/files/1ZepaJkMImTH5RCe-4o0DblFwjE0Mcac4?alt=media&key=AIzaSyDCfIV_Q_ejdmMlB_fJncaYEoXsudRzaL4
+#EXTINF:-1 tvg-id="" tvg-name="Jab Tak Hai Jaan 1/11/2012 " tvg-logo="https://subdl.com/p/sd1/sd1266.jpg" group-title="Movies",Jab Tak Hai Jaan 1/11/2012
+https://www.googleapis.com/drive/v3/files/107dTXS3j4-zW5X7ZVcvKhYKN8CrRsTOc?alt=media&key=AIzaSyBKJaGg-Fi-wozfzDcul4SENNCoHz20otk
+#EXTINF:-1 tvg-id="" tvg-name="1920 Evil Returns 18/10/2012 " tvg-logo="https://subdl.com/p/sd5/sd5946.jpg" group-title="Movies",1920 Evil Returns 18/10/2012
+https://www.googleapis.com/drive/v3/files/1Bbt9H3H4IesgWrEOcZx-Q4v0CSIUfc7_?alt=media&key=AIzaSyDmxuLX0PLzvFOutK6o5hkBoUWIMzo5lew
+#EXTINF:-1 tvg-id="" tvg-name="Ajab Gazabb Love 17/10/2012 " tvg-logo="https://i.imgur.com/l0Kgomk.jpg" group-title="Movies",Ajab Gazabb Love 17/10/2012
+https://www.googleapis.com/drive/v3/files/1l58zffrYlTqcQj4APSxGAi689vfzymHa?alt=media&key=AIzaSyD2a0HG3OXbgEMraGb1S4Vl5FVN2xyMWT0
+#EXTINF:-1 tvg-id="" tvg-name="Rush 17/10/2012 " tvg-logo="https://subdl.com/p/sd296/sd296400.jpg" group-title="Movies",Rush 17/10/2012
+https://www.googleapis.com/drive/v3/files/1UNQzJodhThiPqZb-XGzUkIFux5_e6vEp?alt=media&key=AIzaSyDU_H3RLpRnLemwDZMQ3vrpVcKMfKeKXWM
+#EXTINF:-1 tvg-id="" tvg-name="Chittagong 12/10/2012 " tvg-logo="https://i.imgur.com/rUff81H.jpg" group-title="Movies",Chittagong 12/10/2012
+https://www.googleapis.com/drive/v3/files/1N64yD5Wg_1mVHsmMLWHxYWVsKLsZw_CG?alt=media&key=AIzaSyBrzlzbDuh7VH-Jp_LGlhbbAAnnimGLYYk
+#EXTINF:-1 tvg-id="" tvg-name="Chakravyuh 1/10/2012 " tvg-logo="https://subdl.com/p/sd482/sd482259.jpg" group-title="Movies",Chakravyuh 1/10/2012
+https://www.googleapis.com/drive/v3/files/11dcybNlxofRj-Cj5ghP78q4TLtXI2Jx8?alt=media&key=AIzaSyCU8sIppwOINyFUrfOxsAopI9VczkY2xq4
+#EXTINF:-1 tvg-id="" tvg-name="Aiyyaa 28/9/2012 " tvg-logo="https://subdl.com/p/sd13/sd13040.jpg" group-title="Movies",Aiyyaa 28/9/2012
+https://www.googleapis.com/drive/v3/files/11-bGbe1YXvnpaItvyGIlTZfJdgHalIE8?alt=media&key=AIzaSyA-5SWmg9yrL4AOG5cd6nbzqTdzlfoTNxU
+#EXTINF:-1 tvg-id="" tvg-name="English Vinglish 26/9/2012 " tvg-logo="https://subdl.com/p/sd2/sd2442.jpg" group-title="Movies",English Vinglish 26/9/2012
+https://www.googleapis.com/drive/v3/files/1hHrjiBbXHV9PSPAODtqldBHGPkwI8uw6?alt=media&key=AIzaSyAXHUeyHUXzOG3SbkcrNVHt4tmihlWxmbY
+#EXTINF:-1 tvg-id="" tvg-name="OMG Oh My God 17/9/2012 " tvg-logo="https://i.imgur.com/utzhC1e.jpg" group-title="Movies",OMG Oh My God 17/9/2012
+https://www.googleapis.com/drive/v3/files/17CHjNDzn9gIiCJuea-tVQvknYNXm0NVP?alt=media&key=AIzaSyDUWVoMDpI8EIUaTYU_SsZ4_DRNWIoqj84
+#EXTINF:-1 tvg-id="" tvg-name="heroine 14/9/2012 " tvg-logo="https://subdl.com/p/sd12/sd12956.jpg" group-title="Movies",heroine 14/9/2012
+https://www.googleapis.com/drive/v3/files/1SIYE8Lm98kQfd8G3UQ26WsUetC7Wu2Z_?alt=media&key=AIzaSyCmHHw-OfHzXIfJHdy2cotiT2VP-TQxxv0
+#EXTINF:-1 tvg-id="" tvg-name="Chal Pichchur Banate Hain 3/9/2012 " tvg-logo="https://i.imgur.com/Kafhnf5.jpg" group-title="Movies",Chal Pichchur Banate Hain 3/9/2012
+https://www.googleapis.com/drive/v3/files/1pYLshK3IGVtBbrDbC5AMwu6iRMc3RTz8?alt=media&key=AIzaSyDyQpGyGTBFP4bglK_qzegPa6vsczewABA
+#EXTINF:-1 tvg-id="" tvg-name="Barfi 31/8/2012 " tvg-logo="https://subdl.com/p/sd4/sd4766.jpg" group-title="Movies",Barfi 31/8/2012
+https://www.googleapis.com/drive/v3/files/1olRTP1nbGtfOflzmKaEMyUwJvS7xOJOc?alt=media&key=AIzaSyBmV2xFg-SLSwnbvYbfWa5u8EY2WjnqqJI
+#EXTINF:-1 tvg-id="" tvg-name="Ek Tha Tiger 31/7/2012 " tvg-logo="https://subdl.com/p/sd4/sd4296.jpg" group-title="Movies",Ek Tha Tiger 31/7/2012
+https://www.googleapis.com/drive/v3/files/1-cKSQymc-cMPoryTrMAnfBoZH-J5X7JV?alt=media&key=AIzaSyCtsUYroz1oSDgcO70uledZzXUM5wjv0xc
+#EXTINF:-1 tvg-id="" tvg-name="Gangs of Wasseypur II 30/7/2012 " tvg-logo="https://i.imgur.com/gSE7y2O.jpg" group-title="Movies",Gangs of Wasseypur II 30/7/2012
+https://www.googleapis.com/drive/v3/files/1GztpOxABsLPzn-wItkA0qSvT765u9bGP?alt=media&key=AIzaSyD8E2KSifo5q91ESfg9uUBesUz6GweyjeQ
+#EXTINF:-1 tvg-id="" tvg-name="Kyaa Super Kool Hain Hum 18/7/2012 " tvg-logo="https://subdl.com/p/sd14/sd14785.jpg" group-title="Movies",Kyaa Super Kool Hain Hum 18/7/2012
+https://www.googleapis.com/drive/v3/files/1bjMkXjioTuFrF2IVMSQB2LGZ7luvLkBL?alt=media&key=AIzaSyD21AUQbY1hLgQk3_MQ2rX5qoAI14DKhTs
+#EXTINF:-1 tvg-id="" tvg-name="3 Bachelors 29/06/2012 " tvg-logo="https://i.imgur.com/9LVrCQd.jpg" group-title="Movies",3 Bachelors 29/06/2012
+https://www.googleapis.com/drive/v3/files/1VfT4ElUX_oT_Geb14rnlKlqynfCC8QMr?alt=media&key=AIzaSyDGUEzjfyBvq04UgK7sjAhqDspaRF5cWRw
+#EXTINF:-1 tvg-id="" tvg-name="Cocktail 29/6/2012 " tvg-logo="https://subdl.com/p/sd1/sd1859.jpg" group-title="Movies",Cocktail 29/6/2012
+https://www.googleapis.com/drive/v3/files/1C0_oLa4x8KPNqDYw45iotVm5SKK0XxL0?alt=media&key=AIzaSyBjhBXfPRs1SEHhB9g4afxGph_dmfdY9Pk
+#EXTINF:-1 tvg-id="" tvg-name="Daal Mein Kuch Kaala Hai 28/6/2012 " tvg-logo="https://i.imgur.com/nj95Xla.jpg" group-title="Movies",Daal Mein Kuch Kaala Hai 28/6/2012
+https://www.googleapis.com/drive/v3/files/1ZnASXj5QbdQvmeSi2BNbOZpgt0MuEeFi?alt=media&key=AIzaSyDB-vX8kBC7LbKP6b_OYbPOFew1Royv5MU
+#EXTINF:-1 tvg-id="" tvg-name="Bol Bachchan 22/6/2012 " tvg-logo="https://subdl.com/p/sd17/sd17944.jpg" group-title="Movies",Bol Bachchan 22/6/2012
+https://www.googleapis.com/drive/v3/files/1bKR8lWadCN7qFzFb5gCSZRaKDbmu8cXZ?alt=media&key=AIzaSyAXOrTUqiKbwMB75z274slaEdEoC0CCrqg
+#EXTINF:-1 tvg-id="" tvg-name="Challo Driver 21/6/2012 " tvg-logo="https://i.imgur.com/rkaUfx3.jpg" group-title="Movies",Challo Driver 21/6/2012
+https://www.googleapis.com/drive/v3/files/1__3HhJtgUI3OeJX5wzAxJW9nyF8_YTIh?alt=media&key=AIzaSyAvHRIizW6fuqH2CGOo6b7lgEQ-3sqq58U
+#EXTINF:-1 tvg-id="" tvg-name="Gangs Of Wasseypur 14/6/2012 " tvg-logo="https://subdl.com/p/sd11/sd11992.jpg" group-title="Movies",Gangs Of Wasseypur 14/6/2012
+https://www.googleapis.com/drive/v3/files/1aT-EgLDsmJ9MyFDkXnG-2VdvoaALu_nO?alt=media&key=AIzaSyDMnmbxtdy0mQry6ntjF_tK37pzHx5V5IU
+#EXTINF:-1 tvg-id="" tvg-name="Ferrari Ki Sawaari 5/6/2012 " tvg-logo="https://subdl.com/p/sd12/sd12962.jpg" group-title="Movies",Ferrari Ki Sawaari 5/6/2012
+https://www.googleapis.com/drive/v3/files/13G4Crd9uX36Xc109s9ir1NFM6CsMlPLJ?alt=media&key=AIzaSyDGiBqlxEcYsqMkl_KxrujqRpvqpT1_R7M
+#EXTINF:-1 tvg-id="" tvg-name="Department 14/5/2012 " tvg-logo="https://i.imgur.com/B0RrxVY.jpg" group-title="Movies",Department 14/5/2012
+https://www.googleapis.com/drive/v3/files/1x4PR75bYCbEZvkv84H8YKfaGHl9E5F11?alt=media&key=AIzaSyBZS9ScmjJwPCddROP5fxOSUwePAbW8LJ0
+#EXTINF:-1 tvg-id="" tvg-name="Dangerous Ishhq 11/5/2012 " tvg-logo="https://subdl.com/p/sd9/sd9469.jpg" group-title="Movies",Dangerous Ishhq 11/5/2012
+https://www.googleapis.com/drive/v3/files/1R8aw5kikSK7PO0vmDkkAVWed15aDFjdd?alt=media&key=AIzaSyCEwD35D7uQQll-bFKnBYfNNaYA78WZhmk
+#EXTINF:-1 tvg-id="" tvg-name="Hate Story 20/4/2012 " tvg-logo="https://i.imgur.com/tHFQAT5.jpg" group-title="Movies",Hate Story 20/4/2012
+https://www.googleapis.com/drive/v3/files/1B7Fz516GNdjVDkgJdHllDCjTzeSK_qLr?alt=media&key=AIzaSyDVXKInKgXxU-zuxebN2HJFJbKkFb5H_Z0
+#EXTINF:-1 tvg-id="" tvg-name="5 Ghantey Mein 5 Crore 02/04/2012 " tvg-logo="https://i.imgur.com/UL2FYXs.jpg" group-title="Movies",5 Ghantey Mein 5 Crore 02/04/2012
+https://www.googleapis.com/drive/v3/files/1hLBkiQQhnJkmEfbsIsGycKTRV2XoWcAS?alt=media&key=AIzaSyCRsGI1Dh51GAVU_hA-SWoAESFpxEGhEyA
+#EXTINF:-1 tvg-id="" tvg-name="Housefull 2 29/3/2012 " tvg-logo="https://subdl.com/p/sd3/sd3027.jpg" group-title="Movies",Housefull 2 29/3/2012
+https://www.googleapis.com/drive/v3/files/1Uqrs-5g6ohTjyPqsS8JMK5Avcx0yn8pX?alt=media&key=AIzaSyBwZH3SvpXNl7yK_QZ-4ocaaf9O1UIcIog
+#EXTINF:-1 tvg-id="" tvg-name="Agent Vinod 16/3/2012 " tvg-logo="https://subdl.com/p/sd2/sd2364.jpg" group-title="Movies",Agent Vinod 16/3/2012
+https://www.googleapis.com/drive/v3/files/1PCgpsYiJ6_JSTXnLUEJs4nShHpC7bqwX?alt=media&key=AIzaSyBNBWjzZBOhIs8j4a7U5W4RY_NbL3fScCw
+#EXTINF:-1 tvg-id="" tvg-name="Paan Singh Tomar 2/3/2012 " tvg-logo="https://subdl.com/p/sd1/sd1148.jpg" group-title="Movies",Paan Singh Tomar 2/3/2012
+https://www.googleapis.com/drive/v3/files/1VbXWCFBrgRMlOKyPl8AX1y_itGiJrh7b?alt=media&key=AIzaSyCIq12udxWZ_wfX_gfHqjl5xkZZKQKAw6I
+#EXTINF:-1 tvg-id="" tvg-name="London Paris New York 9/2/2012 " tvg-logo="https://subdl.com/p/sd15/sd15674.jpg" group-title="Movies",London Paris New York 9/2/2012
+https://www.googleapis.com/drive/v3/files/1q3SCIXFqRshNdRJPA4l9hQr9b6sdAz3v?alt=media&key=AIzaSyDQ68iKd9RZPVZXUT5VkprEag2XIFOjlB0
+#EXTINF:-1 tvg-id="" tvg-name="Ek Main Aur Ekk Tu 2/2/2012 " tvg-logo="https://i.imgur.com/phCBV0t.jpg" group-title="Movies",Ek Main Aur Ekk Tu 2/2/2012
+https://www.googleapis.com/drive/v3/files/1bIyIR5_ImQNXve3xVPueCjDFk3Bu8iMc?alt=media&key=AIzaSyCM_zf4Zmit08VbI2QWFMN8AMl0fl4-jRs
+#EXTINF:-1 tvg-id="" tvg-name="Diary of a Butterfly 1/2/2012 " tvg-logo="https://i.imgur.com/qnNRDSt.jpg" group-title="Movies",Diary of a Butterfly 1/2/2012
+https://www.googleapis.com/drive/v3/files/1_anM2-7re1Q-MX-PgHcXAzAuQn2F1EqZ?alt=media&key=AIzaSyDBuHbCrOyFKhtgwrExrEDvkzfYKGCAO8w
+#EXTINF:-1 tvg-id="" tvg-name="Ekk Deewana Tha 31/1/2012 " tvg-logo="https://i.imgur.com/ikNxMbX.jpg" group-title="Movies",Ekk Deewana Tha 31/1/2012
+https://www.googleapis.com/drive/v3/files/1NtD0a-wGIkVZvtWuvZPjATT_5E2yw5W4?alt=media&key=AIzaSyD1r5IqMzdi1yKG5GngUkoBujuTd_81a4Q
+#EXTINF:-1 tvg-id="" tvg-name="Agneepath 16/1/2012 " tvg-logo="https://i.imgur.com/OBEcUFj.jpg" group-title="Movies",Agneepath 16/1/2012
+https://www.googleapis.com/drive/v3/files/10fcreUvrZKrSOdB5eqBK-MsW1M5PF67F?alt=media&key=AIzaSyDpL6dHyUqW32xcq3jegcJgRrpdIOjsKIg
+#EXTINF:-1 tvg-id="" tvg-name="Chaalis Chauraasi 10/1/2012 " tvg-logo="https://i.imgur.com/zJfeDgD.jpg" group-title="Movies",Chaalis Chauraasi 10/1/2012
+https://www.googleapis.com/drive/v3/files/1ireh5yBNOWc0O5wVu3Laaz3RhMbVOy8W?alt=media&key=AIzaSyBz-yB64dbJRAE0J6tI6lkww3Ne434SeO8
+
+
+
+
+
 
 
 
