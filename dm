@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
 #EXTINF:-1 tvg-id="" tvg-name="Axone 12/6/2020 " tvg-logo="https://i.imgur.com/pg1vlsY.jpg" group-title="Movies",Axone 12/6/2020
 https://www.googleapis.com/drive/v3/files/1vBrZDY0sEPrgM72nePEu9M1BaVVbDPxp?alt=media&key=AIzaSyADdu9qzGLv_dG7Yf-rwfB2JQuM17-O4XI
+#EXTINF:-1 tvg-id="" tvg-name="Choked Paisa Bolta Hai 5/6/2020 " tvg-logo="https://i.imgur.com/wVysKco.jpg" group-title="Movies",Choked Paisa Bolta Hai 5/6/2020
+https://www.googleapis.com/drive/v3/files/1KCJ8BQCt-mmauJlOtUfYRpOkzxPdiVKh?alt=media&key=AIzaSyB9R1pa2ifbApQuKZ_eBz2OK1KpRiQ1twk
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Soldiers 11/5/2020" tvg-logo="https://subdl.com/p/sd799/sd799104.jpg" group-title="Movies",Dragon Soldiers 11/5/2020
 https://www.googleapis.com/drive/v3/files/1OlC5LFYlKnFTv_9FltWA6E_vdoWZIaEQ?alt=media&key=AIzaSyDLJl9pVmm7rAWAZMwqav4rSyEEjGW-mS0
 #EXTINF:-1 tvg-id="" tvg-name="The Legion 8/5/2020" tvg-logo="https://i.imgur.com/5Ydy03H.jpg" group-title="Movies",The Legion 8/5/2020
@@ -1364,12 +1366,59 @@ https://www.googleapis.com/drive/v3/files/1KEwdasej0zxjso9P8b5F-rKoO62OgN7R?alt=
 https://www.googleapis.com/drive/v3/files/1wV3Ovi8a5F-DydfUkCWiFNBKJbZPFzp7?alt=media&key=AIzaSyDGMF_Dprfs6AAe_FLIyLC7MlKmS27c7rY
 #EXTINF:-1 tvg-id="" tvg-name="Aapko Pehle Bhi Kahin Dekha Hai 10/01/2003 " tvg-logo="https://subdl.com/p/sd214/sd214336.jpg" group-title="Movies",Aapko Pehle Bhi Kahin Dekha Hai 10/01/2003
 https://www.googleapis.com/drive/v3/files/1zKTvVNnuk6IF-sh_ThyapsqKWyzCcOa7?alt=media&key=AIzaSyBDJ9aiQ7E7OU-1aizfPoiHFdsObO4X0tU
+#EXTINF:-1 tvg-id="" tvg-name="Chalo Ishq Ladaaye 27/12/2002 " tvg-logo="https://subdl.com/p/sd22/sd22551.jpg" group-title="Movies",Chalo Ishq Ladaaye 27/12/2002
+https://www.googleapis.com/drive/v3/files/10p_l7JpD0vB7VO78xXXibfHAf8FbPZLG?alt=media&key=AIzaSyBiv2NYWmDHDXVcMfh4ny1wbxD84mPoWQ0
+#EXTINF:-1 tvg-id="" tvg-name="Deewangee 17/10/2002 " tvg-logo="https://i.imgur.com/G5mkhpD.jpg" group-title="Movies",Deewangee 17/10/2002
+https://www.googleapis.com/drive/v3/files/1nGBt5fTJ8-3FRtaaBt0l-7xCvUZ6_U0J?alt=media&key=AIzaSyDmem5XsSId_5f0MSwjv9GuzmiluUmeBNs
+#EXTINF:-1 tvg-id="" tvg-name="Deewangee 17/10/2002 " tvg-logo="https://i.imgur.com/G5mkhpD.jpg" group-title="Movies",Deewangee 17/10/2002
+https://www.googleapis.com/drive/v3/files/1SMUaDNj0k8p2QowKH5wWvHtvrvyJ8CMC?alt=media&key=AIzaSyCo_Zej10MDVncSOmMo1uE6ZTbFX7RWVf8
+#EXTINF:-1 tvg-id="" tvg-name="Dil Vil Pyar Vyar 8/10/2002 " tvg-logo="https://subdl.com/p/sd41/sd41262.jpg" group-title="Movies",Dil Vil Pyar Vyar 8/10/2002
+https://www.googleapis.com/drive/v3/files/1A6JBmNKYLfl_5i6soeFiqhBXDDxi0BsD?alt=media&key=AIzaSyATHz5aCx57gQO6m8RFsx6gFLvAcq1ECJI
+#EXTINF:-1 tvg-id="" tvg-name="Shakti 20/9/2002 " tvg-logo="https://i.imgur.com/NcrBexn.jpg" group-title="Movies",Shakti 20/9/2002
+https://www.googleapis.com/drive/v3/files/1SjitmzHL6DlkxLO0gH6clkR6K-MPtFjP?alt=media&key=AIzaSyAsjlLIweKgrGjpoeZiYh6cpSj7EQRBEzE
+#EXTINF:-1 tvg-id="" tvg-name="Chor Machaaye Shor 23/8/2002 " tvg-logo="https://i.imgur.com/i2cMKPK.jpg" group-title="Movies",Chor Machaaye Shor 23/8/2002
+https://www.googleapis.com/drive/v3/files/1zVzPuncBLfSWSjIPDbHy-nvhpXu99n4M?alt=media&key=AIzaSyDxe7qvKWxmpdNi5gUDGqghwyTM652IO0U
+#EXTINF:-1 tvg-id="" tvg-name="Dil Hai Tumhaara 5/8/2002 " tvg-logo="https://i.imgur.com/L3PStiU.jpg" group-title="Movies",Dil Hai Tumhaara 5/8/2002
+https://www.googleapis.com/drive/v3/files/1zU1-x4IAMqF26rMZ8FE4R-iL0JDaFV0a?alt=media&key=AIzaSyCFu_zX_w--jRv4EgSVW8Lgt2VHED4L5PE
+#EXTINF:-1 tvg-id="" tvg-name="Akhiyon Se Goli Maare 2/8/2002 " tvg-logo="https://subdl.com/p/sd23/sd23213.jpg" group-title="Movies",Akhiyon Se Goli Maare 2/8/2002
+https://www.googleapis.com/drive/v3/files/1Ve0i3XGBVgXd94eNHr4We28iM2dPqO9I?alt=media&key=AIzaSyAKaeY1dL33j6CKp5vXkF6THzNmZ0yopAs
+#EXTINF:-1 tvg-id="" tvg-name="Humraaz 26/7/2002 " tvg-logo="https://subdl.com/p/sd14/sd14816.jpg" group-title="Movies",Humraaz 26/7/2002
+https://www.googleapis.com/drive/v3/files/1ktXNkiL1zW2aNLM4ENJlsVo1RXteOILI?alt=media&key=AIzaSyDFuA-X-cBgMkGgEQ3XNBfPYNB1yMlY-I0
+#EXTINF:-1 tvg-id="" tvg-name="The Legend of Bhagat Singh 7/7/2002 " tvg-logo="https://subdl.com/p/sd169/sd169935.jpg" group-title="Movies",The Legend of Bhagat Singh 7/7/2002
+https://www.googleapis.com/drive/v3/files/1P7xQh_lTYaTgH0F5JDh4X9JqTtNhEtnl?alt=media&key=AIzaSyCqjp4D4PKFfglUulmjpmeFMI1YWO9ZEbc
+#EXTINF:-1 tvg-id="" tvg-name="Awara Paagal Deewana 20/6/2002 " tvg-logo="https://subdl.com/p/sd226/sd226528.jpg" group-title="Movies",Awara Paagal Deewana 20/6/2002
+https://www.googleapis.com/drive/v3/files/1_o7rp9QFpt6u33K9ZZ38gsCnSDC-uCM6?alt=media&key=AIzaSyATqCngB8o_czLH_mLGXUMj6eUCfaSHD-4
+#EXTINF:-1 tvg-id="" tvg-name="Badhaai Ho Badhaai 7/6/2002 " tvg-logo="https://subdl.com/p/sd27/sd27332.jpg" group-title="Movies",Badhaai Ho Badhaai 7/6/2002
+https://www.googleapis.com/drive/v3/files/1JNW7rF7FIxnRpoww5PDfRaHPZyRppGPc?alt=media&key=AIzaSyBIJdXa5SA2LJ5GMtSRJuoFCr_iId55Kyw
+#EXTINF:-1 tvg-id="" tvg-name="Devdas 15/5/2002 " tvg-logo="https://subdl.com/p/sd16/sd16284.jpg" group-title="Movies",Devdas 15/5/2002
+https://www.googleapis.com/drive/v3/files/1SAQLPsP9xtYpiQT7uQK6PeFsVVQy4PAZ?alt=media&key=AIzaSyAJPVcI6WgT_bgArlQrI1IJ-zBxsWsD9cc
+#EXTINF:-1 tvg-id="" tvg-name="Devdas 15/5/2002 " tvg-logo="https://subdl.com/p/sd16/sd16284.jpg" group-title="Movies",Devdas 15/5/2002
+https://www.googleapis.com/drive/v3/files/1fD0yaK0gGzzN3Vjg2z3Q8seS88d5Vf-4?alt=media&key=AIzaSyA8G3yPq75jMTtjQmMoi9CRgQP6C2qHqns
+#EXTINF:-1 tvg-id="" tvg-name="Ab Ke Baras 03/05/2002 " tvg-logo="https://i.imgur.com/HhClhax.jpg" group-title="Movies",Ab Ke Baras 03/05/2002
+https://www.googleapis.com/drive/v3/files/1Gq20Np445AQ1oSuJMm_W6m82alApZ1jb?alt=media&key=AIzaSyCLtlUNKuNygTb_otnsgY7Lns2PP7G1pX8
+#EXTINF:-1 tvg-id="" tvg-name="Hum Tumhare Hain Sanam 22/4/2002 " tvg-logo="https://subdl.com/p/sd213/sd213753.jpg" group-title="Movies",Hum Tumhare Hain Sanam 22/4/2002
+https://www.googleapis.com/drive/v3/files/1Xx2DVeFOKnluMrfGloMXFFt7LMogk74p?alt=media&key=AIzaSyCb7i7hNEB-BfSW15iY5SJ1nImf4NWrvDo
+#EXTINF:-1 tvg-id="" tvg-name="Aap Mujhe Achche Lagne Lage 19/04/2002 " tvg-logo="https://subdl.com/p/sd22/sd22710.jpg" group-title="Movies",Aap Mujhe Achche Lagne Lage 19/04/2002
+https://www.googleapis.com/drive/v3/files/1vhChpLqTrMbwV3vbPOrsb2mnLcpUnkJw?alt=media&key=AIzaSyAwgS_k21paQdbpDgunu4ad1s1Hy9E1k0w
+#EXTINF:-1 tvg-id="" tvg-name="Company 12/4/2002 " tvg-logo="https://i.imgur.com/MK9TCx8.jpg" group-title="Movies",Company 12/4/2002
+https://www.googleapis.com/drive/v3/files/16-A4L7Lc3zeenqlZgDxGawJSjYqOpcD2?alt=media&key=AIzaSyDXcT1AnSWx6-IWR7GSmrYoUqMz4h1Zp_o
+#EXTINF:-1 tvg-id="" tvg-name="Company 12/4/2002 " tvg-logo="https://i.imgur.com/MK9TCx8.jpg" group-title="Movies",Company 12/4/2002
+https://www.googleapis.com/drive/v3/files/1a9SCCqK5ldh9HxYvjpEV97OIM9YlnjCL?alt=media&key=AIzaSyCy-sB2MPRHu1z9BcKqfWDJKlvDJPnSNKI
+#EXTINF:-1 tvg-id="" tvg-name="Aankhen 05/04/2002 " tvg-logo="https://subdl.com/p/sd225/sd225791.jpg" group-title="Movies",Aankhen 05/04/2002
+https://www.googleapis.com/drive/v3/files/1-r4cbsWgHGvz04er-pByrvVk4RyCO0B0?alt=media&key=AIzaSyAxxt2wfor7wil1baCwQ4q4g8A7fZzVBdE
+#EXTINF:-1 tvg-id="" tvg-name="Filhaal 3/4/2002 " tvg-logo="https://i.imgur.com/wuWTw34.jpg" group-title="Movies",Filhaal 3/4/2002
+https://www.googleapis.com/drive/v3/files/1KbiQ96Ki9016iGkMLwmWS08QMqzHh0Tj?alt=media&key=AIzaSyBu1E14yInsD94rvKVOsCxq1l1Jg0WvBbI
+#EXTINF:-1 tvg-id="" tvg-name="Kitne Door Kitne Paas 19/3/2002 " tvg-logo="https://i.imgur.com/cyP8dOl.jpg" group-title="Movies",Kitne Door Kitne Paas 19/3/2002
+https://www.googleapis.com/drive/v3/files/1HJm1np6rpCW03bZ5bf474JfvUrz7h0zc?alt=media&key=AIzaSyDJjcY6f9sTbmsTZhyVUayC6etOFSoGnwQ
+#EXTINF:-1 tvg-id="" tvg-name="Agni Varsha 29/1/2002 " tvg-logo="https://i.imgur.com/CP5eUGZ.jpg" group-title="Movies",Agni Varsha 29/1/2002
+https://www.googleapis.com/drive/v3/files/18_Bd4wsp1L92Yh93A-7ab6KJmzCod81J?alt=media&key=AIzaSyAqHfxrNV5JtQSOLbAqqKvoVF4xHWHCYCc
+#EXTINF:-1 tvg-id="" tvg-name="Yeh Dil Aashiqanaa 18/1/2002 " tvg-logo="https://subdl.com/p/sd32/sd32097.jpg" group-title="Movies",Yeh Dil Aashiqanaa 18/1/2002
+https://www.googleapis.com/drive/v3/files/1yTFckECVyhO8yfAFAK24Dexb34t61WfE?alt=media&key=AIzaSyBgEdRP5UbHVWlBcYN0R6Z5v_vhjZgcxU0
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="Movies",
 
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="Movies",
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="Movies",
 
