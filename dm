@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
-#EXTINF:-1 tvg-id="" tvg-name="Axone 12/6/2020 " tvg-logo="https://i.imgur.com/pg1vlsY.jpg" group-title="Movies",Axone 12/6/2020
+#EXTINF:-1 tvg-id="" tvg-name="Axone 12/6/2020 " tvg-logo="https://i.imgur.com/pg1vlsY.jpg" group-title="hindi",Axone 12/6/2020
 https://www.googleapis.com/drive/v3/files/1vBrZDY0sEPrgM72nePEu9M1BaVVbDPxp?alt=media&key=AIzaSyADdu9qzGLv_dG7Yf-rwfB2JQuM17-O4XI
-#EXTINF:-1 tvg-id="" tvg-name="Choked Paisa Bolta Hai 5/6/2020 " tvg-logo="https://i.imgur.com/wVysKco.jpg" group-title="Movies",Choked Paisa Bolta Hai 5/6/2020
+#EXTINF:-1 tvg-id="" tvg-name="Choked Paisa Bolta Hai 5/6/2020 " tvg-logo="https://i.imgur.com/wVysKco.jpg" group-title="hindi",Choked Paisa Bolta Hai 5/6/2020
 https://www.googleapis.com/drive/v3/files/1KCJ8BQCt-mmauJlOtUfYRpOkzxPdiVKh?alt=media&key=AIzaSyB9R1pa2ifbApQuKZ_eBz2OK1KpRiQ1twk
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Soldiers 11/5/2020" tvg-logo="https://subdl.com/p/sd799/sd799104.jpg" group-title="Movies",Dragon Soldiers 11/5/2020
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Soldiers 11/5/2020" tvg-logo="https://subdl.com/p/sd799/sd799104.jpg" group-title="english",Dragon Soldiers 11/5/2020
 https://www.googleapis.com/drive/v3/files/1OlC5LFYlKnFTv_9FltWA6E_vdoWZIaEQ?alt=media&key=AIzaSyDLJl9pVmm7rAWAZMwqav4rSyEEjGW-mS0
 #EXTINF:-1 tvg-id="" tvg-name="The Legion 8/5/2020" tvg-logo="https://i.imgur.com/5Ydy03H.jpg" group-title="Movies",The Legion 8/5/2020
 https://www.googleapis.com/drive/v3/files/13kXg5KFHpxdSbicxvp-1__FzBk0QpY2S?alt=media&key=AIzaSyBdyvV2jSFAN9plaekU4AabiCrozgnvyDE
