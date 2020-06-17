@@ -430,679 +430,679 @@ https://www.googleapis.com/drive/v3/files/1lPI2D0oikkNaCZX71BwWc99uAgYhTEcI?alt=
 https://www.googleapis.com/drive/v3/files/1Kp1p5KTNs6BYQdhSu8tjb9Le8LMjVm1D?alt=media&key=AIzaSyCqtbskY0CyFRVLvThjmuMedzaZfr0RKtI
 #EXTINF:-1 tvg-id="" tvg-name="Dil Jo Na Keh Saka 17/11/2017" tvg-logo="https://subdl.com/p/sd376/sd376386.jpg" group-title="hindi",Dil Jo Na Keh Saka 17/11/2017
 https://www.googleapis.com/drive/v3/files/1W8Fes3hJCNrcjd_U037q6i8cSSyCVCRu?alt=media&key=AIzaSyA4G6WBU5Gi4uqOQYXyL-LlXTResjAl81g
-#EXTINF:-1 tvg-id="" tvg-name="Shaadi Mein Zaroor Aana 10/11/2017" tvg-logo="https://subdl.com/p/sd6/sd6611.jpg" group-title="Movies",Shaadi Mein Zaroor Aana 10/11/2017
+#EXTINF:-1 tvg-id="" tvg-name="Shaadi Mein Zaroor Aana 10/11/2017" tvg-logo="https://subdl.com/p/sd6/sd6611.jpg" group-title="hindi",Shaadi Mein Zaroor Aana 10/11/2017
 https://www.googleapis.com/drive/v3/files/1naMrH84Ukp515OQFmff7yXNa14CraorW?alt=media&key=AIzaSyDsnPwIIu9qLuFYYh5Xhbp-MKyYl940w78
-#EXTINF:-1 tvg-id="" tvg-name="Golmaal Again 13/10/2017" tvg-logo="https://subdl.com/p/sd5/sd5119.jpg" group-title="Movies",Golmaal Again 13/10/2017
+#EXTINF:-1 tvg-id="" tvg-name="Golmaal Again 13/10/2017" tvg-logo="https://subdl.com/p/sd5/sd5119.jpg" group-title="hindi",Golmaal Again 13/10/2017
 https://www.googleapis.com/drive/v3/files/1vRu3HZZGh4Hiqw8YzY4SVyIedOxLqBpJ?alt=media&key=AIzaSyCFUZbM39wWQklzIy2gER5VZdO-SjeHbZQ
-#EXTINF:-1 tvg-id="" tvg-name="Love And Shukla 13/10/2017" tvg-logo="https://subdl.com/p/sd517/sd517342.jpg" group-title="Movies",Love And Shukla 13/10/2017
+#EXTINF:-1 tvg-id="" tvg-name="Love And Shukla 13/10/2017" tvg-logo="https://subdl.com/p/sd517/sd517342.jpg" group-title="hindi",Love And Shukla 13/10/2017
 https://www.googleapis.com/drive/v3/files/1vpLihsb5rdH4NZwfex0sRu4gNblzg9Bq?alt=media&key=AIzaSyCIYUsfV4Mp2mZL-QAWM4M8GLHuGKZnFD0
-#EXTINF:-1 tvg-id="" tvg-name="Chef 29/9/2017" tvg-logo="https://subdl.com/p/sd5/sd5450.jpg" group-title="Movies",Chef 29/9/2017
+#EXTINF:-1 tvg-id="" tvg-name="Chef 29/9/2017" tvg-logo="https://subdl.com/p/sd5/sd5450.jpg" group-title="hindi",Chef 29/9/2017
 https://www.googleapis.com/drive/v3/files/17IzsZvzAd-Bq4eoc26bp710HUsMGlRMY?alt=media&key=AIzaSyC8GUqBz8TeJCy0AcdhRYb4cc3yFfTRY9k
-#EXTINF:-1 tvg-id="" tvg-name="Bhoomi 22/9/2017" tvg-logo="https://i.imgur.com/Nbizqk5.jpg" group-title="Movies",Bhoomi 22/9/2017
+#EXTINF:-1 tvg-id="" tvg-name="Bhoomi 22/9/2017" tvg-logo="https://i.imgur.com/Nbizqk5.jpg" group-title="hindi",Bhoomi 22/9/2017
 https://www.googleapis.com/drive/v3/files/1dIMY7MOoz5e9euzGmYkc6N-X3wtKLIHA?alt=media&key=AIzaSyCLeLf8Pp5_FF83trmNmFMlJtgZ_EV0qQQ
-#EXTINF:-1 tvg-id="" tvg-name="B A  Pass 2 15/9/2017" tvg-logo="https://i.imgur.com/mMLDOrs.jpg" group-title="Movies",B A  Pass 2 15/9/2017
+#EXTINF:-1 tvg-id="" tvg-name="B A  Pass 2 15/9/2017" tvg-logo="https://i.imgur.com/mMLDOrs.jpg" group-title="hindi",B A  Pass 2 15/9/2017
 https://www.googleapis.com/drive/v3/files/1p-1kgtN1TxnCcA-PwkP94MU9N3woSDbp?alt=media&key=AIzaSyAegBjrT9nfMuFL71apCkkZpJCC-7a7Chk
-#EXTINF:-1 tvg-id="" tvg-name="Baadshaho 1/9/2017" tvg-logo="https://subdl.com/p/sd18/sd18660.jpg" group-title="Movies",Baadshaho 1/9/2017
+#EXTINF:-1 tvg-id="" tvg-name="Baadshaho 1/9/2017" tvg-logo="https://subdl.com/p/sd18/sd18660.jpg" group-title="hindi",Baadshaho 1/9/2017
 https://www.googleapis.com/drive/v3/files/19xVzVNfbyYiUWwuh6Y0beSPcvivcWOFj?alt=media&key=AIzaSyCNw1o8nUqR_Imom5N19aO6KYcwpzpnWZ0
-#EXTINF:-1 tvg-id="" tvg-name="Shubh Mangal Saavdhan 24/8/2017" tvg-logo="https://i.imgur.com/9uus56y.jpg" group-title="Movies",Shubh Mangal Saavdhan 24/8/2017
+#EXTINF:-1 tvg-id="" tvg-name="Shubh Mangal Saavdhan 24/8/2017" tvg-logo="https://i.imgur.com/9uus56y.jpg" group-title="hindi",Shubh Mangal Saavdhan 24/8/2017
 https://www.googleapis.com/drive/v3/files/17NVDOTEOTMxcfpRWg2UKPye-rUtXqWN2?alt=media&key=AIzaSyBSLTh9bYoAZ1J2MBm-c5z7zC2q11P-p6Y
-#EXTINF:-1 tvg-id="" tvg-name="Babumoshai Bandookbaaz 21/8/2017" tvg-logo="https://subdl.com/p/sd132/sd132086.jpg" group-title="Movies",Babumoshai Bandookbaaz 21/8/2017
+#EXTINF:-1 tvg-id="" tvg-name="Babumoshai Bandookbaaz 21/8/2017" tvg-logo="https://subdl.com/p/sd132/sd132086.jpg" group-title="hindi",Babumoshai Bandookbaaz 21/8/2017
 https://www.googleapis.com/drive/v3/files/1vzL7ccb8xPKffdWerM_TvIN3EP4a9L-_?alt=media&key=AIzaSyAm9zrKOppUh7wqxLQFkddUpPJAM1AkEAU
-#EXTINF:-1 tvg-id="" tvg-name="A Gentleman 16/8/2017" tvg-logo="https://subdl.com/p/sd18/sd18436.jpg" group-title="Movies",A Gentleman 16/8/2017
+#EXTINF:-1 tvg-id="" tvg-name="A Gentleman 16/8/2017" tvg-logo="https://subdl.com/p/sd18/sd18436.jpg" group-title="hindi",A Gentleman 16/8/2017
 https://www.googleapis.com/drive/v3/files/14WRE0fYZ1pjYh4KvzJC4M1NxtuJteReg?alt=media&key=AIzaSyChNDoYJMnuSlbNMVY0tS5603Z9xljrgxw
-#EXTINF:-1 tvg-id="" tvg-name="Bareilly Ki Barfi 14/8/2017" tvg-logo="https://subdl.com/p/sd11/sd11677.jpg" group-title="Movies",Bareilly Ki Barfi 14/8/2017
+#EXTINF:-1 tvg-id="" tvg-name="Bareilly Ki Barfi 14/8/2017" tvg-logo="https://subdl.com/p/sd11/sd11677.jpg" group-title="hindi",Bareilly Ki Barfi 14/8/2017
 https://www.googleapis.com/drive/v3/files/1kT9xTSgT3XNgFLeY0KCTAt9akkk9utVX?alt=media&key=AIzaSyAxwLH-p7cZN8s_lmq4hjjOgdI9XOGAK5s
-#EXTINF:-1 tvg-id="" tvg-name="Gurgaon 4/8/2017" tvg-logo="https://i.imgur.com/OtuBqZk.jpg" group-title="Movies",Gurgaon 4/8/2017
+#EXTINF:-1 tvg-id="" tvg-name="Gurgaon 4/8/2017" tvg-logo="https://i.imgur.com/OtuBqZk.jpg" group-title="hindi",Gurgaon 4/8/2017
 https://www.googleapis.com/drive/v3/files/1Cc6t_SH6M6mGH1IOh8ipjmplMeRuOgGM?alt=media&key=AIzaSyAqAw7xo3Go_mpyR3K3GYo_ybkNXgIrE_8
-#EXTINF:-1 tvg-id="" tvg-name="Newton 13/7/2017" tvg-logo="https://subdl.com/p/sd12/sd12356.jpg" group-title="Movies",Newton 13/7/2017
+#EXTINF:-1 tvg-id="" tvg-name="Newton 13/7/2017" tvg-logo="https://subdl.com/p/sd12/sd12356.jpg" group-title="hindi",Newton 13/7/2017
 https://www.googleapis.com/drive/v3/files/1mdW-odtxL46Rxbtkn1RTOB-z254C_xPn?alt=media&key=AIzaSyCqVC6_jhqkGw5cU-8p4KKrT0TTW4iUB10
-#EXTINF:-1 tvg-id="" tvg-name="Awarapan 21/6/2007" tvg-logo="https://subdl.com/p/sd5/sd5932.jpg" group-title="Movies",Awarapan 21/6/2007
+#EXTINF:-1 tvg-id="" tvg-name="Awarapan 21/6/2007" tvg-logo="https://subdl.com/p/sd5/sd5932.jpg" group-title="hindi",Awarapan 21/6/2007
 https://www.googleapis.com/drive/v3/files/19sfTEZQOrMJXk7o-d717SZqDRWh5NxIK?alt=media&key=AIzaSyC8qeQ5yaNtaiMhq7jncWuEhOFDgAJXLkQ
-#EXTINF:-1 tvg-id="" tvg-name="Guest In London 21/6/2017" tvg-logo="https://i.imgur.com/kljhjX8.jpg" group-title="Movies",Guest In London 21/6/2017
+#EXTINF:-1 tvg-id="" tvg-name="Guest In London 21/6/2017" tvg-logo="https://i.imgur.com/kljhjX8.jpg" group-title="hindi",Guest In London 21/6/2017
 https://www.googleapis.com/drive/v3/files/1FadH935zNjXg6xqcqPLhZh8PR4pu4ZCF?alt=media&key=AIzaSyCaXwwPbo8BoBct6sNW1F-CN2OAsCAVMEY
-#EXTINF:-1 tvg-id="" tvg-name="The Wishing Tree 9/6/2017" tvg-logo="https://i.imgur.com/2XuP9pc.jpg" group-title="Movies",The Wishing Tree 9/6/2017
+#EXTINF:-1 tvg-id="" tvg-name="The Wishing Tree 9/6/2017" tvg-logo="https://i.imgur.com/2XuP9pc.jpg" group-title="hindi",The Wishing Tree 9/6/2017
 https://www.googleapis.com/drive/v3/files/1rR3JhBj92aC77SeMsVkt3TnkecsiWANJ?alt=media&key=AIzaSyDYDX3PB_VlOlf7g4QwUoYzJP2SrDJip-g
-#EXTINF:-1 tvg-id="" tvg-name="Raabta 5/6/2017" tvg-logo="https://subdl.com/p/sd2/sd2802.jpg" group-title="Movies",Raabta 5/6/2017
+#EXTINF:-1 tvg-id="" tvg-name="Raabta 5/6/2017" tvg-logo="https://subdl.com/p/sd2/sd2802.jpg" group-title="hindi",Raabta 5/6/2017
 https://www.googleapis.com/drive/v3/files/1mbJsrUU9uRCay63GjgVCObPmrPf9tdmu?alt=media&key=AIzaSyAyBrGRxR__DVJw7Z0iGHRa2_9y0gJmF-g
-#EXTINF:-1 tvg-id="" tvg-name="Bank Chor 29/5/2017" tvg-logo="https://subdl.com/p/sd16/sd16511.jpg" group-title="Movies",Bank Chor 29/5/2017
+#EXTINF:-1 tvg-id="" tvg-name="Bank Chor 29/5/2017" tvg-logo="https://subdl.com/p/sd16/sd16511.jpg" group-title="hindi",Bank Chor 29/5/2017
 https://www.googleapis.com/drive/v3/files/1P7hgWGxttdBAoyLEBZ75hjS5dSM8wttK?alt=media&key=AIzaSyAsDc1102sAEPSaIg0BL84ypjUiosPevI0
-#EXTINF:-1 tvg-id="" tvg-name="Half Girlfriend 19/5/2017" tvg-logo="https://subdl.com/p/sd1/sd1931.jpg" group-title="Movies",Half Girlfriend 19/5/2017
+#EXTINF:-1 tvg-id="" tvg-name="Half Girlfriend 19/5/2017" tvg-logo="https://subdl.com/p/sd1/sd1931.jpg" group-title="hindi",Half Girlfriend 19/5/2017
 https://www.googleapis.com/drive/v3/files/1Xh24JtJvAaqffvzGb5zuwWk9IbfuOrp1?alt=media&key=AIzaSyCvVjFJtGayBTTWKrVH9t1w9eJSzBZwe_8
-#EXTINF:-1 tvg-id="" tvg-name="Sargoshiyan 8/5/2017" tvg-logo="https://subdl.com/p/sd807/sd807133.jpg" group-title="Movies",Sargoshiyan 8/5/2017
+#EXTINF:-1 tvg-id="" tvg-name="Sargoshiyan 8/5/2017" tvg-logo="https://subdl.com/p/sd807/sd807133.jpg" group-title="hindi",Sargoshiyan 8/5/2017
 https://www.googleapis.com/drive/v3/files/10WCQ_2Q3LlxtO90p0O8nZvgXRikIIwsT?alt=media&key=AIzaSyCQUHnME4Yhsfw3xfrevRGNXmVaZPYoKBM
-#EXTINF:-1 tvg-id="" tvg-name="Sarkar 3 8/5/2017" tvg-logo="https://subdl.com/p/sd12/sd12174.jpg" group-title="Movies",Sarkar 3 8/5/2017
+#EXTINF:-1 tvg-id="" tvg-name="Sarkar 3 8/5/2017" tvg-logo="https://subdl.com/p/sd12/sd12174.jpg" group-title="hindi",Sarkar 3 8/5/2017
 https://www.googleapis.com/drive/v3/files/12N84Ddh-zIEkaGbgqdv_t4Y68GwAq9WP?alt=media&key=AIzaSyBWuZ8bKBBJYuPMcPEOOPlNLP-N3cWpPco
-#EXTINF:-1 tvg-id="" tvg-name="Begum Jaan 14/4/2017" tvg-logo="https://subdl.com/p/sd3/sd3334.jpg" group-title="Movies",Begum Jaan 14/4/2017
+#EXTINF:-1 tvg-id="" tvg-name="Begum Jaan 14/4/2017" tvg-logo="https://subdl.com/p/sd3/sd3334.jpg" group-title="hindi",Begum Jaan 14/4/2017
 https://www.googleapis.com/drive/v3/files/187FbY6H4Z3I_7ej2iyU2x8R0LIwH9l7d?alt=media&key=AIzaSyCi14wKmcSPackkC3DrSn3dSNNbEHcGhYY
-#EXTINF:-1 tvg-id="" tvg-name="Manje Bistre 14/4/2017" tvg-logo="https://i.imgur.com/3oihw9f.jpg" group-title="Movies",Manje Bistre 14/4/2017
+#EXTINF:-1 tvg-id="" tvg-name="Manje Bistre 14/4/2017" tvg-logo="https://i.imgur.com/3oihw9f.jpg" group-title="hindi",Manje Bistre 14/4/2017
 https://www.googleapis.com/drive/v3/files/1ZcMA_-eoUbL2X2CGWYk4IDhqlcHFE_F3?alt=media&key=AIzaSyD_d0FxczPzZsL03yAwQ1tgIyiDuekd0wg
-#EXTINF:-1 tvg-id="" tvg-name="Badrinath Ki Dulhania 1/3/2017" tvg-logo="https://subdl.com/p/sd2/sd2892.jpg" group-title="Movies",Badrinath Ki Dulhania 1/3/2017
+#EXTINF:-1 tvg-id="" tvg-name="Badrinath Ki Dulhania 1/3/2017" tvg-logo="https://subdl.com/p/sd2/sd2892.jpg" group-title="hindi",Badrinath Ki Dulhania 1/3/2017
 https://www.googleapis.com/drive/v3/files/1GwdmpBY_4DKRbCj1vuZsqkEbzin6uCVz?alt=media&key=AIzaSyCjikVpI4y4Ejvplu0McROe6OgREUbnvTA
-#EXTINF:-1 tvg-id="" tvg-name="Commando 2 27/2/2017" tvg-logo="https://subdl.com/p/sd4/sd4315.jpg" group-title="Movies",Commando 2 27/2/2017
+#EXTINF:-1 tvg-id="" tvg-name="Commando 2 27/2/2017" tvg-logo="https://subdl.com/p/sd4/sd4315.jpg" group-title="hindi",Commando 2 27/2/2017
 https://www.googleapis.com/drive/v3/files/1sJ-9AzcQfpDB54tSRzNWvSRzSY6AivqW?alt=media&key=AIzaSyAAJEm2UApaxCFMzDxKbOfT5j6izxeroq0
-#EXTINF:-1 tvg-id="" tvg-name="Bhouri 24/2/2017" tvg-logo="https://subdl.com/p/sd474/sd474863.jpg" group-title="Movies",Bhouri 24/2/2017
+#EXTINF:-1 tvg-id="" tvg-name="Bhouri 24/2/2017" tvg-logo="https://subdl.com/p/sd474/sd474863.jpg" group-title="hindi",Bhouri 24/2/2017
 https://www.googleapis.com/drive/v3/files/1dIMY7MOoz5e9euzGmYkc6N-X3wtKLIHA?alt=media&key=AIzaSyCBqBzf76tx6Rl5U-4NRtShb02zvmnTdnc
-#EXTINF:-1 tvg-id="" tvg-name="Wedding Anniversary 17/2/2017" tvg-logo="https://i.imgur.com/sadUcHX.jpg" group-title="Movies",Wedding Anniversary 17/2/2017
+#EXTINF:-1 tvg-id="" tvg-name="Wedding Anniversary 17/2/2017" tvg-logo="https://i.imgur.com/sadUcHX.jpg" group-title="hindi",Wedding Anniversary 17/2/2017
 https://www.googleapis.com/drive/v3/files/1CbdRNerjK67OM740PKBaLiP-umtNCGBX?alt=media&key=AIzaSyB-AlFzdkCtcq68wnCJxns488KVLJW_MIE
-#EXTINF:-1 tvg-id="" tvg-name="Coffee with D 10/1/2017" tvg-logo="https://i.imgur.com/MCffBf3.jpg" group-title="Movies",Coffee with D 10/1/2017
+#EXTINF:-1 tvg-id="" tvg-name="Coffee with D 10/1/2017" tvg-logo="https://i.imgur.com/MCffBf3.jpg" group-title="hindi",Coffee with D 10/1/2017
 https://www.googleapis.com/drive/v3/files/16440CxqYREfSYNFcJ1fbbODRjamJMH27?alt=media&key=AIzaSyD992fVbm0OntqqMFSChpOtweHe2U1PHMM
-#EXTINF:-1 tvg-id="" tvg-name="Dangal 22/12/2016" tvg-logo="https://subdl.com/p/sd5/sd5509.jpg" group-title="Movies",Dangal 22/12/2016
+#EXTINF:-1 tvg-id="" tvg-name="Dangal 22/12/2016" tvg-logo="https://subdl.com/p/sd5/sd5509.jpg" group-title="hindi",Dangal 22/12/2016
 https://www.googleapis.com/drive/v3/files/1nWVrGPqbXR9S3USzMldBp1299zRZqcus?alt=media&key=AIzaSyCueqEfrS-mrgkcyAMEKjT3chYL8AS_3Y4
-#EXTINF:-1 tvg-id="" tvg-name="Trapped 21/12/2016" tvg-logo="https://subdl.com/p/sd176/sd176737.jpg" group-title="Movies",Trapped 21/12/2016
+#EXTINF:-1 tvg-id="" tvg-name="Trapped 21/12/2016" tvg-logo="https://subdl.com/p/sd176/sd176737.jpg" group-title="hindi",Trapped 21/12/2016
 https://www.googleapis.com/drive/v3/files/1jTlSq8V41d-NyXuN-kSdFnjMkvYtbMTX?alt=media&key=AIzaSyAu5TymLDX563Iq_xvyAV2ihBusZabFpgQ
-#EXTINF:-1 tvg-id="" tvg-name="30 Minutes 9/12/2016" tvg-logo="https://i.imgur.com/OHLLOqx.jpg" group-title="Movies",30 Minutes 9/12/2016
+#EXTINF:-1 tvg-id="" tvg-name="30 Minutes 9/12/2016" tvg-logo="https://i.imgur.com/OHLLOqx.jpg" group-title="hindi",30 Minutes 9/12/2016
 https://www.googleapis.com/drive/v3/files/1n3tDwUE-Udgc57RvhmTqXkdDFdwQrtHV?alt=media&key=AIzaSyDIbaxbtRtPZXYpDsIi6Mm2lqGLWej-ADM
-#EXTINF:-1 tvg-id="" tvg-name="Wajah Tum Ho 22/11/2016" tvg-logo="https://subdl.com/p/sd14/sd14018.jpg" group-title="Movies",Wajah Tum Ho 22/11/2016
+#EXTINF:-1 tvg-id="" tvg-name="Wajah Tum Ho 22/11/2016" tvg-logo="https://subdl.com/p/sd14/sd14018.jpg" group-title="hindi",Wajah Tum Ho 22/11/2016
 https://www.googleapis.com/drive/v3/files/1lbq376w5ZqAb-evQ6-HCLoQDhA9gb2Xs?alt=media&key=AIzaSyBvBNEsjkAWutNHR2SgLEauuY8xiKViQ3Q
-#EXTINF:-1 tvg-id="" tvg-name="Dear Zindagi 16/11/2016" tvg-logo="https://subdl.com/p/sd1/sd1141.jpg" group-title="Movies",Dear Zindagi 16/11/2016
+#EXTINF:-1 tvg-id="" tvg-name="Dear Zindagi 16/11/2016" tvg-logo="https://subdl.com/p/sd1/sd1141.jpg" group-title="hindi",Dear Zindagi 16/11/2016
 https://www.googleapis.com/drive/v3/files/16rlhc1kqRAYBVXEV5DJNS_Rd4hJ21-Ae?alt=media&key=AIzaSyC2tez-0kJTpX5BvlbP7amv-JAFvO3-p3w
-#EXTINF:-1 tvg-id="" tvg-name="Befikre 15/11/2016" tvg-logo="https://i.imgur.com/w9x33Sh.jpg" group-title="Movies",Befikre 15/11/2016
+#EXTINF:-1 tvg-id="" tvg-name="Befikre 15/11/2016" tvg-logo="https://i.imgur.com/w9x33Sh.jpg" group-title="hindi",Befikre 15/11/2016
 https://www.googleapis.com/drive/v3/files/1ZUUt9VKxtCj5bLiJiq82kzk4mw7S2JbC?alt=media&key=AIzaSyCGgvroJu7fSgtDoC3KOCnm-_l8iwKaQBI
-#EXTINF:-1 tvg-id="" tvg-name="Force 2 10/11/2016" tvg-logo="https://subdl.com/p/sd10/sd10993.jpg" group-title="Movies",Force 2 10/11/2016
+#EXTINF:-1 tvg-id="" tvg-name="Force 2 10/11/2016" tvg-logo="https://subdl.com/p/sd10/sd10993.jpg" group-title="hindi",Force 2 10/11/2016
 https://www.googleapis.com/drive/v3/files/1r2ZyMQ1c4rAquy5gZXxmtytg5sXmrUF8?alt=media&key=AIzaSyD5PPSEJs9b3O-kpq14OJSvNOMLIePho2g
-#EXTINF:-1 tvg-id="" tvg-name="Dongri Ka Raja 8/11/2016" tvg-logo="https://subdl.com/p/sd13/sd13945.jpg" group-title="Movies",Dongri Ka Raja 8/11/2016
+#EXTINF:-1 tvg-id="" tvg-name="Dongri Ka Raja 8/11/2016" tvg-logo="https://subdl.com/p/sd13/sd13945.jpg" group-title="hindi",Dongri Ka Raja 8/11/2016
 https://www.googleapis.com/drive/v3/files/1UZDxfXll2_pgzmXeJPftUwVpsW6Ziphw?alt=media&key=AIzaSyA6BO0rfFFgImuZR4J5J2W8eYwtFfNxg4M
-#EXTINF:-1 tvg-id="" tvg-name="AE DIL HAI MUSHKIL 14/10/2016" tvg-logo="https://i.imgur.com/I1u58pF.jpg" group-title="Movies",AE DIL HAI MUSHKIL 14/10/2016
+#EXTINF:-1 tvg-id="" tvg-name="AE DIL HAI MUSHKIL 14/10/2016" tvg-logo="https://i.imgur.com/I1u58pF.jpg" group-title="hindi",AE DIL HAI MUSHKIL 14/10/2016
 https://www.googleapis.com/drive/v3/files/1H5subvrAwTLuLSZZaq29Lyk4gWX9LikU?alt=media&key=AIzaSyDAc4kgrCl8NE_SJYni7jdLyee7amQ_f1w
-#EXTINF:-1 tvg-id="" tvg-name="Banjo 15/9/2016" tvg-logo="https://subdl.com/p/sd6/sd6799.jpg" group-title="Movies",Banjo 15/9/2016
+#EXTINF:-1 tvg-id="" tvg-name="Banjo 15/9/2016" tvg-logo="https://subdl.com/p/sd6/sd6799.jpg" group-title="hindi",Banjo 15/9/2016
 https://www.googleapis.com/drive/v3/files/1_0Ok7HRXrbA4ozeeqV-VHcQapJublR9G?alt=media&key=AIzaSyBr6DzxhlYT_CFvJ5k44ebtMS9gF3OL8Og
-#EXTINF:-1 tvg-id="" tvg-name="Beiimaan Love 9/9/2016" tvg-logo="https://i.imgur.com/j8nXECV.jpg" group-title="Movies",Beiimaan Love 9/9/2016
+#EXTINF:-1 tvg-id="" tvg-name="Beiimaan Love 9/9/2016" tvg-logo="https://i.imgur.com/j8nXECV.jpg" group-title="hindi",Beiimaan Love 9/9/2016
 https://www.googleapis.com/drive/v3/files/1s1htWSwhouVxzDbn6D8mZkQb8THUBoY7?alt=media&key=AIzaSyBCWrlCl9VuZhsX9ryQIsYsOTiPc3AF6as
-#EXTINF:-1 tvg-id="" tvg-name="Baar Baar Dekho 30/8/2016" tvg-logo="https://subdl.com/p/sd11/sd11033.jpg" group-title="Movies",Baar Baar Dekho 30/8/2016
+#EXTINF:-1 tvg-id="" tvg-name="Baar Baar Dekho 30/8/2016" tvg-logo="https://subdl.com/p/sd11/sd11033.jpg" group-title="hindi",Baar Baar Dekho 30/8/2016
 https://www.googleapis.com/drive/v3/files/1qXKcAvXCQMsH7ZdxnFWjJ6a81rfBxcYk?alt=media&key=AIzaSyDwWTmYfUlZqQhyL_0DdEyqXKjeNqOPdK0
-#EXTINF:-1 tvg-id="" tvg-name="Akira 26/8/2016" tvg-logo="https://subdl.com/p/sd1/sd1100.jpg" group-title="Movies",Akira 26/8/2016
+#EXTINF:-1 tvg-id="" tvg-name="Akira 26/8/2016" tvg-logo="https://subdl.com/p/sd1/sd1100.jpg" group-title="hindi",Akira 26/8/2016
 https://www.googleapis.com/drive/v3/files/1O5QOS3Prv_9l4GBf5okqLvpFAdohBBil?alt=media&key=AIzaSyD_pNVVptZMajggjr3L1ogbNxDUV6lEvjM
-#EXTINF:-1 tvg-id="" tvg-name="A Flying Jatt 25/08/2016" tvg-logo="https://subdl.com/p/sd3/sd3542.jpg" group-title="Movies",A Flying Jatt 25/08/2016
+#EXTINF:-1 tvg-id="" tvg-name="A Flying Jatt 25/08/2016" tvg-logo="https://subdl.com/p/sd3/sd3542.jpg" group-title="hindi",A Flying Jatt 25/08/2016
 https://www.googleapis.com/drive/v3/files/19dSUqliPztTXspf2EYclXyk8ReXNzdv6?alt=media&key=AIzaSyAwTI_vwtETG7POPXWwBWA3_5WQv4fzwXE
-#EXTINF:-1 tvg-id="" tvg-name="Dishoom 21/7/2016" tvg-logo="https://subdl.com/p/sd5/sd5262.jpg" group-title="Movies",Dishoom 21/7/2016
+#EXTINF:-1 tvg-id="" tvg-name="Dishoom 21/7/2016" tvg-logo="https://subdl.com/p/sd5/sd5262.jpg" group-title="hindi",Dishoom 21/7/2016
 https://www.googleapis.com/drive/v3/files/1DSE0KeJ8wHaLgyBr02L57iwjuBSC9PdH?alt=media&key=AIzaSyAG8pxEJjzGm51LUlM83U3W-iOXqPI_WLw
-#EXTINF:-1 tvg-id="" tvg-name="Fever 8/7/2016" tvg-logo="https://subdl.com/p/sd103/sd103431.jpg" group-title="Movies",Fever 8/7/2016
+#EXTINF:-1 tvg-id="" tvg-name="Fever 8/7/2016" tvg-logo="https://subdl.com/p/sd103/sd103431.jpg" group-title="hindi",Fever 8/7/2016
 https://www.googleapis.com/drive/v3/files/19uatGqtx8tJLjNh9PoV3UgPf6bm5ocxX?alt=media&key=AIzaSyDssVklbcguHgMKC8qPg6ASODEFl3ZokTA
-#EXTINF:-1 tvg-id="" tvg-name="Guddu Ki Gun 30/6/2016" tvg-logo="https://subdl.com/p/sd196/sd196814.jpg" group-title="Movies",Guddu Ki Gun 30/6/2016
+#EXTINF:-1 tvg-id="" tvg-name="Guddu Ki Gun 30/6/2016" tvg-logo="https://subdl.com/p/sd196/sd196814.jpg" group-title="hindi",Guddu Ki Gun 30/6/2016
 https://www.googleapis.com/drive/v3/files/1s86XoUypfmJsJSFRMs3AauYfsgnmmCV6?alt=media&key=AIzaSyBC-w1XLAAUGE-kCzyml93R1HpFgc2ok6E
-#EXTINF:-1 tvg-id="" tvg-name="A Scandall 24/06/2016" tvg-logo="https://subdl.com/p/sd374/sd374515.jpg" group-title="Movies",A Scandall 24/06/2016
+#EXTINF:-1 tvg-id="" tvg-name="A Scandall 24/06/2016" tvg-logo="https://subdl.com/p/sd374/sd374515.jpg" group-title="hindi",A Scandall 24/06/2016
 https://www.googleapis.com/drive/v3/files/1KI9vhSzbsu7VsjutTW6i2alTmbpIPDtj?alt=media&key=AIzaSyD9EbAahZat-NZoqxGDHjd3g1EJVH84KAo
-#EXTINF:-1 tvg-id="" tvg-name="Udta Punjab 15/6/2016" tvg-logo="https://subdl.com/p/sd4/sd4927.jpg" group-title="Movies",Udta Punjab 15/6/2016
+#EXTINF:-1 tvg-id="" tvg-name="Udta Punjab 15/6/2016" tvg-logo="https://subdl.com/p/sd4/sd4927.jpg" group-title="hindi",Udta Punjab 15/6/2016
 https://www.googleapis.com/drive/v3/files/1VOktEtFCA10fhApzm5xUq_kULAGRIPhj?alt=media&key=AIzaSyCDuIL_9HetuxQfTdNgBGJrw4ifDU7O72A
-#EXTINF:-1 tvg-id="" tvg-name="7 Hours To Go 14/06/2016" tvg-logo="https://i.imgur.com/b68RBYM.jpg" group-title="Movies",7 Hours To Go 14/06/2016
+#EXTINF:-1 tvg-id="" tvg-name="7 Hours To Go 14/06/2016" tvg-logo="https://i.imgur.com/b68RBYM.jpg" group-title="hindi",7 Hours To Go 14/06/2016
 https://www.googleapis.com/drive/v3/files/1YfMzoCiBDkMyru-ZZR4SNsmkM-HOCvGW?alt=media&key=AIzaSyBXOH8s2o-K887geyGFQN_wrjzeYlaScTE
-#EXTINF:-1 tvg-id="" tvg-name="Junooniyat 10/6/2016" tvg-logo="https://subdl.com/p/sd16/sd16681.jpg" group-title="Movies",Junooniyat 10/6/2016
+#EXTINF:-1 tvg-id="" tvg-name="Junooniyat 10/6/2016" tvg-logo="https://subdl.com/p/sd16/sd16681.jpg" group-title="hindi",Junooniyat 10/6/2016
 https://www.googleapis.com/drive/v3/files/1YDrZAp_h5rd5M5zdAMpe2uDkY53s1RLm?alt=media&key=AIzaSyDPMqcW0gC9t4D5OIrKq7VZ-uDp2cpPLOU
-#EXTINF:-1 tvg-id="" tvg-name="Housefull 3 26/5/2016" tvg-logo="https://subdl.com/p/sd176/sd176637.jpg" group-title="Movies",Housefull 3 26/5/2016
+#EXTINF:-1 tvg-id="" tvg-name="Housefull 3 26/5/2016" tvg-logo="https://subdl.com/p/sd176/sd176637.jpg" group-title="hindi",Housefull 3 26/5/2016
 https://www.googleapis.com/drive/v3/files/1tQgfukWZgaVwfy-xTOaJlf_vkoh_dp1H?alt=media&key=AIzaSyDR2GwSUgW3kM_BlVTRJn1ALuE3-L1Wbio
-#EXTINF:-1 tvg-id="" tvg-name="Buddha in a Traffic Jam 13/5/2016" tvg-logo="https://subdl.com/p/sd74/sd74422.jpg" group-title="Movies",Buddha in a Traffic Jam 13/5/2016
+#EXTINF:-1 tvg-id="" tvg-name="Buddha in a Traffic Jam 13/5/2016" tvg-logo="https://subdl.com/p/sd74/sd74422.jpg" group-title="hindi",Buddha in a Traffic Jam 13/5/2016
 https://www.googleapis.com/drive/v3/files/1NlIcDWdpCqXn6NUzA6q8QXFV_KJXrFg2?alt=media&key=AIzaSyDOJdyY1w7HlHZ-IKO0DZFhVipRXYWeImA
-#EXTINF:-1 tvg-id="" tvg-name="Sarbjit 11/5/2016" tvg-logo="https://subdl.com/p/sd52/sd52892.jpg" group-title="Movies",Sarbjit 11/5/2016
+#EXTINF:-1 tvg-id="" tvg-name="Sarbjit 11/5/2016" tvg-logo="https://subdl.com/p/sd52/sd52892.jpg" group-title="hindi",Sarbjit 11/5/2016
 https://www.googleapis.com/drive/v3/files/1-zJgDrprzNZsDhCfSEtwnBVwYDhdIuK7?alt=media&key=AIzaSyCThhmnqAxpiZca0JcMqiMT8StKplc15jo
-#EXTINF:-1 tvg-id="" tvg-name="Azhar 6/5/2016" tvg-logo="https://subdl.com/p/sd374/sd374570.jpg" group-title="Movies",Azhar 6/5/2016
+#EXTINF:-1 tvg-id="" tvg-name="Azhar 6/5/2016" tvg-logo="https://subdl.com/p/sd374/sd374570.jpg" group-title="hindi",Azhar 6/5/2016
 https://www.googleapis.com/drive/v3/files/1AxKMqPW8ChmvYygHZPxqiFLcGAohqram?alt=media&key=AIzaSyCizIz_vo71peF1PIfQ0m2pM5zoYYnbJZQ
-#EXTINF:-1 tvg-id="" tvg-name="1920 London 26/04/2016" tvg-logo="https://subdl.com/p/sd9/sd9394.jpg" group-title="Movies",1920 London 26/04/2016
+#EXTINF:-1 tvg-id="" tvg-name="1920 London 26/04/2016" tvg-logo="https://subdl.com/p/sd9/sd9394.jpg" group-title="hindi",1920 London 26/04/2016
 https://www.googleapis.com/drive/v3/files/1oCjJXd21CMvQmUrvOqMHOAAjMccobkFQ?alt=media&key=AIzaSyCagCVUY6KTgc5lea5mLs3YktsY-MrjPZ0
-#EXTINF:-1 tvg-id="" tvg-name="Baaghi 18/4/2016" tvg-logo="https://subdl.com/p/sd1/sd1745.jpg" group-title="Movies",Baaghi 18/4/2016
+#EXTINF:-1 tvg-id="" tvg-name="Baaghi 18/4/2016" tvg-logo="https://subdl.com/p/sd1/sd1745.jpg" group-title="hindi",Baaghi 18/4/2016
 https://www.googleapis.com/drive/v3/files/1VtVgNJt9fg8HpiITkXBobDlxNxf49zuR?alt=media&key=AIzaSyCKCyIySHdwYXEnCm5OcELO-7_MHIQ6D80
-#EXTINF:-1 tvg-id="" tvg-name="Chudail Story 13/4/2016" tvg-logo="https://subdl.com/p/sd708/sd708328.jpg" group-title="Movies",Chudail Story 13/4/2016
+#EXTINF:-1 tvg-id="" tvg-name="Chudail Story 13/4/2016" tvg-logo="https://subdl.com/p/sd708/sd708328.jpg" group-title="hindi",Chudail Story 13/4/2016
 https://www.googleapis.com/drive/v3/files/1B5kuJx_Ytp-z87pXsKyjkp0w9ru3ajek?alt=media&key=AIzaSyAi0bOZfGR8A88bCR19L-jSTHwI6gnutOw
-#EXTINF:-1 tvg-id="" tvg-name="Fan 7/4/2016" tvg-logo="https://subdl.com/p/sd8/sd8093.jpg" group-title="Movies",Fan 7/4/2016
+#EXTINF:-1 tvg-id="" tvg-name="Fan 7/4/2016" tvg-logo="https://subdl.com/p/sd8/sd8093.jpg" group-title="hindi",Fan 7/4/2016
 https://www.googleapis.com/drive/v3/files/1DYmrQsrK_wE1yurSxvdODA0C6QLNsFTH?alt=media&key=AIzaSyDGwQf6Rh4fOjfREnFJgXFR9xlp6ZWMZi0
-#EXTINF:-1 tvg-id="" tvg-name="One Night Stand 7/4/2016" tvg-logo="https://i.imgur.com/LILLZh5.jpg" group-title="Movies",One Night Stand 7/4/2016
+#EXTINF:-1 tvg-id="" tvg-name="One Night Stand 7/4/2016" tvg-logo="https://i.imgur.com/LILLZh5.jpg" group-title="hindi",One Night Stand 7/4/2016
 https://www.googleapis.com/drive/v3/files/1bIMvK2g5GHzfBNTtxzxdMiQ5bq9qMqCY?alt=media&key=AIzaSyAke8-fw6Zp80QtAocoAkL7tlJPQsK889U
-#EXTINF:-1 tvg-id="" tvg-name="Great Grand Masti 1/4/2016" tvg-logo="https://subdl.com/p/sd10/sd10855.jpg" group-title="Movies",Great Grand Masti 1/4/2016
+#EXTINF:-1 tvg-id="" tvg-name="Great Grand Masti 1/4/2016" tvg-logo="https://subdl.com/p/sd10/sd10855.jpg" group-title="hindi",Great Grand Masti 1/4/2016
 https://www.googleapis.com/drive/v3/files/1iw9clvJUDgjCo-CqVBUjpjH9cd-i5McM?alt=media&key=AIzaSyCZMTLEOY1dqEytNTOU158VIxAnQgcYaB8
-#EXTINF:-1 tvg-id="" tvg-name="Aligarh 26/2/2016" tvg-logo="https://subdl.com/p/sd66/sd66987.jpg" group-title="Movies",Aligarh 26/2/2016
+#EXTINF:-1 tvg-id="" tvg-name="Aligarh 26/2/2016" tvg-logo="https://subdl.com/p/sd66/sd66987.jpg" group-title="hindi",Aligarh 26/2/2016
 https://www.googleapis.com/drive/v3/files/1LwjsAlp-wwwN0IDxL4VkwkPkN-YdHo6K?alt=media&key=AIzaSyDR9NGNHReQNTh8wBoBBzBT941L--XDz_Y
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood Diaries 22/2/2016" tvg-logo="https://subdl.com/p/sd70/sd70066.jpg" group-title="Movies",Bollywood Diaries 22/2/2016
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood Diaries 22/2/2016" tvg-logo="https://subdl.com/p/sd70/sd70066.jpg" group-title="hindi",Bollywood Diaries 22/2/2016
 https://www.googleapis.com/drive/v3/files/1wfUUICR9jN0scgjaJLEG6y-MEFyLDsSd?alt=media&key=AIzaSyA42lDLIz3KNYCZNLw0MFBD716fh7zIU9M
-#EXTINF:-1 tvg-id="" tvg-name="Haunted 22/2/2016" tvg-logo="https://i.imgur.com/l3rxysy.jpg" group-title="Movies",Haunted 22/2/2016
+#EXTINF:-1 tvg-id="" tvg-name="Haunted 22/2/2016" tvg-logo="https://i.imgur.com/l3rxysy.jpg" group-title="hindi",Haunted 22/2/2016
 https://www.googleapis.com/drive/v3/files/1wtX16q_wZrVn_p9R5xRGB7vXzL0VVDzY?alt=media&key=AIzaSyDGThJHQL70HqeAzys8HtDPe7vyiDq5O2U
-#EXTINF:-1 tvg-id="" tvg-name="Jai Gangaajal 16/2/2016" tvg-logo="https://subdl.com/p/sd67/sd67436.jpg" group-title="Movies",Jai Gangaajal 16/2/2016
+#EXTINF:-1 tvg-id="" tvg-name="Jai Gangaajal 16/2/2016" tvg-logo="https://subdl.com/p/sd67/sd67436.jpg" group-title="hindi",Jai Gangaajal 16/2/2016
 https://www.googleapis.com/drive/v3/files/18c8GplQBME3qTWidqf6m3AjTsn6mdtqm?alt=media&key=AIzaSyCMeFmPs_C6x3bxDMm_5mU3GY3-77s0gMs
-#EXTINF:-1 tvg-id="" tvg-name="Fitoor 11/2/2016" tvg-logo="https://i.imgur.com/ziFF6jQ.jpg" group-title="Movies",Fitoor 11/2/2016
+#EXTINF:-1 tvg-id="" tvg-name="Fitoor 11/2/2016" tvg-logo="https://i.imgur.com/ziFF6jQ.jpg" group-title="hindi",Fitoor 11/2/2016
 https://www.googleapis.com/drive/v3/files/1k8tb_IeLUgblygz7y3CroBOda0OPKCFF?alt=media&key=AIzaSyB7ecQd5_vaGV2QGhNdtNs0YBowE2fdGZY
-#EXTINF:-1 tvg-id="" tvg-name="Sanam Re 2/2/2016" tvg-logo="https://i.imgur.com/A9idOnD.jpg" group-title="Movies",Sanam Re 2/2/2016
+#EXTINF:-1 tvg-id="" tvg-name="Sanam Re 2/2/2016" tvg-logo="https://i.imgur.com/A9idOnD.jpg" group-title="hindi",Sanam Re 2/2/2016
 https://www.googleapis.com/drive/v3/files/1d85xi19P5pjz_yX2epxK2ffPmSR0fg1T?alt=media&key=AIzaSyAs2a4WjqTh_b_92BAS7DQOj5nydiAT-_U
-#EXTINF:-1 tvg-id="" tvg-name="Love Games 25/1/2016" tvg-logo="https://i.imgur.com/Dddii92.jpg" group-title="Movies",Love Games 25/1/2016
+#EXTINF:-1 tvg-id="" tvg-name="Love Games 25/1/2016" tvg-logo="https://i.imgur.com/Dddii92.jpg" group-title="hindi",Love Games 25/1/2016
 https://www.googleapis.com/drive/v3/files/1xKXfZLa9s90KXykcsnZUbF97B8W5Ojf2?alt=media&key=AIzaSyDxSIo0uKBLFcmlz2De9s3dxyecPCfD4h8
-#EXTINF:-1 tvg-id="" tvg-name="Kyaa Kool Hain Hum 3 22/1/2016" tvg-logo="https://i.imgur.com/sBVC9Pn.jpg" group-title="Movies",Kyaa Kool Hain Hum 3 22/1/2016
+#EXTINF:-1 tvg-id="" tvg-name="Kyaa Kool Hain Hum 3 22/1/2016" tvg-logo="https://i.imgur.com/sBVC9Pn.jpg" group-title="hindi",Kyaa Kool Hain Hum 3 22/1/2016
 https://www.googleapis.com/drive/v3/files/1Ypa3G88lDPQRgDcJtj894-KJT7TXsymP?alt=media&key=AIzaSyCQy0BEiB6gYSb1FoQu_GTdvc5QIRg8PP0
-#EXTINF:-1 tvg-id="" tvg-name="Ghayal Once Again 13/1/2016" tvg-logo="https://i.imgur.com/6u9Z2gk.jpg" group-title="Movies",Ghayal Once Again 13/1/2016
+#EXTINF:-1 tvg-id="" tvg-name="Ghayal Once Again 13/1/2016" tvg-logo="https://i.imgur.com/6u9Z2gk.jpg" group-title="hindi",Ghayal Once Again 13/1/2016
 https://www.googleapis.com/drive/v3/files/1k6yRRGQh2Gfl_GS2QWVQ7oXAyqUN1qoI?alt=media&key=AIzaSyDXaFc_Bnb8gDRKpusk3T6CEcGoig-qNn4
-#EXTINF:-1 tvg-id="" tvg-name="Airlift 8/1/2016" tvg-logo="https://subdl.com/p/sd2/sd2705.jpg" group-title="Movies",Airlift 8/1/2016
+#EXTINF:-1 tvg-id="" tvg-name="Airlift 8/1/2016" tvg-logo="https://subdl.com/p/sd2/sd2705.jpg" group-title="hindi",Airlift 8/1/2016
 https://www.googleapis.com/drive/v3/files/1nExTuTSlm1_uxtTAIW18fa4XNFHuDf4G?alt=media&key=AIzaSyD7SHMe1AL1dxrPt2xArU2wS6Pp1lfADik
-#EXTINF:-1 tvg-id="" tvg-name="Dilwale 18/12/2015" tvg-logo="https://subdl.com/p/sd1/sd1012.jpg" group-title="Movies",Dilwale 18/12/2015
+#EXTINF:-1 tvg-id="" tvg-name="Dilwale 18/12/2015" tvg-logo="https://subdl.com/p/sd1/sd1012.jpg" group-title="hindi",Dilwale 18/12/2015
 https://www.googleapis.com/drive/v3/files/1XwKlQjluZD8wjFD-spfakQMb26XE1yJu?alt=media&key=AIzaSyCGH4tTfWwxboxtG1DVhKUWldqdr0ed_fk
-#EXTINF:-1 tvg-id="" tvg-name="Budhia Singh Born to Run 16/12/2015" tvg-logo="https://i.imgur.com/jPlvkOz.jpg" group-title="Movies",Budhia Singh Born to Run 16/12/2015
+#EXTINF:-1 tvg-id="" tvg-name="Budhia Singh Born to Run 16/12/2015" tvg-logo="https://i.imgur.com/jPlvkOz.jpg" group-title="hindi",Budhia Singh Born to Run 16/12/2015
 https://www.googleapis.com/drive/v3/files/1sN5VKNmSjYWWHnPrOYcOxeZ43JFWa8-_?alt=media&key=AIzaSyDtNgKbcU7ZOuertoYko7Yt1LMs5HqyXiE
-#EXTINF:-1 tvg-id="" tvg-name="Bajirao Mastani 11/12/2015" tvg-logo="https://subdl.com/p/sd4/sd4436.jpg" group-title="Movies",Bajirao Mastani 11/12/2015
+#EXTINF:-1 tvg-id="" tvg-name="Bajirao Mastani 11/12/2015" tvg-logo="https://subdl.com/p/sd4/sd4436.jpg" group-title="hindi",Bajirao Mastani 11/12/2015
 https://www.googleapis.com/drive/v3/files/19xo28bZGeYpIOZsmHEeiYnVNlltwWE1B?alt=media&key=AIzaSyDwWAX8MjotDKG7oPC12mXQw9Uff46QJ_8
-#EXTINF:-1 tvg-id="" tvg-name="Charlie Kay Chakkar Mein 6/11/2015" tvg-logo="https://subdl.com/p/sd484/sd484069.jpg" group-title="Movies",Charlie Kay Chakkar Mein 6/11/2015
+#EXTINF:-1 tvg-id="" tvg-name="Charlie Kay Chakkar Mein 6/11/2015" tvg-logo="https://subdl.com/p/sd484/sd484069.jpg" group-title="hindi",Charlie Kay Chakkar Mein 6/11/2015
 https://www.googleapis.com/drive/v3/files/1vXoRRj04IslnFVA94Q7ThoRMmXsM-pxT?alt=media&key=AIzaSyCR8JKno6rrCmlvH_OqSGbTtVIL48yWVPs
-#EXTINF:-1 tvg-id="" tvg-name="Shaandaar 13/10/2015" tvg-logo="https://subdl.com/p/sd11/sd11546.jpg" group-title="Movies",Shaandaar 13/10/2015
+#EXTINF:-1 tvg-id="" tvg-name="Shaandaar 13/10/2015" tvg-logo="https://subdl.com/p/sd11/sd11546.jpg" group-title="hindi",Shaandaar 13/10/2015
 https://www.googleapis.com/drive/v3/files/1AvQtQPSYtaQm6FJ_nZ52_2ABr8F0eJ_H?alt=media&key=AIzaSyBNiXJgl_3ljgKp1fHGUkPQ2hlloQbx3Cs
-#EXTINF:-1 tvg-id="" tvg-name="Wedding Pullav 5/10/2015" tvg-logo="https://subdl.com/p/sd85/sd85981.jpg" group-title="Movies",Wedding Pullav 5/10/2015 
+#EXTINF:-1 tvg-id="" tvg-name="Wedding Pullav 5/10/2015" tvg-logo="https://subdl.com/p/sd85/sd85981.jpg" group-title="hindi",Wedding Pullav 5/10/2015 
 https://www.googleapis.com/drive/v3/files/1eCIZNjY7nf1_k_VaEuJk1ZkQCD6OOBro?alt=media&key=AIzaSyCQJYZF-Aa2ofnTHaFOsbsYVepil9-gEVg
-#EXTINF:-1 tvg-id="" tvg-name="Bhaag Johnny 19/9/2015" tvg-logo="https://i.imgur.com/Uj8UwT8.jpg" group-title="Movies",Bhaag Johnny 19/9/2015
+#EXTINF:-1 tvg-id="" tvg-name="Bhaag Johnny 19/9/2015" tvg-logo="https://i.imgur.com/Uj8UwT8.jpg" group-title="hindi",Bhaag Johnny 19/9/2015
 https://www.googleapis.com/drive/v3/files/1wnCa7p27brMRV8DgAQ7mFk2FpfQkeA8O?alt=media&key=AIzaSyCGoYXsIYu__55Tc91HU9Yli_hWZJQXOPU
-#EXTINF:-1 tvg-id="" tvg-name="Kis Kisko Pyaar Karu 15/9/2015" tvg-logo="https://i.imgur.com/2sLCj6M.jpg" group-title="Movies",Kis Kisko Pyaar Karu 15/9/2015
+#EXTINF:-1 tvg-id="" tvg-name="Kis Kisko Pyaar Karu 15/9/2015" tvg-logo="https://i.imgur.com/2sLCj6M.jpg" group-title="hindi",Kis Kisko Pyaar Karu 15/9/2015
 https://www.googleapis.com/drive/v3/files/1kohEBgZZqnUAqetFwShSD7m6O3WrZeyt?alt=media&key=AIzaSyD41MeWkaxzpK3DDSz0kvNWzS6onAgcL4s
-#EXTINF:-1 tvg-id="" tvg-name="Calendar Girls 1/9/2015" tvg-logo="https://subdl.com/p/sd5/sd5856.jpg" group-title="Movies",Calendar Girls 1/9/2015
+#EXTINF:-1 tvg-id="" tvg-name="Calendar Girls 1/9/2015" tvg-logo="https://subdl.com/p/sd5/sd5856.jpg" group-title="hindi",Calendar Girls 1/9/2015
 https://www.googleapis.com/drive/v3/files/1UNYHjVcyl0V1P6OCrrTVKmwK4-8cwvQR?alt=media&key=AIzaSyC8T_d__DAYVPvMS1YZz5B3eryYTYMhJxI
-#EXTINF:-1 tvg-id="" tvg-name="Hero 1/9/2015" tvg-logo="https://subdl.com/p/sd177/sd177127.jpg" group-title="Movies",Hero 1/9/2015
+#EXTINF:-1 tvg-id="" tvg-name="Hero 1/9/2015" tvg-logo="https://subdl.com/p/sd177/sd177127.jpg" group-title="hindi",Hero 1/9/2015
 https://www.googleapis.com/drive/v3/files/1CFHzYu1gNVp12FnvHfgbbgyPAzV0XzyG?alt=media&key=AIzaSyBCvYuKpiaCzoLITgkrzYX2ta3_UQZtmv0
-#EXTINF:-1 tvg-id="" tvg-name="Manjhi The Mountain Man 30/8/2015" tvg-logo="https://subdl.com/p/sd3/sd3655.jpg" group-title="Movies",Manjhi The Mountain Man 30/8/2015
+#EXTINF:-1 tvg-id="" tvg-name="Manjhi The Mountain Man 30/8/2015" tvg-logo="https://subdl.com/p/sd3/sd3655.jpg" group-title="hindi",Manjhi The Mountain Man 30/8/2015
 https://www.googleapis.com/drive/v3/files/1P7T-sQgah2GSWUSmKi8gYwryqxKmGnO4?alt=media&key=AIzaSyCEA0y9iWDBMrogo2eCbbeYEau3tTNMwf0
-#EXTINF:-1 tvg-id="" tvg-name="Talvar 14/8/2015 " tvg-logo="https://subdl.com/p/sd24/sd24582.jpg" group-title="Movies",Talvar 14/8/2015
+#EXTINF:-1 tvg-id="" tvg-name="Talvar 14/8/2015 " tvg-logo="https://subdl.com/p/sd24/sd24582.jpg" group-title="hindi",Talvar 14/8/2015
 https://www.googleapis.com/drive/v3/files/12-6lbXE_PHiTqM6JJrolRDO3EbSHVdOm?alt=media&key=AIzaSyDUQgS4q4DtxLrgWd9tLnFj0czy_4jy-94
-#EXTINF:-1 tvg-id="" tvg-name="All is Well 13/8/2015 " tvg-logo="https://i.imgur.com/qXiEpaD.jpg" group-title="Movies",All is Well 13/8/2015 
+#EXTINF:-1 tvg-id="" tvg-name="All is Well 13/8/2015 " tvg-logo="https://i.imgur.com/qXiEpaD.jpg" group-title="hindi",All is Well 13/8/2015 
 https://www.googleapis.com/drive/v3/files/1Go-ODIrzKo9qqfzb56LJNlpgUi33WJgB?alt=media&key=AIzaSyBLqww_IJZURPg5xQ4XYtYfpqv0lzdr3_0
-#EXTINF:-1 tvg-id="" tvg-name="Brothers 6/8/2015 " tvg-logo="https://subdl.com/p/sd1/sd1381.jpg" group-title="Movies",Brothers 6/8/2015
+#EXTINF:-1 tvg-id="" tvg-name="Brothers 6/8/2015 " tvg-logo="https://subdl.com/p/sd1/sd1381.jpg" group-title="hindi",Brothers 6/8/2015
 https://www.googleapis.com/drive/v3/files/1yyRwK5jITILgN2uiQ1bOd52zH21XcebG?alt=media&key=AIzaSyAlyoLNSjPLadnkPAjPMnBXT9XLKwkhVBs
-#EXTINF:-1 tvg-id="" tvg-name="Bangistan 23/7/2015 " tvg-logo="https://subdl.com/p/sd283/sd283824.jpg" group-title="Movies",Bangistan 23/7/2015
+#EXTINF:-1 tvg-id="" tvg-name="Bangistan 23/7/2015 " tvg-logo="https://subdl.com/p/sd283/sd283824.jpg" group-title="hindi",Bangistan 23/7/2015
 https://www.googleapis.com/drive/v3/files/12zRhUDwAUb_XixuBQ9fx7nSPiFJKCtS5?alt=media&key=AIzaSyAWsxqo07tqKwdwTxO-mudNnJgfnyzZaI8
-#EXTINF:-1 tvg-id="" tvg-name="Drishyam 20/7/2015 " tvg-logo="https://subdl.com/p/sd38/sd38073.jpg" group-title="Movies",Drishyam 20/7/2015
+#EXTINF:-1 tvg-id="" tvg-name="Drishyam 20/7/2015 " tvg-logo="https://subdl.com/p/sd38/sd38073.jpg" group-title="hindi",Drishyam 20/7/2015
 https://www.googleapis.com/drive/v3/files/1w3EcSv6cgYYHDeZYDv73bK8ND781n0eJ?alt=media&key=AIzaSyCjzQxhIR8uq9Fdi8UPQliJhYg-PkRGv5c
-#EXTINF:-1 tvg-id="" tvg-name="Bajrangi Bhaijaan 6/7/2015 " tvg-logo="https://subdl.com/p/sd1/sd1308.jpg" group-title="Movies",Bajrangi Bhaijaan 6/7/2015
+#EXTINF:-1 tvg-id="" tvg-name="Bajrangi Bhaijaan 6/7/2015 " tvg-logo="https://subdl.com/p/sd1/sd1308.jpg" group-title="hindi",Bajrangi Bhaijaan 6/7/2015
 https://www.googleapis.com/drive/v3/files/1a-5KYAu_SQh9huuLHS86UVmrAr40i-qy?alt=media&key=AIzaSyDCAVhvE3SqPtY35UKWDUduc-NBd05rm_w
-#EXTINF:-1 tvg-id="" tvg-name="Baahubali The Beginning 3/7/2015 " tvg-logo="https://i.imgur.com/u5VYQCT.jpg" group-title="Movies",Baahubali The Beginning 3/7/2015
+#EXTINF:-1 tvg-id="" tvg-name="Baahubali The Beginning 3/7/2015 " tvg-logo="https://i.imgur.com/u5VYQCT.jpg" group-title="hindi",Baahubali The Beginning 3/7/2015
 https://www.googleapis.com/drive/v3/files/1xVroZr4pPRQOYjEh0OGUJLv6XzidHnX7?alt=media&key=AIzaSyB-Uwx0_ffxvsw3DK3RNmzVdSA9aWPaWzE
-#EXTINF:-1 tvg-id="" tvg-name="pyaar ka punchnama 2 27/6/2015 " tvg-logo="https://subdl.com/p/sd10/sd10808.jpg" group-title="Movies",pyaar ka punchnama 2 27/6/2015
+#EXTINF:-1 tvg-id="" tvg-name="pyaar ka punchnama 2 27/6/2015 " tvg-logo="https://subdl.com/p/sd10/sd10808.jpg" group-title="hindi",pyaar ka punchnama 2 27/6/2015
 https://www.googleapis.com/drive/v3/files/1BIhGVFh3Re35eWpkdMCk0mYhE-ac_Lh-?alt=media&key=AIzaSyDx30UZtx7qzu_fA-YK81t34Df-mcTZ4pc
-#EXTINF:-1 tvg-id="" tvg-name="Guddu Rangeela 18/6/2015 " tvg-logo="https://i.imgur.com/9fkUD73.jpg" group-title="Movies",Guddu Rangeela 18/6/2015
+#EXTINF:-1 tvg-id="" tvg-name="Guddu Rangeela 18/6/2015 " tvg-logo="https://i.imgur.com/9fkUD73.jpg" group-title="hindi",Guddu Rangeela 18/6/2015
 https://www.googleapis.com/drive/v3/files/1smLkU95X_vNUpoLTA9Er79OW16hCGgks?alt=media&key=AIzaSyD76ZX-b4w91zxX9sGQGRj1vahawAWB5G4
-#EXTINF:-1 tvg-id="" tvg-name="ABCD 2 4/6/2015 " tvg-logo="https://i.imgur.com/f226HoD.jpg" group-title="Movies",ABCD 2 4/6/2015
+#EXTINF:-1 tvg-id="" tvg-name="ABCD 2 4/6/2015 " tvg-logo="https://i.imgur.com/f226HoD.jpg" group-title="hindi",ABCD 2 4/6/2015
 https://www.googleapis.com/drive/v3/files/1tX1LSnTrLXwMga3uBI1TR-UfVNgoXctf?alt=media&key=AIzaSyAvYAPe5BxCa_KfzQkMD32tRhMyMu-Bwsc
-#EXTINF:-1 tvg-id="" tvg-name="Dil Dhadakne Do 29/5/2015 " tvg-logo="https://subdl.com/p/sd10/sd10116.jpg" group-title="Movies",Dil Dhadakne Do 29/5/2015
+#EXTINF:-1 tvg-id="" tvg-name="Dil Dhadakne Do 29/5/2015 " tvg-logo="https://subdl.com/p/sd10/sd10116.jpg" group-title="hindi",Dil Dhadakne Do 29/5/2015
 https://www.googleapis.com/drive/v3/files/1Zrb658hb372CV_dtE2wp0oMihPeNcVKr?alt=media&key=AIzaSyB5xPJsO-CadqqAPNHtgKWZ5Job5XHOgQU
-#EXTINF:-1 tvg-id="" tvg-name="Welcome 2 Karachi 28/5/2015 " tvg-logo="https://subdl.com/p/sd323/sd323028.jpg" group-title="Movies",Welcome 2 Karachi 28/5/2015
+#EXTINF:-1 tvg-id="" tvg-name="Welcome 2 Karachi 28/5/2015 " tvg-logo="https://subdl.com/p/sd323/sd323028.jpg" group-title="hindi",Welcome 2 Karachi 28/5/2015
 https://www.googleapis.com/drive/v3/files/1zPhdTXslJuR3kTNnfHdtAFxeQ6VzxSvY?alt=media&key=AIzaSyDGvTHRq2yZ__crvImKQzhTENnka73ykvk
-#EXTINF:-1 tvg-id="" tvg-name="Hamari Adhuri Kahani 20/5/2015 " tvg-logo="https://subdl.com/p/sd1/sd1992.jpg" group-title="Movies",Hamari Adhuri Kahani 20/5/2015
+#EXTINF:-1 tvg-id="" tvg-name="Hamari Adhuri Kahani 20/5/2015 " tvg-logo="https://subdl.com/p/sd1/sd1992.jpg" group-title="hindi",Hamari Adhuri Kahani 20/5/2015
 https://www.googleapis.com/drive/v3/files/1FFEDDdiL5-H7EdgMcT1EcpWSBFZrJ28r?alt=media&key=AIzaSyCRfkTQW-RVzhdTw7JFIoIPUKgP20Lqlfo
-#EXTINF:-1 tvg-id="" tvg-name="Tanu Weds Manu Returns 16/5/2015 " tvg-logo="https://subdl.com/p/sd10/sd10063.jpg" group-title="Movies",Tanu Weds Manu Returns 16/5/2015
+#EXTINF:-1 tvg-id="" tvg-name="Tanu Weds Manu Returns 16/5/2015 " tvg-logo="https://subdl.com/p/sd10/sd10063.jpg" group-title="hindi",Tanu Weds Manu Returns 16/5/2015
 https://www.googleapis.com/drive/v3/files/1y08NuOROvOnF_IcJ6LIf7-g2guYIBqHs?alt=media&key=AIzaSyAvH6_NWm7lA73-T1gkJbHzQDbzCQns9jU
-#EXTINF:-1 tvg-id="" tvg-name="Bombay Velvet 9/5/2015 " tvg-logo="https://subdl.com/p/sd2/sd2286.jpg" group-title="Movies",Bombay Velvet 9/5/2015
+#EXTINF:-1 tvg-id="" tvg-name="Bombay Velvet 9/5/2015 " tvg-logo="https://subdl.com/p/sd2/sd2286.jpg" group-title="hindi",Bombay Velvet 9/5/2015
 https://www.googleapis.com/drive/v3/files/1d7B76fhD719-EB2psU5078c7jw5OMbxj?alt=media&key=AIzaSyCfS0mKUR7S1b-3GzfR5IuDirxnjSOSyF0
-#EXTINF:-1 tvg-id="" tvg-name="Gabbar Is Back 27/4/2015 " tvg-logo="https://subdl.com/p/sd4/sd4885.jpg" group-title="Movies",Gabbar Is Back 27/4/2015
+#EXTINF:-1 tvg-id="" tvg-name="Gabbar Is Back 27/4/2015 " tvg-logo="https://subdl.com/p/sd4/sd4885.jpg" group-title="hindi",Gabbar Is Back 27/4/2015
 https://www.googleapis.com/drive/v3/files/1MX-D3D3hWR8DVxQP9_HQrf0GPUO5nApS?alt=media&key=AIzaSyAPBz-wu7a97GP_F9PNJqC7itxwdpiXGbE
-#EXTINF:-1 tvg-id="" tvg-name="Ek Paheli Leela 10/4/2015 " tvg-logo="https://i.imgur.com/RirexGz.jpg" group-title="Movies",Ek Paheli Leela 10/4/2015
+#EXTINF:-1 tvg-id="" tvg-name="Ek Paheli Leela 10/4/2015 " tvg-logo="https://i.imgur.com/RirexGz.jpg" group-title="hindi",Ek Paheli Leela 10/4/2015
 https://www.googleapis.com/drive/v3/files/1HfBPGswm2ib5kzS1JZCg9YkqfDLMvxH8?alt=media&key=AIzaSyBFF9n5XCgeV9IQ3tLdGoha3KWQA0OoY28
-#EXTINF:-1 tvg-id="" tvg-name="Hunterrr 9/3/2015 " tvg-logo="https://subdl.com/p/sd15/sd15238.jpg" group-title="Movies",Hunterrr 9/3/2015
+#EXTINF:-1 tvg-id="" tvg-name="Hunterrr 9/3/2015 " tvg-logo="https://subdl.com/p/sd15/sd15238.jpg" group-title="hindi",Hunterrr 9/3/2015
 https://www.googleapis.com/drive/v3/files/1n6wlXfxgvXZDyYfJ5SzEZYzZMn5LUisI?alt=media&key=AIzaSyCJQ_WgngIq4ZKO_jm1J0-4Nyhc6ReuVhA
-#EXTINF:-1 tvg-id="" tvg-name="NH10 7/3/2015 " tvg-logo="https://i.imgur.com/PdxGfVw.jpg" group-title="Movies",NH10 7/3/2015
+#EXTINF:-1 tvg-id="" tvg-name="NH10 7/3/2015 " tvg-logo="https://i.imgur.com/PdxGfVw.jpg" group-title="hindi",NH10 7/3/2015
 https://www.googleapis.com/drive/v3/files/1Mrg97fQ3bzV7BVOta7JvtE3pJxjf9_64?alt=media&key=AIzaSyB9j-PeITImX2sVEUHg0GfCmBiR_Gmb26w
-#EXTINF:-1 tvg-id="" tvg-name="Ab Tak Chhappan 2 23/02/2015 " tvg-logo="https://subdl.com/p/sd385/sd385863.jpg" group-title="Movies",Ab Tak Chhappan 2 23/02/2015
+#EXTINF:-1 tvg-id="" tvg-name="Ab Tak Chhappan 2 23/02/2015 " tvg-logo="https://subdl.com/p/sd385/sd385863.jpg" group-title="hindi",Ab Tak Chhappan 2 23/02/2015
 https://www.googleapis.com/drive/v3/files/1qLrLY5fAaMOb9jkx9Cs0IH9TNuseChEM?alt=media&key=AIzaSyBL2mpYwDUtWPX77AbI8CAfW9UNWnTIujw
-#EXTINF:-1 tvg-id="" tvg-name="Badmashiyaan 24/2/2015 " tvg-logo="https://subdl.com/p/sd71/sd71918.jpg" group-title="Movies",Badmashiyaan 24/2/2015
+#EXTINF:-1 tvg-id="" tvg-name="Badmashiyaan 24/2/2015 " tvg-logo="https://subdl.com/p/sd71/sd71918.jpg" group-title="hindi",Badmashiyaan 24/2/2015
 https://www.googleapis.com/drive/v3/files/1LxwRCP163hC2DM245fWi9X1S4O-L_VJK?alt=media&key=AIzaSyDvoN5FV05momFKjM4WfVKd447RJUUDXPI
-#EXTINF:-1 tvg-id="" tvg-name="Dum Laga Ke Haisha 23/2/2015 " tvg-logo="https://subdl.com/p/sd3/sd3053.jpg" group-title="Movies",Dum Laga Ke Haisha 23/2/2015
+#EXTINF:-1 tvg-id="" tvg-name="Dum Laga Ke Haisha 23/2/2015 " tvg-logo="https://subdl.com/p/sd3/sd3053.jpg" group-title="hindi",Dum Laga Ke Haisha 23/2/2015
 https://www.googleapis.com/drive/v3/files/1U2yEWUdjYkyNUkZd6xvcQ_Cs6q60fILc?alt=media&key=AIzaSyBz3ixz3vh72SKyDvyDjbuwe3k5M2XLjLQ
-#EXTINF:-1 tvg-id="" tvg-name="BADLAPUR 19/2/2015 " tvg-logo="https://i.imgur.com/Z0Tl7vo.jpg" group-title="Movies",BADLAPUR 19/2/2015
+#EXTINF:-1 tvg-id="" tvg-name="BADLAPUR 19/2/2015 " tvg-logo="https://i.imgur.com/Z0Tl7vo.jpg" group-title="hindi",BADLAPUR 19/2/2015
 https://www.googleapis.com/drive/v3/files/1XD0L_wEbxFXuisr3Ot1qqN4Vj4z3bC6h?alt=media&key=AIzaSyAqrPB3BNN3CMf4jBE-rl_vhkmw_lGde9E
-#EXTINF:-1 tvg-id="" tvg-name="Hate Story 3 10/2/2015 " tvg-logo="https://i.imgur.com/gYna4HP.jpg" group-title="Movies",Hate Story 3 10/2/2015
+#EXTINF:-1 tvg-id="" tvg-name="Hate Story 3 10/2/2015 " tvg-logo="https://i.imgur.com/gYna4HP.jpg" group-title="hindi",Hate Story 3 10/2/2015
 https://www.googleapis.com/drive/v3/files/16OSj4ctCVKcmes17c92GGo4y6st1f4eW?alt=media&key=AIzaSyCNt42zgPWNQVew444TgCqube7Ve4czLVo
-#EXTINF:-1 tvg-id="" tvg-name="Baby 16/1/2015 " tvg-logo="https://subdl.com/p/sd2/sd2260.jpg" group-title="Movies",Baby 16/1/2015
+#EXTINF:-1 tvg-id="" tvg-name="Baby 16/1/2015 " tvg-logo="https://subdl.com/p/sd2/sd2260.jpg" group-title="hindi",Baby 16/1/2015
 https://www.googleapis.com/drive/v3/files/1UWd1NEgosVDwScGOrf3X8I7L63ziu99X?alt=media&key=AIzaSyCBGxYgXC-M7BY3YrErkfeBQnEO2wRO6mQ
-#EXTINF:-1 tvg-id="" tvg-name="Dolly Ki Doli 14/1/2015 " tvg-logo="https://subdl.com/p/sd6/sd6614.jpg" group-title="Movies",Dolly Ki Doli 14/1/2015
+#EXTINF:-1 tvg-id="" tvg-name="Dolly Ki Doli 14/1/2015 " tvg-logo="https://subdl.com/p/sd6/sd6614.jpg" group-title="hindi",Dolly Ki Doli 14/1/2015
 https://www.googleapis.com/drive/v3/files/1hlS07CczrAerGrmafskZn8jjSShNVqOV?alt=media&key=AIzaSyCNaWZjetdnxjJLSzlCq1nL05SpvpWmVFs
-#EXTINF:-1 tvg-id="" tvg-name="Alone 8/1/2015 " tvg-logo="https://subdl.com/p/sd16/sd16927.jpg" group-title="Movies",Alone 8/1/2015
+#EXTINF:-1 tvg-id="" tvg-name="Alone 8/1/2015 " tvg-logo="https://subdl.com/p/sd16/sd16927.jpg" group-title="hindi",Alone 8/1/2015
 https://www.googleapis.com/drive/v3/files/19F0hhWJ3nnc-f2lpszReeN3r41SOGKBr?alt=media&key=AIzaSyA3pQZvxdB-SfWqLxuC0_L1TWnLAV-dcUk
-#EXTINF:-1 tvg-id="" tvg-name="Sharafat Gayi Tel Lene 2/1/2015 " tvg-logo="https://subdl.com/p/sd22/sd22063.jpg" group-title="Movies",Sharafat Gayi Tel Lene 2/1/2015
+#EXTINF:-1 tvg-id="" tvg-name="Sharafat Gayi Tel Lene 2/1/2015 " tvg-logo="https://subdl.com/p/sd22/sd22063.jpg" group-title="hindi",Sharafat Gayi Tel Lene 2/1/2015
 https://www.googleapis.com/drive/v3/files/1YtaZDdRb0CpIov7V-63zTylcydqVQ69X?alt=media&key=AIzaSyAlmH8th9IOfesDjw-ybEgBaTHm4vTGT8o
-#EXTINF:-1 tvg-id="" tvg-name="Hawaizaada 31/12/2014 " tvg-logo="https://subdl.com/p/sd184/sd184089.jpg" group-title="Movies",Hawaizaada 31/12/2014
+#EXTINF:-1 tvg-id="" tvg-name="Hawaizaada 31/12/2014 " tvg-logo="https://subdl.com/p/sd184/sd184089.jpg" group-title="hindi",Hawaizaada 31/12/2014
 https://www.googleapis.com/drive/v3/files/1QFwnePE5dDVEsJPAaRlDla7SsmDmsuhK?alt=media&key=AIzaSyAcbdMCUFpmfOu7GUZoIsVLefBYXHXG924
-#EXTINF:-1 tvg-id="" tvg-name="Action Jackson 27/11/2014 " tvg-logo="https://subdl.com/p/sd14/sd14789.jpg" group-title="Movies",Action Jackson 27/11/2014
+#EXTINF:-1 tvg-id="" tvg-name="Action Jackson 27/11/2014 " tvg-logo="https://subdl.com/p/sd14/sd14789.jpg" group-title="hindi",Action Jackson 27/11/2014
 https://www.googleapis.com/drive/v3/files/1x0LzeM4ezvkxCBLW0MqqsZoPU3y2c8FL?alt=media&key=AIzaSyAStQzkKez3SVt0IHyFWJGoVcvshJoct3k
-#EXTINF:-1 tvg-id="" tvg-name="Happy Ending 12/11/2014 " tvg-logo="https://i.imgur.com/a96jzne.jpg" group-title="Movies",Happy Ending 12/11/2014
+#EXTINF:-1 tvg-id="" tvg-name="Happy Ending 12/11/2014 " tvg-logo="https://i.imgur.com/a96jzne.jpg" group-title="hindi",Happy Ending 12/11/2014
 https://www.googleapis.com/drive/v3/files/1Qz39-iIbmoylxlGBVGEzVZ9anQTkP3ru?alt=media&key=AIzaSyAvlJByyHgGdet4zDWaAhCGD-d5fb-fios
-#EXTINF:-1 tvg-id="" tvg-name="Dirty Politics 7/11/2014 " tvg-logo="https://subdl.com/p/sd7/sd7667.jpg" group-title="Movies",Dirty Politics 7/11/2014
+#EXTINF:-1 tvg-id="" tvg-name="Dirty Politics 7/11/2014 " tvg-logo="https://subdl.com/p/sd7/sd7667.jpg" group-title="hindi",Dirty Politics 7/11/2014
 https://www.googleapis.com/drive/v3/files/19k-X7OAXF38XFwHHA50A_xHG4LzJ7oIj?alt=media&key=AIzaSyBjqz2varccyeNLHGBqSUccIT_Jp2Da_-I
-#EXTINF:-1 tvg-id="" tvg-name="Happy New Year 16/10/2014 " tvg-logo="https://subdl.com/p/sd1/sd1569.jpg" group-title="Movies",Happy New Year 16/10/2014
+#EXTINF:-1 tvg-id="" tvg-name="Happy New Year 16/10/2014 " tvg-logo="https://subdl.com/p/sd1/sd1569.jpg" group-title="hindi",Happy New Year 16/10/2014
 https://www.googleapis.com/drive/v3/files/1dL45LUCfYHTw4RRhkDUe43-bEnirlefM?alt=media&key=AIzaSyA1xZnnzI7K5JmPE3Z--C-BmFGUQgEs22g
-#EXTINF:-1 tvg-id="" tvg-name="Bang Bang 23/9/2014 " tvg-logo="https://i.imgur.com/dzCg7RV.jpg" group-title="Movies",Bang Bang 23/9/2014
+#EXTINF:-1 tvg-id="" tvg-name="Bang Bang 23/9/2014 " tvg-logo="https://i.imgur.com/dzCg7RV.jpg" group-title="hindi",Bang Bang 23/9/2014
 https://www.googleapis.com/drive/v3/files/1SV13M_Pd0vi9qbQFzsBVS7LqUQfsLSNR?alt=media&key=AIzaSyA-Bl9_6rZ2l0re2urxr2s-qIoe3Pah1zY
-#EXTINF:-1 tvg-id="" tvg-name="Desi Kattey 23/9/2014 " tvg-logo="https://i.imgur.com/GRaqGHG.jpg" group-title="Movies",Desi Kattey 23/9/2014
+#EXTINF:-1 tvg-id="" tvg-name="Desi Kattey 23/9/2014 " tvg-logo="https://i.imgur.com/GRaqGHG.jpg" group-title="hindi",Desi Kattey 23/9/2014
 https://www.googleapis.com/drive/v3/files/15QF_eQV1KHzadeeOR200H54FkEZFDUUe?alt=media&key=AIzaSyC0_ebdkZdnh_YDMdXqsBUK9Fz3dfyHOjw
-#EXTINF:-1 tvg-id="" tvg-name="3 AM 22/09/2014 " tvg-logo="https://i.imgur.com/UrgRAL0.jpg" group-title="Movies",3 AM 22/09/2014
+#EXTINF:-1 tvg-id="" tvg-name="3 AM 22/09/2014 " tvg-logo="https://i.imgur.com/UrgRAL0.jpg" group-title="hindi",3 AM 22/09/2014
 https://www.googleapis.com/drive/v3/files/1B82g61ibJ0zjv-ojeODlBhNx0NLLnvVG?alt=media&key=AIzaSyAo0iL7bc9leSM_7vhhMb_AcL_U_rC9y8M
-#EXTINF:-1 tvg-id="" tvg-name="Daawat-e-Ishq 1/9/2014 " tvg-logo="https://subdl.com/p/sd9/sd9332.jpg" group-title="Movies",Daawat-e-Ishq 1/9/2014
+#EXTINF:-1 tvg-id="" tvg-name="Daawat-e-Ishq 1/9/2014 " tvg-logo="https://subdl.com/p/sd9/sd9332.jpg" group-title="hindi",Daawat-e-Ishq 1/9/2014
 https://www.googleapis.com/drive/v3/files/1RfuamuvBeim2y8o4IthX3i4uK7-cwZHy?alt=media&key=AIzaSyDmOf-NUnHMsUQkUHusyuTOo_YaC1eI1f0
-#EXTINF:-1 tvg-id="" tvg-name="Its Entertainment 31/7/2014 " tvg-logo="https://i.imgur.com/sMIy7md.jpg" group-title="Movies",Its Entertainment 31/7/2014
+#EXTINF:-1 tvg-id="" tvg-name="Its Entertainment 31/7/2014 " tvg-logo="https://i.imgur.com/sMIy7md.jpg" group-title="hindi",Its Entertainment 31/7/2014
 https://www.googleapis.com/drive/v3/files/1dmd2GtJMofHQvGqp3ectXJ5r1DArMKuI?alt=media&key=AIzaSyDUhhBNo37imNa1jrBxun6FIdXIlEMTK_Y
-#EXTINF:-1 tvg-id="" tvg-name="Hate Story 2 10/7/2014 " tvg-logo="https://i.imgur.com/7U0kw6r.jpg" group-title="Movies",Hate Story 2 10/7/2014
+#EXTINF:-1 tvg-id="" tvg-name="Hate Story 2 10/7/2014 " tvg-logo="https://i.imgur.com/7U0kw6r.jpg" group-title="hindi",Hate Story 2 10/7/2014
 https://www.googleapis.com/drive/v3/files/1HTHCKgwRDZ2relqOwj97MWDDpxYMzNRj?alt=media&key=AIzaSyAXC5xLKaPHMMdJj6z6xwUniWDA0I3Twqo
-#EXTINF:-1 tvg-id="" tvg-name="Humpty Sharma Ki Dulhania 26/6/2014 " tvg-logo="https://subdl.com/p/sd1/sd1273.jpg" group-title="Movies",Humpty Sharma Ki Dulhania 26/6/2014
+#EXTINF:-1 tvg-id="" tvg-name="Humpty Sharma Ki Dulhania 26/6/2014 " tvg-logo="https://subdl.com/p/sd1/sd1273.jpg" group-title="hindi",Humpty Sharma Ki Dulhania 26/6/2014
 https://www.googleapis.com/drive/v3/files/1UrYiksN0cYtO79de_Cqrz6P1GDUqS_0v?alt=media&key=AIzaSyC9XEEzhSWXYVQtJX00i9UHLU9l1eIr5S4
-#EXTINF:-1 tvg-id="" tvg-name="Bobby Jasoos 23/6/2014 " tvg-logo="https://subdl.com/p/sd11/sd11756.jpg" group-title="Movies",Bobby Jasoos 23/6/2014
+#EXTINF:-1 tvg-id="" tvg-name="Bobby Jasoos 23/6/2014 " tvg-logo="https://subdl.com/p/sd11/sd11756.jpg" group-title="hindi",Bobby Jasoos 23/6/2014
 https://www.googleapis.com/drive/v3/files/1z76rs-KXOqKfSktM7fhzS8saBe9G1f0C?alt=media&key=AIzaSyCN6vp_3Gs4GoN-KHySa0-cVz-RnmFejGo
-#EXTINF:-1 tvg-id="" tvg-name="Ek Villain 13/6/2014 " tvg-logo="https://subdl.com/p/sd1/sd1023.jpg" group-title="Movies",Ek Villain 13/6/2014
+#EXTINF:-1 tvg-id="" tvg-name="Ek Villain 13/6/2014 " tvg-logo="https://subdl.com/p/sd1/sd1023.jpg" group-title="hindi",Ek Villain 13/6/2014
 https://www.googleapis.com/drive/v3/files/1j0nHx2deXrb2bW2O7QKOnq1HxNB70TPi?alt=media&key=AIzaSyDnXat1Z0co3IM_0cmXYx3Lcmdz6kp6AHA
-#EXTINF:-1 tvg-id="" tvg-name="Fugly 12/6/2014 " tvg-logo="https://subdl.com/p/sd7/sd7866.jpg" group-title="Movies",Fugly 12/6/2014
+#EXTINF:-1 tvg-id="" tvg-name="Fugly 12/6/2014 " tvg-logo="https://subdl.com/p/sd7/sd7866.jpg" group-title="hindi",Fugly 12/6/2014
 https://www.googleapis.com/drive/v3/files/1s1IL7Z3WNL44cfFhpLupO22rg5X3eGAA?alt=media&key=AIzaSyCxyDOJvKrnsZY1XHD-jgXuyRppKPnJq50
-#EXTINF:-1 tvg-id="" tvg-name="Humshakals 11/6/2014 " tvg-logo="https://subdl.com/p/sd4/sd4958.jpg" group-title="Movies",Humshakals 11/6/2014
+#EXTINF:-1 tvg-id="" tvg-name="Humshakals 11/6/2014 " tvg-logo="https://subdl.com/p/sd4/sd4958.jpg" group-title="hindi",Humshakals 11/6/2014
 https://www.googleapis.com/drive/v3/files/1u7iZRG7azATgq3prGtwI8zRDKGFGDylI?alt=media&key=AIzaSyC_-FR3QBJXmL1J_sg2EkC4dBQuQya76wM
-#EXTINF:-1 tvg-id="" tvg-name="Holiday 26/5/2014 " tvg-logo="https://i.imgur.com/9ds9Ckn.jpg" group-title="Movies",Holiday 26/5/2014
+#EXTINF:-1 tvg-id="" tvg-name="Holiday 26/5/2014 " tvg-logo="https://i.imgur.com/9ds9Ckn.jpg" group-title="hindi",Holiday 26/5/2014
 https://www.googleapis.com/drive/v3/files/10pFULKpeUACLkJUpBpOV4_oFqia-8QO8?alt=media&key=AIzaSyDE5WSm8omb2PqrwbEYNDwkHVyL067Ukps
-#EXTINF:-1 tvg-id="" tvg-name="Ugly 23/5/2014 " tvg-logo="https://subdl.com/p/sd2/sd2296.jpg" group-title="Movies",Ugly 23/5/2014
+#EXTINF:-1 tvg-id="" tvg-name="Ugly 23/5/2014 " tvg-logo="https://subdl.com/p/sd2/sd2296.jpg" group-title="hindi",Ugly 23/5/2014
 https://www.googleapis.com/drive/v3/files/1LyqKQjO5zEtj-Y4v0Nz_Vb_-hhi5POQe?alt=media&key=AIzaSyCdrYLGCAtqSZUWTiLCQy-yrEtI_b04zFw
-#EXTINF:-1 tvg-id="" tvg-name="Heropanti 9/5/2014 " tvg-logo="https://i.imgur.com/872EhyC.jpg" group-title="Movies",Heropanti 9/5/2014
+#EXTINF:-1 tvg-id="" tvg-name="Heropanti 9/5/2014 " tvg-logo="https://i.imgur.com/872EhyC.jpg" group-title="hindi",Heropanti 9/5/2014
 https://www.googleapis.com/drive/v3/files/1MGYTccEz-MYeCsR3ttp-0lXcldWgs90a?alt=media&key=AIzaSyDAg7SfMNAqIXtY5WzJXeR6larJRlruRug
-#EXTINF:-1 tvg-id="" tvg-name="18.11 A Code Of Secrecy 30/04/2014 " tvg-logo="https://i.imgur.com/IgtvfSg.jpg" group-title="Movies",18.11 A Code Of Secrecy 30/04/2014
+#EXTINF:-1 tvg-id="" tvg-name="18.11 A Code Of Secrecy 30/04/2014 " tvg-logo="https://i.imgur.com/IgtvfSg.jpg" group-title="hindi",18.11 A Code Of Secrecy 30/04/2014
 https://www.googleapis.com/drive/v3/files/1lcZtfaiHs8ZlnfEu0FyyEyzPC2MQ1ld_?alt=media&key=AIzaSyBXUGcsPOzF1-ufyWExgH_EQ_si8qRrm-Y
-#EXTINF:-1 tvg-id="" tvg-name="I Love NY 29/4/2014 " tvg-logo="https://subdl.com/p/sd6/sd6446.jpg" group-title="Movies",I Love NY 29/4/2014
+#EXTINF:-1 tvg-id="" tvg-name="I Love NY 29/4/2014 " tvg-logo="https://subdl.com/p/sd6/sd6446.jpg" group-title="hindi",I Love NY 29/4/2014
 https://www.googleapis.com/drive/v3/files/1L_e2t9XJQehAFj3WGBUIMv9dsJjdB4rd?alt=media&key=AIzaSyDIObaqsUwy6zi0JNH9wmWPmJDCrBsCn9w
-#EXTINF:-1 tvg-id="" tvg-name="Bhoothnath Returns 1/4/2014 " tvg-logo="https://subdl.com/p/sd44/sd44939.jpg" group-title="Movies",Bhoothnath Returns 1/4/2014
+#EXTINF:-1 tvg-id="" tvg-name="Bhoothnath Returns 1/4/2014 " tvg-logo="https://subdl.com/p/sd44/sd44939.jpg" group-title="hindi",Bhoothnath Returns 1/4/2014
 https://www.googleapis.com/drive/v3/files/1O1swYQze95hMLqofZ0LJItuPRkSNLFZy?alt=media&key=AIzaSyC15j5XQEM9_X-DwrxL46uszxbhSslJ_k8
-#EXTINF:-1 tvg-id="" tvg-name="2 States 26/3/2014 " tvg-logo="https://subdl.com/p/sd2/sd2611.jpg" group-title="Movies",2 States 26/3/2014
+#EXTINF:-1 tvg-id="" tvg-name="2 States 26/3/2014 " tvg-logo="https://subdl.com/p/sd2/sd2611.jpg" group-title="hindi",2 States 26/3/2014
 https://www.googleapis.com/drive/v3/files/1MteXIo74rwcXyEHlWFokSAaLUPK0qpvD?alt=media&key=AIzaSyAdJlUqmcj6Jo4iN9a5S_wzoVk-bj38y6g
-#EXTINF:-1 tvg-id="" tvg-name="Gulaab Gang 7/3/2014 " tvg-logo="https://i.imgur.com/oOsMYkO.jpg" group-title="Movies",Gulaab Gang 7/3/2014
+#EXTINF:-1 tvg-id="" tvg-name="Gulaab Gang 7/3/2014 " tvg-logo="https://i.imgur.com/oOsMYkO.jpg" group-title="hindi",Gulaab Gang 7/3/2014
 https://www.googleapis.com/drive/v3/files/1JD2QEanonMIO13hLFhQ5LPRr0C8Lrjoy?alt=media&key=AIzaSyBy-hjM-ME0xMs6c_fMdQrtL4LemzenT4Y
-#EXTINF:-1 tvg-id="" tvg-name="Total Siyapaa 7/3/2014 " tvg-logo="https://subdl.com/p/sd6/sd6210.jpg" group-title="Movies",Total Siyapaa 7/3/2014
+#EXTINF:-1 tvg-id="" tvg-name="Total Siyapaa 7/3/2014 " tvg-logo="https://subdl.com/p/sd6/sd6210.jpg" group-title="hindi",Total Siyapaa 7/3/2014
 https://www.googleapis.com/drive/v3/files/1GB9rfoQ0S5UfBJIaZ25ioMQVbWeUsW_0?alt=media&key=AIzaSyD0Qmzv-930Hf_vp7zMc7RR_71NnJnpOks
-#EXTINF:-1 tvg-id="" tvg-name="Queen 28/2/2014 " tvg-logo="https://subdl.com/p/sd1/sd1407.jpg" group-title="Movies",Queen 28/2/2014
+#EXTINF:-1 tvg-id="" tvg-name="Queen 28/2/2014 " tvg-logo="https://subdl.com/p/sd1/sd1407.jpg" group-title="hindi",Queen 28/2/2014
 https://www.googleapis.com/drive/v3/files/1BDpRXNmmPqCLuHy9oyO8pWVzwah1ToXL?alt=media&key=AIzaSyBuZp1mtIg2UDSJ9MPghCCxL3D-ClgiBnA
-#EXTINF:-1 tvg-id="" tvg-name="Highway 14/2/2014 " tvg-logo="https://subdl.com/p/sd1/sd1656.jpg" group-title="Movies",Highway 14/2/2014
+#EXTINF:-1 tvg-id="" tvg-name="Highway 14/2/2014 " tvg-logo="https://subdl.com/p/sd1/sd1656.jpg" group-title="hindi",Highway 14/2/2014
 https://www.googleapis.com/drive/v3/files/14_CqLLyFETCmg4e1LG90nv4Dny10QUMv?alt=media&key=AIzaSyDCpqOQ1hSIkoQFBylzf0zEbJ6xwMN-2C0
-#EXTINF:-1 tvg-id="" tvg-name="Gunday 5/2/2014 " tvg-logo="https://subdl.com/p/sd9/sd9410.jpg" group-title="Movies",Gunday 5/2/2014
+#EXTINF:-1 tvg-id="" tvg-name="Gunday 5/2/2014 " tvg-logo="https://subdl.com/p/sd9/sd9410.jpg" group-title="hindi",Gunday 5/2/2014
 https://www.googleapis.com/drive/v3/files/1-0zY6qbVdf4_DFYqpxODwTRsHGGOHJe6?alt=media&key=AIzaSyC2NMJ4aUy-WK1qxceKGVTRxqfrCm4nMmk
-#EXTINF:-1 tvg-id="" tvg-name="Hasee Toh Phasee 21/1/2014 " tvg-logo="https://i.imgur.com/nTjVY9c.jpg" group-title="Movies",Hasee Toh Phasee 21/1/2014
+#EXTINF:-1 tvg-id="" tvg-name="Hasee Toh Phasee 21/1/2014 " tvg-logo="https://i.imgur.com/nTjVY9c.jpg" group-title="hindi",Hasee Toh Phasee 21/1/2014
 https://www.googleapis.com/drive/v3/files/1ZQSeD8D6YGe6Ukw4MYHkFM5QXuKhwSFA?alt=media&key=AIzaSyCbgeDT3T5O6GCtviJXEV3ikxpHGBRN2Y0
-#EXTINF:-1 tvg-id="" tvg-name="Dedh Ishqiya 9/1/2014 " tvg-logo="https://i.imgur.com/5TQfVCb.jpg" group-title="Movies",Dedh Ishqiya 9/1/2014
+#EXTINF:-1 tvg-id="" tvg-name="Dedh Ishqiya 9/1/2014 " tvg-logo="https://i.imgur.com/5TQfVCb.jpg" group-title="hindi",Dedh Ishqiya 9/1/2014
 https://www.googleapis.com/drive/v3/files/1ZPL110cJA1u92hZ0hYGw2GAyxU_aXipX?alt=media&key=AIzaSyByDGLh_deK-hvD45wBL0234RJ2xp6GxpA
-#EXTINF:-1 tvg-id="" tvg-name="Rahasya 8/1/2014 " tvg-logo="https://i.imgur.com/R8uwW9b.jpg" group-title="Movies",Rahasya 8/1/2014
+#EXTINF:-1 tvg-id="" tvg-name="Rahasya 8/1/2014 " tvg-logo="https://i.imgur.com/R8uwW9b.jpg" group-title="hindi",Rahasya 8/1/2014
 https://www.googleapis.com/drive/v3/files/1pE3M9Fg3p7_8pRBIYHa7pxnpKplEwKGN?alt=media&key=AIzaSyBbRLv6eEK2fuA63C-X1ycDedPXBpRDHxQ
-#EXTINF:-1 tvg-id="" tvg-name="Yaariyan 27/12/2013 " tvg-logo="https://i.imgur.com/ABSzWnB.jpg" group-title="Movies",Yaariyan 27/12/2013
+#EXTINF:-1 tvg-id="" tvg-name="Yaariyan 27/12/2013 " tvg-logo="https://i.imgur.com/ABSzWnB.jpg" group-title="hindi",Yaariyan 27/12/2013
 https://www.googleapis.com/drive/v3/files/1lWKNq35VnCwiqOxbTHTmPon4mgbYQbLh?alt=media&key=AIzaSyBhRnihkMe4VBVr0LLnHDnVfeSREvryr8M
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom 3 5/12/2013 " tvg-logo="https://subdl.com/p/sd1/sd1588.jpg" group-title="Movies",Dhoom 3 5/12/2013
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom 3 5/12/2013 " tvg-logo="https://subdl.com/p/sd1/sd1588.jpg" group-title="hindi",Dhoom 3 5/12/2013
 https://www.googleapis.com/drive/v3/files/1qWXlQ8_u4H8lyGlYnp56aVpkRJpHh-6p?alt=media&key=AIzaSyCRNlKCEZYsIsIkQvnJTk4YRaRbINLnwRs
-#EXTINF:-1 tvg-id="" tvg-name="Bullett Raja 14/11/2013 " tvg-logo="https://subdl.com/p/sd8/sd8596.jpg" group-title="Movies",Bullett Raja 14/11/2013
+#EXTINF:-1 tvg-id="" tvg-name="Bullett Raja 14/11/2013 " tvg-logo="https://subdl.com/p/sd8/sd8596.jpg" group-title="hindi",Bullett Raja 14/11/2013
 https://www.googleapis.com/drive/v3/files/1vu0397Di0FPoVHM8OiNr1mwROZNsCdoY?alt=media&key=AIzaSyDPWWumRt6f5gDZxsVZid0tNm-pvxCj_Lo
-#EXTINF:-1 tvg-id="" tvg-name="Gori Tere Pyaar Mein 13/11/2013 " tvg-logo="https://i.imgur.com/jKwX3Gl.jpg" group-title="Movies",Gori Tere Pyaar Mein 13/11/2013
+#EXTINF:-1 tvg-id="" tvg-name="Gori Tere Pyaar Mein 13/11/2013 " tvg-logo="https://i.imgur.com/jKwX3Gl.jpg" group-title="hindi",Gori Tere Pyaar Mein 13/11/2013
 https://www.googleapis.com/drive/v3/files/1RJcaEg-txS8AW9rDid3XenVyF0BcF8e6?alt=media&key=AIzaSyAJrifus2TNerPTIdb2dfK4-e_CjfWfdCo
-#EXTINF:-1 tvg-id="" tvg-name="Ram Leela 1/11/2013 " tvg-logo="https://i.imgur.com/VQafS8J.jpg" group-title="Movies",Ram Leela 1/11/2013
+#EXTINF:-1 tvg-id="" tvg-name="Ram Leela 1/11/2013 " tvg-logo="https://i.imgur.com/VQafS8J.jpg" group-title="hindi",Ram Leela 1/11/2013
 https://www.googleapis.com/drive/v3/files/1cV5huMJRAh-iJI9Moxj0o8vAclUYsflK?alt=media&key=AIzaSyCFpIioyvwsJhNqJaeMGbC0_8cDX7ry9IM
-#EXTINF:-1 tvg-id="" tvg-name="Shahid 18/10/2013 " tvg-logo="https://subdl.com/p/sd7/sd7393.jpg" group-title="Movies",Shahid 18/10/2013
+#EXTINF:-1 tvg-id="" tvg-name="Shahid 18/10/2013 " tvg-logo="https://subdl.com/p/sd7/sd7393.jpg" group-title="hindi",Shahid 18/10/2013
 https://www.googleapis.com/drive/v3/files/1McWw4eyLqafaCCLneYajis85indlBSJh?alt=media&key=AIzaSyBp_iRKTTDDLM33mKU8KepG6K1HYRAoysc
-#EXTINF:-1 tvg-id="" tvg-name="Mickey Virus 17/10/2013 " tvg-logo="https://subdl.com/p/sd5/sd5387.jpg" group-title="Movies",Mickey Virus 17/10/2013
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Virus 17/10/2013 " tvg-logo="https://subdl.com/p/sd5/sd5387.jpg" group-title="hindi",Mickey Virus 17/10/2013
 https://www.googleapis.com/drive/v3/files/1l0oWHewnbMPJ8kufpDm_I_4XfpRLU6I3?alt=media&key=AIzaSyAgvlze9SnrvRXSB8RFIG18sgmN14EstuI
-#EXTINF:-1 tvg-id="" tvg-name="Boss 9/10/2013 " tvg-logo="https://subdl.com/p/sd3/sd3897.jpg" group-title="Movies",Boss 9/10/2013
+#EXTINF:-1 tvg-id="" tvg-name="Boss 9/10/2013 " tvg-logo="https://subdl.com/p/sd3/sd3897.jpg" group-title="hindi",Boss 9/10/2013
 https://www.googleapis.com/drive/v3/files/1qsb0glVCjSnh9T_3uocj2DZped6zIN7u?alt=media&key=AIzaSyBBb8zkpDaKc3NTuL4cKI-mcOvKEi-y14M
-#EXTINF:-1 tvg-id="" tvg-name="War Chod Na Yaar 4/10/2013 " tvg-logo="https://i.imgur.com/wAkEgbf.jpg" group-title="Movies",War Chod Na Yaar 4/10/2013
+#EXTINF:-1 tvg-id="" tvg-name="War Chod Na Yaar 4/10/2013 " tvg-logo="https://i.imgur.com/wAkEgbf.jpg" group-title="hindi",War Chod Na Yaar 4/10/2013
 https://www.googleapis.com/drive/v3/files/1pYRQQkxk0iqK1nkAFu530fC8Gi46bI3v?alt=media&key=AIzaSyC_hTozf1-du7kTgZVRSWM-mP480I-288w
-#EXTINF:-1 tvg-id="" tvg-name="Besharam 20/9/2013 " tvg-logo="https://i.imgur.com/mi3omIg.jpg" group-title="Movies",Besharam 20/9/2013
+#EXTINF:-1 tvg-id="" tvg-name="Besharam 20/9/2013 " tvg-logo="https://i.imgur.com/mi3omIg.jpg" group-title="hindi",Besharam 20/9/2013
 https://www.googleapis.com/drive/v3/files/1HnbMDUclTu8IROI2YsdSTWixFuJ5JFJK?alt=media&key=AIzaSyABeUeMRdaqmVcRp-deN7M3oVpo2r_jN6s
-#EXTINF:-1 tvg-id="" tvg-name="Shuddh Desi Romance 27/8/2013 " tvg-logo="https://subdl.com/p/sd2/sd2677.jpg" group-title="Movies",Shuddh Desi Romance 27/8/2013
+#EXTINF:-1 tvg-id="" tvg-name="Shuddh Desi Romance 27/8/2013 " tvg-logo="https://subdl.com/p/sd2/sd2677.jpg" group-title="hindi",Shuddh Desi Romance 27/8/2013
 https://www.googleapis.com/drive/v3/files/1sQM-qpmPYjj39VhbHa_jMdrXaU6XtnWa?alt=media&key=AIzaSyDJRCFXKWKwJ8_tI858IStBNZ6MeCpRg-0
-#EXTINF:-1 tvg-id="" tvg-name="Chennai Express 29/7/2013 " tvg-logo="https://subdl.com/p/sd1/sd1298.jpg" group-title="Movies",Chennai Express 29/7/2013
+#EXTINF:-1 tvg-id="" tvg-name="Chennai Express 29/7/2013 " tvg-logo="https://subdl.com/p/sd1/sd1298.jpg" group-title="hindi",Chennai Express 29/7/2013
 https://www.googleapis.com/drive/v3/files/1VJF5ioUtlRzehIUyHiOZjTonjGgTz3eK?alt=media&key=AIzaSyBVuZVFnzmzfm4WSj3AI_5qxX4rY4JlOk8
-#EXTINF:-1 tvg-id="" tvg-name="Chor Chor Super Chor 27/7/2013 " tvg-logo="https://subdl.com/p/sd17/sd17123.jpg" group-title="Movies",Chor Chor Super Chor 27/7/2013
+#EXTINF:-1 tvg-id="" tvg-name="Chor Chor Super Chor 27/7/2013 " tvg-logo="https://subdl.com/p/sd17/sd17123.jpg" group-title="hindi",Chor Chor Super Chor 27/7/2013
 https://www.googleapis.com/drive/v3/files/1S1cB6MR4jd_gSeeeKJJBYKnwywbMpiB6?alt=media&key=AIzaSyAifWKTslV0hVST6FIegUQYCuC75MBIhuc
-#EXTINF:-1 tvg-id="" tvg-name="Enemmy 24/7/2013 " tvg-logo="https://i.imgur.com/yx5Fh89.jpg" group-title="Movies",Enemmy 24/7/2013
+#EXTINF:-1 tvg-id="" tvg-name="Enemmy 24/7/2013 " tvg-logo="https://i.imgur.com/yx5Fh89.jpg" group-title="hindi",Enemmy 24/7/2013
 https://www.googleapis.com/drive/v3/files/1uXwUUkJ7isw-BqR0_C2OoUrTj5rVZRWZ?alt=media&key=AIzaSyDw8PpsGyxJC0lCNrCHx-Z55a18elZOWbc
-#EXTINF:-1 tvg-id="" tvg-name="Ramaiya Vastavaiya 19/7/2013 " tvg-logo="https://subdl.com/p/sd1/sd1172.jpg" group-title="Movies",Ramaiya Vastavaiya 19/7/2013
+#EXTINF:-1 tvg-id="" tvg-name="Ramaiya Vastavaiya 19/7/2013 " tvg-logo="https://subdl.com/p/sd1/sd1172.jpg" group-title="hindi",Ramaiya Vastavaiya 19/7/2013
 https://www.googleapis.com/drive/v3/files/1h_6lbceDoTzninGwZkFVWm6eWXGw-gM5?alt=media&key=AIzaSyCmQhL4aSAtc9UwJjjR5r3RbALGmL_gVGw
-#EXTINF:-1 tvg-id="" tvg-name="Bajatey Raho 18/7/2013 " tvg-logo="https://i.imgur.com/wXlOA8r.jpg" group-title="Movies",Bajatey Raho 18/7/2013
+#EXTINF:-1 tvg-id="" tvg-name="Bajatey Raho 18/7/2013 " tvg-logo="https://i.imgur.com/wXlOA8r.jpg" group-title="hindi",Bajatey Raho 18/7/2013
 https://www.googleapis.com/drive/v3/files/1YDuX_nW7AbE3uiB_ASnhO4zXPmS3HKQ6?alt=media&key=AIzaSyBPgh8WReU-FT1RpNk0hnh6vSPt9eXib3M
-#EXTINF:-1 tvg-id="" tvg-name="D Day 16/7/2013 " tvg-logo="https://i.imgur.com/4CsFz5y.jpg" group-title="Movies",D Day 16/7/2013
+#EXTINF:-1 tvg-id="" tvg-name="D Day 16/7/2013 " tvg-logo="https://i.imgur.com/4CsFz5y.jpg" group-title="hindi",D Day 16/7/2013
 https://www.googleapis.com/drive/v3/files/13cN5lSnl3rhVMDtzTZwaUvJIOVL5q1YR?alt=media&key=AIzaSyBMBNflTVpyKCpB8p4LCZFIUtvymORhfF4
-#EXTINF:-1 tvg-id="" tvg-name="Bhaag Milkha Bhaag 12/7/2013 " tvg-logo="https://subdl.com/p/sd1/sd1123.jpg" group-title="Movies",Bhaag Milkha Bhaag 12/7/2013
+#EXTINF:-1 tvg-id="" tvg-name="Bhaag Milkha Bhaag 12/7/2013 " tvg-logo="https://subdl.com/p/sd1/sd1123.jpg" group-title="hindi",Bhaag Milkha Bhaag 12/7/2013
 https://www.googleapis.com/drive/v3/files/14FLoQInKzFYulKbiXBQq3_IAJmgx4GdF?alt=media&key=AIzaSyC-jJ3a-Pt774tWtaNWxCZOdCMH2K_RegM
-#EXTINF:-1 tvg-id="" tvg-name="Madras Cafe 9/7/2013 " tvg-logo="https://subdl.com/p/sd8/sd8887.jpg" group-title="Movies",Madras Cafe 9/7/2013
+#EXTINF:-1 tvg-id="" tvg-name="Madras Cafe 9/7/2013 " tvg-logo="https://subdl.com/p/sd8/sd8887.jpg" group-title="hindi",Madras Cafe 9/7/2013
 https://www.googleapis.com/drive/v3/files/1wXUcTQPmSrMavtfNULhZg7-SWEeMVhY2?alt=media&key=AIzaSyCp9N9eifVcJ-PHSZjsYNO1ldR7kfwnx1c
-#EXTINF:-1 tvg-id="" tvg-name="Ghanchakkar 18/6/2013 " tvg-logo="https://subdl.com/p/sd466/sd466327.jpg" group-title="Movies",Ghanchakkar 18/6/2013
+#EXTINF:-1 tvg-id="" tvg-name="Ghanchakkar 18/6/2013 " tvg-logo="https://subdl.com/p/sd466/sd466327.jpg" group-title="hindi",Ghanchakkar 18/6/2013
 https://www.googleapis.com/drive/v3/files/1Z3Ln99ftUt8fLty6pAVTbRuX23Yxs5fu?alt=media&key=AIzaSyBHAFPNpD9130lWzdKulHZNJFY3rL9uL6o
-#EXTINF:-1 tvg-id="" tvg-name="Raanjhanaa 15/6/2013 " tvg-logo="https://subdl.com/p/sd2/sd2031.jpg" group-title="Movies",Raanjhanaa 15/6/2013
+#EXTINF:-1 tvg-id="" tvg-name="Raanjhanaa 15/6/2013 " tvg-logo="https://subdl.com/p/sd2/sd2031.jpg" group-title="hindi",Raanjhanaa 15/6/2013
 https://www.googleapis.com/drive/v3/files/1dysTrq-7-WHhvSf91Ufugm0RoOL8PnDC?alt=media&key=AIzaSyBsUL7F6cMgBrROac3Y_tPyeyce8DaOyr0
-#EXTINF:-1 tvg-id="" tvg-name="Grand Masti 14/6/2013 " tvg-logo="https://subdl.com/p/sd5/sd5548.jpg" group-title="Movies",Grand Masti 14/6/2013
+#EXTINF:-1 tvg-id="" tvg-name="Grand Masti 14/6/2013 " tvg-logo="https://subdl.com/p/sd5/sd5548.jpg" group-title="hindi",Grand Masti 14/6/2013
 https://www.googleapis.com/drive/v3/files/1neZcECqm0ZkFpYJh8tpQz6Mh4QMk308_?alt=media&key=AIzaSyDtoDCF-uIynQphzcQv8BRTRZKKdowLHng
-#EXTINF:-1 tvg-id="" tvg-name="Zindagi 50 50 24/5/2013 " tvg-logo="https://i.imgur.com/pafiKGo.jpg" group-title="Movies",Zindagi 50 50 24/5/2013
+#EXTINF:-1 tvg-id="" tvg-name="Zindagi 50 50 24/5/2013 " tvg-logo="https://i.imgur.com/pafiKGo.jpg" group-title="hindi",Zindagi 50 50 24/5/2013
 https://www.googleapis.com/drive/v3/files/1M1rFKGi-vpZWZsvzOAjvlRt8hpCBMy4j?alt=media&key=AIzaSyDZQIgYIv9tTpfPxDIASddS-tuDCSqg3Hs
-#EXTINF:-1 tvg-id="" tvg-name="Aurangzeb 16/5/2013 " tvg-logo="https://subdl.com/p/sd170/sd170816.jpg" group-title="Movies",Aurangzeb 16/5/2013
+#EXTINF:-1 tvg-id="" tvg-name="Aurangzeb 16/5/2013 " tvg-logo="https://subdl.com/p/sd170/sd170816.jpg" group-title="hindi",Aurangzeb 16/5/2013
 https://www.googleapis.com/drive/v3/files/1erx6Wccnbh6yniHzwzoPuyt-OxlOwQkU?alt=media&key=AIzaSyAOMTvTXYHLsZu-yxUyU7EZ9JE6eX03te8
-#EXTINF:-1 tvg-id="" tvg-name="Bin Phere Free Me Tere 26/4/2013 " tvg-logo="https://i.imgur.com/mJrrv9m.jpg" group-title="Movies",Bin Phere Free Me Tere 26/4/2013
+#EXTINF:-1 tvg-id="" tvg-name="Bin Phere Free Me Tere 26/4/2013 " tvg-logo="https://i.imgur.com/mJrrv9m.jpg" group-title="hindi",Bin Phere Free Me Tere 26/4/2013
 https://www.googleapis.com/drive/v3/files/1_eo_cBi7dDMRLsgLzUFzCauzEqh8o6f8?alt=media&key=AIzaSyBb9KAnbXEgObCFPz-tX89BSj7GYIy9lu0
-#EXTINF:-1 tvg-id="" tvg-name="Go Goa Gone 25/4/2013 " tvg-logo="https://i.imgur.com/ohoeVtF.jpg" group-title="Movies",Go Goa Gone 25/4/2013
+#EXTINF:-1 tvg-id="" tvg-name="Go Goa Gone 25/4/2013 " tvg-logo="https://i.imgur.com/ohoeVtF.jpg" group-title="hindi",Go Goa Gone 25/4/2013
 https://www.googleapis.com/drive/v3/files/1XOaGydK6VdSIWtDyJdMLPAb3aQZ4Q3K9?alt=media&key=AIzaSyCPJ1PqUVgmC3siR9vzkAm9DV-lJbBKJ2Q
-#EXTINF:-1 tvg-id="" tvg-name="Bombay Talkies 23/4/2013 " tvg-logo="https://subdl.com/p/sd3/sd3579.jpg" group-title="Movies",Bombay Talkies 23/4/2013
+#EXTINF:-1 tvg-id="" tvg-name="Bombay Talkies 23/4/2013 " tvg-logo="https://subdl.com/p/sd3/sd3579.jpg" group-title="hindi",Bombay Talkies 23/4/2013
 https://www.googleapis.com/drive/v3/files/1inarnT8JYk7-5Gv11imwuA-5W7si9OFm?alt=media&key=AIzaSyCpmyK5X62hcLKR7Wn3nOsSl6Xs_oru_-s
-#EXTINF:-1 tvg-id="" tvg-name="Shree 19/4/2013 " tvg-logo="https://i.imgur.com/gV0etsD.jpg" group-title="Movies",Shree 19/4/2013
+#EXTINF:-1 tvg-id="" tvg-name="Shree 19/4/2013 " tvg-logo="https://i.imgur.com/gV0etsD.jpg" group-title="hindi",Shree 19/4/2013
 https://www.googleapis.com/drive/v3/files/1j8QwgkCVZdE2jjAof2l3aFzk7I-TAq11?alt=media&key=AIzaSyAlgod1kzBf0L9xMoNHM4RqBRC7Wg41xRc
-#EXTINF:-1 tvg-id="" tvg-name="Aashiqui 2 16/04/2013 " tvg-logo="https://i.imgur.com/lxMaS4Q.jpg" group-title="Movies",Aashiqui 2 16/04/2013
+#EXTINF:-1 tvg-id="" tvg-name="Aashiqui 2 16/04/2013 " tvg-logo="https://i.imgur.com/lxMaS4Q.jpg" group-title="hindi",Aashiqui 2 16/04/2013
 https://www.googleapis.com/drive/v3/files/1GJXJ6QmQf3SGx1wtisfzdsHbGZ7JqZT8?alt=media&key=AIzaSyBcRoXRm1YjscTOZmyfYG1hubzAzeFbPZk
-#EXTINF:-1 tvg-id="" tvg-name="The Lunchbox 11/4/2013 " tvg-logo="https://i.imgur.com/ndORFfp.jpg" group-title="Movies",The Lunchbox 11/4/2013
+#EXTINF:-1 tvg-id="" tvg-name="The Lunchbox 11/4/2013 " tvg-logo="https://i.imgur.com/ndORFfp.jpg" group-title="hindi",The Lunchbox 11/4/2013
 https://www.googleapis.com/drive/v3/files/1Fro8-lZXS9YVFbvCCe9jFAEOSomDDLv2?alt=media&key=AIzaSyDfD_h-5GhfNi6oUlqjT4V9dBTloEajuvI
-#EXTINF:-1 tvg-id="" tvg-name="Ek Thi Daayan 9/4/2013 " tvg-logo="https://subdl.com/p/sd4/sd4319.jpg" group-title="Movies",Ek Thi Daayan 9/4/2013
+#EXTINF:-1 tvg-id="" tvg-name="Ek Thi Daayan 9/4/2013 " tvg-logo="https://subdl.com/p/sd4/sd4319.jpg" group-title="hindi",Ek Thi Daayan 9/4/2013
 https://www.googleapis.com/drive/v3/files/1gQYWBUgbE_cnPquLlSHLF6HgJLLjuXGH?alt=media&key=AIzaSyApPIrdzZGZJueiC4sTxx466vlExWNbigU
-#EXTINF:-1 tvg-id="" tvg-name="Commando 4/4/2013 " tvg-logo="https://i.imgur.com/oEATJfL.jpg" group-title="Movies",Commando 4/4/2013
+#EXTINF:-1 tvg-id="" tvg-name="Commando 4/4/2013 " tvg-logo="https://i.imgur.com/oEATJfL.jpg" group-title="hindi",Commando 4/4/2013
 https://www.googleapis.com/drive/v3/files/1QlV4p0zzwoW-zdvz6908DgJrZAXHSoDa?alt=media&key=AIzaSyACLhQ3ZBmncA00OWhGFFcu-V-7W2IjZoA
-#EXTINF:-1 tvg-id="" tvg-name="Nautanki Saala 28/3/2013 " tvg-logo="https://i.imgur.com/vkmbpPH.jpg" group-title="Movies",Nautanki Saala 28/3/2013
+#EXTINF:-1 tvg-id="" tvg-name="Nautanki Saala 28/3/2013 " tvg-logo="https://i.imgur.com/vkmbpPH.jpg" group-title="hindi",Nautanki Saala 28/3/2013
 https://www.googleapis.com/drive/v3/files/1y88aYWISLo07Zou0WTUOs_XZC7HcrQXg?alt=media&key=AIzaSyDyzdiUcFrrFhBXWzhPFPFBRlWX98Hm2FM
-#EXTINF:-1 tvg-id="" tvg-name="Himmatwala 22/3/2013 " tvg-logo="https://subdl.com/p/sd2/sd2838.jpg" group-title="Movies",Himmatwala 22/3/2013
+#EXTINF:-1 tvg-id="" tvg-name="Himmatwala 22/3/2013 " tvg-logo="https://subdl.com/p/sd2/sd2838.jpg" group-title="hindi",Himmatwala 22/3/2013
 https://www.googleapis.com/drive/v3/files/13blhEP7sng_OVOdTAFdWwhbX5bQhVNuE?alt=media&key=AIzaSyBngMVcybYFWwZl1gZYWlb7DVVQD4w-8r0
-#EXTINF:-1 tvg-id="" tvg-name="Aatma 21/03/2013 " tvg-logo="https://subdl.com/p/sd1/sd1307.jpg" group-title="Movies",Aatma 21/03/2013
+#EXTINF:-1 tvg-id="" tvg-name="Aatma 21/03/2013 " tvg-logo="https://subdl.com/p/sd1/sd1307.jpg" group-title="hindi",Aatma 21/03/2013
 https://www.googleapis.com/drive/v3/files/1eoOEHkqB0hDLGtBAbkMlZV1P3M2hzgJR?alt=media&key=AIzaSyDb-1ogBEwLmV_uSvJkmtWtggIQCUsJQOk
-#EXTINF:-1 tvg-id="" tvg-name="Rangrezz 15/3/2013 " tvg-logo="https://i.imgur.com/zDZEDBj.jpg" group-title="Movies",Rangrezz 15/3/2013
+#EXTINF:-1 tvg-id="" tvg-name="Rangrezz 15/3/2013 " tvg-logo="https://i.imgur.com/zDZEDBj.jpg" group-title="hindi",Rangrezz 15/3/2013
 https://www.googleapis.com/drive/v3/files/1cECGXttlBf4EJgTHMx2wRZsMdxbvhn9r?alt=media&key=AIzaSyDmmQVxbFM6IsPp4CAPocszak7mOUKO2mw
-#EXTINF:-1 tvg-id="" tvg-name="Chashme Baddoor 4/3/2013 " tvg-logo="https://subdl.com/p/sd46/sd46497.jpg" group-title="Movies",Chashme Baddoor 4/3/2013
+#EXTINF:-1 tvg-id="" tvg-name="Chashme Baddoor 4/3/2013 " tvg-logo="https://subdl.com/p/sd46/sd46497.jpg" group-title="hindi",Chashme Baddoor 4/3/2013
 https://www.googleapis.com/drive/v3/files/1qUlfFj27QMGKF_3kFl2_E6TPVjjCrghr?alt=media&key=AIzaSyCjxYehAkJmXIMWj4cdOzhLXbMVTnd_syQ
-#EXTINF:-1 tvg-id="" tvg-name="3G A Killer Connection 27/02/2013 " tvg-logo="https://subdl.com/p/sd11/sd11762.jpg" group-title="Movies",3G A Killer Connection 27/02/2013
+#EXTINF:-1 tvg-id="" tvg-name="3G A Killer Connection 27/02/2013 " tvg-logo="https://subdl.com/p/sd11/sd11762.jpg" group-title="hindi",3G A Killer Connection 27/02/2013
 https://www.googleapis.com/drive/v3/files/1r5Bu0anEIciWblN8ZyYDTFnqsiyrOFAV?alt=media&key=AIzaSyB9EDXnN8Plt33nfiSpWWBuhHif1ljv8ig
-#EXTINF:-1 tvg-id="" tvg-name="I Me Aur Main 21/2/2013 " tvg-logo="https://subdl.com/p/sd13/sd13138.jpg" group-title="Movies",I Me Aur Main 21/2/2013
+#EXTINF:-1 tvg-id="" tvg-name="I Me Aur Main 21/2/2013 " tvg-logo="https://subdl.com/p/sd13/sd13138.jpg" group-title="hindi",I Me Aur Main 21/2/2013
 https://www.googleapis.com/drive/v3/files/1K3LEuVTIzuTP6Lg2ng_yXEsCSmuCKhcn?alt=media&key=AIzaSyCVlq7r54jmb2ZV9IGHEvOTA8Sbgyyr8xc
-#EXTINF:-1 tvg-id="" tvg-name="Saare Jahaan Se Mehnga 18/2/2013 " tvg-logo="https://i.imgur.com/97j4VIC.jpg" group-title="Movies",Saare Jahaan Se Mehnga 18/2/2013
+#EXTINF:-1 tvg-id="" tvg-name="Saare Jahaan Se Mehnga 18/2/2013 " tvg-logo="https://i.imgur.com/97j4VIC.jpg" group-title="hindi",Saare Jahaan Se Mehnga 18/2/2013
 https://www.googleapis.com/drive/v3/files/1Gr0l5YoD4OCe-32c6Y1ZSxPwKKRD2qVG?alt=media&key=AIzaSyC6J7e0lM_hR0nSki8ZpgmYK5syfWzyjPY
-#EXTINF:-1 tvg-id="" tvg-name="Jayantabhai Ki Luv Story 15/2/2013 " tvg-logo="https://subdl.com/p/sd15/sd15799.jpg" group-title="Movies",Jayantabhai Ki Luv Story 15/2/2013
+#EXTINF:-1 tvg-id="" tvg-name="Jayantabhai Ki Luv Story 15/2/2013 " tvg-logo="https://subdl.com/p/sd15/sd15799.jpg" group-title="hindi",Jayantabhai Ki Luv Story 15/2/2013
 https://www.googleapis.com/drive/v3/files/19VyrPsebXr2qMZvT3v7KWndOj5Jl2nxn?alt=media&key=AIzaSyDTSyepMtG-vgnBWJ0Us6EcBNFCHLZ6dYE
-#EXTINF:-1 tvg-id="" tvg-name="Deewana Main Deewana 1/2/2013 " tvg-logo="https://subdl.com/p/sd28/sd28620.jpg" group-title="Movies",Deewana Main Deewana 1/2/2013
+#EXTINF:-1 tvg-id="" tvg-name="Deewana Main Deewana 1/2/2013 " tvg-logo="https://subdl.com/p/sd28/sd28620.jpg" group-title="hindi",Deewana Main Deewana 1/2/2013
 https://www.googleapis.com/drive/v3/files/1SOZhSn4_5yvcfAkM5UVsIZt_6dIrXDWr?alt=media&key=AIzaSyBmTbjYL3et9uACZ_pTGRR0_L3i82_B2Dw
-#EXTINF:-1 tvg-id="" tvg-name="David 31/1/2013 " tvg-logo="https://i.imgur.com/Adp4ozR.jpg" group-title="Movies",David 31/1/2013
+#EXTINF:-1 tvg-id="" tvg-name="David 31/1/2013 " tvg-logo="https://i.imgur.com/Adp4ozR.jpg" group-title="hindi",David 31/1/2013
 https://www.googleapis.com/drive/v3/files/1mKZVlOdHXT7p9Wh0VOHlW5EOuLCd1kDz?alt=media&key=AIzaSyALHQ32KiLMQSd-1ugRh87Pgr1XYtH-wm8
-#EXTINF:-1 tvg-id="" tvg-name="Kai Po Che 30/1/2013 " tvg-logo="https://i.imgur.com/v58H4st.jpg" group-title="Movies",Kai Po Che 30/1/2013
+#EXTINF:-1 tvg-id="" tvg-name="Kai Po Che 30/1/2013 " tvg-logo="https://i.imgur.com/v58H4st.jpg" group-title="hindi",Kai Po Che 30/1/2013
 https://www.googleapis.com/drive/v3/files/1_jq4A5o52WUpBAwJh5zYuXSGObUg2ymM?alt=media&key=AIzaSyB04Jshkuo40za_zq6z3rHFkV4iGCVVaTA
-#EXTINF:-1 tvg-id="" tvg-name="Akaash Vani 18/1/2013 " tvg-logo="https://i.imgur.com/yHr6NpC.jpg" group-title="Movies",Akaash Vani 18/1/2013
+#EXTINF:-1 tvg-id="" tvg-name="Akaash Vani 18/1/2013 " tvg-logo="https://i.imgur.com/yHr6NpC.jpg" group-title="hindi",Akaash Vani 18/1/2013
 https://www.googleapis.com/drive/v3/files/15tUczKu6WDVAjlyCT2mIJ195trwv69Nx?alt=media&key=AIzaSyDnOFil_Ukf6-8-jh14u7I6cJsy3i8BRG4
-#EXTINF:-1 tvg-id="" tvg-name="Inkaar 18/1/2013 " tvg-logo="https://i.imgur.com/NpyRFW4.jpg" group-title="Movies",Inkaar 18/1/2013
+#EXTINF:-1 tvg-id="" tvg-name="Inkaar 18/1/2013 " tvg-logo="https://i.imgur.com/NpyRFW4.jpg" group-title="hindi",Inkaar 18/1/2013
 https://www.googleapis.com/drive/v3/files/1hI9-HFJQqFcM8SJYe2VBV_diRDgue4lg?alt=media&key=AIzaSyBsIfy0n8fB63D6TdadPio3n-M6SCnK4ks
-#EXTINF:-1 tvg-id="" tvg-name="Race 2 16/1/2013 " tvg-logo="https://i.imgur.com/gE4qncK.jpg" group-title="Movies",Race 2 16/1/2013
+#EXTINF:-1 tvg-id="" tvg-name="Race 2 16/1/2013 " tvg-logo="https://i.imgur.com/gE4qncK.jpg" group-title="hindi",Race 2 16/1/2013
 https://www.googleapis.com/drive/v3/files/1v52hVscMlLspdqEhig2W_hPnmyvDE8Vn?alt=media&key=AIzaSyA59ThzTVLFYjGh2nChXnn8OXcsLxfajPI
-#EXTINF:-1 tvg-id="" tvg-name="B A Pass 2/1/2013 " tvg-logo="https://i.imgur.com/qIrFwrA.jpg" group-title="Movies",B A Pass 2/1/2013
+#EXTINF:-1 tvg-id="" tvg-name="B A Pass 2/1/2013 " tvg-logo="https://i.imgur.com/qIrFwrA.jpg" group-title="hindi",B A Pass 2/1/2013
 https://www.googleapis.com/drive/v3/files/1csm6kLFsJlI_pXC9HksXYwxdlSSLGnFJ?alt=media&key=AIzaSyBfxUo5aAOybrN0jaRc-W_iyJk3-zRER3E
-#EXTINF:-1 tvg-id="" tvg-name="Bandook 31/12/2012 " tvg-logo="https://i.imgur.com/eJVSAKu.jpg" group-title="Movies",Bandook 31/12/2012
+#EXTINF:-1 tvg-id="" tvg-name="Bandook 31/12/2012 " tvg-logo="https://i.imgur.com/eJVSAKu.jpg" group-title="hindi",Bandook 31/12/2012
 https://www.googleapis.com/drive/v3/files/1TAURSspQ1O_8BW8mbhIbux3kcpkfUV1f?alt=media&key=AIzaSyBwoqEFlKyIWAnpmid_XC76BX97C7HX5CI
-#EXTINF:-1 tvg-id="" tvg-name="Table No 21 20/12/2012 " tvg-logo="https://subdl.com/p/sd1/sd1128.jpg" group-title="Movies",Table No 21 20/12/2012
+#EXTINF:-1 tvg-id="" tvg-name="Table No 21 20/12/2012 " tvg-logo="https://subdl.com/p/sd1/sd1128.jpg" group-title="hindi",Table No 21 20/12/2012
 https://www.googleapis.com/drive/v3/files/1RmYfvyqG5SNfl_XGwAtDtvm6af_WTlzq?alt=media&key=AIzaSyCPwKfTheOqKV5FG21xtMSzsJStLfF0Nkg
-#EXTINF:-1 tvg-id="" tvg-name="Dabangg 2 11/12/2012 " tvg-logo="https://subdl.com/p/sd10/sd10825.jpg" group-title="Movies",Dabangg 2 11/12/2012
+#EXTINF:-1 tvg-id="" tvg-name="Dabangg 2 11/12/2012 " tvg-logo="https://subdl.com/p/sd10/sd10825.jpg" group-title="hindi",Dabangg 2 11/12/2012
 https://www.googleapis.com/drive/v3/files/1bDaMmkBseljzVX3j2bXxgUpttBOzx-hI?alt=media&key=AIzaSyAdCVWGCLqvLalTvbLC2vTmTBohrSLW2HE
-#EXTINF:-1 tvg-id="" tvg-name="Four Two Ka One 27/11/2012 " tvg-logo="https://subdl.com/p/sd14/sd14154.jpg" group-title="Movies",Four Two Ka One 27/11/2012
+#EXTINF:-1 tvg-id="" tvg-name="Four Two Ka One 27/11/2012 " tvg-logo="https://subdl.com/p/sd14/sd14154.jpg" group-title="hindi",Four Two Ka One 27/11/2012
 https://www.googleapis.com/drive/v3/files/1ZepaJkMImTH5RCe-4o0DblFwjE0Mcac4?alt=media&key=AIzaSyDCfIV_Q_ejdmMlB_fJncaYEoXsudRzaL4
-#EXTINF:-1 tvg-id="" tvg-name="Jab Tak Hai Jaan 1/11/2012 " tvg-logo="https://subdl.com/p/sd1/sd1266.jpg" group-title="Movies",Jab Tak Hai Jaan 1/11/2012
+#EXTINF:-1 tvg-id="" tvg-name="Jab Tak Hai Jaan 1/11/2012 " tvg-logo="https://subdl.com/p/sd1/sd1266.jpg" group-title="hindi",Jab Tak Hai Jaan 1/11/2012
 https://www.googleapis.com/drive/v3/files/107dTXS3j4-zW5X7ZVcvKhYKN8CrRsTOc?alt=media&key=AIzaSyBKJaGg-Fi-wozfzDcul4SENNCoHz20otk
-#EXTINF:-1 tvg-id="" tvg-name="1920 Evil Returns 18/10/2012 " tvg-logo="https://subdl.com/p/sd5/sd5946.jpg" group-title="Movies",1920 Evil Returns 18/10/2012
+#EXTINF:-1 tvg-id="" tvg-name="1920 Evil Returns 18/10/2012 " tvg-logo="https://subdl.com/p/sd5/sd5946.jpg" group-title="hindi",1920 Evil Returns 18/10/2012
 https://www.googleapis.com/drive/v3/files/1Bbt9H3H4IesgWrEOcZx-Q4v0CSIUfc7_?alt=media&key=AIzaSyDmxuLX0PLzvFOutK6o5hkBoUWIMzo5lew
-#EXTINF:-1 tvg-id="" tvg-name="Ajab Gazabb Love 17/10/2012 " tvg-logo="https://i.imgur.com/l0Kgomk.jpg" group-title="Movies",Ajab Gazabb Love 17/10/2012
+#EXTINF:-1 tvg-id="" tvg-name="Ajab Gazabb Love 17/10/2012 " tvg-logo="https://i.imgur.com/l0Kgomk.jpg" group-title="hindi",Ajab Gazabb Love 17/10/2012
 https://www.googleapis.com/drive/v3/files/1l58zffrYlTqcQj4APSxGAi689vfzymHa?alt=media&key=AIzaSyD2a0HG3OXbgEMraGb1S4Vl5FVN2xyMWT0
-#EXTINF:-1 tvg-id="" tvg-name="Rush 17/10/2012 " tvg-logo="https://subdl.com/p/sd296/sd296400.jpg" group-title="Movies",Rush 17/10/2012
+#EXTINF:-1 tvg-id="" tvg-name="Rush 17/10/2012 " tvg-logo="https://subdl.com/p/sd296/sd296400.jpg" group-title="hindi",Rush 17/10/2012
 https://www.googleapis.com/drive/v3/files/1UNQzJodhThiPqZb-XGzUkIFux5_e6vEp?alt=media&key=AIzaSyDU_H3RLpRnLemwDZMQ3vrpVcKMfKeKXWM
-#EXTINF:-1 tvg-id="" tvg-name="Chittagong 12/10/2012 " tvg-logo="https://i.imgur.com/rUff81H.jpg" group-title="Movies",Chittagong 12/10/2012
+#EXTINF:-1 tvg-id="" tvg-name="Chittagong 12/10/2012 " tvg-logo="https://i.imgur.com/rUff81H.jpg" group-title="hindi",Chittagong 12/10/2012
 https://www.googleapis.com/drive/v3/files/1N64yD5Wg_1mVHsmMLWHxYWVsKLsZw_CG?alt=media&key=AIzaSyBrzlzbDuh7VH-Jp_LGlhbbAAnnimGLYYk
-#EXTINF:-1 tvg-id="" tvg-name="Chakravyuh 1/10/2012 " tvg-logo="https://subdl.com/p/sd482/sd482259.jpg" group-title="Movies",Chakravyuh 1/10/2012
+#EXTINF:-1 tvg-id="" tvg-name="Chakravyuh 1/10/2012 " tvg-logo="https://subdl.com/p/sd482/sd482259.jpg" group-title="hindi",Chakravyuh 1/10/2012
 https://www.googleapis.com/drive/v3/files/11dcybNlxofRj-Cj5ghP78q4TLtXI2Jx8?alt=media&key=AIzaSyCU8sIppwOINyFUrfOxsAopI9VczkY2xq4
-#EXTINF:-1 tvg-id="" tvg-name="Aiyyaa 28/9/2012 " tvg-logo="https://subdl.com/p/sd13/sd13040.jpg" group-title="Movies",Aiyyaa 28/9/2012
+#EXTINF:-1 tvg-id="" tvg-name="Aiyyaa 28/9/2012 " tvg-logo="https://subdl.com/p/sd13/sd13040.jpg" group-title="hindi",Aiyyaa 28/9/2012
 https://www.googleapis.com/drive/v3/files/11-bGbe1YXvnpaItvyGIlTZfJdgHalIE8?alt=media&key=AIzaSyA-5SWmg9yrL4AOG5cd6nbzqTdzlfoTNxU
-#EXTINF:-1 tvg-id="" tvg-name="English Vinglish 26/9/2012 " tvg-logo="https://subdl.com/p/sd2/sd2442.jpg" group-title="Movies",English Vinglish 26/9/2012
+#EXTINF:-1 tvg-id="" tvg-name="English Vinglish 26/9/2012 " tvg-logo="https://subdl.com/p/sd2/sd2442.jpg" group-title="hindi",English Vinglish 26/9/2012
 https://www.googleapis.com/drive/v3/files/1hHrjiBbXHV9PSPAODtqldBHGPkwI8uw6?alt=media&key=AIzaSyAXHUeyHUXzOG3SbkcrNVHt4tmihlWxmbY
-#EXTINF:-1 tvg-id="" tvg-name="OMG Oh My God 17/9/2012 " tvg-logo="https://i.imgur.com/utzhC1e.jpg" group-title="Movies",OMG Oh My God 17/9/2012
+#EXTINF:-1 tvg-id="" tvg-name="OMG Oh My God 17/9/2012 " tvg-logo="https://i.imgur.com/utzhC1e.jpg" group-title="hindi",OMG Oh My God 17/9/2012
 https://www.googleapis.com/drive/v3/files/17CHjNDzn9gIiCJuea-tVQvknYNXm0NVP?alt=media&key=AIzaSyDUWVoMDpI8EIUaTYU_SsZ4_DRNWIoqj84
-#EXTINF:-1 tvg-id="" tvg-name="heroine 14/9/2012 " tvg-logo="https://subdl.com/p/sd12/sd12956.jpg" group-title="Movies",heroine 14/9/2012
+#EXTINF:-1 tvg-id="" tvg-name="heroine 14/9/2012 " tvg-logo="https://subdl.com/p/sd12/sd12956.jpg" group-title="hindi",heroine 14/9/2012
 https://www.googleapis.com/drive/v3/files/1SIYE8Lm98kQfd8G3UQ26WsUetC7Wu2Z_?alt=media&key=AIzaSyCmHHw-OfHzXIfJHdy2cotiT2VP-TQxxv0
-#EXTINF:-1 tvg-id="" tvg-name="Chal Pichchur Banate Hain 3/9/2012 " tvg-logo="https://i.imgur.com/Kafhnf5.jpg" group-title="Movies",Chal Pichchur Banate Hain 3/9/2012
+#EXTINF:-1 tvg-id="" tvg-name="Chal Pichchur Banate Hain 3/9/2012 " tvg-logo="https://i.imgur.com/Kafhnf5.jpg" group-title="hindi",Chal Pichchur Banate Hain 3/9/2012
 https://www.googleapis.com/drive/v3/files/1pYLshK3IGVtBbrDbC5AMwu6iRMc3RTz8?alt=media&key=AIzaSyDyQpGyGTBFP4bglK_qzegPa6vsczewABA
-#EXTINF:-1 tvg-id="" tvg-name="Barfi 31/8/2012 " tvg-logo="https://subdl.com/p/sd4/sd4766.jpg" group-title="Movies",Barfi 31/8/2012
+#EXTINF:-1 tvg-id="" tvg-name="Barfi 31/8/2012 " tvg-logo="https://subdl.com/p/sd4/sd4766.jpg" group-title="hindi",Barfi 31/8/2012
 https://www.googleapis.com/drive/v3/files/1olRTP1nbGtfOflzmKaEMyUwJvS7xOJOc?alt=media&key=AIzaSyBmV2xFg-SLSwnbvYbfWa5u8EY2WjnqqJI
-#EXTINF:-1 tvg-id="" tvg-name="Ek Tha Tiger 31/7/2012 " tvg-logo="https://subdl.com/p/sd4/sd4296.jpg" group-title="Movies",Ek Tha Tiger 31/7/2012
+#EXTINF:-1 tvg-id="" tvg-name="Ek Tha Tiger 31/7/2012 " tvg-logo="https://subdl.com/p/sd4/sd4296.jpg" group-title="hindi",Ek Tha Tiger 31/7/2012
 https://www.googleapis.com/drive/v3/files/1-cKSQymc-cMPoryTrMAnfBoZH-J5X7JV?alt=media&key=AIzaSyCtsUYroz1oSDgcO70uledZzXUM5wjv0xc
-#EXTINF:-1 tvg-id="" tvg-name="Gangs of Wasseypur II 30/7/2012 " tvg-logo="https://i.imgur.com/gSE7y2O.jpg" group-title="Movies",Gangs of Wasseypur II 30/7/2012
+#EXTINF:-1 tvg-id="" tvg-name="Gangs of Wasseypur II 30/7/2012 " tvg-logo="https://i.imgur.com/gSE7y2O.jpg" group-title="hindi",Gangs of Wasseypur II 30/7/2012
 https://www.googleapis.com/drive/v3/files/1GztpOxABsLPzn-wItkA0qSvT765u9bGP?alt=media&key=AIzaSyD8E2KSifo5q91ESfg9uUBesUz6GweyjeQ
-#EXTINF:-1 tvg-id="" tvg-name="Kyaa Super Kool Hain Hum 18/7/2012 " tvg-logo="https://subdl.com/p/sd14/sd14785.jpg" group-title="Movies",Kyaa Super Kool Hain Hum 18/7/2012
+#EXTINF:-1 tvg-id="" tvg-name="Kyaa Super Kool Hain Hum 18/7/2012 " tvg-logo="https://subdl.com/p/sd14/sd14785.jpg" group-title="hindi",Kyaa Super Kool Hain Hum 18/7/2012
 https://www.googleapis.com/drive/v3/files/1bjMkXjioTuFrF2IVMSQB2LGZ7luvLkBL?alt=media&key=AIzaSyD21AUQbY1hLgQk3_MQ2rX5qoAI14DKhTs
-#EXTINF:-1 tvg-id="" tvg-name="3 Bachelors 29/06/2012 " tvg-logo="https://i.imgur.com/9LVrCQd.jpg" group-title="Movies",3 Bachelors 29/06/2012
+#EXTINF:-1 tvg-id="" tvg-name="3 Bachelors 29/06/2012 " tvg-logo="https://i.imgur.com/9LVrCQd.jpg" group-title="hindi",3 Bachelors 29/06/2012
 https://www.googleapis.com/drive/v3/files/1VfT4ElUX_oT_Geb14rnlKlqynfCC8QMr?alt=media&key=AIzaSyDGUEzjfyBvq04UgK7sjAhqDspaRF5cWRw
-#EXTINF:-1 tvg-id="" tvg-name="Cocktail 29/6/2012 " tvg-logo="https://subdl.com/p/sd1/sd1859.jpg" group-title="Movies",Cocktail 29/6/2012
+#EXTINF:-1 tvg-id="" tvg-name="Cocktail 29/6/2012 " tvg-logo="https://subdl.com/p/sd1/sd1859.jpg" group-title="hindi",Cocktail 29/6/2012
 https://www.googleapis.com/drive/v3/files/1C0_oLa4x8KPNqDYw45iotVm5SKK0XxL0?alt=media&key=AIzaSyBjhBXfPRs1SEHhB9g4afxGph_dmfdY9Pk
-#EXTINF:-1 tvg-id="" tvg-name="Daal Mein Kuch Kaala Hai 28/6/2012 " tvg-logo="https://i.imgur.com/nj95Xla.jpg" group-title="Movies",Daal Mein Kuch Kaala Hai 28/6/2012
+#EXTINF:-1 tvg-id="" tvg-name="Daal Mein Kuch Kaala Hai 28/6/2012 " tvg-logo="https://i.imgur.com/nj95Xla.jpg" group-title="hindi",Daal Mein Kuch Kaala Hai 28/6/2012
 https://www.googleapis.com/drive/v3/files/1ZnASXj5QbdQvmeSi2BNbOZpgt0MuEeFi?alt=media&key=AIzaSyDB-vX8kBC7LbKP6b_OYbPOFew1Royv5MU
-#EXTINF:-1 tvg-id="" tvg-name="Bol Bachchan 22/6/2012 " tvg-logo="https://subdl.com/p/sd17/sd17944.jpg" group-title="Movies",Bol Bachchan 22/6/2012
+#EXTINF:-1 tvg-id="" tvg-name="Bol Bachchan 22/6/2012 " tvg-logo="https://subdl.com/p/sd17/sd17944.jpg" group-title="hindi",Bol Bachchan 22/6/2012
 https://www.googleapis.com/drive/v3/files/1bKR8lWadCN7qFzFb5gCSZRaKDbmu8cXZ?alt=media&key=AIzaSyAXOrTUqiKbwMB75z274slaEdEoC0CCrqg
-#EXTINF:-1 tvg-id="" tvg-name="Challo Driver 21/6/2012 " tvg-logo="https://i.imgur.com/rkaUfx3.jpg" group-title="Movies",Challo Driver 21/6/2012
+#EXTINF:-1 tvg-id="" tvg-name="Challo Driver 21/6/2012 " tvg-logo="https://i.imgur.com/rkaUfx3.jpg" group-title="hindi",Challo Driver 21/6/2012
 https://www.googleapis.com/drive/v3/files/1__3HhJtgUI3OeJX5wzAxJW9nyF8_YTIh?alt=media&key=AIzaSyAvHRIizW6fuqH2CGOo6b7lgEQ-3sqq58U
-#EXTINF:-1 tvg-id="" tvg-name="Gangs Of Wasseypur 14/6/2012 " tvg-logo="https://subdl.com/p/sd11/sd11992.jpg" group-title="Movies",Gangs Of Wasseypur 14/6/2012
+#EXTINF:-1 tvg-id="" tvg-name="Gangs Of Wasseypur 14/6/2012 " tvg-logo="https://subdl.com/p/sd11/sd11992.jpg" group-title="hindi",Gangs Of Wasseypur 14/6/2012
 https://www.googleapis.com/drive/v3/files/1aT-EgLDsmJ9MyFDkXnG-2VdvoaALu_nO?alt=media&key=AIzaSyDMnmbxtdy0mQry6ntjF_tK37pzHx5V5IU
-#EXTINF:-1 tvg-id="" tvg-name="Ferrari Ki Sawaari 5/6/2012 " tvg-logo="https://subdl.com/p/sd12/sd12962.jpg" group-title="Movies",Ferrari Ki Sawaari 5/6/2012
+#EXTINF:-1 tvg-id="" tvg-name="Ferrari Ki Sawaari 5/6/2012 " tvg-logo="https://subdl.com/p/sd12/sd12962.jpg" group-title="hindi",Ferrari Ki Sawaari 5/6/2012
 https://www.googleapis.com/drive/v3/files/13G4Crd9uX36Xc109s9ir1NFM6CsMlPLJ?alt=media&key=AIzaSyDGiBqlxEcYsqMkl_KxrujqRpvqpT1_R7M
-#EXTINF:-1 tvg-id="" tvg-name="Department 14/5/2012 " tvg-logo="https://i.imgur.com/B0RrxVY.jpg" group-title="Movies",Department 14/5/2012
+#EXTINF:-1 tvg-id="" tvg-name="Department 14/5/2012 " tvg-logo="https://i.imgur.com/B0RrxVY.jpg" group-title="hindi",Department 14/5/2012
 https://www.googleapis.com/drive/v3/files/1x4PR75bYCbEZvkv84H8YKfaGHl9E5F11?alt=media&key=AIzaSyBZS9ScmjJwPCddROP5fxOSUwePAbW8LJ0
-#EXTINF:-1 tvg-id="" tvg-name="Dangerous Ishhq 11/5/2012 " tvg-logo="https://subdl.com/p/sd9/sd9469.jpg" group-title="Movies",Dangerous Ishhq 11/5/2012
+#EXTINF:-1 tvg-id="" tvg-name="Dangerous Ishhq 11/5/2012 " tvg-logo="https://subdl.com/p/sd9/sd9469.jpg" group-title="hindi",Dangerous Ishhq 11/5/2012
 https://www.googleapis.com/drive/v3/files/1R8aw5kikSK7PO0vmDkkAVWed15aDFjdd?alt=media&key=AIzaSyCEwD35D7uQQll-bFKnBYfNNaYA78WZhmk
-#EXTINF:-1 tvg-id="" tvg-name="Hate Story 20/4/2012 " tvg-logo="https://i.imgur.com/tHFQAT5.jpg" group-title="Movies",Hate Story 20/4/2012
+#EXTINF:-1 tvg-id="" tvg-name="Hate Story 20/4/2012 " tvg-logo="https://i.imgur.com/tHFQAT5.jpg" group-title="hindi",Hate Story 20/4/2012
 https://www.googleapis.com/drive/v3/files/1B7Fz516GNdjVDkgJdHllDCjTzeSK_qLr?alt=media&key=AIzaSyDVXKInKgXxU-zuxebN2HJFJbKkFb5H_Z0
-#EXTINF:-1 tvg-id="" tvg-name="5 Ghantey Mein 5 Crore 02/04/2012 " tvg-logo="https://i.imgur.com/UL2FYXs.jpg" group-title="Movies",5 Ghantey Mein 5 Crore 02/04/2012
+#EXTINF:-1 tvg-id="" tvg-name="5 Ghantey Mein 5 Crore 02/04/2012 " tvg-logo="https://i.imgur.com/UL2FYXs.jpg" group-title="hindi",5 Ghantey Mein 5 Crore 02/04/2012
 https://www.googleapis.com/drive/v3/files/1hLBkiQQhnJkmEfbsIsGycKTRV2XoWcAS?alt=media&key=AIzaSyCRsGI1Dh51GAVU_hA-SWoAESFpxEGhEyA
-#EXTINF:-1 tvg-id="" tvg-name="Housefull 2 29/3/2012 " tvg-logo="https://subdl.com/p/sd3/sd3027.jpg" group-title="Movies",Housefull 2 29/3/2012
+#EXTINF:-1 tvg-id="" tvg-name="Housefull 2 29/3/2012 " tvg-logo="https://subdl.com/p/sd3/sd3027.jpg" group-title="hindi",Housefull 2 29/3/2012
 https://www.googleapis.com/drive/v3/files/1Uqrs-5g6ohTjyPqsS8JMK5Avcx0yn8pX?alt=media&key=AIzaSyBwZH3SvpXNl7yK_QZ-4ocaaf9O1UIcIog
-#EXTINF:-1 tvg-id="" tvg-name="Agent Vinod 16/3/2012 " tvg-logo="https://subdl.com/p/sd2/sd2364.jpg" group-title="Movies",Agent Vinod 16/3/2012
+#EXTINF:-1 tvg-id="" tvg-name="Agent Vinod 16/3/2012 " tvg-logo="https://subdl.com/p/sd2/sd2364.jpg" group-title="hindi",Agent Vinod 16/3/2012
 https://www.googleapis.com/drive/v3/files/1PCgpsYiJ6_JSTXnLUEJs4nShHpC7bqwX?alt=media&key=AIzaSyBNBWjzZBOhIs8j4a7U5W4RY_NbL3fScCw
-#EXTINF:-1 tvg-id="" tvg-name="Paan Singh Tomar 2/3/2012 " tvg-logo="https://subdl.com/p/sd1/sd1148.jpg" group-title="Movies",Paan Singh Tomar 2/3/2012
+#EXTINF:-1 tvg-id="" tvg-name="Paan Singh Tomar 2/3/2012 " tvg-logo="https://subdl.com/p/sd1/sd1148.jpg" group-title="hindi",Paan Singh Tomar 2/3/2012
 https://www.googleapis.com/drive/v3/files/1VbXWCFBrgRMlOKyPl8AX1y_itGiJrh7b?alt=media&key=AIzaSyCIq12udxWZ_wfX_gfHqjl5xkZZKQKAw6I
-#EXTINF:-1 tvg-id="" tvg-name="London Paris New York 9/2/2012 " tvg-logo="https://subdl.com/p/sd15/sd15674.jpg" group-title="Movies",London Paris New York 9/2/2012
+#EXTINF:-1 tvg-id="" tvg-name="London Paris New York 9/2/2012 " tvg-logo="https://subdl.com/p/sd15/sd15674.jpg" group-title="hindi",London Paris New York 9/2/2012
 https://www.googleapis.com/drive/v3/files/1q3SCIXFqRshNdRJPA4l9hQr9b6sdAz3v?alt=media&key=AIzaSyDQ68iKd9RZPVZXUT5VkprEag2XIFOjlB0
-#EXTINF:-1 tvg-id="" tvg-name="Ek Main Aur Ekk Tu 2/2/2012 " tvg-logo="https://i.imgur.com/phCBV0t.jpg" group-title="Movies",Ek Main Aur Ekk Tu 2/2/2012
+#EXTINF:-1 tvg-id="" tvg-name="Ek Main Aur Ekk Tu 2/2/2012 " tvg-logo="https://i.imgur.com/phCBV0t.jpg" group-title="hindi",Ek Main Aur Ekk Tu 2/2/2012
 https://www.googleapis.com/drive/v3/files/1bIyIR5_ImQNXve3xVPueCjDFk3Bu8iMc?alt=media&key=AIzaSyCM_zf4Zmit08VbI2QWFMN8AMl0fl4-jRs
-#EXTINF:-1 tvg-id="" tvg-name="Diary of a Butterfly 1/2/2012 " tvg-logo="https://i.imgur.com/qnNRDSt.jpg" group-title="Movies",Diary of a Butterfly 1/2/2012
+#EXTINF:-1 tvg-id="" tvg-name="Diary of a Butterfly 1/2/2012 " tvg-logo="https://i.imgur.com/qnNRDSt.jpg" group-title="hindi",Diary of a Butterfly 1/2/2012
 https://www.googleapis.com/drive/v3/files/1_anM2-7re1Q-MX-PgHcXAzAuQn2F1EqZ?alt=media&key=AIzaSyDBuHbCrOyFKhtgwrExrEDvkzfYKGCAO8w
-#EXTINF:-1 tvg-id="" tvg-name="Ekk Deewana Tha 31/1/2012 " tvg-logo="https://i.imgur.com/ikNxMbX.jpg" group-title="Movies",Ekk Deewana Tha 31/1/2012
+#EXTINF:-1 tvg-id="" tvg-name="Ekk Deewana Tha 31/1/2012 " tvg-logo="https://i.imgur.com/ikNxMbX.jpg" group-title="hindi",Ekk Deewana Tha 31/1/2012
 https://www.googleapis.com/drive/v3/files/1NtD0a-wGIkVZvtWuvZPjATT_5E2yw5W4?alt=media&key=AIzaSyD1r5IqMzdi1yKG5GngUkoBujuTd_81a4Q
-#EXTINF:-1 tvg-id="" tvg-name="Agneepath 16/1/2012 " tvg-logo="https://i.imgur.com/OBEcUFj.jpg" group-title="Movies",Agneepath 16/1/2012
+#EXTINF:-1 tvg-id="" tvg-name="Agneepath 16/1/2012 " tvg-logo="https://i.imgur.com/OBEcUFj.jpg" group-title="hindi",Agneepath 16/1/2012
 https://www.googleapis.com/drive/v3/files/10fcreUvrZKrSOdB5eqBK-MsW1M5PF67F?alt=media&key=AIzaSyDpL6dHyUqW32xcq3jegcJgRrpdIOjsKIg
-#EXTINF:-1 tvg-id="" tvg-name="Chaalis Chauraasi 10/1/2012 " tvg-logo="https://i.imgur.com/zJfeDgD.jpg" group-title="Movies",Chaalis Chauraasi 10/1/2012
+#EXTINF:-1 tvg-id="" tvg-name="Chaalis Chauraasi 10/1/2012 " tvg-logo="https://i.imgur.com/zJfeDgD.jpg" group-title="hindi",Chaalis Chauraasi 10/1/2012
 https://www.googleapis.com/drive/v3/files/1ireh5yBNOWc0O5wVu3Laaz3RhMbVOy8W?alt=media&key=AIzaSyBz-yB64dbJRAE0J6tI6lkww3Ne434SeO8
-#EXTINF:-1 tvg-id="" tvg-name="Blood Money 28/12/2011 " tvg-logo="https://i.imgur.com/k0RmN4Z.jpg" group-title="Movies",Blood Money 28/12/2011
+#EXTINF:-1 tvg-id="" tvg-name="Blood Money 28/12/2011 " tvg-logo="https://i.imgur.com/k0RmN4Z.jpg" group-title="hindi",Blood Money 28/12/2011
 https://www.googleapis.com/drive/v3/files/1cSTukrIRFRDva_96Jh96HFl3LAGg2mUQ?alt=media&key=AIzaSyBMh2f97rRP-eh1kVMPxN0ft6_evUvAR74
-#EXTINF:-1 tvg-id="" tvg-name="Don 2 23/12/2011 " tvg-logo="https://subdl.com/p/sd1/sd1019.jpg" group-title="Movies",Don 2 23/12/2011
+#EXTINF:-1 tvg-id="" tvg-name="Don 2 23/12/2011 " tvg-logo="https://subdl.com/p/sd1/sd1019.jpg" group-title="hindi",Don 2 23/12/2011
 https://www.googleapis.com/drive/v3/files/1Tw_svJJFetjgMJJO-Yj9639dde32REdg?alt=media&key=AIzaSyDQDGFKGgNkV6-kHWaqPwbgWzmtMxiCLdA
-#EXTINF:-1 tvg-id="" tvg-name="Lanka 1/12/2011 " tvg-logo="https://i.imgur.com/JzmhUuB.jpg" group-title="Movies",Lanka 1/12/2011
+#EXTINF:-1 tvg-id="" tvg-name="Lanka 1/12/2011 " tvg-logo="https://i.imgur.com/JzmhUuB.jpg" group-title="hindi",Lanka 1/12/2011
 https://www.googleapis.com/drive/v3/files/1dXKFN-htOYGEIs9bh2N4IuOtjUojat7M?alt=media&key=AIzaSyAiIhHs1jI-SWDvuVjdOyPNyiUntU9L5EU
-#EXTINF:-1 tvg-id="" tvg-name="Desi Boyz 18/11/2011 " tvg-logo="https://subdl.com/p/sd5/sd5649.jpg" group-title="Movies",Desi Boyz 18/11/2011
+#EXTINF:-1 tvg-id="" tvg-name="Desi Boyz 18/11/2011 " tvg-logo="https://subdl.com/p/sd5/sd5649.jpg" group-title="hindi",Desi Boyz 18/11/2011
 https://www.googleapis.com/drive/v3/files/13J0DwRjUhkWml-aJZEQY4CRbqGgQ_1UL?alt=media&key=AIzaSyA7kPJv9ocIylIVwaQcIafHh-PYH8hIy6E
-#EXTINF:-1 tvg-id="" tvg-name="Rockstar 2/11/2011 " tvg-logo="https://subdl.com/p/sd4/sd4648.jpg" group-title="Movies",Rockstar 2/11/2011
+#EXTINF:-1 tvg-id="" tvg-name="Rockstar 2/11/2011 " tvg-logo="https://subdl.com/p/sd4/sd4648.jpg" group-title="hindi",Rockstar 2/11/2011
 https://www.googleapis.com/drive/v3/files/1kNiteHEBHwn3co818cHOYE4ZwYD7gcWB?alt=media&key=AIzaSyDhHWcy_33jscBLzX3Kp5StviwwbRtP55Q
-#EXTINF:-1 tvg-id="" tvg-name="Azaan 11/10/2011 " tvg-logo="https://i.imgur.com/tVVLDBZ.jpg" group-title="Movies",Azaan 11/10/2011
+#EXTINF:-1 tvg-id="" tvg-name="Azaan 11/10/2011 " tvg-logo="https://i.imgur.com/tVVLDBZ.jpg" group-title="hindi",Azaan 11/10/2011
 https://www.googleapis.com/drive/v3/files/175UmDFoAZdQk8b69NltDaSrsvAk5PrAw?alt=media&key=AIzaSyBnblqrRDGL-7GNu69deJsk7Mg7tukjHfk
-#EXTINF:-1 tvg-id="" tvg-name="Breakaway 30/9/2011 " tvg-logo="https://i.imgur.com/sae17SQ.jpg" group-title="Movies",Breakaway 30/9/2011
+#EXTINF:-1 tvg-id="" tvg-name="Breakaway 30/9/2011 " tvg-logo="https://i.imgur.com/sae17SQ.jpg" group-title="hindi",Breakaway 30/9/2011
 https://www.googleapis.com/drive/v3/files/16f1vXmqVrjwsnX-GguhhGC3fP2dFle7d?alt=media&key=AIzaSyDwQi4w68prSO11YVXhnUKdJhkvs6jFKbg
-#EXTINF:-1 tvg-id="" tvg-name="Saheb Biwi Aur Gangster 27/9/2011 " tvg-logo="https://i.imgur.com/3zLVkFn.jpg" group-title="Movies",Saheb Biwi Aur Gangster 27/9/2011
+#EXTINF:-1 tvg-id="" tvg-name="Saheb Biwi Aur Gangster 27/9/2011 " tvg-logo="https://i.imgur.com/3zLVkFn.jpg" group-title="hindi",Saheb Biwi Aur Gangster 27/9/2011
 https://www.googleapis.com/drive/v3/files/14Sc-URCN2qY1K-q-dT09EKUet4aXSWw-?alt=media&key=AIzaSyDaT2bimauT_AQgAE9LdCvjNvhr1RxSgiM
-#EXTINF:-1 tvg-id="" tvg-name="Force 14/9/2011 " tvg-logo="https://subdl.com/p/sd18/sd18406.jpg" group-title="Movies",Force 14/9/2011
+#EXTINF:-1 tvg-id="" tvg-name="Force 14/9/2011 " tvg-logo="https://subdl.com/p/sd18/sd18406.jpg" group-title="hindi",Force 14/9/2011
 https://www.googleapis.com/drive/v3/files/1nPQ_hUCfrZ0h43mdL7csvvleCYR-p_dr?alt=media&key=AIzaSyBu7wr0Pq2TXlMq5H0PBsRnohNR-Rmxz54
-#EXTINF:-1 tvg-id="" tvg-name="Bodyguard 20/8/2011 " tvg-logo="https://subdl.com/p/sd3/sd3412.jpg" group-title="Movies",Bodyguard 20/8/2011
+#EXTINF:-1 tvg-id="" tvg-name="Bodyguard 20/8/2011 " tvg-logo="https://subdl.com/p/sd3/sd3412.jpg" group-title="hindi",Bodyguard 20/8/2011
 https://www.googleapis.com/drive/v3/files/17IJRRrOr-t2QUb9-rVu25uIsoCaj4yfU?alt=media&key=AIzaSyDm1nCIEeFpQLPMWA7WU7lsw-7l6nDGFls
-#EXTINF:-1 tvg-id="" tvg-name="Chitkabrey 9/8/2011 " tvg-logo="https://i.imgur.com/MNrzjXz.jpg" group-title="Movies",Chitkabrey 9/8/2011
+#EXTINF:-1 tvg-id="" tvg-name="Chitkabrey 9/8/2011 " tvg-logo="https://i.imgur.com/MNrzjXz.jpg" group-title="hindi",Chitkabrey 9/8/2011
 https://www.googleapis.com/drive/v3/files/1Q9fTTsiJ5N2BP4hWKUofEH2H5ArMVd1i?alt=media&key=AIzaSyBJKdt_KYf_d5367pjDcAjcLsI2QVnOtY4
-#EXTINF:-1 tvg-id="" tvg-name="Chatur Singh Two Star 5/8/2011 " tvg-logo="https://i.imgur.com/zjxZKSu.jpg" group-title="Movies",Chatur Singh Two Star 5/8/2011
+#EXTINF:-1 tvg-id="" tvg-name="Chatur Singh Two Star 5/8/2011 " tvg-logo="https://i.imgur.com/zjxZKSu.jpg" group-title="hindi",Chatur Singh Two Star 5/8/2011
 https://www.googleapis.com/drive/v3/files/1ZoyxT1ovDPtPiLg74oKRlJ6YSRavO0--?alt=media&key=AIzaSyCO2E_8zi2Aobbt-F_lLmUYOjnDFhcefN4
-#EXTINF:-1 tvg-id="" tvg-name="Aarakshan 20/07/2011 " tvg-logo="https://subdl.com/p/sd226/sd226003.jpg" group-title="Movies",Aarakshan 20/07/2011
+#EXTINF:-1 tvg-id="" tvg-name="Aarakshan 20/07/2011 " tvg-logo="https://subdl.com/p/sd226/sd226003.jpg" group-title="hindi",Aarakshan 20/07/2011
 https://www.googleapis.com/drive/v3/files/1M91nWbsGgT-t3MAoCbAV3a1elxZR3Hcm?alt=media&key=AIzaSyAJlqNwQr1g-XdS3RGK0I_6u1yezeoqMm8
-#EXTINF:-1 tvg-id="" tvg-name="Double Dhamaal 16/6/2011 " tvg-logo="https://subdl.com/p/sd7/sd7908.jpg" group-title="Movies",Double Dhamaal 16/6/2011
+#EXTINF:-1 tvg-id="" tvg-name="Double Dhamaal 16/6/2011 " tvg-logo="https://subdl.com/p/sd7/sd7908.jpg" group-title="hindi",Double Dhamaal 16/6/2011
 https://www.googleapis.com/drive/v3/files/1jixobLDnjuwL1V5N9FcnBf4NRKtXrBEn?alt=media&key=AIzaSyBsZ2ysbODFdKU0753NN3Q2auT9ntUKaAo
-#EXTINF:-1 tvg-id="" tvg-name="Shaitan 10/6/2011 " tvg-logo="https://subdl.com/p/sd87/sd87306.jpg" group-title="Movies",Shaitan 10/6/2011
+#EXTINF:-1 tvg-id="" tvg-name="Shaitan 10/6/2011 " tvg-logo="https://subdl.com/p/sd87/sd87306.jpg" group-title="hindi",Shaitan 10/6/2011
 https://www.googleapis.com/drive/v3/files/1j1ky_v5DYn5PijjZeUPWQ_K63wz4NbMb?alt=media&key=AIzaSyDwg-AIIGunwDrkg8zcCH4zjmA1WUbfzh8
-#EXTINF:-1 tvg-id="" tvg-name="Bbuddah Hoga Terra Baap 1/6/2011 " tvg-logo="https://subdl.com/p/sd14/sd14569.jpg" group-title="Movies",Bbuddah Hoga Terra Baap 1/6/2011
+#EXTINF:-1 tvg-id="" tvg-name="Bbuddah Hoga Terra Baap 1/6/2011 " tvg-logo="https://subdl.com/p/sd14/sd14569.jpg" group-title="hindi",Bbuddah Hoga Terra Baap 1/6/2011
 https://www.googleapis.com/drive/v3/files/1EPm7hLtEQ-kzqqxnQMh1HXDUIICEAAD0?alt=media&key=AIzaSyBb8LEFzQtYu8ceP16VqXIC_XPXb33LHHY
-#EXTINF:-1 tvg-id="" tvg-name="Ready 25/5/2011 " tvg-logo="https://subdl.com/p/sd13/sd13426.jpg" group-title="Movies",Ready 25/5/2011
+#EXTINF:-1 tvg-id="" tvg-name="Ready 25/5/2011 " tvg-logo="https://subdl.com/p/sd13/sd13426.jpg" group-title="hindi",Ready 25/5/2011
 https://www.googleapis.com/drive/v3/files/18o8Kf1Q0plBDERCcUQdl1hCF_G-BMHMr?alt=media&key=AIzaSyA9aL6Ir_jA5MIdIM08EFieBvA01Gwfd04
-#EXTINF:-1 tvg-id="" tvg-name="Pyaar Ka Punchnama 20/5/2011 " tvg-logo="https://subdl.com/p/sd6/sd6911.jpg" group-title="Movies",Pyaar Ka Punchnama 20/5/2011
+#EXTINF:-1 tvg-id="" tvg-name="Pyaar Ka Punchnama 20/5/2011 " tvg-logo="https://subdl.com/p/sd6/sd6911.jpg" group-title="hindi",Pyaar Ka Punchnama 20/5/2011
 https://www.googleapis.com/drive/v3/files/1w67Yl1b_yAuf5APtu5Iz66d6ue-zQ30b?alt=media&key=AIzaSyDqTxqB89jb4seQhCJ3pjTGF9KmW5xIapc
-#EXTINF:-1 tvg-id="" tvg-name="Ragini MMS 6/5/2011 " tvg-logo="https://i.imgur.com/6UFaiFC.jpg" group-title="Movies",Ragini MMS 6/5/2011
+#EXTINF:-1 tvg-id="" tvg-name="Ragini MMS 6/5/2011 " tvg-logo="https://i.imgur.com/6UFaiFC.jpg" group-title="hindi",Ragini MMS 6/5/2011
 https://www.googleapis.com/drive/v3/files/1NnPvWsSOh1mfmA3bNBHQLnHcDXaXAiA6?alt=media&key=AIzaSyD_GHBj3GxaXnF_UsOVuF2-zgrwnYASV8M
-#EXTINF:-1 tvg-id="" tvg-name="Delhi Belly 3/5/2011 " tvg-logo="https://subdl.com/p/sd1/sd1876.jpg" group-title="Movies",Delhi Belly 3/5/2011
+#EXTINF:-1 tvg-id="" tvg-name="Delhi Belly 3/5/2011 " tvg-logo="https://subdl.com/p/sd1/sd1876.jpg" group-title="hindi",Delhi Belly 3/5/2011
 https://www.googleapis.com/drive/v3/files/151rIxpQ8W1A4GCs-4vRM7i9FX7L6RNsU?alt=media&key=AIzaSyBoi_gTjxB-LxUhbt_j38WiIwMyyRr3OXE
-#EXTINF:-1 tvg-id="" tvg-name="Love U Mr Kalakaar 20/4/2011 " tvg-logo="https://subdl.com/p/sd63/sd63329.jpg" group-title="Movies",Love U Mr Kalakaar 20/4/2011
+#EXTINF:-1 tvg-id="" tvg-name="Love U Mr Kalakaar 20/4/2011 " tvg-logo="https://subdl.com/p/sd63/sd63329.jpg" group-title="hindi",Love U Mr Kalakaar 20/4/2011
 https://www.googleapis.com/drive/v3/files/1GV1MIPe79fVvGZsjinuhWaidjf1lwxcA?alt=media&key=AIzaSyC0S1JPNZvDhkVymPiScj8hCwrlb-5qCk4
-#EXTINF:-1 tvg-id="" tvg-name="Dum Maaro Dum 7/4/2011 " tvg-logo="https://i.imgur.com/OPaqZ77.jpg" group-title="Movies",Dum Maaro Dum 7/4/2011
+#EXTINF:-1 tvg-id="" tvg-name="Dum Maaro Dum 7/4/2011 " tvg-logo="https://i.imgur.com/OPaqZ77.jpg" group-title="hindi",Dum Maaro Dum 7/4/2011
 https://www.googleapis.com/drive/v3/files/1ARUQTWy3ne8mlNgrQAHmp8FqcAV9TvOn?alt=media&key=AIzaSyDEkmHfjR2OwxuBrmdlA0TnQgU7qtbbgh4
-#EXTINF:-1 tvg-id="" tvg-name="Game 7/3/2011 " tvg-logo="https://i.imgur.com/ufjC20J.jpg" group-title="Movies",Game 7/3/2011
+#EXTINF:-1 tvg-id="" tvg-name="Game 7/3/2011 " tvg-logo="https://i.imgur.com/ufjC20J.jpg" group-title="hindi",Game 7/3/2011
 https://www.googleapis.com/drive/v3/files/12INYBfhBe5WKB3bd8x5cssNIm2dB7Z59?alt=media&key=AIzaSyCndx74QMnuAHiTvmuv9J5ybCWlVCBl864
-#EXTINF:-1 tvg-id="" tvg-name="Dil Toh Baccha Hai Ji 22/2/2011 " tvg-logo="https://subdl.com/p/sd3/sd3175.jpg" group-title="Movies",Dil Toh Baccha Hai Ji 22/2/2011
+#EXTINF:-1 tvg-id="" tvg-name="Dil Toh Baccha Hai Ji 22/2/2011 " tvg-logo="https://subdl.com/p/sd3/sd3175.jpg" group-title="hindi",Dil Toh Baccha Hai Ji 22/2/2011
 https://www.googleapis.com/drive/v3/files/1qxH6lskDUD1zhDim3qZUqP3TAmHM7bka?alt=media&key=AIzaSyD77S-SZz8YAYTVTGUNN6KZXxeZEwvd51U
-#EXTINF:-1 tvg-id="" tvg-name="7 Khoon Maaf 18/02/2011 " tvg-logo="https://subdl.com/p/sd24/sd24618.jpg" group-title="Movies",7 Khoon Maaf 18/02/2011
+#EXTINF:-1 tvg-id="" tvg-name="7 Khoon Maaf 18/02/2011 " tvg-logo="https://subdl.com/p/sd24/sd24618.jpg" group-title="hindi",7 Khoon Maaf 18/02/2011
 https://www.googleapis.com/drive/v3/files/1pQNjxdvezhmg-lsEFnzp4rJIsPZClvBA?alt=media&key=AIzaSyCqaSNLETOcRcE_IYDnRCQMosQHtYfctFo
-#EXTINF:-1 tvg-id="" tvg-name="Tanu Weds Manu 15/2/2011 " tvg-logo="https://subdl.com/p/sd8/sd8369.jpg" group-title="Movies",Tanu Weds Manu 15/2/2011
+#EXTINF:-1 tvg-id="" tvg-name="Tanu Weds Manu 15/2/2011 " tvg-logo="https://subdl.com/p/sd8/sd8369.jpg" group-title="hindi",Tanu Weds Manu 15/2/2011
 https://www.googleapis.com/drive/v3/files/1JlFpWbzF5T0SIEjAnFUO4sJVACIfxw5E?alt=media&key=AIzaSyAQmjDpWpqD70oxy_o4cAkHEu3lhrmrDys
-#EXTINF:-1 tvg-id="" tvg-name="Dhobi Ghat 10/1/2011 " tvg-logo="https://i.imgur.com/bRyKRj2.jpg" group-title="Movies",Dhobi Ghat 10/1/2011
+#EXTINF:-1 tvg-id="" tvg-name="Dhobi Ghat 10/1/2011 " tvg-logo="https://i.imgur.com/bRyKRj2.jpg" group-title="hindi",Dhobi Ghat 10/1/2011
 https://www.googleapis.com/drive/v3/files/1zzGLbccjn-Ibv9BB4BoOFsvZUp7aey5y?alt=media&key=AIzaSyBdJTRgZMtU-6dPiDWnOqqfyK8QbUi_-YM
-#EXTINF:-1 tvg-id="" tvg-name="Tees Maar Khan 13/12/2010 " tvg-logo="https://i.imgur.com/rY6Emlv.jpg" group-title="Movies",Tees Maar Khan 13/12/2010
+#EXTINF:-1 tvg-id="" tvg-name="Tees Maar Khan 13/12/2010 " tvg-logo="https://i.imgur.com/rY6Emlv.jpg" group-title="hindi",Tees Maar Khan 13/12/2010
 https://www.googleapis.com/drive/v3/files/1jGZtcORhK_mLiDw7bTaXedBxqTrD2au5?alt=media&key=AIzaSyAZUozvY7diR2HNIyJqXIQPIEZsi3iGVmo
-#EXTINF:-1 tvg-id="" tvg-name="No Problem 29/11/2010 " tvg-logo="https://i.imgur.com/uis8tx7.jpg" group-title="Movies",No Problem 29/11/2010
+#EXTINF:-1 tvg-id="" tvg-name="No Problem 29/11/2010 " tvg-logo="https://i.imgur.com/uis8tx7.jpg" group-title="hindi",No Problem 29/11/2010
 https://www.googleapis.com/drive/v3/files/1-UWLllgiajwBEmLozmVJxF1ls5ztbKBn?alt=media&key=AIzaSyBAnZHFJ0YsrmcYP9UfFYufGYKCE981zHg
-#EXTINF:-1 tvg-id="" tvg-name="Break ke Baad 26/11/2010 " tvg-logo="https://subdl.com/p/sd18/sd18420.jpg" group-title="Movies",Break ke Baad 26/11/2010
+#EXTINF:-1 tvg-id="" tvg-name="Break ke Baad 26/11/2010 " tvg-logo="https://subdl.com/p/sd18/sd18420.jpg" group-title="hindi",Break ke Baad 26/11/2010
 https://www.googleapis.com/drive/v3/files/1E97G8ocAwad2VzCkXDJyyNnO4CKC8wB6?alt=media&key=AIzaSyCsjVvuyHtxB9oCNqUnZ8cTdh2ZbblBvfI
-#EXTINF:-1 tvg-id="" tvg-name="Band Baaja Baaraat 18/11/2010 " tvg-logo="https://subdl.com/p/sd1/sd1170.jpg" group-title="Movies",Band Baaja Baaraat 18/11/2010
+#EXTINF:-1 tvg-id="" tvg-name="Band Baaja Baaraat 18/11/2010 " tvg-logo="https://subdl.com/p/sd1/sd1170.jpg" group-title="hindi",Band Baaja Baaraat 18/11/2010
 https://www.googleapis.com/drive/v3/files/1_1wwitN_eTxjGMWSzw96L4BB1KWFFvWe?alt=media&key=AIzaSyDbNnYLMZFoeEXdi-nOINl13BSJUgFv7g4
-#EXTINF:-1 tvg-id="" tvg-name="Guzaarish 8/11/2010 " tvg-logo="https://subdl.com/p/sd15/sd15233.jpg" group-title="Movies",Guzaarish 8/11/2010
+#EXTINF:-1 tvg-id="" tvg-name="Guzaarish 8/11/2010 " tvg-logo="https://subdl.com/p/sd15/sd15233.jpg" group-title="hindi",Guzaarish 8/11/2010
 https://www.googleapis.com/drive/v3/files/14iEByrdxDRTKJ1NhE1BJMkW4KbosZwRs?alt=media&key=AIzaSyCjwWDfIFkqAfUwXE_-YMaowAs3lcp3l6s
-#EXTINF:-1 tvg-id="" tvg-name="Action Replayy 05/11/2010 " tvg-logo="https://i.imgur.com/WpQZqU5.jpg" group-title="Movies",Action Replayy 05/11/2010
+#EXTINF:-1 tvg-id="" tvg-name="Action Replayy 05/11/2010 " tvg-logo="https://i.imgur.com/WpQZqU5.jpg" group-title="hindi",Action Replayy 05/11/2010
 https://www.googleapis.com/drive/v3/files/1807xiiQDki940as8wAxSiln1qnnmEkxo?alt=media&key=AIzaSyDXVf2YEiL2S7AJPEVou1mx4iUPmRcSrN4
-#EXTINF:-1 tvg-id="" tvg-name="Golmaal 3 26/10/2010 " tvg-logo="https://i.imgur.com/5F17Aoj.jpg" group-title="Movies",Golmaal 3 26/10/2010
+#EXTINF:-1 tvg-id="" tvg-name="Golmaal 3 26/10/2010 " tvg-logo="https://i.imgur.com/5F17Aoj.jpg" group-title="hindi",Golmaal 3 26/10/2010
 https://www.googleapis.com/drive/v3/files/1l9qTQ0NdKWzRbpxPAZQBS3rHWrBf0ncR?alt=media&key=AIzaSyCBMKl12qXPQgkNdcqsBhDkFTMlzwVPObw
-#EXTINF:-1 tvg-id="" tvg-name="Rakhta Charitra 20/10/2010 " tvg-logo="https://i.imgur.com/5F17Aoj.jpg" group-title="Movies",Rakhta Charitra 20/10/2010
+#EXTINF:-1 tvg-id="" tvg-name="Rakhta Charitra 20/10/2010 " tvg-logo="https://i.imgur.com/5F17Aoj.jpg" group-title="hindi",Rakhta Charitra 20/10/2010
 https://www.googleapis.com/drive/v3/files/1s87vha4OPKeAKx6IAsEEqEDh_RKJ8dC_?alt=media&key=AIzaSyDtyz7YG2IlRByF5mxx8U4I_NOmBPSLbL0
-#EXTINF:-1 tvg-id="" tvg-name="Aakrosh 05/10/2010 " tvg-logo="https://subdl.com/p/sd21/sd21901.jpg" group-title="Movies",Aakrosh 05/10/2010
+#EXTINF:-1 tvg-id="" tvg-name="Aakrosh 05/10/2010 " tvg-logo="https://subdl.com/p/sd21/sd21901.jpg" group-title="hindi",Aakrosh 05/10/2010
 https://www.googleapis.com/drive/v3/files/1v31yRQNo5-Uliqwr-Zhawwb7ws2LOUq8?alt=media&key=AIzaSyBaX4Fk8sYlNc-kxsoISlbGhlKTFInhHl4
-#EXTINF:-1 tvg-id="" tvg-name="Crook 29/9/2010 " tvg-logo="https://i.imgur.com/ct9S63Y.jpg" group-title="Movies",Crook 29/9/2010
+#EXTINF:-1 tvg-id="" tvg-name="Crook 29/9/2010 " tvg-logo="https://i.imgur.com/ct9S63Y.jpg" group-title="hindi",Crook 29/9/2010
 https://www.googleapis.com/drive/v3/files/1ZoCJIbHowZ6vt5jGcpBH3FkHPRkRoh_H?alt=media&key=AIzaSyAhPowcLtqttLn4o5oevAuw802OZsfkTvE
-#EXTINF:-1 tvg-id="" tvg-name="Anjaana Anjaani 14/9/2010 " tvg-logo="https://subdl.com/p/sd2/sd2791.jpg" group-title="Movies",Anjaana Anjaani 14/9/2010
+#EXTINF:-1 tvg-id="" tvg-name="Anjaana Anjaani 14/9/2010 " tvg-logo="https://subdl.com/p/sd2/sd2791.jpg" group-title="hindi",Anjaana Anjaani 14/9/2010
 https://www.googleapis.com/drive/v3/files/1hK3OrgeDJmqRQ60iGYFkvqPYdUbE5V8S?alt=media&key=AIzaSyCnOhfYMZbXMgjeUpUwObR7r67q0-fitOA
-#EXTINF:-1 tvg-id="" tvg-name="Dabangg 30/8/2010 " tvg-logo="https://subdl.com/p/sd9/sd9289.jpg" group-title="Movies",Dabangg 30/8/2010
+#EXTINF:-1 tvg-id="" tvg-name="Dabangg 30/8/2010 " tvg-logo="https://subdl.com/p/sd9/sd9289.jpg" group-title="hindi",Dabangg 30/8/2010
 https://www.googleapis.com/drive/v3/files/1IgG7x4TZXCxynANtQ7PoFEqo5gxB4NkN?alt=media&key=AIzaSyA8J2ulWEmKQDz4YNxFf1sBz5d_OtAFGbk
-#EXTINF:-1 tvg-id="" tvg-name="Aashayein 27/08/2010 " tvg-logo="https://i.imgur.com/w5uoj6c.jpg" group-title="Movies",Aashayein 27/08/2010
+#EXTINF:-1 tvg-id="" tvg-name="Aashayein 27/08/2010 " tvg-logo="https://i.imgur.com/w5uoj6c.jpg" group-title="hindi",Aashayein 27/08/2010
 https://www.googleapis.com/drive/v3/files/1M18uLT33MZ9O5pofaZSIAwa-M_nGWUyi?alt=media&key=AIzaSyCsNzSDf6LRH94ZlZmEuJuByS7meJSUZ10
-#EXTINF:-1 tvg-id="" tvg-name="Aisha 29/7/2010 " tvg-logo="https://subdl.com/p/sd3/sd3490.jpg" group-title="Movies",Aisha 29/7/2010Chance Pe Dance 4/1/2010
+#EXTINF:-1 tvg-id="" tvg-name="Aisha 29/7/2010 " tvg-logo="https://subdl.com/p/sd3/sd3490.jpg" group-title="hindi",Aisha 29/7/2010Chance Pe Dance 4/1/2010
 https://www.googleapis.com/drive/v3/files/1qI4L-MyVUYt3NhhBR-u8mVxOUvOYi7fJ?alt=media&key=AIzaSyB5jsFHAUdsEwkuTQZjFj6LLX1B3X03T4o
-#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Time in Mumbaai 23/7/2010 " tvg-logo="https://subdl.com/p/sd5/sd5625.jpg" group-title="Movies",Once Upon a Time in Mumbaai 23/7/2010
+#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Time in Mumbaai 23/7/2010 " tvg-logo="https://subdl.com/p/sd5/sd5625.jpg" group-title="hindi",Once Upon a Time in Mumbaai 23/7/2010
 https://www.googleapis.com/drive/v3/files/1ckd6mFw1MWM-zOaGJBdSlCaFc0BDqPqZ?alt=media&key=AIzaSyBqBLkVzSIiWG5ns4wAJTdd1Su3szmuzHc
-#EXTINF:-1 tvg-id="" tvg-name="Help 6/7/2010 " tvg-logo="https://subdl.com/p/sd6/sd6776.jpg" group-title="Movies",Help 6/7/2010
+#EXTINF:-1 tvg-id="" tvg-name="Help 6/7/2010 " tvg-logo="https://subdl.com/p/sd6/sd6776.jpg" group-title="hindi",Help 6/7/2010
 https://www.googleapis.com/drive/v3/files/1K6Gda9PpnWaxFi0VWVBcgyIfHo1a3hCE?alt=media&key=AIzaSyB9m2XeK6fLsjEQrFa_ewWik9kkDIKQgC8
-#EXTINF:-1 tvg-id="" tvg-name="I Hate Luv Storys 24/6/2010 " tvg-logo="https://subdl.com/p/sd8/sd8050.jpg" group-title="Movies",I Hate Luv Storys 24/6/2010
+#EXTINF:-1 tvg-id="" tvg-name="I Hate Luv Storys 24/6/2010 " tvg-logo="https://subdl.com/p/sd8/sd8050.jpg" group-title="hindi",I Hate Luv Storys 24/6/2010
 https://www.googleapis.com/drive/v3/files/1Ap71qDUzro-B6Ipbfa8MJOfJ_-yEEs6C?alt=media&key=AIzaSyDnAEEhwTw0EFAyKnIVq9D-LuBHzSTPlSg
-#EXTINF:-1 tvg-id="" tvg-name="Benny And Babloo 18/6/2010 " tvg-logo="https://subdl.com/p/sd16/sd16894.jpg" group-title="Movies",Benny And Babloo 18/6/2010
+#EXTINF:-1 tvg-id="" tvg-name="Benny And Babloo 18/6/2010 " tvg-logo="https://subdl.com/p/sd16/sd16894.jpg" group-title="hindi",Benny And Babloo 18/6/2010
 https://www.googleapis.com/drive/v3/files/1qv23zhrg7THkMDqKb_GqILhZC3jPyiGr?alt=media&key=AIzaSyBj6E-wzJq7EI7iVakP8KRnf5IneGS96pY
-#EXTINF:-1 tvg-id="" tvg-name="Badmaash Company 27/4/2010 " tvg-logo="https://i.imgur.com/7NI13RL.jpg" group-title="Movies",Badmaash Company 27/4/2010
+#EXTINF:-1 tvg-id="" tvg-name="Badmaash Company 27/4/2010 " tvg-logo="https://i.imgur.com/7NI13RL.jpg" group-title="hindi",Badmaash Company 27/4/2010
 https://www.googleapis.com/drive/v3/files/13_SuBANjlk5e8GNHeA19SI4duBXX58gt?alt=media&key=AIzaSyC-BQpGfT0I2AZBRLdnBJ68O3ECgd-RJyE
-#EXTINF:-1 tvg-id="" tvg-name="HouseFull 21/4/2010 " tvg-logo="https://subdl.com/p/sd2/sd2367.jpg" group-title="Movies",HouseFull 21/4/2010
+#EXTINF:-1 tvg-id="" tvg-name="HouseFull 21/4/2010 " tvg-logo="https://subdl.com/p/sd2/sd2367.jpg" group-title="hindi",HouseFull 21/4/2010
 https://www.googleapis.com/drive/v3/files/1aVzIGRb2b1_K6cGM5cgQAYoL4ThGWSxA?alt=media&key=AIzaSyApGj2HqOkZBpAyMmqZorYwco885vt3oxQ
-#EXTINF:-1 tvg-id="" tvg-name="Atithi Tum Kab Jaoge 19/2/2010 " tvg-logo="https://i.imgur.com/3dX0uZ8.jpg" group-title="Movies",Atithi Tum Kab Jaoge 19/2/2010
+#EXTINF:-1 tvg-id="" tvg-name="Atithi Tum Kab Jaoge 19/2/2010 " tvg-logo="https://i.imgur.com/3dX0uZ8.jpg" group-title="hindi",Atithi Tum Kab Jaoge 19/2/2010
 https://www.googleapis.com/drive/v3/files/1myCtkADIDiq9oi6g5TVFF4NxdoE37EIX?alt=media&key=AIzaSyCdzwdybFGUHZj_mavWWVxwa-xbnzBp6FU
-#EXTINF:-1 tvg-id="" tvg-name="Hum Tum Aur Ghost 19/2/2010 " tvg-logo="https://subdl.com/p/sd5/sd5916.jpg" group-title="Movies",Hum Tum Aur Ghost 19/2/2010
+#EXTINF:-1 tvg-id="" tvg-name="Hum Tum Aur Ghost 19/2/2010 " tvg-logo="https://subdl.com/p/sd5/sd5916.jpg" group-title="hindi",Hum Tum Aur Ghost 19/2/2010
 https://www.googleapis.com/drive/v3/files/1CuEv7QwwIKVZbpRKZfbYu9P7P2iLpK2B?alt=media&key=AIzaSyBIulBtb5ynNimF23mLCfx9zEhOX9qvZc0
-#EXTINF:-1 tvg-id="" tvg-name="Robot 17/2/2010 " tvg-logo="https://i.imgur.com/gHe3AxL.jpg" group-title="Movies",Robot 17/2/2010
+#EXTINF:-1 tvg-id="" tvg-name="Robot 17/2/2010 " tvg-logo="https://i.imgur.com/gHe3AxL.jpg" group-title="hindi",Robot 17/2/2010
 https://www.googleapis.com/drive/v3/files/1ZUeCA47QH0vCvvQ_i1KLJT4PiSRZu5C7?alt=media&key=AIzaSyDI7UGPCDlbigq7Ep9IsFy-nxrcXtd1QSw
-#EXTINF:-1 tvg-id="" tvg-name="Karthik Calling Karthik 11/2/2010 " tvg-logo="https://subdl.com/p/sd7/sd7025.jpg" group-title="Movies",Karthik Calling Karthik 11/2/2010
+#EXTINF:-1 tvg-id="" tvg-name="Karthik Calling Karthik 11/2/2010 " tvg-logo="https://subdl.com/p/sd7/sd7025.jpg" group-title="hindi",Karthik Calling Karthik 11/2/2010
 https://www.googleapis.com/drive/v3/files/17r_wcBZwYtU8O0Qx2lkr62I57UcByr_Z?alt=media&key=AIzaSyCzH6FsdBdk0aa4Fgb3davUMC7ts3P1MxI
-#EXTINF:-1 tvg-id="" tvg-name="Chance Pe Dance 4/1/2010 " tvg-logo="https://subdl.com/p/sd154/sd154025.jpg" group-title="Movies",Chance Pe Dance 4/1/2010
+#EXTINF:-1 tvg-id="" tvg-name="Chance Pe Dance 4/1/2010 " tvg-logo="https://subdl.com/p/sd154/sd154025.jpg" group-title="hindi",Chance Pe Dance 4/1/2010
 https://www.googleapis.com/drive/v3/files/1N2356fvSGkbnYKPoYIJSUTEBBtse_sx2?alt=media&key=AIzaSyA7HpJBv03Tp5Sk9bIeIM9Eq37p8_V2Ob8
-#EXTINF:-1 tvg-id="" tvg-name="Accident On Hill Road 31/12/2009 " tvg-logo="https://subdl.com/p/sd8/sd8131.jpg" group-title="Movies",Accident On Hill Road 31/12/2009
+#EXTINF:-1 tvg-id="" tvg-name="Accident On Hill Road 31/12/2009 " tvg-logo="https://subdl.com/p/sd8/sd8131.jpg" group-title="hindi",Accident On Hill Road 31/12/2009
 https://www.googleapis.com/drive/v3/files/1_VrDtGrqisCdz2oC8ZhpaS-RvNfhdLfK?alt=media&key=AIzaSyDdQPutBTM7Q3AKmGNdlVIxTskTb9j8Jvc
-#EXTINF:-1 tvg-id="" tvg-name="Dulha Mil Gaya 29/12/2009 " tvg-logo="https://subdl.com/p/sd14/sd14684.jpg" group-title="Movies",Dulha Mil Gaya 29/12/2009
+#EXTINF:-1 tvg-id="" tvg-name="Dulha Mil Gaya 29/12/2009 " tvg-logo="https://subdl.com/p/sd14/sd14684.jpg" group-title="hindi",Dulha Mil Gaya 29/12/2009
 https://www.googleapis.com/drive/v3/files/1A-hs6ITy-jZty8MA-U3AL04uNaPgkjAP?alt=media&key=AIzaSyCGgDZY7vyQwCizQbGioZ14k3a0WMEpTio
-#EXTINF:-1 tvg-id="" tvg-name="3 Idiots 24/12/2009 " tvg-logo="https://i.imgur.com/RuZs7Yo.jpg" group-title="Movies",3 Idiots 24/12/2009
+#EXTINF:-1 tvg-id="" tvg-name="3 Idiots 24/12/2009 " tvg-logo="https://i.imgur.com/RuZs7Yo.jpg" group-title="hindi",3 Idiots 24/12/2009
 https://www.googleapis.com/drive/v3/files/1-7xWwoh82f3bZSrJ5vRf5R6mruwiyNkJ?alt=media&key=AIzaSyDoOfZy7UoVLYOcQv3j7JJaZK4RP198K1Y
-#EXTINF:-1 tvg-id="" tvg-name="Pyaar Impossible! 18/12/2009 " tvg-logo="https://subdl.com/p/sd3/sd3548.jpg" group-title="Movies",Pyaar Impossible! 18/12/2009
+#EXTINF:-1 tvg-id="" tvg-name="Pyaar Impossible! 18/12/2009 " tvg-logo="https://subdl.com/p/sd3/sd3548.jpg" group-title="hindi",Pyaar Impossible! 18/12/2009
 https://www.googleapis.com/drive/v3/files/1s4GCB0Sp7GHKiI_DPjvB9SZr9P-QXSpV?alt=media&key=AIzaSyAaW9mk_shYBJridwQwn-wdK7cQIbJCIm4
-#EXTINF:-1 tvg-id="" tvg-name="Daddy Cool Join The Fun 10/12/2009 " tvg-logo="https://subdl.com/p/sd26/sd26233.jpg" group-title="Movies",Daddy Cool Join The Fun 10/12/2009
+#EXTINF:-1 tvg-id="" tvg-name="Daddy Cool Join The Fun 10/12/2009 " tvg-logo="https://subdl.com/p/sd26/sd26233.jpg" group-title="hindi",Daddy Cool Join The Fun 10/12/2009
 https://www.googleapis.com/drive/v3/files/1R1uH6oyWuGPoDqk7k0TX7H-bB1ulH4jm?alt=media&key=AIzaSyCE8fzaGWF9WFPnRD4sbYeeypbNzh3nNvs
-#EXTINF:-1 tvg-id="" tvg-name="Rocket Singh Salesman of the Year 4/12/2009 " tvg-logo="https://subdl.com/p/sd2/sd2391.jpg" group-title="Movies",Rocket Singh Salesman of the Year 4/12/2009
+#EXTINF:-1 tvg-id="" tvg-name="Rocket Singh Salesman of the Year 4/12/2009 " tvg-logo="https://subdl.com/p/sd2/sd2391.jpg" group-title="hindi",Rocket Singh Salesman of the Year 4/12/2009
 https://www.googleapis.com/drive/v3/files/1vOs_uC_rtzYxFIYx-DNEMYgI90ZrBFce?alt=media&key=AIzaSyB0YhX8rtK5fV1CfzOVyoAR8_ctTfDyvbM
-#EXTINF:-1 tvg-id="" tvg-name="De Dana Dan 18/11/2009 " tvg-logo="https://subdl.com/p/sd17/sd17399.jpg" group-title="Movies",De Dana Dan 18/11/2009
+#EXTINF:-1 tvg-id="" tvg-name="De Dana Dan 18/11/2009 " tvg-logo="https://subdl.com/p/sd17/sd17399.jpg" group-title="hindi",De Dana Dan 18/11/2009
 https://www.googleapis.com/drive/v3/files/1ufRtIO4P-JfoHMzPqOCVEIs8xXLMeWUl?alt=media&key=AIzaSyA9VkJAySrsB4mgEhkbJrl1wM91XSPkU5k
-#EXTINF:-1 tvg-id="" tvg-name="De Dana Dan 18/11/2009 " tvg-logo="https://subdl.com/p/sd17/sd17399.jpg" group-title="Movies",De Dana Dan 18/11/2009
+#EXTINF:-1 tvg-id="" tvg-name="De Dana Dan 18/11/2009 " tvg-logo="https://subdl.com/p/sd17/sd17399.jpg" group-title="hindi",De Dana Dan 18/11/2009
 https://www.googleapis.com/drive/v3/files/1KdhoAcia3cD8WpyTRCxEv4pf5fAxfOuq?alt=media&key=AIzaSyA8qzq78ZW4mN9_aLk6h2g5jwXqqCAMM4g
-#EXTINF:-1 tvg-id="" tvg-name="Aao Wish Karein 09/11/2009 " tvg-logo="https://i.imgur.com/AYAKndA.jpg" group-title="Movies",Aao Wish Karein 09/11/2009
+#EXTINF:-1 tvg-id="" tvg-name="Aao Wish Karein 09/11/2009 " tvg-logo="https://i.imgur.com/AYAKndA.jpg" group-title="hindi",Aao Wish Karein 09/11/2009
 https://www.googleapis.com/drive/v3/files/18PY4LxHXJlEh0aYSMThCmnT2UdyTMhI7?alt=media&key=AIzaSyDmg3WfWtoMm5_odI5S9yiCfs3025aEZy0
-#EXTINF:-1 tvg-id="" tvg-name="Ajab Prem Ki Ghazab Kahani 6/11/2009 " tvg-https://subdl.com/p/sd2/sd2543.jpg" group-title="Movies",Ajab Prem Ki Ghazab Kahani 6/11/2009
+#EXTINF:-1 tvg-id="" tvg-name="Ajab Prem Ki Ghazab Kahani 6/11/2009 " tvg-https://subdl.com/p/sd2/sd2543.jpg" group-title="hindi",Ajab Prem Ki Ghazab Kahani 6/11/2009
 https://www.googleapis.com/drive/v3/files/1UbWTTMd2tZ1bN7LUlq4zH4sourW05Mid?alt=media&key=AIzaSyB4W5Aco7d3GoyVmEUOkBzXfbfulaAv4GM
-#EXTINF:-1 tvg-id="" tvg-name="Tum Mile 4/11/2009 " tvg-logo="https://subdl.com/p/sd46/sd46941.jpg" group-title="Movies",Tum Mile 4/11/2009
+#EXTINF:-1 tvg-id="" tvg-name="Tum Mile 4/11/2009 " tvg-logo="https://subdl.com/p/sd46/sd46941.jpg" group-title="hindi",Tum Mile 4/11/2009
 https://www.googleapis.com/drive/v3/files/1viYwjw0TPxq-r0yC5SgJpa0-Ar4-VVR2?alt=media&key=AIzaSyAA0YTcYVd-bCIkGl6mLKVfmG_k5pW_kWo
-#EXTINF:-1 tvg-id="" tvg-name="Aladin 20/10/2009 " tvg-logo="https://subdl.com/p/sd9/sd9390.jpg" group-title="Movies",Aladin 20/10/2009
+#EXTINF:-1 tvg-id="" tvg-name="Aladin 20/10/2009 " tvg-logo="https://subdl.com/p/sd9/sd9390.jpg" group-title="hindi",Aladin 20/10/2009
 https://www.googleapis.com/drive/v3/files/1b8_N3MW65mlDqCQ0hwq_pQFFFgwuFtOL?alt=media&key=AIzaSyD7MshOixSepR3JZZC8BT_vuEVcrbBiuZU
-#EXTINF:-1 tvg-id="" tvg-name="Blue 16/10/2009 " tvg-logo="https://subdl.com/p/sd29/sd29514.jpg" group-title="Movies",Blue 16/10/2009
+#EXTINF:-1 tvg-id="" tvg-name="Blue 16/10/2009 " tvg-logo="https://subdl.com/p/sd29/sd29514.jpg" group-title="hindi",Blue 16/10/2009
 https://www.googleapis.com/drive/v3/files/1czueNwQRQIiqd3QgbuiDaV_xuGR92tAK?alt=media&key=AIzaSyD6lm4omjk7xFIpxC6jfenlYOOBMR5OIiE
-#EXTINF:-1 tvg-id="" tvg-name="All the Best 7/10/2009 " tvg-logo="https://subdl.com/p/sd3/sd3479.jpg" group-title="Movies",All the Best 7/10/2009
+#EXTINF:-1 tvg-id="" tvg-name="All the Best 7/10/2009 " tvg-logo="https://subdl.com/p/sd3/sd3479.jpg" group-title="hindi",All the Best 7/10/2009
 https://www.googleapis.com/drive/v3/files/1VmTXlCbNplwxtuewUT6yxSxQzQ5JBfTV?alt=media&key=AIzaSyC_yKQ-XrG-o6lJCo_RzUpwpbJtOmNbnd0
-#EXTINF:-1 tvg-id="" tvg-name="Do Knot Disturb 2/10/2009 " tvg-logo="https://subdl.com/p/sd5/sd5458.jpg" group-title="Movies",Do Knot Disturb 2/10/2009
+#EXTINF:-1 tvg-id="" tvg-name="Do Knot Disturb 2/10/2009 " tvg-logo="https://subdl.com/p/sd5/sd5458.jpg" group-title="hindi",Do Knot Disturb 2/10/2009
 https://www.googleapis.com/drive/v3/files/1SjT_Uh7Iv-oxKZ5VxIX86mWLEcVQoMBq?alt=media&key=AIzaSyC7zd0M5XjdjUHPcj5clQV2s_tsvUuYD9g
-#EXTINF:-1 tvg-id="" tvg-name="Acid Factory 01/10/2009 " tvg-logo="https://i.imgur.com/4yJepna.jpg" group-title="Movies",Acid Factory 01/10/2009
+#EXTINF:-1 tvg-id="" tvg-name="Acid Factory 01/10/2009 " tvg-logo="https://i.imgur.com/4yJepna.jpg" group-title="hindi",Acid Factory 01/10/2009
 https://www.googleapis.com/drive/v3/files/16c2n7q_NBw9RpIfQhH_PhxJBkjoXOSf1?alt=media&key=AIzaSyDNnPCIY9lC_OdHutHHsoOJUNr_9U1BbX0
-#EXTINF:-1 tvg-id="" tvg-name="Chal Chala Chal 19/9/2009 " tvg-logo="https://subdl.com/p/sd8/sd8708.jpg" group-title="Movies",Chal Chala Chal 19/9/2009
+#EXTINF:-1 tvg-id="" tvg-name="Chal Chala Chal 19/9/2009 " tvg-logo="https://subdl.com/p/sd8/sd8708.jpg" group-title="hindi",Chal Chala Chal 19/9/2009
 https://www.googleapis.com/drive/v3/files/1yvkWYPQNHyDZvD2mVdY8MgBzRBGmLUlN?alt=media&key=AIzaSyAFbAjtWiZ85a2Fz9hR4urW2kc3qoIvIAs
-#EXTINF:-1 tvg-id="" tvg-name="Aagey Se Right 4/9/2009 " tvg-logo="https://subdl.com/p/sd7/sd7510.jpg" group-title="Movies",Aagey Se Right 4/9/2009
+#EXTINF:-1 tvg-id="" tvg-name="Aagey Se Right 4/9/2009 " tvg-logo="https://subdl.com/p/sd7/sd7510.jpg" group-title="hindi",Aagey Se Right 4/9/2009
 https://www.googleapis.com/drive/v3/files/1bVnFr63fjbb9rgK66PYDrQWk_Ar7ClXh?alt=media&key=AIzaSyCekyCRwd1LDfrnMrBT77O8GPjGz-Z0gQM
-#EXTINF:-1 tvg-id="" tvg-name="Fox 4/9/2009 " tvg-logo="https://subdl.com/p/sd10/sd10159.jpg" group-title="Movies",Fox 4/9/2009
+#EXTINF:-1 tvg-id="" tvg-name="Fox 4/9/2009 " tvg-logo="https://subdl.com/p/sd10/sd10159.jpg" group-title="hindi",Fox 4/9/2009
 https://www.googleapis.com/drive/v3/files/1As9Ccxm5X1MX0V4x_7kBB4godKjiIuV-?alt=media&key=AIzaSyCKBl6SReGCgZUo2XkRvcTCUjCg1Ybht4w
-#EXTINF:-1 tvg-id="" tvg-name="Dil Bole Hadippa 31/8/2009 " tvg-logo="https://i.imgur.com/E1com2Z.jpg" group-title="Movies",Dil Bole Hadippa 31/8/2009
+#EXTINF:-1 tvg-id="" tvg-name="Dil Bole Hadippa 31/8/2009 " tvg-logo="https://i.imgur.com/E1com2Z.jpg" group-title="hindi",Dil Bole Hadippa 31/8/2009
 https://www.googleapis.com/drive/v3/files/1lRBinJgI8ThdldrmKTNYQ0yUX_ZeTJyv?alt=media&key=AIzaSyCOOUMknaAmruZphNBAzRIGliERVxItRSc
-#EXTINF:-1 tvg-id="" tvg-name="Life Partner 14/8/2009 " tvg-logo="https://subdl.com/p/sd5/sd5902.jpg" group-title="Movies",Life Partner 14/8/2009
+#EXTINF:-1 tvg-id="" tvg-name="Life Partner 14/8/2009 " tvg-logo="https://subdl.com/p/sd5/sd5902.jpg" group-title="hindi",Life Partner 14/8/2009
 https://www.googleapis.com/drive/v3/files/1LiD6b2HvR0pwjFTe6tQDOpGhlLPZ3CwZ?alt=media&key=AIzaSyDmrlrsNJuFvItN9zT51VkQFOx1Gr06K-U
-#EXTINF:-1 tvg-id="" tvg-name="Agyaat 29/7/2009 " tvg-logo="https://i.imgur.com/rLIgUEU.jpg" group-title="Movies",Agyaat 29/7/2009
+#EXTINF:-1 tvg-id="" tvg-name="Agyaat 29/7/2009 " tvg-logo="https://i.imgur.com/rLIgUEU.jpg" group-title="hindi",Agyaat 29/7/2009
 https://www.googleapis.com/drive/v3/files/1tCM3aHudZDwBLnlkZkaNuFPlPysAdKRe?alt=media&key=AIzaSyBHJPzL0pt9EUQYZL4pH3vmOka0iWWcztY
-#EXTINF:-1 tvg-id="" tvg-name="Luck 25/7/2009 " tvg-logo="https://subdl.com/p/sd7/sd7735.jpg" group-title="Movies",Luck 25/7/2009
+#EXTINF:-1 tvg-id="" tvg-name="Luck 25/7/2009 " tvg-logo="https://subdl.com/p/sd7/sd7735.jpg" group-title="hindi",Luck 25/7/2009
 https://www.googleapis.com/drive/v3/files/1Aljz8KAS687ZwdQ4t91NPr-rRKJcQClf?alt=media&key=AIzaSyBRrF6JZOximX2lbLyGw_pISXnOXeKQN40
-#EXTINF:-1 tvg-id="" tvg-name="Shortkut The Con Is On 23/6/2009 " tvg-logo="https://subdl.com/p/sd11/sd11224.jpg" group-title="Movies",Shortkut The Con Is On 23/6/2009
+#EXTINF:-1 tvg-id="" tvg-name="Shortkut The Con Is On 23/6/2009 " tvg-logo="https://subdl.com/p/sd11/sd11224.jpg" group-title="hindi",Shortkut The Con Is On 23/6/2009
 https://www.googleapis.com/drive/v3/files/1p8L8ZXCjpM4WBbqjV4SbPT209zyDLFtY?alt=media&key=AIzaSyD-pSKyZGe-x86uIg1w_8pFE6pEOsdKkrA
-#EXTINF:-1 tvg-id="" tvg-name="99 01/05/2009 " tvg-logo="https://subdl.com/p/sd7/sd7598.jpg" group-title="Movies",99 01/05/2009
+#EXTINF:-1 tvg-id="" tvg-name="99 01/05/2009 " tvg-logo="https://subdl.com/p/sd7/sd7598.jpg" group-title="hindi",99 01/05/2009
 https://www.googleapis.com/drive/v3/files/1DZiEVRgUtCWXfgjy5kNr624pJIuA7Vig?alt=media&key=AIzaSyDgNEBySxMiVVa-027XNEo3Bcp2NIp5yN4
-#EXTINF:-1 tvg-id="" tvg-name="Aa Dekhen Zara 18/03/2009 " tvg-logo="https://subdl.com/p/sd7/sd7480.jpg" group-title="Movies",Aa Dekhen Zara 18/03/2009
+#EXTINF:-1 tvg-id="" tvg-name="Aa Dekhen Zara 18/03/2009 " tvg-logo="https://subdl.com/p/sd7/sd7480.jpg" group-title="hindi",Aa Dekhen Zara 18/03/2009
 https://www.googleapis.com/drive/v3/files/1qN7zZY0lWZOC6p641OvyEJ_mglkm2fV7?alt=media&key=AIzaSyCxSI_puFx_lRRHx6PkXHk21NSs7QQ-O3Y
-#EXTINF:-1 tvg-id="" tvg-name="Barah Aana 13/3/2009 " tvg-logo="https://i.imgur.com/nT7q6G0.jpg" group-title="Movies",Barah Aana 13/3/2009
+#EXTINF:-1 tvg-id="" tvg-name="Barah Aana 13/3/2009 " tvg-logo="https://i.imgur.com/nT7q6G0.jpg" group-title="hindi",Barah Aana 13/3/2009
 https://www.googleapis.com/drive/v3/files/1G4qa2v_4Du3ZpNVRNXcXKWVjD67KR7b8?alt=media&key=AIzaSyA-p7pu62CKait7HboIfi0c8iLGk8T4hoE
-#EXTINF:-1 tvg-id="" tvg-name="13B 27/02/2009 " tvg-logo="https://subdl.com/p/sd162/sd162986.jpg" group-title="Movies",13B 27/02/2009
+#EXTINF:-1 tvg-id="" tvg-name="13B 27/02/2009 " tvg-logo="https://subdl.com/p/sd162/sd162986.jpg" group-title="hindi",13B 27/02/2009
 https://www.googleapis.com/drive/v3/files/17L_7Bw5uC1xGxt67muuoiGPSTAuRUiA7?alt=media&key=AIzaSyCsFi5BkrJcxV_iQ8pXmJF_RnzuUQL5BH8
-#EXTINF:-1 tvg-id="" tvg-name="Dhoondte Reh Jaoge 27/2/2009 " tvg-logo="https://i.imgur.com/cSJXSPA.jpg" group-title="Movies",Dhoondte Reh Jaoge 27/2/2009
+#EXTINF:-1 tvg-id="" tvg-name="Dhoondte Reh Jaoge 27/2/2009 " tvg-logo="https://i.imgur.com/cSJXSPA.jpg" group-title="hindi",Dhoondte Reh Jaoge 27/2/2009
 https://www.googleapis.com/drive/v3/files/1D5Umzl2GjdvNV8C3tU_cHsxfd8rlTzoK?alt=media&key=AIzaSyD4nFmw5uo9rxzgLmLqz4PgP9227H00WyU
-#EXTINF:-1 tvg-id="" tvg-name="Delhi-6 9/2/2009 " tvg-logo="https://subdl.com/p/sd9/sd9097.jpg" group-title="Movies",Delhi-6 9/2/2009
+#EXTINF:-1 tvg-id="" tvg-name="Delhi-6 9/2/2009 " tvg-logo="https://subdl.com/p/sd9/sd9097.jpg" group-title="hindi",Delhi-6 9/2/2009
 https://www.googleapis.com/drive/v3/files/17xk91x4Ybw2sF0In2MTDiD5siGhVmCN-?alt=media&key=AIzaSyCvtLQZe5HDz89BYJfvpUINjHbikX-vQCE
-#EXTINF:-1 tvg-id="" tvg-name="Billu Barber 30/1/2009 " tvg-logo="https://i.imgur.com/X95ct0h.jpg" group-title="Movies",Billu Barber 30/1/2009
+#EXTINF:-1 tvg-id="" tvg-name="Billu Barber 30/1/2009 " tvg-logo="https://i.imgur.com/X95ct0h.jpg" group-title="hindi",Billu Barber 30/1/2009
 https://www.googleapis.com/drive/v3/files/1rrQMC20JeOcyCuBDRWkqa1VORys7RArm?alt=media&key=AIzaSyAK8usVxwQ3cLieUa1VV7U0ZIJW_oot4kk
-#EXTINF:-1 tvg-id="" tvg-name="Dev D 29/1/2009 " tvg-logo="https://subdl.com/p/sd28/sd28279.jpg" group-title="Movies",Dev D 29/1/2009
+#EXTINF:-1 tvg-id="" tvg-name="Dev D 29/1/2009 " tvg-logo="https://subdl.com/p/sd28/sd28279.jpg" group-title="hindi",Dev D 29/1/2009
 https://www.googleapis.com/drive/v3/files/1U2A_EXzyUYNOw3FLNliUSTnbrr5wlozd?alt=media&key=AIzaSyAyhgG2IqFkTll7MDKobRniT27HK9NZG6A
-#EXTINF:-1 tvg-id="" tvg-name="Chandni Chowk to China 16/1/2009 " tvg-logo="https://subdl.com/p/sd10/sd10264.jpg" group-title="Movies",Chandni Chowk to China 16/1/2009
+#EXTINF:-1 tvg-id="" tvg-name="Chandni Chowk to China 16/1/2009 " tvg-logo="https://subdl.com/p/sd10/sd10264.jpg" group-title="hindi",Chandni Chowk to China 16/1/2009
 https://www.googleapis.com/drive/v3/files/1PzH-hAixCA_g5-x8Ed6L6h_BbC6ff1fP?alt=media&key=AIzaSyDVmPdcp2H-r_aY3Ntbe7aTN1_0EQcfcnc
-#EXTINF:-1 tvg-id="" tvg-name="Ghajini 15/12/2008 " tvg-logo="https://subdl.com/p/sd1/sd1469.jpg" group-title="Movies",Ghajini 15/12/2008
+#EXTINF:-1 tvg-id="" tvg-name="Ghajini 15/12/2008 " tvg-logo="https://subdl.com/p/sd1/sd1469.jpg" group-title="hindi",Ghajini 15/12/2008
 https://www.googleapis.com/drive/v3/files/1g6Ka9zv87q1AcVwUT_yGrhXFlfR1AvTS?alt=media&key=AIzaSyCd05ui01j_iGIehMf60UyVS9ouPFHw1V0
-#EXTINF:-1 tvg-id="" tvg-name="Dostana 3/11/2008 " tvg-logo="https://subdl.com/p/sd2/sd2495.jpg" group-title="Movies",Dostana 3/11/2008
+#EXTINF:-1 tvg-id="" tvg-name="Dostana 3/11/2008 " tvg-logo="https://subdl.com/p/sd2/sd2495.jpg" group-title="hindi",Dostana 3/11/2008
 https://www.googleapis.com/drive/v3/files/1oRaispUo45NhyU16WWPEe0E_rHIJBRHr?alt=media&key=AIzaSyCqb-r2EL1ucmPsA5NZdo-amzKiiJNvC5U
-#EXTINF:-1 tvg-id="" tvg-name="Heroes 24/10/2008 " tvg-logo="https://i.imgur.com/YljiIe4.jpg" group-title="Movies",Heroes 24/10/2008
+#EXTINF:-1 tvg-id="" tvg-name="Heroes 24/10/2008 " tvg-logo="https://i.imgur.com/YljiIe4.jpg" group-title="hindi",Heroes 24/10/2008
 https://www.googleapis.com/drive/v3/files/18LZGh7Xjd-2qG_vjyt3iAU9dV4q-dz2g?alt=media&key=AIzaSyAu8dAQq-aLeQmAia7VCjRpgpmavjvklO8
-#EXTINF:-1 tvg-id="" tvg-name="Fashion 17/10/2008 " tvg-logo="https://subdl.com/p/sd10/sd10532.jpg" group-title="Movies",Fashion 17/10/2008
+#EXTINF:-1 tvg-id="" tvg-name="Fashion 17/10/2008 " tvg-logo="https://subdl.com/p/sd10/sd10532.jpg" group-title="hindi",Fashion 17/10/2008
 https://www.googleapis.com/drive/v3/files/16GNLmQ0xvcGzbHRGn1uvzW5xJt33mYH9?alt=media&key=AIzaSyDIQDQpOHUMVWjSxHyAzgpV0zOX04qEcNI
-#EXTINF:-1 tvg-id="" tvg-name="Golmaal Returns 17/10/2008 " tvg-logo="https://subdl.com/p/sd3/sd3144.jpg" group-title="Movies",Golmaal Returns 17/10/2008
+#EXTINF:-1 tvg-id="" tvg-name="Golmaal Returns 17/10/2008 " tvg-logo="https://subdl.com/p/sd3/sd3144.jpg" group-title="hindi",Golmaal Returns 17/10/2008
 https://www.googleapis.com/drive/v3/files/1XbAI0_PosWE-hp4QD8GegH3uvMnrfwuw?alt=media&key=AIzaSyClsMpUml8nV7TYCdzrdGsE9exNTOU1U34
-#EXTINF:-1 tvg-id="" tvg-name="Karz 17/10/2008 " tvg-logo="https://i.imgur.com/pKavNDj.jpg" group-title="Movies",Karz 17/10/2008
+#EXTINF:-1 tvg-id="" tvg-name="Karz 17/10/2008 " tvg-logo="https://i.imgur.com/pKavNDj.jpg" group-title="hindi",Karz 17/10/2008
 https://www.googleapis.com/drive/v3/files/1-HZ_M_vsbjlOOAJpvRlJkDOvo_Sr15hI?alt=media&key=AIzaSyAk7dAy4QzNskqg-ryb9FRc7Je3aAiImVU
-#EXTINF:-1 tvg-id="" tvg-name="Ek Vivaah Aisa Bhi 16/10/2008 " tvg-logo="https://i.imgur.com/jJxPHid.jpg" group-title="Movies",Ek Vivaah Aisa Bhi 16/10/2008
+#EXTINF:-1 tvg-id="" tvg-name="Ek Vivaah Aisa Bhi 16/10/2008 " tvg-logo="https://i.imgur.com/jJxPHid.jpg" group-title="hindi",Ek Vivaah Aisa Bhi 16/10/2008
 https://www.googleapis.com/drive/v3/files/1lVVDukbpc1HDoLrVG8HAcfMyggFPFabA?alt=media&key=AIzaSyAvFKgNRC83p3CQ0hjpg_tB0YJQrztouBY
-#EXTINF:-1 tvg-id="" tvg-name="Rajma Chawal 13/10/2018 " tvg-logo="https://subdl.com/p/sd83/sd83530.jpg" group-title="Movies",Rajma Chawal 13/10/2018
+#EXTINF:-1 tvg-id="" tvg-name="Rajma Chawal 13/10/2018 " tvg-logo="https://subdl.com/p/sd83/sd83530.jpg" group-title="hindi",Rajma Chawal 13/10/2018
 https://www.googleapis.com/drive/v3/files/1vbOXTZPlWpVB12PSp2o92SYxqdCqqgkP?alt=media&key=AIzaSyCFVS-_ygXSjv8tvj0NuHPDqFKF4jx9VBs
-#EXTINF:-1 tvg-id="" tvg-name="Hello 3/10/2008 " tvg-logo="https://subdl.com/p/sd227/sd227097.jpg" group-title="Movies",Hello 3/10/2008
+#EXTINF:-1 tvg-id="" tvg-name="Hello 3/10/2008 " tvg-logo="https://subdl.com/p/sd227/sd227097.jpg" group-title="hindi",Hello 3/10/2008
 https://www.googleapis.com/drive/v3/files/1ObZnMGCOSUBMcJZR6UpMw7fsj4AORL2i?alt=media&key=AIzaSyBAqxfZr84PVKN24d-7dLimWGRoPrHaN6U
-#EXTINF:-1 tvg-id="" tvg-name="Drona 17/9/2008 " tvg-logo="https://subdl.com/p/sd7/sd7516.jpg" group-title="Movies",Drona 17/9/2008
+#EXTINF:-1 tvg-id="" tvg-name="Drona 17/9/2008 " tvg-logo="https://subdl.com/p/sd7/sd7516.jpg" group-title="hindi",Drona 17/9/2008
 https://www.googleapis.com/drive/v3/files/12YgUL6_eWXWy9l9aj2fdSjXmPXAzM_Pc?alt=media&key=AIzaSyBJ8jfSu262iJhlBrsZPcpN7X_rX_oxPfc
-#EXTINF:-1 tvg-id="" tvg-name="1920 12/09/2008 " tvg-logo="https://subdl.com/p/sd11/sd11534.jpg" group-title="Movies",1920 12/09/2008
+#EXTINF:-1 tvg-id="" tvg-name="1920 12/09/2008 " tvg-logo="https://subdl.com/p/sd11/sd11534.jpg" group-title="hindi",1920 12/09/2008
 https://www.googleapis.com/drive/v3/files/1RVJE8LNNBq2f4JT1qu1_jZ-o806iBXaK?alt=media&key=AIzaSyDXeGR1s0hVIqCJCsG3Vw4qQ60C3dHTSUs
-#EXTINF:-1 tvg-id="" tvg-name="Hijack 5/9/2008 " tvg-logo="https://subdl.com/p/sd179/sd179201.jpg" group-title="Movies",Hijack 5/9/2008
+#EXTINF:-1 tvg-id="" tvg-name="Hijack 5/9/2008 " tvg-logo="https://subdl.com/p/sd179/sd179201.jpg" group-title="hindi",Hijack 5/9/2008
 https://www.googleapis.com/drive/v3/files/1tzNh00LcHPzRxjcXVp2mptwtL7WUfWji?alt=media&key=AIzaSyDcE4nv_JsEGhHl_o-3CFV3nYdhsR2qce8
-#EXTINF:-1 tvg-id="" tvg-name="Chamku 29/8/2008 " tvg-logo="https://i.imgur.com/w1qb4Y5.jpg" group-title="Movies",Chamku 29/8/2008
+#EXTINF:-1 tvg-id="" tvg-name="Chamku 29/8/2008 " tvg-logo="https://i.imgur.com/w1qb4Y5.jpg" group-title="hindi",Chamku 29/8/2008
 https://www.googleapis.com/drive/v3/files/10uA4OxpoQsQ7iu0RMoNgCSyOCTb9qKQF?alt=media&key=AIzaSyD_rDB35LBAtzuD1x5Wh3ESc23rbSMHTF8
-#EXTINF:-1 tvg-id="" tvg-name="C Kkompany 22/8/2008 " tvg-logo="https://i.imgur.com/QiNGxgK.jpg" group-title="Movies",C Kkompany 22/8/2008
+#EXTINF:-1 tvg-id="" tvg-name="C Kkompany 22/8/2008 " tvg-logo="https://i.imgur.com/QiNGxgK.jpg" group-title="hindi",C Kkompany 22/8/2008
 https://www.googleapis.com/drive/v3/files/1dNzkD86sZ6Mlub7k2e_4_7FgT75SBD0A?alt=media&key=AIzaSyB9DNMetlzw_d5G5-_BMsxS1MuaYkyR1iQ
-#EXTINF:-1 tvg-id="" tvg-name="God Tussi Great Ho 6/8/2008 " tvg-logo="https://subdl.com/p/sd13/sd13499.jpg" group-title="Movies",God Tussi Great Ho 6/8/2008
+#EXTINF:-1 tvg-id="" tvg-name="God Tussi Great Ho 6/8/2008 " tvg-logo="https://subdl.com/p/sd13/sd13499.jpg" group-title="hindi",God Tussi Great Ho 6/8/2008
 https://www.googleapis.com/drive/v3/files/1l879ScaTqipjW4NeKz5FOd6-Nh3taLrV?alt=media&key=AIzaSyDGeHq4OXjj05LV_psd3OE9facIXmA7EKs
-#EXTINF:-1 tvg-id="" tvg-name="Bachna A Haseeno 1/8/2008 " tvg-logo="https://i.imgur.com/P3fAp8e.jpg" group-title="Movies",Bachna A Haseeno 1/8/2008
+#EXTINF:-1 tvg-id="" tvg-name="Bachna A Haseeno 1/8/2008 " tvg-logo="https://i.imgur.com/P3fAp8e.jpg" group-title="hindi",Bachna A Haseeno 1/8/2008
 https://www.googleapis.com/drive/v3/files/1-Jwz5fGaudpPEHB-HH_1v8S5Jubomd3k?alt=media&key=AIzaSyCZkdFhU5E3IPCRSSob1mxyWSqF4B1jdHE
-#EXTINF:-1 tvg-id="" tvg-name="De Taali 16/6/2008 " tvg-logo="https://i.imgur.com/3nfgE4h.jpg" group-title="Movies",De Taali 16/6/2008
+#EXTINF:-1 tvg-id="" tvg-name="De Taali 16/6/2008 " tvg-logo="https://i.imgur.com/3nfgE4h.jpg" group-title="hindi",De Taali 16/6/2008
 https://www.googleapis.com/drive/v3/files/1K1j7C8e4AOHE3Pdi02wEyk0yEaJEdD3q?alt=media&key=AIzaSyDgUrnw01bKKrujGGCi236ssnqJrCj9hms
-#EXTINF:-1 tvg-id="" tvg-name="Haal-E-Dil 13/6/2008 " tvg-logo="https://subdl.com/p/sd754/sd754610.jpg" group-title="Movies",Haal-E-Dil 13/6/2008
+#EXTINF:-1 tvg-id="" tvg-name="Haal-E-Dil 13/6/2008 " tvg-logo="https://subdl.com/p/sd754/sd754610.jpg" group-title="hindi",Haal-E-Dil 13/6/2008
 https://www.googleapis.com/drive/v3/files/1zROfqD2zaNQLa5GdpnlepDCfvC5LtTHI?alt=media&key=AIzaSyARmdQn1x2xaJPOXGAIZIlFxL7P8SdVry8
-#EXTINF:-1 tvg-id="" tvg-name="Mere Baap Pehle Aap 13/6/2008 " tvg-logo="https://subdl.com/p/sd537/sd537500.jpg" group-title="Movies",Mere Baap Pehle Aap 13/6/2008
+#EXTINF:-1 tvg-id="" tvg-name="Mere Baap Pehle Aap 13/6/2008 " tvg-logo="https://subdl.com/p/sd537/sd537500.jpg" group-title="hindi",Mere Baap Pehle Aap 13/6/2008
 https://www.googleapis.com/drive/v3/files/1ba0JZ_MVD2p-WUfeLZQ9jJ1flk9fI8g7?alt=media&key=AIzaSyC4jp-RU41A4MpadQ20z0gI7Xs4-QVAOUs
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom Dadakka 3/5/2008 " tvg-logo="https://subdl.com/p/sd10/sd10098.jpg" group-title="Movies",Dhoom Dadakka 3/5/2008
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Dadakka 3/5/2008 " tvg-logo="https://subdl.com/p/sd10/sd10098.jpg" group-title="hindi",Dhoom Dadakka 3/5/2008
 https://www.googleapis.com/drive/v3/files/1P7Pk633bwI_GLKpwN-om5BAr9AJs__9Q?alt=media&key=AIzaSyAlRqdUaj2WEzCNiQRfcycvDZNLHq-6VIg
-#EXTINF:-1 tvg-id="" tvg-name="Aamir 30/04/2008 " tvg-logo="https://subdl.com/p/sd93/sd93377.jpg" group-title="Movies",Aamir 30/04/2008
+#EXTINF:-1 tvg-id="" tvg-name="Aamir 30/04/2008 " tvg-logo="https://subdl.com/p/sd93/sd93377.jpg" group-title="hindi",Aamir 30/04/2008
 https://www.googleapis.com/drive/v3/files/1U2FF0ishwu4A9HLHeEt--96RXvpxVz3m?alt=media&key=AIzaSyCSxOe5x4tAxDw51knSKiQ3EKgfrCdD1dU
-#EXTINF:-1 tvg-id="" tvg-name="Bhoothnath 30/4/2008 " tvg-logo="https://subdl.com/p/sd21/sd21342.jpg" group-title="Movies",Bhoothnath 30/4/2008
+#EXTINF:-1 tvg-id="" tvg-name="Bhoothnath 30/4/2008 " tvg-logo="https://subdl.com/p/sd21/sd21342.jpg" group-title="hindi",Bhoothnath 30/4/2008
 https://www.googleapis.com/drive/v3/files/197bGtRaJDp-jbJKDFgCkP5bBiHA6Z9P3?alt=media&key=AIzaSyCFvrGMiBeRFfWVatI0H-aND9jL1nfTHsQ
-#EXTINF:-1 tvg-id="" tvg-name="A Wednesday 31/03/2008 " tvg-logo="https://subdl.com/p/sd7/sd7327.jpg" group-title="Movies",A Wednesday 31/03/2008
+#EXTINF:-1 tvg-id="" tvg-name="A Wednesday 31/03/2008 " tvg-logo="https://subdl.com/p/sd7/sd7327.jpg" group-title="hindi",A Wednesday 31/03/2008
 https://www.googleapis.com/drive/v3/files/18vYEvOaR0JxF-Td4lXyiKgDA-ZB3faCY?alt=media&key=AIzaSyASVYz40RQItyEP_BRkBdwj5JyyzjlvJuI
-#EXTINF:-1 tvg-id="" tvg-name="Shaurya 27/3/2008 " tvg-logo="https://subdl.com/p/sd76/sd76525.jpg" group-title="Movies",Shaurya 27/3/2008
+#EXTINF:-1 tvg-id="" tvg-name="Shaurya 27/3/2008 " tvg-logo="https://subdl.com/p/sd76/sd76525.jpg" group-title="hindi",Shaurya 27/3/2008
 https://www.googleapis.com/drive/v3/files/17IxKy506dpEWwwZyoejjHiH82V8HDwsG?alt=media&key=AIzaSyBmjN92X0FYvA1S0nlkd_jm5yWoJ8K6ZLU
-#EXTINF:-1 tvg-id="" tvg-name="One Two Three 19/3/2008 " tvg-logo="https://subdl.com/p/sd18/sd18033.jpg" group-title="Movies",One Two Three 19/3/2008
+#EXTINF:-1 tvg-id="" tvg-name="One Two Three 19/3/2008 " tvg-logo="https://subdl.com/p/sd18/sd18033.jpg" group-title="hindi",One Two Three 19/3/2008
 https://www.googleapis.com/drive/v3/files/13W8tnG6Z6Q1ay8Z9CBO4Foy3Xn-V1JWx?alt=media&key=AIzaSyDviKqRwalh_tr0WWejaErcQ6F0AMRTT-w
-#EXTINF:-1 tvg-id="" tvg-name="Race 14/3/2008 " tvg-logo="https://subdl.com/p/sd4/sd4309.jpg" group-title="Movies",Race 14/3/2008
+#EXTINF:-1 tvg-id="" tvg-name="Race 14/3/2008 " tvg-logo="https://subdl.com/p/sd4/sd4309.jpg" group-title="hindi",Race 14/3/2008
 https://www.googleapis.com/drive/v3/files/1QKMvpwenpbKZbE_HCl8-ImgV-32aWCvy?alt=media&key=AIzaSyA45coEWGa9pHbEzKKW61_Ggk93QSXIMKg
 #EXTINF:-1 tvg-id="" tvg-name="Halla Bol 11/1/2008 " tvg-logo="https://subdl.com/p/sd238/sd238186.jpg" group-title="Movies",Halla Bol 11/1/2008
 https://www.googleapis.com/drive/v3/files/19zKORjB2BhehCxBfE3Q3gXV7Ms8oGXzW?alt=media&key=AIzaSyD2dvPzK_v5tRufaGV1rQsoMzXvREvr1aw
