@@ -77,11 +77,11 @@ https://www.googleapis.com/drive/v3/files/1KgLYDJTKltpRCGW0JPi2M7MVl3iEhlgq?alt=
 #EXTINF:-1 tvg-id="" tvg-name="Tanhaji The Unsung Warrior 4/1/2020" tvg-logo="https://subdl.com/p/sd485/sd485004.jpg" group-title="hindi",Tanhaji The Unsung Warrior 4/1/2020
 https://www.googleapis.com/drive/v3/files/18vuQFzmfJicknBr9DxQkECFCh3GMgB7j?alt=media&key=AIzaSyAlbrr4v9sF-YAidyxMXJgkgl_hBvWKufs
 #EXTINF:-1 tvg-id="" tvg-name="Shimla Mirchi 3/1/2020" tvg-logo="https://subdl.com/p/sd504/sd504692.jpg" group-title="hindi",Shimla Mirchi 3/1/2020
-https://www.googleapis.com/drive/v3/files/1chl_jQro5OZNRJ707ohEyyEKls4eZ_1d?alt=media&key=AIzaSyC_3X9rH9oEtfdaKoAoiArBolPgloNECu0
+https://www.googleapis.com/drive/v3/files/1chl_jQro5OZNRJ707ohEyyEKls4eZ_1d?alt=media&key=AIzaSyCAYU0MjupOCspQ9fYse5pa2hB3A_nFRzA
 #EXTINF:-1 tvg-id="" tvg-name="Bhangra Paa Le 3/1/2020" tvg-logo="https://subdl.com/p/sd545/sd545004.jpg" group-title="hindi",Bhangra Paa Le 3/1/2020
 https://www.googleapis.com/drive/v3/files/1r60cUQs4wX6qRsPxW6I80yyGcNVMeHzc?alt=media&key=AIzaSyCIxdwVR3h9cAI8Rl0ocwqT4eBlgWjR1A4
 #EXTINF:-1 tvg-id="" tvg-name="Chhapaak 6/12/2020" tvg-logo="https://subdl.com/p/sd547/sd547046.jpg" group-title="hindi",Chhapaak 6/12/2020
-https://www.googleapis.com/drive/v3/files/1cYnpFlq9zf_v55tCv4v0JWXDA5eQHoge?alt=media&key=AIzaSyBMSQVDr63d8PaWuejpwLcJqLuzdj9YsiQ
+https://www.googleapis.com/drive/v3/files/1cYnpFlq9zf_v55tCv4v0JWXDA5eQHoge?alt=media&key=AIzaSyC3-wo9nEI25YC2linGpUfOMwPrdiwMRu4
 #EXTINF:-1 tvg-id="" tvg-name="Panga 30/12/2019" tvg-logo="https://subdl.com/p/sd560/sd560717.jpg" group-title="hindi",Panga 30/12/2019
 https://www.googleapis.com/drive/v3/files/1i3LK_IZqq8uvygRX52rD9krChys1As3i?alt=media&key=AIzaSyBTyAyyQwH1v8wv4Hj40_aeSZnaY4tJV0s
 #EXTINF:-1 tvg-id="" tvg-name="The Accidental Prime Minister 27/12/2019" tvg-logo="https://subdl.com/p/sd225/sd225097.jpg" group-title="hindi",The Accidental Prime Minister 27/12/2019
@@ -256,7 +256,7 @@ https://www.googleapis.com/drive/v3/files/1qTAF58yBuv5RIVIbOncm-F3loMPDozNB?alt=
 https://www.googleapis.com/drive/v3/files/1ozuqGWDrlR8Rgr4KA0xTx7HQHhTCrEVi?alt=media&key=AIzaSyCUlOq7s6IK-XIPGIsPnvtzY2ABBRjR24M
 #EXTINF:-1 tvg-id="" tvg-name="K G F Chapter 1 20/12/2018" tvg-logo="https://i.imgur.com/xwcuN2X.jpg" group-title="hindi",K G F Chapter 1 20/12/2018
 https://www.googleapis.com/drive/v3/files/1U2ED8Fzqs_Ifw-mJ_BL_PRPCu4zR9uXT?alt=media&key=AIzaSyBaMuhniUIh1Pz81iV08jWQ9TaYgapX9e8
-#EXTINF:-1 tvg-id="" tvg-name="2.0 26/11/2018" tvg-logo="https://subdl.com/p/sd78/sd78203.jpg" group-title="Movies",2.0 26/11/2018
+#EXTINF:-1 tvg-id="" tvg-name="2.0 26/11/2018" tvg-logo="https://subdl.com/p/sd78/sd78203.jpg" group-title="hindi",2.0 26/11/2018
 https://www.googleapis.com/drive/v3/files/1A0HwqdBal5etiupH3Y8pX8cUqnw-Shz4?alt=media&key=AIzaSyDRV0yzC_3X_JOuFzLtVk-78gI0k4Z5adw
 #EXTINF:-1 tvg-id="" tvg-name="Bhaiaji Superhit 20/11/2018" tvg-logo="https://i.imgur.com/4EbknK4.jpg" group-title="hindi",Bhaiaji Superhit 20/11/2018
 https://www.googleapis.com/drive/v3/files/1ibxEwIv1SOhV4XLpKBC2MClrDzVMWwc6?alt=media&key=AIzaSyCxd2WUeBiyyitLryZO-N6bQSoIqrol6mg
@@ -1450,44 +1450,50 @@ https://www.googleapis.com/drive/v3/files/13tIAHPsS05dr_op5pqvmpJAbVAoG13AZ?alt=
 https://www.googleapis.com/drive/v3/files/11F_w9lsvmi37xSEJzhCqmoLTwAbOLdzJ?alt=media&key=AIzaSyDqH7E5lkI_SyaozmKWSrXzhVperRJ3Ou4
 #EXTINF:-1 tvg-id="" tvg-name="Ajnabee 15 1 2001 " tvg-logo="https://i.imgur.com/4qKhJkW.jpg" group-title="hindi",Ajnabee 15 1 2001
 https://www.googleapis.com/drive/v3/files/1GqUF6h1KiIt9khDwA1zh9ULZ99OlnQ5W?alt=media&key=AIzaSyDoyp2V1oZEIojDbmJqxGCVaN0kxCq4Urg
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Farz 29/12/2000 " tvg-logo="https://subdl.com/p/sd488/sd488881.jpg" group-title="hindi",Farz 29/12/2000
+https://www.googleapis.com/drive/v3/files/147pvBs9LAt6HxA-qDvnAeZUYqS4QcFVn?alt=media&key=AIzaSyC5go9FlfhL2FdQxh7722TAc5JdTD8lddQ
+#EXTINF:-1 tvg-id="" tvg-name="champion 18/12/2000 " tvg-logo="https://subdl.com/p/sd297/sd297247.jpg" group-title="hindi",champion 18/12/2000
+https://www.googleapis.com/drive/v3/files/14MFuFxNhegcqbwEQcxWOslb7GdExDYUU?alt=media&key=AIzaSyDJhFpeM5IvBVvN27b8d4xBMfgah5PcVWg
+#EXTINF:-1 tvg-id="" tvg-name="Chori Chori Chupke Chupke 18/12/2000 " tvg-logo="https://subdl.com/p/sd20/sd20717.jpg" group-title="hindi",Chori Chori Chupke Chupke 18/12/2000
+https://www.googleapis.com/drive/v3/files/1lcX-SR71zNmXCYydA-aqulkDFjx0urQJ?alt=media&key=AIzaSyCqCdStmR7b007zOqxaO5Gz3BCv4NP_xnw
+#EXTINF:-1 tvg-id="" tvg-name="Mohabbatein 3/10/2000 " tvg-logo="https://subdl.com/p/sd9/sd9943.jpg" group-title="hindi",Mohabbatein 3/10/2000
+https://www.googleapis.com/drive/v3/files/1lIzTlJOUrgwWUP27js7lRKwasgo8Zmm8?alt=media&key=AIzaSyDo9KLuKeve-Ho7D10luz6cV7mBAGGtKD8
+#EXTINF:-1 tvg-id="" tvg-name="Mohabbatein 3/10/2000 " tvg-logo="https://subdl.com/p/sd9/sd9943.jpg" group-title="hindi",Mohabbatein 3/10/2000
+https://www.googleapis.com/drive/v3/files/111MXPhZ4P5DsWBKYYaFd-ZsS3wXrmZGj?alt=media&key=AIzaSyBmkdy3CisMa_TCkJMypopoyzMm1urTm9I
+#EXTINF:-1 tvg-id="" tvg-name="Dhaai Akshar Prem Ke 18/9/2000 " tvg-logo="https://subdl.com/p/sd214/sd214377.jpg" group-title="hindi",Dhaai Akshar Prem Ke 18/9/2000
+https://www.googleapis.com/drive/v3/files/1OI6yic4XxF9jycp0_xwiltTnEKeE72kv?alt=media&key=AIzaSyDUseW4ycf2KbMFAnYgtTGfJ-HwNK84HBA
+#EXTINF:-1 tvg-id="" tvg-name="Dhaai Akshar Prem Ke 18/9/2000 " tvg-logo="https://subdl.com/p/sd214/sd214377.jpg" group-title="hindi",Dhaai Akshar Prem Ke 18/9/2000
+https://www.googleapis.com/drive/v3/files/1YjNjwLvZ-W_KSkEpoIIrNEqkv_Iih0JS?alt=media&key=AIzaSyDpkIz3nAP8INjINQTKnzw0nd2jYmIZp3M
+#EXTINF:-1 tvg-id="" tvg-name="Fiza 24/8/2000 " tvg-logo="https://subdl.com/p/sd229/sd229388.jpg" group-title="hindi",Fiza 24/8/2000
+https://www.googleapis.com/drive/v3/files/1JImrFZdGo7Vu6jxx_EvXkWaPMNnv9dzY?alt=media&key=AIzaSyBsxmmf3pVa4xMOfgAWDpNk9bTXj6KVLiA
+#EXTINF:-1 tvg-id="" tvg-name="Hamara Dil Aapke Paas Hai 18/8/2000 " tvg-logo="https://subdl.com/p/sd921/sd921516.jpg" group-title="hindi",Hamara Dil Aapke Paas Hai 18/8/2000
+https://www.googleapis.com/drive/v3/files/1n26A5bJmfS61pAjX7RWuhrjnmYH19IPj?alt=media&key=AIzaSyA-xlTdUxNK5joLoq7IQYUQpnXi6njuvYU
+#EXTINF:-1 tvg-id="" tvg-name="Deewane 11/8/2000 " tvg-logo="https://subdl.com/p/sd280/sd280082.jpg" group-title="hindi",Deewane 11/8/2000
+https://www.googleapis.com/drive/v3/files/1vIxqL--27KP1ASDhkQwuO3WH_0CwSaN_?alt=media&key=AIzaSyBnYLFH-sriRsr6_KWp6Yb59NoFUeB4-xw
+#EXTINF:-1 tvg-id="" tvg-name="Dhadkan 11/8/2000 " tvg-logo="https://subdl.com/p/sd213/sd213850.jpg" group-title="hindi",Dhadkan 11/8/2000
+https://www.googleapis.com/drive/v3/files/19y8eHJV3fN7i0Llyx3z6mz8RGRGxmcgf?alt=media&key=AIzaSyD0RmUVE-EVtef6eigI3LKQ4jO2YDCteyI
+#EXTINF:-1 tvg-id="" tvg-name="Har Dil Jo Pyar Karega 24/7/2000 " tvg-logo="https://i.imgur.com/XHLvPuD.jpg" group-title="hindi",Har Dil Jo Pyar Karega 24/7/2000
+https://www.googleapis.com/drive/v3/files/1siv1RUsqHmYil59uhoMssXML3mcigOIn?alt=media&key=AIzaSyCaEx9Yd_XVdRODjFIhqCAlrJq9kwxX8KE
+#EXTINF:-1 tvg-id="" tvg-name="Bichhoo 15/5/2000 " tvg-logo="https://subdl.com/p/sd259/sd259733.jpg" group-title="hindi",Bichhoo 15/5/2000
+https://www.googleapis.com/drive/v3/files/1h7_3Lz37bcloWIEWEKeKNF6QchlLZz8a?alt=media&key=AIzaSyDFrkN_0RPHLu0qVdobjyn6anlNikXSaJE
+#EXTINF:-1 tvg-id="" tvg-name="Chal Mere Bhai 20/4/2000 " tvg-logo="https://i.imgur.com/Yk1rSwB.jpg" group-title="hindi",Chal Mere Bhai 20/4/2000
+https://www.googleapis.com/drive/v3/files/1dNVYsNt1HpmhOIEzq7QDKC5L5bKUvpkG?alt=media&key=AIzaSyA1tKqn32gQcfpCk2vYXXMiqKM8GDpTRlE
+#EXTINF:-1 tvg-id="" tvg-name="Chal Mere Bhai 20/4/2000 " tvg-logo="https://i.imgur.com/Yk1rSwB.jpg" group-title="hindi",Chal Mere Bhai 20/4/2000
+https://www.googleapis.com/drive/v3/files/1GhxlibJL_wZ12dGmoNjbzu1Zi9EkpQFG?alt=media&key=AIzaSyADB5UWDigSAUcaQfMCxULIoibtwyMq_CI
+#EXTINF:-1 tvg-id="" tvg-name="Baaghi 7/4/2000 " tvg-logo="https://i.imgur.com/MLn1S36.jpg" group-title="hindi",Baaghi 7/4/2000
+https://www.googleapis.com/drive/v3/files/1MxyMVCM8P3qujzqaJS4Ije4ScY-34lmt?alt=media&key=AIzaSyDo2UDmvuyGuPbqAaUiZNtm-ubDO93-BbA
+#EXTINF:-1 tvg-id="" tvg-name="Hadh Kar Di Aapne 6/4/2000 " tvg-logo="https://i.imgur.com/uinokEE.jpg" group-title="hindi",Hadh Kar Di Aapne 6/4/2000
+https://www.googleapis.com/drive/v3/files/1GT3z6VWuRAZwbjCLpmPtaPDBbKBu-iPj?alt=media&key=AIzaSyAThNBW85hDRJVpZxMvPz-YanPPzQpm0xs
+#EXTINF:-1 tvg-id="" tvg-name="Hera Pheri 16/3/2000 " tvg-logo="https://i.imgur.com/hCWm6f6.jpg" group-title="hindi",Hera Pheri 16/3/2000
+https://www.googleapis.com/drive/v3/files/13gGHLaI_EFjlsDeXxySvm5F9F6rkqS7J?alt=media&key=AIzaSyDcTA-fAT7F1kmAOnHrJx3kWCtrIMJscm8
+#EXTINF:-1 tvg-id="" tvg-name="Dulhan Hum Le Jayenge 10/3/2000 " tvg-logo="https://subdl.com/p/sd35/sd35484.jpg" group-title="hindi",Dulhan Hum Le Jayenge 10/3/2000
+https://www.googleapis.com/drive/v3/files/1LX83qrueeKft3MTT0gv3FK2KsNt__2HC?alt=media&key=AIzaSyBE431uGBznu3oPt1MCRSFV8_2U66j5vRY
+#EXTINF:-1 tvg-id="" tvg-name="Badal 11/2/2000 " tvg-logo="https://imgur.com/HE6u7Rg" group-title="hindi",Badal 11/2/2000
+https://www.googleapis.com/drive/v3/files/1NgPf9tjlC9Q-6YF8MYKt3vIlgJFOt31N?alt=media&key=AIzaSyBtHY4-DtilYlOCapRQ7dlxuuEVc0qIqqg
+#EXTINF:-1 tvg-id="" tvg-name="Bulandi 7/1/2000 " tvg-logo="https://subdl.com/p/sd686/sd686746.jpg" group-title="hindi",Bulandi 7/1/2000
+https://www.googleapis.com/drive/v3/files/1cpO5vAt_ggSpzO0LQyBrI-fkKvowac6c?alt=media&key=AIzaSyDeow1hPckc8k-qkAwgNvaF40yQ634Mbbs
+#EXTINF:-1 tvg-id="" tvg-name="Phir Bhi Dil Hai Hindustani 7/1/2000 " tvg-logo="https://i.imgur.com/Uf9JCwt.jpg" group-title="hindi",Phir Bhi Dil Hai Hindustani 7/1/2000
+https://www.googleapis.com/drive/v3/files/13VlKF2GV4yb9jvOFhvUfzaGukjH7cCC4?alt=media&key=AIzaSyDjxQ8BvMgaw8RNxGCFnsFkyjNt3xJ64vU
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
