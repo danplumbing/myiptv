@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
 #EXTINF:-1 tvg-id="" tvg-name="Axone 12/6/2020 " tvg-logo="https://i.imgur.com/pg1vlsY.jpg" group-title="hindi",Axone 12/6/2020
 https://www.googleapis.com/drive/v3/files/1vBrZDY0sEPrgM72nePEu9M1BaVVbDPxp?alt=media&key=AIzaSyADdu9qzGLv_dG7Yf-rwfB2JQuM17-O4XI
+#EXTINF:-1 tvg-id="" tvg-name="Agneepath (2012) 1080p " tvg-logo="https://subdl.com/p/sd1/sd1643.jpg" group-title="hindi",Agneepath (2012) 1080p
+https://2020.adnanbibi.workers.dev/Agneepath%2520(2012)%25201080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Choked Paisa Bolta Hai 5/6/2020 " tvg-logo="https://i.imgur.com/wVysKco.jpg" group-title="hindi",Choked Paisa Bolta Hai 5/6/2020
 https://www.googleapis.com/drive/v3/files/1KCJ8BQCt-mmauJlOtUfYRpOkzxPdiVKh?alt=media&key=AIzaSyB9R1pa2ifbApQuKZ_eBz2OK1KpRiQ1twk
 #EXTINF:-1 tvg-id="" tvg-name="Eeb Allay Ooo 30/5/2020 " tvg-logo="https://i.imgur.com/DpOqi72.jpg" group-title="hindi",Eeb Allay Ooo 30/5/2020
