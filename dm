@@ -12,10 +12,14 @@ https://www.googleapis.com/drive/v3/files/1nThaJz66ecCtkM_ZyOkTDFM8NCqMfUde?alt=
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dragon%2520Soldiers%25201152020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Legion 8/5/2020" tvg-logo="https://i.imgur.com/5Ydy03H.jpg" group-title="english",The Legion 8/5/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Legion%2520852020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extraction 24/4/2020" tvg-logo="https://subdl.com/p/sd636/sd636302.jpg" group-title="english",Extraction 24/4/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Extraction%25202442020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Extraction 24/4/2020" tvg-logo="https://subdl.com/p/sd636/sd636302.jpg" group-title="english hindi",Extraction 24/4/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Extraction%25202442020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gulabo Sitabo 17/4/2020 " tvg-logo="https://i.imgur.com/i8b1QXa.jpg" group-title="hindi",Gulabo Sitabo 17/4/2020
 https://www.googleapis.com/drive/v3/files/1slw95m9JBu1PxnaEWoVyXlEwNE4nmyr_?alt=media&key=AIzaSyB8rpPUXBpYnnYDkTUX1xGeWAz6d54HICw
+#EXTINF:-1 tvg-id="" tvg-name="The Main Event 10/4/2020" tvg-logo="https://subdl.com/p/sd651/sd651102.jpg" group-title="english",The Main Event 10/4/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Main%2520Event%25201042020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Main Event 10/4/2020" tvg-logo="https://subdl.com/p/sd651/sd651102.jpg" group-title="english hindi",The Main Event 10/4/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Main%2520Event%25201042020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem 3/4/2020" tvg-logo="https://i.imgur.com/D2dmLrS.jpg" group-title="english",Coffee & Kareem 3/4/2020
@@ -26,6 +30,8 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://www.googleapis.com/drive/v3/files/1BE-u75GP1l3hoW7gjRGKKR7SsmC49gk4?alt=media&key=AIzaSyCTSUwvXrxPobJvxHRCg2bRCKyZYAiKLow
 #EXTINF:-1 tvg-id="" tvg-name="Bulletproof 2 20/3/2020" tvg-logo="https://subdl.com/p/sd470/sd470168.jpg" group-title="english",Bulletproof 2 20/3/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bulletproof%25202%25202032020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bloodshot 13/3/2020" tvg-logo="https://subdl.com/p/sd533/sd533925.jpg" group-title="english",Bloodshot 13/3/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bloodshot%25201332020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bloodshot 13/3/2020" tvg-logo="https://subdl.com/p/sd533/sd533925.jpg" group-title="english hindi",Bloodshot 13/3/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bloodshot%25201332020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bloodshot 2020" tvg-logo="https://subdl.com/p/sd533/sd533925.jpg" group-title="english hindi",Bloodshot 2020
@@ -56,6 +62,8 @@ https://www.googleapis.com/drive/v3/files/1m9AyWFcvIwJWerZN390xlYU-ZjE59Ipr?alt=
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sonic%2520The%2520Hedgehog%25201422020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shikara 7/2/2020" tvg-logo="https://subdl.com/p/sd620/sd620027.jpg" group-title="hindi",Shikara 7/2/2020
 https://www.googleapis.com/drive/v3/files/1NuE6mgSk-cvKKZTYUJtfrXWQpv0xXft1?alt=media&key=AIzaSyDdoC_D3BF2G6JePf6AOZI_rx04yqXPzsc
+#EXTINF:-1 tvg-id="" tvg-name="Underwater 7/2/2020" tvg-logo="https://subdl.com/p/sd478/sd478169.jpg" group-title="english",Underwater 7/2/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Underwater%2520722020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Underwater 7/2/2020" tvg-logo="https://subdl.com/p/sd478/sd478169.jpg" group-title="english hindi",Underwater 7/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Underwater%2520722020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Malang 6/2/2020" tvg-logo="https://i.imgur.com/xWfDdS1.jpg" group-title="hindi",Malang 6/2/2020
@@ -68,6 +76,8 @@ https://www.googleapis.com/drive/v3/files/1rbXuyNjaxvc4Vu0LMxLAwCdamb7g7PNC?alt=
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Rhythm%2520Section%25203112020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Enter The Fat Dragon 23/1/2020" tvg-logo="https://i.imgur.com/eqzBFTd.jpg" group-title="chinese sub eng",Enter The Fat Dragon 23/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Enter%2520The%2520Fat%2520Dragon%25202312020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life 17/1/2020" tvg-logo="https://i.imgur.com/ZGZ3PD3.jpg" group-title="english hindi",Bad Boys for Life 17/1/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bad%2520Boys%2520for%2520Life%25201712020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life 17/1/2020" tvg-logo="https://i.imgur.com/ZGZ3PD3.jpg" group-title="english hindi",Bad Boys for Life 17/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bad%2520Boys%2520for%2520Life%25201712020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Street Dancer 3D 17/1/2020" tvg-logo="https://subdl.com/p/sd510/sd510807.jpg" group-title="hindi",Street Dancer 3D 17/1/2020
