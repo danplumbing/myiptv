@@ -99,9 +99,9 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="The Accidental Prime Minister 27/12/2019" tvg-logo="https://subdl.com/p/sd225/sd225097.jpg" group-title="hindi",The Accidental Prime Minister 27/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Accidental%2520Prime%2520Minister%252027122019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Good Newwz 17/12/2019" tvg-logo="https://subdl.com/p/sd536/sd536494.jpg" group-title="hindi",Good Newwz 17/12/2019
-https://www.googleapis.com/drive/v3/files/1WwXsX4wEqBMyLXrVdJhG-lw_21UDPfpf?alt=media&key=AIzaSyAFyr4QpSkolik9qZ3bmLGtqvIYgMucgok
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Good%2520Newwz%252017122019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dabangg 3 14/12/2019" tvg-logo="https://i.imgur.com/E1xqEjl.jpg" group-title="hindi",Dabangg 3 14/12/2019
-https://www.googleapis.com/drive/v3/files/1DDh3UxHZBKgTlRCzFqdj8iyJNYcjOl_b?alt=media&key=AIzaSyAeRZeCDIhoSb5Q_aEMB3EdGUtJ9-4S3e4
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dabangg%25203%252014122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mauli 12/12/2019" tvg-logo="https://subdl.com/p/sd172/sd172370.jpg" group-title="hindi",Mauli 12/12/2019
 https://www.googleapis.com/drive/v3/files/17KxwuZhzVVHKC6411lDRU_XpqMAgbxLu?alt=media&key=AIzaSyBnZULxYJ6i3ouCfCS_96WP_tGxaH1-U9o
 #EXTINF:-1 tvg-id="" tvg-name="The Body 12/12/2019" tvg-logo="https://images.newasiantv.tv/s2/the-body.7144.jpg" group-title="hindi",The Body 2019
