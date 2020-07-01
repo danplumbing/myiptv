@@ -85,7 +85,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Street Dancer 3D 17/1/2020" tvg-logo="https://subdl.com/p/sd510/sd510807.jpg" group-title="hindi",Street Dancer 3D 17/1/2020
 https://www.googleapis.com/drive/v3/files/1ZI2uBrqdK34roMht-hxNLO8cTg-8LQm_?alt=media&key=AIzaSyBjxBNSlYwZj7s2mremdLR5Q3enVUuF5p4
 #EXTINF:-1 tvg-id="" tvg-name="Jai Mummy Di 16/1/2020" tvg-logo="https://subdl.com/p/sd556/sd556473.jpg" group-title="hindi",Jai Mummy Di 16/1/2020
-https://www.googleapis.com/drive/v3/files/1cAN-tXmE33mP8qU-i7W7p5ocw1l89cDz?alt=media&key=AIzaSyCMwkWU8iSkM3D712e1vp5hS5KM1noZQqM
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jai%2520Mummy%2520Di%25201612020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jesus 12/1/2020" tvg-logo="https://i.imgur.com/DgUSKXX.jpg" group-title="english",Jesus 12/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jesus%25201212020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tanhaji The Unsung Warrior 4/1/2020" tvg-logo="https://subdl.com/p/sd485/sd485004.jpg" group-title="hindi",Tanhaji The Unsung Warrior 4/1/2020
@@ -103,7 +103,7 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Dabangg 3 14/12/2019" tvg-logo="https://i.imgur.com/E1xqEjl.jpg" group-title="hindi",Dabangg 3 14/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dabangg%25203%252014122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mauli 12/12/2019" tvg-logo="https://subdl.com/p/sd172/sd172370.jpg" group-title="hindi",Mauli 12/12/2019
-https://www.googleapis.com/drive/v3/files/17KxwuZhzVVHKC6411lDRU_XpqMAgbxLu?alt=media&key=AIzaSyBnZULxYJ6i3ouCfCS_96WP_tGxaH1-U9o
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mauli%252012122019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Body 12/12/2019" tvg-logo="https://images.newasiantv.tv/s2/the-body.7144.jpg" group-title="hindi",The Body 2019
 https://www.googleapis.com/drive/v3/files/1LejxUo1JmwM8KE7V9d7-gpqNtDiBSdYe?alt=media&key=AIzaSyDHc_ZGUHsW_1Yy8FSL9Hht_wQzO9G3Dgs
 #EXTINF:-1 tvg-id="" tvg-name="Chhapaak 6/12/2020" tvg-logo="https://subdl.com/p/sd547/sd547046.jpg" group-title="hindi",Chhapaak 6/12/2019
