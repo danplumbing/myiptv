@@ -49,11 +49,11 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Angrezi Medium 27/2/2020" tvg-logo="https://subdl.com/p/sd627/sd627486.jpg" group-title="hindi",Angrezi Medium 27/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Angrezi%2520Medium%25202722020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baaghi 3 26/2/2020" tvg-logo="https://subdl.com/p/sd547/sd547988.jpg" group-title="hindi",Baaghi 3 26/2/2020
-https://www.googleapis.com/drive/v3/files/1YzYZxTrORWtL4P9cg17GTvo65exaNcLC?alt=media&key=AIzaSyDG9ju6MNEE9Gm22DVMTtu-E0cMOl92qt4
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baaghi%25203%25202622020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rag Doll 26/2/2020" tvg-logo="https://subdl.com/p/sd546/sd546010.jpg" group-title="english",Rag Doll 26/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rag%2520Doll%25202622020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Thappad 17/2/2020" tvg-logo="https://subdl.com/p/sd562/sd562489.jpg" group-title="hindi",Thappad 17/2/2020
-https://www.googleapis.com/drive/v3/files/1SqMJfB12PgFnLZG5LS7UMJIej0LGgeP1?alt=media&key=AIzaSyCVSJtMqvpL5Epd9bBD46bh3WymKObGS5c
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Thappad%25201722020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhoot Part One The Haunted Ship 14/2/2020" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1jz1ChAwSL._RI_.jpg" group-title="hindi",Bhoot Part One The Haunted Ship 14/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhoot%2520Part%2520One%2520The%2520Haunted%2520Ship%25201422020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Love Aaj Kal 14/2/2020" tvg-logo="https://subdl.com/p/sd730/sd730703.jpg" group-title="hindi",Love Aaj Kal 14/2/2020
@@ -63,7 +63,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Sonic The Hedgehog 14/2/2020" tvg-logo="https://i.imgur.com/xhJfD2w.jpg" group-title="english",Sonic The Hedgehog 14/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sonic%2520The%2520Hedgehog%25201422020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shikara 7/2/2020" tvg-logo="https://subdl.com/p/sd620/sd620027.jpg" group-title="hindi",Shikara 7/2/2020
-https://www.googleapis.com/drive/v3/files/1NuE6mgSk-cvKKZTYUJtfrXWQpv0xXft1?alt=media&key=AIzaSyDdoC_D3BF2G6JePf6AOZI_rx04yqXPzsc
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shikara%2520722020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Underwater 7/2/2020" tvg-logo="https://subdl.com/p/sd478/sd478169.jpg" group-title="english",Underwater 7/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Underwater%2520722020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Underwater 7/2/2020" tvg-logo="https://subdl.com/p/sd478/sd478169.jpg" group-title="english hindi",Underwater 7/2/2020
@@ -73,7 +73,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Hacked 31/1/2020" tvg-logo="https://subdl.com/p/sd613/sd613701.jpg" group-title="hindi",Hacked 31/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hacked%25203112020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jawaani Jaaneman 31/1/2020" tvg-logo="https://subdl.com/p/sd589/sd589322.jpg" group-title="hindi",Jawaani Jaaneman 31/1/2020
-https://www.googleapis.com/drive/v3/files/1rbXuyNjaxvc4Vu0LMxLAwCdamb7g7PNC?alt=media&key=AIzaSyD8g60Vn96KJtGnoFvPBLg4_NqW8EhD1RU
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jawaani%2520Jaaneman%25203112020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Rhythm Section 31/1/2020" tvg-logo="https://subdl.com/p/sd499/sd499429.jpg" group-title="english",The Rhythm Section 31/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Rhythm%2520Section%25203112020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Enter The Fat Dragon 23/1/2020" tvg-logo="https://i.imgur.com/eqzBFTd.jpg" group-title="chinese sub eng",Enter The Fat Dragon 23/1/2020
@@ -89,7 +89,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Jesus 12/1/2020" tvg-logo="https://i.imgur.com/DgUSKXX.jpg" group-title="english",Jesus 12/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jesus%25201212020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tanhaji The Unsung Warrior 4/1/2020" tvg-logo="https://subdl.com/p/sd485/sd485004.jpg" group-title="hindi",Tanhaji The Unsung Warrior 4/1/2020
-https://www.googleapis.com/drive/v3/files/18vuQFzmfJicknBr9DxQkECFCh3GMgB7j?alt=media&key=AIzaSyAlbrr4v9sF-YAidyxMXJgkgl_hBvWKufs
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Tanhaji%2520The%2520Unsung%2520Warrior%2520412020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shimla Mirchi 3/1/2020" tvg-logo="https://subdl.com/p/sd504/sd504692.jpg" group-title="hindi",Shimla Mirchi 3/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shimla%2520Mirchi%25202020%25201080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhangra Paa Le 3/1/2020" tvg-logo="https://subdl.com/p/sd545/sd545004.jpg" group-title="hindi",Bhangra Paa Le 3/1/2020
