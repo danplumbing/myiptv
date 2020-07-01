@@ -57,9 +57,9 @@ https://www.googleapis.com/drive/v3/files/1SqMJfB12PgFnLZG5LS7UMJIej0LGgeP1?alt=
 #EXTINF:-1 tvg-id="" tvg-name="Bhoot Part One The Haunted Ship 14/2/2020" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1jz1ChAwSL._RI_.jpg" group-title="hindi",Bhoot Part One The Haunted Ship 14/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhoot%2520Part%2520One%2520The%2520Haunted%2520Ship%25201422020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Love Aaj Kal 14/2/2020" tvg-logo="https://subdl.com/p/sd730/sd730703.jpg" group-title="hindi",Love Aaj Kal 14/2/2020
-https://www.googleapis.com/drive/v3/files/1QGRV0e8TH3l63KKaLrG-wD_1-qH3dk1Q?alt=media&key=AIzaSyBnEC_pDnuN21BoZ8Rp3nGAAjptCC7WQP8
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Love%2520Aaj%2520Kal%25201422020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shubh Mangal Zyada Saavdhan 14/2/2020" tvg-logo="https://subdl.com/p/sd690/sd690037.jpg" group-title="hindi",Shubh Mangal Zyada Saavdhan 14/2/2020
-https://www.googleapis.com/drive/v3/files/1m9AyWFcvIwJWerZN390xlYU-ZjE59Ipr?alt=media&key=AIzaSyBrMvXdNmcA-SJgwVHmI0yp-6a6GQ4U9bo
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shubh%2520Mangal%2520Zyada%2520Saavdhan%25201422020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sonic The Hedgehog 14/2/2020" tvg-logo="https://i.imgur.com/xhJfD2w.jpg" group-title="english",Sonic The Hedgehog 14/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sonic%2520The%2520Hedgehog%25201422020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shikara 7/2/2020" tvg-logo="https://subdl.com/p/sd620/sd620027.jpg" group-title="hindi",Shikara 7/2/2020
@@ -83,7 +83,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life 17/1/2020" tvg-logo="https://i.imgur.com/ZGZ3PD3.jpg" group-title="english hindi",Bad Boys for Life 17/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bad%2520Boys%2520for%2520Life%25201712020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Street Dancer 3D 17/1/2020" tvg-logo="https://subdl.com/p/sd510/sd510807.jpg" group-title="hindi",Street Dancer 3D 17/1/2020
-https://www.googleapis.com/drive/v3/files/1ZI2uBrqdK34roMht-hxNLO8cTg-8LQm_?alt=media&key=AIzaSyBjxBNSlYwZj7s2mremdLR5Q3enVUuF5p4
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Street%2520Dancer%25203D%25201712020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jai Mummy Di 16/1/2020" tvg-logo="https://subdl.com/p/sd556/sd556473.jpg" group-title="hindi",Jai Mummy Di 16/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jai%2520Mummy%2520Di%25201612020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jesus 12/1/2020" tvg-logo="https://i.imgur.com/DgUSKXX.jpg" group-title="english",Jesus 12/1/2020
@@ -109,25 +109,25 @@ https://www.googleapis.com/drive/v3/files/1LejxUo1JmwM8KE7V9d7-gpqNtDiBSdYe?alt=
 #EXTINF:-1 tvg-id="" tvg-name="Chhapaak 6/12/2020" tvg-logo="https://subdl.com/p/sd547/sd547046.jpg" group-title="hindi",Chhapaak 6/12/2019
 https://www.googleapis.com/drive/v3/files/1cYnpFlq9zf_v55tCv4v0JWXDA5eQHoge?alt=media&key=AIzaSyC3-wo9nEI25YC2linGpUfOMwPrdiwMRu4
 #EXTINF:-1 tvg-id="" tvg-name="Panipat 5/12/2019" tvg-logo="https://i.imgur.com/CKO0cZQ.jpg" group-title="hindi",Panipat 5/12/2019
-https://www.googleapis.com/drive/v3/files/1DbZIuZ-KSLI1GYuJAIqkyl9XQvVorOwN?alt=media&key=AIzaSyDs2AatYQaC2MDigJe58uhDJ5TkHjxzGXk
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Panipat%25205122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mardaani 2 3/12/2019" tvg-logo="https://subdl.com/p/sd518/sd518067.jpg" group-title="hindi",Mardaani 2 3/12/2019
-https://www.googleapis.com/drive/v3/files/1qGiUJV-Epf6Jzg4ern-IygSZ_ImFk9mJ?alt=media&key=AIzaSyBqxDWNbxu6mRdCLxrQxaeYzHw5zJgavMk
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mardaani%25202%25203122019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pati Patni Aur Woh 25/11/2019" tvg-logo="https://subdl.com/p/sd511/sd511177.jpg" group-title="hindi",Pati Patni Aur Woh 25/11/2019
-https://www.googleapis.com/drive/v3/files/1vbnQvxLpbye87vUkFe2vP2w2X5xl4L0d?alt=media&key=AIzaSyC75yZjjvCcFcKmNp6teEmTlmbuUgKqCJs
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pati%2520Patni%2520Aur%2520Woh%252025112019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Commando 3 22/11/2019" tvg-logo="https://subdl.com/p/sd534/sd534017.jpg" group-title="hindi",Commando 3 22/11/2019
-https://www.googleapis.com/drive/v3/files/1EyKX2YaFJQfKTeli5NvIjZTIxwMKgQkO?alt=media&key=AIzaSyDkb4m3y5RMcQpkEQ33f7yQ4TJS-mTvkCc
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Commando%25203%252022112019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Yeh Saali Aashiqui 22/11/2019" tvg-logo="https://subdl.com/p/sd575/sd575759.jpg" group-title="hindi",Yeh Saali Aashiqui 22/11/2019
-https://www.googleapis.com/drive/v3/files/16HVWx5J5j5hJB6EBxnoSsrWN8WgrXepM?alt=media&key=AIzaSyCJqzRRMPp_rJnD3oRT4blf2UnHTMmJaEc
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Yeh%2520Saali%2520Aashiqui%252022112019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="House Arrest 15/11/2019" tvg-logo="https://subdl.com/p/sd388/sd388537.jpg" group-title="hindi",House Arrest 15/11/2019
-https://www.googleapis.com/drive/v3/files/17xI_l5eDRcHFp8a7d_BYee5ezTmEFCtY?alt=media&key=AIzaSyD7fuNkXGsKsB40PpkJKol-ukue2O0sheg
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/House%2520Arrest%252015112019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Motichoor Chaknachoor 15/11/2019" tvg-logo="https://subdl.com/p/sd497/sd497465.jpg" group-title="hindi",Motichoor Chaknachoor 15/11/2019
-https://www.googleapis.com/drive/v3/files/10vM6W44R9RCzIwU4neQ_Ycoe-8RCvTHk?alt=media&key=AIzaSyB0f0hLWaDX8hX3PqH_msHwQq0yHSjafXw
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Motichoor%2520Chaknachoor%252015112019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pagalpanti 15/11/2019" tvg-logo="https://i.imgur.com/zdsJxbH.jpg" group-title="hindi",Pagalpanti 15/11/2019
-https://www.googleapis.com/drive/v3/files/1yDmSzUdhXs9o734ijZLUHgMQcpPsJsrS?alt=media&key=AIzaSyB_lt45t5CJoDfpo1wtU9FPCGcw4Ll1svk
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pagalpanti%252015112019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bypass Road 8/11/2019" tvg-logo="https://subdl.com/p/sd556/sd556657.jpg" group-title="hindi",Bypass Road 8/11/2019
-https://www.googleapis.com/drive/v3/files/1oZ1gpAsKqbY2_XGjksF3Set-ruZW7sJY?alt=media&key=AIzaSyCRi4toSsT3Qk7IqTUjFXaFH0Yrj7bcGLc
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bypass%2520Road%25208112019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bala 25/10/2019" tvg-logo="https://subdl.com/p/sd492/sd492156.jpg" group-title="hindi",Bala 25/10/2019
-https://www.googleapis.com/drive/v3/files/1BiUYkITzEPvxQdFCBbjGWjB-AAwWD_DT?alt=media&key=AIzaSyDJTBp5dfZ6j3cx2uad7rcqPkaBfCorVOE
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bala%252025102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Made in China 25/10/2019" tvg-logo="https://subdl.com/p/sd487/sd487738.jpg" group-title="hindi",Made in China 25/10/2019
 https://www.googleapis.com/drive/v3/files/1Ej6MxGSeN23ndO3lyuw6BM1mD3JlBxfj?alt=media&key=AIzaSyAl4-SIeHg1LFQYYTUPeWcJcDnvvSWJkOE
 #EXTINF:-1 tvg-id="" tvg-name="Terminator Dark Fate 23/10/2019" tvg-logo="https://i.imgur.com/xTqqVft.jpg" group-title="english hindi",Terminator Dark Fate 23/10/2019
