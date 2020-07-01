@@ -105,9 +105,9 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Mauli 12/12/2019" tvg-logo="https://subdl.com/p/sd172/sd172370.jpg" group-title="hindi",Mauli 12/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mauli%252012122019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Body 12/12/2019" tvg-logo="https://images.newasiantv.tv/s2/the-body.7144.jpg" group-title="hindi",The Body 2019
-https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Body%252012/12/2019.mkv
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Body%252012122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chhapaak 6/12/2020" tvg-logo="https://subdl.com/p/sd547/sd547046.jpg" group-title="hindi",Chhapaak 6/12/2019
-https://www.googleapis.com/drive/v3/files/1cYnpFlq9zf_v55tCv4v0JWXDA5eQHoge?alt=media&key=AIzaSyC3-wo9nEI25YC2linGpUfOMwPrdiwMRu4
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chhapaak%25206122019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Panipat 5/12/2019" tvg-logo="https://i.imgur.com/CKO0cZQ.jpg" group-title="hindi",Panipat 5/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Panipat%25205122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mardaani 2 3/12/2019" tvg-logo="https://subdl.com/p/sd518/sd518067.jpg" group-title="hindi",Mardaani 2 3/12/2019
@@ -129,23 +129,23 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Bala 25/10/2019" tvg-logo="https://subdl.com/p/sd492/sd492156.jpg" group-title="hindi",Bala 25/10/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bala%252025102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Made in China 25/10/2019" tvg-logo="https://subdl.com/p/sd487/sd487738.jpg" group-title="hindi",Made in China 25/10/2019
-https://www.googleapis.com/drive/v3/files/1Ej6MxGSeN23ndO3lyuw6BM1mD3JlBxfj?alt=media&key=AIzaSyAl4-SIeHg1LFQYYTUPeWcJcDnvvSWJkOE
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Made%2520in%2520China%252025102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Terminator Dark Fate 23/10/2019" tvg-logo="https://i.imgur.com/xTqqVft.jpg" group-title="english hindi",Terminator Dark Fate 23/10/2019
-https://www.googleapis.com/drive/v3/files/1A5YbjA_ZuTrrinp_ooDxEN--S-c1eRNP?alt=media&key=AIzaSyBnZULxYJ6i3ouCfCS_96WP_tGxaH1-U9o
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Terminator%2520Dark%2520Fate%252023102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Saand Ki Aankh 18/10/2019" tvg-logo="https://subdl.com/p/sd455/sd455354.jpg" group-title="hindi",Saand Ki Aankh 18/10/2019
-https://www.googleapis.com/drive/v3/files/1iJVjMQrCO_2qHobADcswsMZBe2bicZe8?alt=media&key=AIzaSyCIxdwVR3h9cAI8Rl0ocwqT4eBlgWjR1A4
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saand%2520Ki%2520Aankh%252018102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ghost 15/10/2019" tvg-logo="https://subdl.com/p/sd516/sd516760.jpg" group-title="hindi",Ghost 15/10/2019
-https://www.googleapis.com/drive/v3/files/1Et3DbIK3qwOxby_V-K6jj54d-IgTD_P9?alt=media&key=AIzaSyAlbrr4v9sF-YAidyxMXJgkgl_hBvWKufs
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ghost%252015102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Housefull 4 15/10/2019" tvg-logo="https://i.imgur.com/1XrzfH8.jpg" group-title="hindi",Housefull 4 15/10/2019
-https://www.googleapis.com/drive/v3/files/1hX_Ypt-tmTsg9mr-sTwteABUTmVUNDwn?alt=media&key=AIzaSyCMwkWU8iSkM3D712e1vp5hS5KM1noZQqM
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Housefull%25204%252015102019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Laal Kaptaan 11/10/2019" tvg-logo="https://i.imgur.com/yLfIBFi.jpg" group-title="hindi",Laal Kaptaan 11/10/2019
-https://www.googleapis.com/drive/v3/files/1jee4cZXbiZfQSzBYTaluk7wZX9zBkF3_?alt=media&key=AIzaSyAptjEGVhEMuk8lylZ37DMX7-ZcwjhJd-c
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Laal%2520Kaptaan%252011102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Sky Is Pink 11/10/2019" tvg-logo="https://i.imgur.com/fKGygEc.jpg" group-title="hindi",The Sky Is Pink 11/10/2019
-https://www.googleapis.com/drive/v3/files/128KB9dKBH9ESVPXxqz6LjB7UgOzTzVip?alt=media&key=AIzaSyD8g60Vn96KJtGnoFvPBLg4_NqW8EhD1RU
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Sky%2520Is%2520Pink%252011102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sye Raa Narasimha Reddy 30/9/2019" tvg-logo="https://i.imgur.com/ApgKK90.jpg" group-title="hindi",Sye Raa Narasimha Reddy 30/9/2019
-https://www.googleapis.com/drive/v3/files/1B6fStD9wTCp2tqfGDwnwsrZtCByJ-Jh0?alt=media&key=AIzaSyDdoC_D3BF2G6JePf6AOZI_rx04yqXPzsc
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sye%2520Raa%2520Narasimha%2520Reddy%25203092019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="War 23/9/2019" tvg-logo="https://subdl.com/p/sd405/sd405744.jpg" group-title="hindi",War 23/9/2019
-https://www.googleapis.com/drive/v3/files/15S9BfzmM_Oocn4XmgbXumYYtCA9cBPve?alt=media&key=AIzaSyAWwvWi55dyP8pNFc6PjFxUisepy9WU01o
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/War%25202392019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Family Man 20/9/2019" tvg-logo="https://i.imgur.com/j9utBoL.jpg" group-title="hindi",The Family Man 20/9/2019
 https://www.googleapis.com/drive/v3/files/1fLMDtMQ1xFa7A2gOUDI9D_myVvJruBKh?alt=media&key=AIzaSyBG8mJcHowLw9UWinEEmFrznoyZjcdyKWY
 #EXTINF:-1 tvg-id="" tvg-name="The Zoya Factor 20/9/2019" tvg-logo="https://subdl.com/p/sd409/sd409184.jpg" group-title="hindi",The Zoya Factor 20/9/2019
@@ -169,7 +169,7 @@ https://www.googleapis.com/drive/v3/files/1drSW3VPcFxjithW8zlTe2V_-OwFTNfrV?alt=
 #EXTINF:-1 tvg-id="" tvg-name="Mission Mangal 6/8/2019" tvg-logo="https://subdl.com/p/sd349/sd349713.jpg" group-title="hindi",Mission Mangal 6/8/2019
 https://www.googleapis.com/drive/v3/files/1IOpo4Ic-iYMk618eyvl37S3L02ZXsExo?alt=media&key=AIzaSyBwYQf_jyE3eYLgCmLM5UIftUHlMWYNxFc
 #EXTINF:-1 tvg-id="" tvg-name="Batla House 31/7/2019" tvg-logo="https://i.imgur.com/zZBdm1G.jpg" group-title="hindi",Batla House 31/7/2019
-https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Batla%2520House%252031/7/2019.mp4
+https://www.googleapis.com/drive/v3/files/190BiBqmU0FOSXh70NN6e6JrlW1ez2ab4?alt=media&key=AIzaSyAo9qF1Peq9uUqMpoqZSbp8UcF2Jh5o6ag
 #EXTINF:-1 tvg-id="" tvg-name="Khandaani Shafakhana 30/7/2019" tvg-logo="https://i.imgur.com/5IYS5sk.jpg" group-title="hindi",Khandaani Shafakhana 30/7/2019
 https://www.googleapis.com/drive/v3/files/1_Du2C46xLxgY8zmotAsX6WOZSs5-FIhb?alt=media&key=AIzaSyBqCrhJfKNyx0dFCPViYjecdXH41y5li-o
 #EXTINF:-1 tvg-id="" tvg-name="Judgementall Hai Kya 22/7/2019" tvg-logo="https://i.imgur.com/7bBf0qA.jpg" group-title="hindi",Judgementall Hai Kya 22/7/2019
