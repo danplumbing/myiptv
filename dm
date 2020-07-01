@@ -169,7 +169,7 @@ https://www.googleapis.com/drive/v3/files/1drSW3VPcFxjithW8zlTe2V_-OwFTNfrV?alt=
 #EXTINF:-1 tvg-id="" tvg-name="Mission Mangal 6/8/2019" tvg-logo="https://subdl.com/p/sd349/sd349713.jpg" group-title="hindi",Mission Mangal 6/8/2019
 https://www.googleapis.com/drive/v3/files/1IOpo4Ic-iYMk618eyvl37S3L02ZXsExo?alt=media&key=AIzaSyBwYQf_jyE3eYLgCmLM5UIftUHlMWYNxFc
 #EXTINF:-1 tvg-id="" tvg-name="Batla House 31/7/2019" tvg-logo="https://i.imgur.com/zZBdm1G.jpg" group-title="hindi",Batla House 31/7/2019
-https://www.googleapis.com/drive/v3/files/190BiBqmU0FOSXh70NN6e6JrlW1ez2ab4?alt=media&key=AIzaSyAo9qF1Peq9uUqMpoqZSbp8UcF2Jh5o6ag
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Batla%2520House%252031/7/2019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Khandaani Shafakhana 30/7/2019" tvg-logo="https://i.imgur.com/5IYS5sk.jpg" group-title="hindi",Khandaani Shafakhana 30/7/2019
 https://www.googleapis.com/drive/v3/files/1_Du2C46xLxgY8zmotAsX6WOZSs5-FIhb?alt=media&key=AIzaSyBqCrhJfKNyx0dFCPViYjecdXH41y5li-o
 #EXTINF:-1 tvg-id="" tvg-name="Judgementall Hai Kya 22/7/2019" tvg-logo="https://i.imgur.com/7bBf0qA.jpg" group-title="hindi",Judgementall Hai Kya 22/7/2019
