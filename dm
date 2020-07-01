@@ -5,9 +5,9 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Agneepath (2012) 1080p " tvg-logo="https://subdl.com/p/sd1/sd1643.jpg" group-title="hindi",Agneepath (2012) 1080p
 https://snowy-poetry-5455-2012.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Agneepath%2520(2012)%25201080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Choked Paisa Bolta Hai 5/6/2020 " tvg-logo="https://i.imgur.com/wVysKco.jpg" group-title="hindi",Choked Paisa Bolta Hai 5/6/2020
-https://www.googleapis.com/drive/v3/files/1KCJ8BQCt-mmauJlOtUfYRpOkzxPdiVKh?alt=media&key=AIzaSyB9R1pa2ifbApQuKZ_eBz2OK1KpRiQ1twk
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Choked%2520Paisa%2520Bolta%2520Hai%2520562020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Eeb Allay Ooo 30/5/2020 " tvg-logo="https://i.imgur.com/DpOqi72.jpg" group-title="hindi",Eeb Allay Ooo 30/5/2020
-https://www.googleapis.com/drive/v3/files/1nThaJz66ecCtkM_ZyOkTDFM8NCqMfUde?alt=media&key=AIzaSyAZYOY7CrVQAZfcb7kR8BKW5eCh8U3mKSs
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Eeb%2520Allay%2520Ooo%25203052020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Soldiers 11/5/2020" tvg-logo="https://subdl.com/p/sd799/sd799104.jpg" group-title="english",Dragon Soldiers 11/5/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dragon%2520Soldiers%25201152020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Legion 8/5/2020" tvg-logo="https://i.imgur.com/5Ydy03H.jpg" group-title="english",The Legion 8/5/2020
@@ -17,7 +17,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Extraction 24/4/2020" tvg-logo="https://subdl.com/p/sd636/sd636302.jpg" group-title="english hindi",Extraction 24/4/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Extraction%25202442020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gulabo Sitabo 17/4/2020 " tvg-logo="https://i.imgur.com/i8b1QXa.jpg" group-title="hindi",Gulabo Sitabo 17/4/2020
-https://www.googleapis.com/drive/v3/files/1slw95m9JBu1PxnaEWoVyXlEwNE4nmyr_?alt=media&key=AIzaSyB8rpPUXBpYnnYDkTUX1xGeWAz6d54HICw
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gulabo%2520Sitabo%25201742020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Main Event 10/4/2020" tvg-logo="https://subdl.com/p/sd651/sd651102.jpg" group-title="english",The Main Event 10/4/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Main%2520Event%25201042020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Main Event 10/4/2020" tvg-logo="https://subdl.com/p/sd651/sd651102.jpg" group-title="english hindi",The Main Event 10/4/2020
@@ -27,7 +27,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Shooting Heroin 3/4/2020" tvg-logo="https://i.imgur.com/OklIW3s.jpg" group-title="english",Shooting Heroin 3/4/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shooting%2520Heroin%2520342020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maska 27/3/2020" tvg-logo="https://subdl.com/p/sd588/sd588384.jpg" group-title="hindi",Maska 27/3/2020
-https://www.googleapis.com/drive/v3/files/1BE-u75GP1l3hoW7gjRGKKR7SsmC49gk4?alt=media&key=AIzaSyCTSUwvXrxPobJvxHRCg2bRCKyZYAiKLow
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Maska%25202732020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bulletproof 2 20/3/2020" tvg-logo="https://subdl.com/p/sd470/sd470168.jpg" group-title="english",Bulletproof 2 20/3/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bulletproof%25202%25202032020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bloodshot 13/3/2020" tvg-logo="https://subdl.com/p/sd533/sd533925.jpg" group-title="english",Bloodshot 13/3/2020
@@ -43,9 +43,9 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Guilty 6/3/2020" tvg-logo="https://subdl.com/p/sd547/sd547413.jpg" group-title="hindi",Guilty 6/3/2020
 https://www.googleapis.com/drive/v3/files/1CJr0bzWfqdLk8dlb8FtA3YdPHbLE2_bo?alt=media&key=AIzaSyALaGbbU5i2tq7sv55BclGm4uO3IPQnlAc
 #EXTINF:-1 tvg-id="" tvg-name="Kaamyaab 6/3/2020" tvg-logo="https://subdl.com/p/sd635/sd635783.jpg" group-title="hindi",Kaamyaab 6/3/2020
-https://www.googleapis.com/drive/v3/files/1v7T-Yt39b3DRN8Mm2WWgRAPoN2Dixall?alt=media&key=AIzaSyCr1NL4Gzg_hlgCPpN5RX-yWUPn99JRDAg
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kaamyaab%2520632020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Angrezi Medium 27/2/2020" tvg-logo="https://subdl.com/p/sd627/sd627486.jpg" group-title="hindi",Angrezi Medium 27/2/2020
-https://www.googleapis.com/drive/v3/files/1MEPT0hDytZu5e6XfX6J_NbPT1gviu3uW?alt=media&key=AIzaSyBv_L1XoeK-C4LWt7WzwJdAq3kXkY6GhSo
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Angrezi%2520Medium%25202722020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baaghi 3 26/2/2020" tvg-logo="https://subdl.com/p/sd547/sd547988.jpg" group-title="hindi",Baaghi 3 26/2/2020
 https://www.googleapis.com/drive/v3/files/1YzYZxTrORWtL4P9cg17GTvo65exaNcLC?alt=media&key=AIzaSyDG9ju6MNEE9Gm22DVMTtu-E0cMOl92qt4
 #EXTINF:-1 tvg-id="" tvg-name="Rag Doll 26/2/2020" tvg-logo="https://subdl.com/p/sd546/sd546010.jpg" group-title="english",Rag Doll 26/2/2020
