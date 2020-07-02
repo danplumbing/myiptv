@@ -155,37 +155,37 @@ https://www.googleapis.com/drive/v3/files/1fLMDtMQ1xFa7A2gOUDI9D_myVvJruBKh?alt=
 #EXTINF:-1 tvg-id="" tvg-name="The Zoya Factor 20/9/2019" tvg-logo="https://subdl.com/p/sd409/sd409184.jpg" group-title="hindi",The Zoya Factor 20/9/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Zoya%2520Factor%25202092019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pal Pal Dil Ke Paas 18/9/2019" tvg-logo="https://i.imgur.com/jH2BxBI.jpg" group-title="hindi",Pal Pal Dil Ke Paas 18/9/2019
-https://www.googleapis.com/drive/v3/files/1uomItKcAQc1Tv14r7s8QerbmlYYJIW5U?alt=media&key=AIzaSyDG9ju6MNEE9Gm22DVMTtu-E0cMOl92qt4
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pal%2520Pal%2520Dil%2520Ke%2520Paas%25201892019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Prassthanam 17/9/2019" tvg-logo="https://i.imgur.com/RfAvIMG.jpg" group-title="hindi",Prassthanam 17/9/2019
 https://www.googleapis.com/drive/v3/files/12_v7KxDh-BNLqwO3vrcZDoTpz1OC5n1X?alt=media&key=AIzaSyBv_L1XoeK-C4LWt7WzwJdAq3kXkY6GhSo
 #EXTINF:-1 tvg-id="" tvg-name="Dream Girl 9/9/2019" tvg-logo="https://subdl.com/p/sd395/sd395631.jpg" group-title="hindi",Dream Girl 9/9/2019
-https://www.googleapis.com/drive/v3/files/1akJPbWiHj9U4Fsg6ivhZZU9MGnxaFhnb?alt=media&key=AIzaSyBgahRs63XNKmApVzTYho1OtGR2bceynn4
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dream%2520Girl%2520992019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Section 375 9/9/2019" tvg-logo="https://i.imgur.com/7dtuwXn.jpg" group-title="hindi",Section 375 9/9/2019
-https://www.googleapis.com/drive/v3/files/1SD9BjMR5jg39O9fF_AX-BMNcAlQ_C6vb?alt=media&key=AIzaSyAQ2MM5RPHrHQIkEW5FS0yWdFps_F6TvZM
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Section%2520375%2520992019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Saaho 30/8/2019" tvg-logo="https://i.imgur.com/l254EID.jpg" group-title="hindi",Saaho 30/8/2019
-https://www.googleapis.com/drive/v3/files/1mqHupQH5muWYalrqw9Mva6Faw0Bo0CVS?alt=media&key=AIzaSyATiRQIb68t6ILJeFT84CHg8ezTDHE73ns
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saaho%25203082019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Posham Pa 23/8/2019" tvg-logo="https://i.imgur.com/z3gaTfj.jpg" group-title="hindi",Posham Pa 23/8/2019
-https://www.googleapis.com/drive/v3/files/1y5JTvI_reW2NEEr6Yu4IbfauzVwlYh_Y?alt=media&key=AIzaSyCkyhZqbltow-6dlQQOnFExM3v-RR-NhPk
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Posham%2520Pa%25202382019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chhichhore 20/8/2019" tvg-logo="https://i.imgur.com/875oqEl.jpg" group-title="hindi",Chhichhore 20/8/2019
-https://www.googleapis.com/drive/v3/files/18FQz8ZTWMZkpdntaQdHPG-X_U3a9_hWD?alt=media&key=AIzaSyB519aCMrz63xFZOgr2aGX8Gf6WvfgIGlI
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chhichhore%25202082019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Barot House 7/8/2019" tvg-logo="https://subdl.com/p/sd343/sd343583.jpg" group-title="hindi",Barot House 7/8/2019
-https://www.googleapis.com/drive/v3/files/1drSW3VPcFxjithW8zlTe2V_-OwFTNfrV?alt=media&key=AIzaSyAwX0AqIASixuOljK7eFlQ119wxvuw6doU
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Barot%2520House%2520782019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mission Mangal 6/8/2019" tvg-logo="https://subdl.com/p/sd349/sd349713.jpg" group-title="hindi",Mission Mangal 6/8/2019
-https://www.googleapis.com/drive/v3/files/1IOpo4Ic-iYMk618eyvl37S3L02ZXsExo?alt=media&key=AIzaSyBwYQf_jyE3eYLgCmLM5UIftUHlMWYNxFc
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mission%2520Mangal%2520682019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Batla House 31/7/2019" tvg-logo="https://i.imgur.com/zZBdm1G.jpg" group-title="hindi",Batla House 31/7/2019
-https://www.googleapis.com/drive/v3/files/190BiBqmU0FOSXh70NN6e6JrlW1ez2ab4?alt=media&key=AIzaSyAo9qF1Peq9uUqMpoqZSbp8UcF2Jh5o6ag
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Batla%2520House%25203172019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Khandaani Shafakhana 30/7/2019" tvg-logo="https://i.imgur.com/5IYS5sk.jpg" group-title="hindi",Khandaani Shafakhana 30/7/2019
-https://www.googleapis.com/drive/v3/files/1_Du2C46xLxgY8zmotAsX6WOZSs5-FIhb?alt=media&key=AIzaSyBqCrhJfKNyx0dFCPViYjecdXH41y5li-o
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Khandaani%2520Shafakhana%25203072019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Judgementall Hai Kya 22/7/2019" tvg-logo="https://i.imgur.com/7bBf0qA.jpg" group-title="hindi",Judgementall Hai Kya 22/7/2019
-https://www.googleapis.com/drive/v3/files/18EBvUe1SkdyG41Ti2P2GEa7x1XpZIIgU?alt=media&key=AIzaSyDzVTC47MuYMFjISIShG53j5fSdMHDdtcU
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Judgementall%2520Hai%2520Kya%25202272019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Super 30 6/7/2019" tvg-logo="https://i.imgur.com/wNPpr1t.jpg" group-title="hindi",Super 30 6/7/2019
 https://www.googleapis.com/drive/v3/files/13wvwRzamuyj53AzA_Ro7RXKpEeeK8r1_?alt=media&key=AIzaSyCbXDQRhS_L7a91P2KPGQ-fM9TTop4jZlo
 #EXTINF:-1 tvg-id="" tvg-name="Malaal 5/7/2019" tvg-logo="https://subdl.com/p/sd340/sd340512.jpg" group-title="hindi",Malaal 5/7/2019
-https://www.googleapis.com/drive/v3/files/1jldh37Hj0fYC_KhBZ1BtXEmiOXWbkqCr?alt=media&key=AIzaSyD_r63gHh0QjnXxpIvGoWdy8HNVQiGw69Q
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Malaal%2520572019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Article 15 28/6/2019" tvg-logo="https://subdl.com/p/sd294/sd294152.jpg" group-title="hindi",Article 15 28/6/2019
-https://www.googleapis.com/drive/v3/files/1Med2dqFs3n3hG7GVssGN3CfPIM1UcVIY?alt=media&key=AIzaSyDRdf6vWqR-WcHXZtm_wNZ7aiSuKFqrxoY
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Article%252015%25202862019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Drive 28/6/2019" tvg-logo="https://subdl.com/p/sd371/sd371456.jpg" group-title="hindi"Drive 28/6/2019
-https://www.googleapis.com/drive/v3/files/1MI6lK2xGeIrNVWxlOx5VY3VF4mnzAYEd?alt=media&key=AIzaSyAo9qF1Peq9uUqMpoqZSbp8UcF2Jh5o6ag
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Drive%25202862019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Noblemen 28/6/2019" tvg-logo="https://subdl.com/p/sd510/sd510291.jpg" group-title="hindi",Noblemen 28/6/2019
 https://www.googleapis.com/drive/v3/files/1gUdZ1Ktq82V8d83tGKoTHmY9A4Oa2MyI?alt=media&key=AIzaSyDMmHA5XX19vSbfnNMoA_-a-kwsTIUULM0
 #EXTINF:-1 tvg-id="" tvg-name="One Day Justice Delivered 18/6/2019" tvg-logo="https://i.imgur.com/vibWw3L.jpg" group-title="hindi",One Day Justice Delivered 18/6/2019
