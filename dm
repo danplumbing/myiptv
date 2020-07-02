@@ -149,7 +149,7 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="The Family Man 20/9/2019" tvg-logo="https://i.imgur.com/j9utBoL.jpg" group-title="hindi",The Family Man 20/9/2019
 https://www.googleapis.com/drive/v3/files/1fLMDtMQ1xFa7A2gOUDI9D_myVvJruBKh?alt=media&key=AIzaSyBG8mJcHowLw9UWinEEmFrznoyZjcdyKWY
 #EXTINF:-1 tvg-id="" tvg-name="The Zoya Factor 20/9/2019" tvg-logo="https://subdl.com/p/sd409/sd409184.jpg" group-title="hindi",The Zoya Factor 20/9/2019
-https://www.googleapis.com/drive/v3/files/1UvyUDWdNAVcw0EweY3dNQcvZ3xQmiEB9?alt=media&key=AIzaSyBnEC_pDnuN21BoZ8Rp3nGAAjptCC7WQP8
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Zoya%2520Factor%25202092019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pal Pal Dil Ke Paas 18/9/2019" tvg-logo="https://i.imgur.com/jH2BxBI.jpg" group-title="hindi",Pal Pal Dil Ke Paas 18/9/2019
 https://www.googleapis.com/drive/v3/files/1uomItKcAQc1Tv14r7s8QerbmlYYJIW5U?alt=media&key=AIzaSyDG9ju6MNEE9Gm22DVMTtu-E0cMOl92qt4
 #EXTINF:-1 tvg-id="" tvg-name="Prassthanam 17/9/2019" tvg-logo="https://i.imgur.com/RfAvIMG.jpg" group-title="hindi",Prassthanam 17/9/2019
