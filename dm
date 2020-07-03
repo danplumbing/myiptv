@@ -6,6 +6,8 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bulbbul%252024/6/2020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chaman Bahaar 19/6/2020 " tvg-logo="https://i.imgur.com/2At3MVN.jpg" group-title="hindi",Chaman Bahaar 19/6/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chaman%2520Bahaar%252019/6/2020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kadakh 18/6/2020 " tvg-logo="https://i.imgur.com/WD8PnDu.jpg" group-title="hindi",Kadakh 18/6/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kadakh%25201862020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Axone 12/6/2020 " tvg-logo="https://i.imgur.com/pg1vlsY.jpg" group-title="hindi",Axone 12/6/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Axone%25201262020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Agneepath (2012) 1080p " tvg-logo="https://subdl.com/p/sd1/sd1643.jpg" group-title="hindi",Agneepath (2012) 1080p
