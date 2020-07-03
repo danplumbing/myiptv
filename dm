@@ -261,7 +261,7 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Petta 9/1/2019" tvg-logo="https://i.imgur.com/1Fmeemj.jpg" group-title="hindi",Petta 9/1/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Petta%2520912019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Why Cheat India 9/1/2019" tvg-logo="https://i.imgur.com/K61QVwq.jpg" group-title="hindi",Why Cheat India 9/1/2019
-https://www.googleapis.com/drive/v3/files/1adbJzTk9kAAxieZ_KeVnvX6AQrw0smnV?alt=media&key=AIzaSyBtLM0pHgRifAbszMNF44VOoXWCQap6zRg
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Why%2520Cheat%2520India%2520912019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Marjaavaan 8/11/2019" tvg-logo="https://subdl.com/p/sd479/sd479261.jpg" group-title="hindi",Marjaavaan 8/11/2019
 https://www.googleapis.com/drive/v3/files/1wx0QAEDXG5qg5g7WuUgq9WZxiGKG_YfA?alt=media&key=AIzaSyCQ9JVKpgYXiwoGKEodat6jbVFW_bEOfOQ
 #EXTINF:-1 tvg-id="" tvg-name="Battalion 609 7/1/2019" tvg-logo="https://subdl.com/p/sd7/sd7701.jpg" group-title="hindi",Battalion 609 7/1/2019
