@@ -153,7 +153,7 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="War 23/9/2019" tvg-logo="https://subdl.com/p/sd405/sd405744.jpg" group-title="hindi",War 23/9/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/War%25202392019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Family Man 20/9/2019" tvg-logo="https://i.imgur.com/j9utBoL.jpg" group-title="hindi",The Family Man 20/9/2019
-https://www.googleapis.com/drive/v3/files/1fLMDtMQ1xFa7A2gOUDI9D_myVvJruBKh?alt=media&key=AIzaSyBG8mJcHowLw9UWinEEmFrznoyZjcdyKWY
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Family%2520Man%25202092019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Zoya Factor 20/9/2019" tvg-logo="https://subdl.com/p/sd409/sd409184.jpg" group-title="hindi",The Zoya Factor 20/9/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Zoya%2520Factor%25202092019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pal Pal Dil Ke Paas 18/9/2019" tvg-logo="https://i.imgur.com/jH2BxBI.jpg" group-title="hindi",Pal Pal Dil Ke Paas 18/9/2019
@@ -251,15 +251,15 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Fraud Saiyyan 18/1/2019" tvg-logo="https://subdl.com/p/sd206/sd206862.jpg" group-title="hindi",Fraud Saiyyan 18/1/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fraud%2520Saiyyan%252018/1/2019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manikarnika The Queen of Jhansi 16/1/2019" tvg-logo="https://i.imgur.com/yjypjKu.jpg" group-title="hindi",Manikarnika The Queen of Jhansi 16/1/2019
-https://www.googleapis.com/drive/v3/files/1F33pwEZ5aK8s3XT-MBT5-BjbekeULKva?alt=media&key=AIzaSyAiP_qFWgu-8hOKc7_sgoehvNUb85FGrK8
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Manikarnika%2520The%2520Queen%2520of%2520Jhansi%25201612019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="72 Hours Martyr Who Never Died 14/01/2019" tvg-logo="https://i.imgur.com/WQfJWKS.jpg" group-title="hindi",72 Hours Martyr Who Never Died 14/01/2019
-https://www.googleapis.com/drive/v3/files/1KR6i4wHoRboSX5IcZV52rTbvfQolh8Yq?alt=media&key=AIzaSyDy3I9lKjUGqgk1bipCDLUajNMsbysGFZE
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/72%2520Hours%2520Martyr%2520Who%2520Never%2520Died%252014012019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="706 11/01/2019" tvg-logo="https://i.imgur.com/dDrboIB.jpg" group-title="hindi",706 11/01/2019
-https://www.googleapis.com/drive/v3/files/1Nz1-OSiSm7nvZRi46rK_Tn_VndG0ji-B?alt=media&key=AIzaSyArM0iu9STdC6wq_8oPSL2whAv1UQRsAqA
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/706%25201112019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Amavas 9/1/2019" tvg-logo="https://i.imgur.com/vZb6uFI.jpg" group-title="hindi",Amavas 9/1/2019
-https://www.googleapis.com/drive/v3/files/1PC85mvZGa8URpca4Rk3JQ-JN3H9kSfIK?alt=media&key=AIzaSyC2LXDIr6z5DGctijs_qaGpg1px4P6Udb0
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Amavas%2520912019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Petta 9/1/2019" tvg-logo="https://i.imgur.com/1Fmeemj.jpg" group-title="hindi",Petta 9/1/2019
-https://www.googleapis.com/drive/v3/files/1-CCN1O8QRhQrPqsSCzsj7Ih-PrvHE_F2?alt=media&key=AIzaSyBTZxNbPOb9FKvaMavtfha8w-68pUdGNRY
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Petta%2520912019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Why Cheat India 9/1/2019" tvg-logo="https://i.imgur.com/K61QVwq.jpg" group-title="hindi",Why Cheat India 9/1/2019
 https://www.googleapis.com/drive/v3/files/1adbJzTk9kAAxieZ_KeVnvX6AQrw0smnV?alt=media&key=AIzaSyBtLM0pHgRifAbszMNF44VOoXWCQap6zRg
 #EXTINF:-1 tvg-id="" tvg-name="Marjaavaan 8/11/2019" tvg-logo="https://subdl.com/p/sd479/sd479261.jpg" group-title="hindi",Marjaavaan 8/11/2019
