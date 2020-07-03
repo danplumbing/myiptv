@@ -213,39 +213,39 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Kalank 9/4/2019" tvg-logo="https://i.imgur.com/9RTqxRR.jpg" group-title="hindi",Kalank 9/4/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kalank%2520942019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Romeo Akbar Walter 5/4/2019" tvg-logo="https://subdl.com/p/sd232/sd232648.jpg" group-title="hindi",Romeo Akbar Walter 5/4/2019
-https://www.googleapis.com/drive/v3/files/1Qsl-78qb6d2xxPHHwONQFhg0yFPh2Ztl?alt=media&key=AIzaSyCkxVjkTfoytW2yiHd4cuEA4acBw0MSwng
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Romeo%2520Akbar%2520Walter%2520542019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Notebook 26/3/2019" tvg-logo="https://subdl.com/p/sd257/sd257380.jpg" group-title="hindi",Notebook 26/3/2019
-https://www.googleapis.com/drive/v3/files/1diKRPIA_no8Iz_R2zka1nCFciXrb8iV-?alt=media&key=AIzaSyBmwZp0jQH1Z1PcMmYzcSW9eNEB0wKEa-k
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Notebook%25202632019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Junglee 25/3/2019" tvg-logo="https://subdl.com/p/sd224/sd224999.jpg" group-title="hindi",Junglee 25/3/2019
-https://www.googleapis.com/drive/v3/files/1s5UvQMmJkagCDe-CMEbqXEivPBiH9Kvu?alt=media&key=AIzaSyBeDY_x_qCFKzWTu6bmdC5srwS1rLa-qo0
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Junglee%25202532019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mard Ko Dard Nahi Hota 21/3/2019" tvg-logo="https://i.imgur.com/s0XIGi5.jpg?1" group-title="hindi",Mard Ko Dard Nahi Hota 21/3/2019
-https://www.googleapis.com/drive/v3/files/15hRqbUcbbvoiSJ5pB7SNc2xZuhcx5gwu?alt=media&key=AIzaSyDf9B7vB45E0zTPl4ftym5GCUsCxVkvLB8
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mard%2520Ko%2520Dard%2520Nahi%2520Hota%25202132019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mere Pyare Prime Minister 15/3/2019" tvg-logo="https://i.imgur.com/iGVS4VM.jpg" group-title="hindi",Mere Pyare Prime Minister 15/3/2019
-https://www.googleapis.com/drive/v3/files/1H30UEN6MyBT944c5tAmGkxbrRTGSZz6f?alt=media&key=AIzaSyCm5SJSTnWaqzDQRIQ65cHKA4t00iSye3c
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mere%2520Pyare%2520Prime%2520Minister%25201532019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Photograph 15/3/2019" tvg-logo="https://subdl.com/p/sd226/sd226752.jpg" group-title="hindi",Photograph 15/3/2019
-https://www.googleapis.com/drive/v3/files/1qpXjiDGLSNIsamyKTONmSAyNmIP6OXxf?alt=media&key=AIzaSyCljyfGJaK6Wyby3RC3eJlvuHbSMcvqQnw
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Photograph%25201532019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kesari 11/3/2019" tvg-logo="https://subdl.com/p/sd224/sd224716.jpg" group-title="hindi",Kesari 11/3/2019
-https://www.googleapis.com/drive/v3/files/1aAg45XDB8cSwEWXV4bQ4uUfgLY_TXYGJ?alt=media&key=AIzaSyBqCrhJfKNyx0dFCPViYjecdXH41y5li-o
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kesari%25201132019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Milan Talkies 11/3/2019" tvg-logo="https://subdl.com/p/sd277/sd277659.jpg" group-title="hindi",Milan Talkies 11/3/2019
-https://www.googleapis.com/drive/v3/files/1Sn0p4_g-UdllA8CMSuiVe_jOtD5WAh9D?alt=media&key=AIzaSyDzVTC47MuYMFjISIShG53j5fSdMHDdtcU
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Milan%2520Talkies%25201132019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Badla 8/3/2019" tvg-logo="https://subdl.com/p/sd222/sd222562.jpg" group-title="hindi",Badla 8/3/2019
-https://www.googleapis.com/drive/v3/files/1y26reGEqJoIir5bXpdGvl8drghdGN5lx?alt=media&key=AIzaSyCAh7X84d42Zcg4BROSxQK3ir2oY8nIeLc
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Badla%2520832019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Sholay Girl 8/3/2019" tvg-logo="https://i.imgur.com/6bQfaS7.jpg" group-title="hindi",The Sholay Girl 8/3/2019
-https://www.googleapis.com/drive/v3/files/1eA6vxJkwt506Wm9TBF9APjbRbUcw1lri?alt=media&key=AIzaSyAUlQDGjqckPulZO1ToRlMEAk--beV-k8E
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Sholay%2520Girl%2520832019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Luka Chuppi 19/2/2019" tvg-logo="https://subdl.com/p/sd257/sd257379.jpg" group-title="hindi",Luka Chuppi 19/2/2019
-https://www.googleapis.com/drive/v3/files/1j6HgBLi3KK8u2EarbNlM9xTvL7RPnUxb?alt=media&key=AIzaSyDwHk5BkitE0UQHr3Nza4Jy82jmXWIJrnM
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Luka%2520Chuppi%25201922019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Total Dhamaal 12/2/2019" tvg-logo="https://subdl.com/p/sd184/sd184100.jpg" group-title="hindi",Total Dhamaal 12/2/2019
-https://www.googleapis.com/drive/v3/files/1voJrjMSTw_EsLnbuRas5ZHEnMmx8F8On?alt=media&key=AIzaSyDZfq73_ujEKs6gFNlinf3HDQYsGy0SIGI
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Total%2520Dhamaal%25201222019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gully Boy 8/2/2019" tvg-logo="https://subdl.com/p/sd219/sd219180.jpg" group-title="hindi",Gully Boy 8/2/2019
-https://www.googleapis.com/drive/v3/files/1abeamT1-58xs7okkfUSqASQeAnfqR92l?alt=media&key=AIzaSyCbh3DKf9G6PJZQuh826wnFVLgO6cpEsRc
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gully%2520Boy%2520822019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dosti Ke Side Effects 5/2/2019" tvg-logo="https://subdl.com/p/sd450/sd450377.jpg" group-title="hindi",Dosti Ke Side Effects 5/2/2019
-https://www.googleapis.com/drive/v3/files/1i2tdI9rVaa5uSKCMRLqZTAx_v2ga1yy6?alt=media&key=AIzaSyDdEOjc98d_o4NTPcXPFfHuwm4lulpOa5Y
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dosti%2520Ke%2520Side%2520Effects%2520522019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ek Ladki Ko Dekha Toh Aisa Laga 1/2/2019" tvg-logo="https://subdl.com/p/sd221/sd221381.jpg" group-title="hindi",Ek Ladki Ko Dekha Toh Aisa Laga 1/2/2019
-https://www.googleapis.com/drive/v3/files/1qpIA_bhDzKh9-E5lPW7yDGvu9w09C0za?alt=media&key=AIzaSyCIGHG9Qwjzam99O9faRyrfj8V7eNBcF_M
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Ladki%2520Ko%2520Dekha%2520Toh%2520Aisa%2520Laga%2520122019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sonchiriya 31/1/2019" tvg-logo="https://subdl.com/p/sd226/sd226075.jpg" group-title="hindi",Sonchiriya 31/1/2019
-https://www.googleapis.com/drive/v3/files/1NeWvaSk3TYvC1kVzPn0IyGYCzJL5wT_M?alt=media&key=AIzaSyDoDyj9WdteTGQC9d1mfGgPLsIG6BHu6oI
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sonchiriya%25203112019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Thackeray 25/1/2019" tvg-logo="https://subdl.com/p/sd225/sd225446.jpg" group-title="hindi",Thackeray 25/1/2019
-https://www.googleapis.com/drive/v3/files/1BIW9uO_9rZFYZi2MbL_nrEjeeCEo-cQt?alt=media&key=AIzaSyCiDTkc95kOP8quO3KY6S6iYDxIyaS7mMc
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Thackeray%25202512019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fraud Saiyyan 18/1/2019" tvg-logo="https://subdl.com/p/sd206/sd206862.jpg" group-title="hindi",Fraud Saiyyan 18/1/2019
 https://www.googleapis.com/drive/v3/files/1dj-olqCjHhVWplyKBxm-8dbGy3FGWlLG?alt=media&key=AIzaSyA_QH7J4l65vxry-a34n-eSKJppj7PVXns
 #EXTINF:-1 tvg-id="" tvg-name="Manikarnika The Queen of Jhansi 16/1/2019" tvg-logo="https://i.imgur.com/yjypjKu.jpg" group-title="hindi",Manikarnika The Queen of Jhansi 16/1/2019
