@@ -305,27 +305,27 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="FryDay 9/10/2018" tvg-logo="https://subdl.com/p/sd114/sd114164.jpg" group-title="hindi",FryDay 9/10/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/FryDay%25209102018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Andhadhun 28/9/2018" tvg-logo="https://subdl.com/p/sd98/sd98438.jpg" group-title="hindi",Andhadhun 28/9/2018
-https://www.googleapis.com/drive/v3/files/13VNKN2RSYtxrGhIgmB07GavqWeh8fZ5l?alt=media&key=AIzaSyAMPgWZArzbdY_ifAbzUyseuJbgBPeFGbo
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Andhadhun%25202892018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Loveyatri 28/9/2018" tvg-logo="https://subdl.com/p/sd80/sd80652.jpg" group-title="hindi",Loveyatri 28/9/2018
-https://www.googleapis.com/drive/v3/files/16GfrvWEIrnu9PqH5pwdf2aRbPhlYMp9J?alt=media&key=AIzaSyAkqGbiNrkgj_qaZXtvnQ578aYUKvDnmrQ
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Loveyatri%25202892018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Helicopter Eela 19/9/2018" tvg-logo="https://subdl.com/p/sd159/sd159195.jpg" group-title="hindi",Helicopter Eela 19/9/2018
-https://www.googleapis.com/drive/v3/files/1n4nDoyyo3wah9g8PMa099YqkZmO19UtN?alt=media&key=AIzaSyDeueSngvlSyRHvZfLdyhcm9zYBRlZo7VE
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Helicopter%2520Eela%25201992018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dobaara 21/9/2018" tvg-logo="https://i.imgur.com/BHQ2qVt.jpg" group-title="hindi",Dobaara 21/9/2018
-https://www.googleapis.com/drive/v3/files/1nkF597S8UKFDr8SHl1Ysu6nPyVR8bN6H?alt=media&key=AIzaSyAAgzM4e-m0NoB0vD5RWvg_TGpmmwWLsXo
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dobaara%25202192018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ishqeria 15/1/2018" tvg-logo="https://subdl.com/p/sd319/sd319691.jpg" group-title="hindi",Ishqeria 15/1/2018
-https://www.googleapis.com/drive/v3/files/1s2vxjhz5oxfdxy7e9YiRiK4JpdNXjJXN?alt=media&key=AIzaSyAEIdzYrIQN8S4NQORXOFsWl_QDaH5CSFE
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ishqeria%25201512018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manto 21/9/2018" tvg-logo="https://subdl.com/p/sd83/sd83341.jpg" group-title="hindi",Manto 21/9/2018
-https://www.googleapis.com/drive/v3/files/1i0xpFr4tl9B5vRnURN9k9lf0YG-plR6x?alt=media&key=AIzaSyDv_DXWZZMbA4qA6TiOg9x_t7nlpvJhQTE
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Manto%25202192018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jalebi 19/9/2018" tvg-logo="https://subdl.com/p/sd94/sd94677.jpg" group-title="hindi",Jalebi 19/9/2018
 https://www.googleapis.com/drive/v3/files/1lRwXbe_rUyEb5I20Jdv10qnUIcInyvzY?alt=media&key=AIzaSyDWWETzh9ih_wiAP28MsWwh48sC96UgxCw
 #EXTINF:-1 tvg-id="" tvg-name="Pataakha 19/9/2018" tvg-logo="https://i.imgur.com/oirOMpn.jpg" group-title="hindi",Pataakha 19/9/2018
-https://www.googleapis.com/drive/v3/files/1hC8VqYcCJwav13S-wGqEjSUP0mYFXNKI?alt=media&key=AIzaSyCkigw6rrn6GmIG_XnO39zVML53dg9uZyU
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pataakha%25201992018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sui Dhaaga Made in India 19/9/2018" tvg-logo="https://i.imgur.com/PcGXaWA.jpg" group-title="hindi",Sui Dhaaga Made in India 19/9/2018
-https://www.googleapis.com/drive/v3/files/1hGZ1h93mjG5X_Lwi6vvyM8GbLCtSTFX-?alt=media&key=AIzaSyAL21sQDbNo1_0VkSuq6gQg7brawBJJdOk
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sui%2520Dhaaga%2520Made%2520in%2520India%25201992018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Batti Gul Meter Chalu 14/9/2018" tvg-logo="https://i.imgur.com/7btLVug.jpg" group-title="hindi",Batti Gul Meter Chalu 14/9/2018
-https://www.googleapis.com/drive/v3/files/1tuKAo0jn5yPAVES5bnb5wVhZJMvAKByl?alt=media&key=AIzaSyAaYMGcrIYDyUbMH_7Wpqw38p2_AjFfsFM
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Batti%2520Gul%2520Meter%2520Chalu%25201492018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tumbbad 14/9/2018" tvg-logo="https://subdl.com/p/sd80/sd80240.jpg" group-title="hindi",Tumbbad 14/9/2018
-https://www.googleapis.com/drive/v3/files/1ULqla395wYSWBgbWtmyAHsUXS6U-pUEA?alt=media&key=AIzaSyAWO8qujrSx8Gd3NZEe2zoeWd5zileY2hc
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Tumbbad%25201492018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manmarziyaan 11/9/2018" tvg-logo="https://subdl.com/p/sd97/sd97721.jpg" group-title="hindi",Manmarziyaan 11/9/2018
 https://www.googleapis.com/drive/v3/files/1bwrFPbiyHEEoDI5WqATYbve1wSejX7uI?alt=media&key=AIzaSyAeDPPjaGFT4LezDMqSUcIowVqK7AFanZI
 #EXTINF:-1 tvg-id="" tvg-name="Mitron 11/9/2018" tvg-logo="https://subdl.com/p/sd63/sd63044.jpg" group-title="hindi",Mitron 11/9/2018
