@@ -327,21 +327,21 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Tumbbad 14/9/2018" tvg-logo="https://subdl.com/p/sd80/sd80240.jpg" group-title="hindi",Tumbbad 14/9/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Tumbbad%25201492018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manmarziyaan 11/9/2018" tvg-logo="https://subdl.com/p/sd97/sd97721.jpg" group-title="hindi",Manmarziyaan 11/9/2018
-https://www.googleapis.com/drive/v3/files/1bwrFPbiyHEEoDI5WqATYbve1wSejX7uI?alt=media&key=AIzaSyAeDPPjaGFT4LezDMqSUcIowVqK7AFanZI
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Manmarziyaan%25201192018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mitron 11/9/2018" tvg-logo="https://subdl.com/p/sd63/sd63044.jpg" group-title="hindi",Mitron 11/9/2018
-https://www.googleapis.com/drive/v3/files/1aUM6WEWG5StMd31Mex11zJLnHzHzJXWf?alt=media&key=AIzaSyB2R6FeC0K5G-E9e0ZsbDktnqlr8w4Zrfw
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mitron%25201192018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Silvat 7/9/2018" tvg-logo="https://i.imgur.com/damVLPA.jpg" group-title="hindi",Silvat 7/9/2018
-https://www.googleapis.com/drive/v3/files/1C-eznet-e7CFuCCReiFLXQxHCVg2kfsC?alt=media&key=AIzaSyCGJqZ96as88Aj0kUEg8lGvJrxeVYNxDWw
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Silvat%2520792018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Paltan 6/9/2018" tvg-logo="https://subdl.com/p/sd171/sd171665.jpg" group-title="hindi",Paltan 6/9/2018
-https://www.googleapis.com/drive/v3/files/14zr_TjSX-JrGkokP63FIeRP8QMS9qYbc?alt=media&key=AIzaSyAtlvnCzf8z0SG943APJHk9hqJBSyUQbho
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Paltan%2520692018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Soni 5/9/2018" tvg-logo="https://subdl.com/p/sd148/sd148443.jpg" group-title="hindi",Soni 5/9/2018
-https://www.googleapis.com/drive/v3/files/1ocuscjQMAHD3Uf3C7OD--viOHcCkUOuY?alt=media&key=AIzaSyC4j0tZQiRujiEpSRHMm7oqWu2UefUMjRU
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Soni%2520592018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baarish Aur Chowmein 31/8/2018" tvg-logo="https://i.imgur.com/XOHiajM.jpg" group-title="hindi",Baarish Aur Chowmein 31/8/2018
-https://www.googleapis.com/drive/v3/files/1aH0gmr3_zqVJifaYFoR0WIlNFaHB6XmY?alt=media&key=AIzaSyDBo40TS29ujlzJyWwA-_JB_vk8u-pE3ls
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baarish%2520Aur%2520Chowmein%25203182018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Laila Majnu 30/8/2018" tvg-logo="https://i.imgur.com/L5HC5nB.jpg" group-title="hindi",Laila Majnu 30/8/2018
-https://www.googleapis.com/drive/v3/files/1m6QFR7tXrQsKu6blcRYJTdXQQVnbiMRS?alt=media&key=AIzaSyAbBRYKmv4WK1ohtkC0eu0gTH4X2KSt118
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Laila%2520Majnu%25203082018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stree 28/8/2018" tvg-logo="https://subdl.com/p/sd12/sd12203.jpg" group-title="hindi",Stree 28/8/2018
-https://www.googleapis.com/drive/v3/files/1MFgP-RYNnBlYd9FK_yx_VePEk19kk0jb?alt=media&key=AIzaSyBUeK4JQla5xLym060-uGWx5nuVv0hrH7c
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Stree%25202882018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Yamla Pagla Deewana Phir Se 28/8/2018" tvg-logo="https://i.imgur.com/y9xAgJx.jpg" group-title="hindi",Yamla Pagla Deewana Phir Se 28/8/2018
 https://www.googleapis.com/drive/v3/files/1ysKTSmhUwhVKdn1zPbYqnDLyG7doC2aE?alt=media&key=AIzaSyAUnpr_VSvXvdT-5BmwNwoBwu394afRmgY
 #EXTINF:-1 tvg-id="" tvg-name="Genius 20/8/2018" tvg-logo="https://i.imgur.com/cham299.jpg" group-title="hindi",Genius 20/8/2018
