@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
 #EXTINF:-1 tvg-id="" tvg-name="Unlock 27/6/2020 " tvg-logo="https://i.imgur.com/tAGPCrt.jpg" group-title="hindi",Unlock 27/6/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Unlock%25202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhonsle 26/6/2020 " tvg-logo="https://i.imgur.com/45569qm.jpg" group-title="hindi",Bhonsle 26/6/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhonsle%252026/6/2020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bulbbul 24/6/2020 " tvg-logo="https://i.imgur.com/tBjUXmz.jpg" group-title="hindi",Bulbbul 24/6/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bulbbul%252024/6/2020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chaman Bahaar 19/6/2020 " tvg-logo="https://i.imgur.com/2At3MVN.jpg" group-title="hindi",Chaman Bahaar 19/6/2020
