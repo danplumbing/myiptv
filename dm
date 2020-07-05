@@ -399,7 +399,7 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Veere Di Wedding 23/5/2018" tvg-logo="https://subdl.com/p/sd6/sd6929.jpg" group-title="hindi",Veere Di Wedding 23/5/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Veere%2520Di%2520Wedding%25202352018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="High Jack 11/5/2018" tvg-logo="https://i.imgur.com/tbaSGRt.jpg" group-title="hindi",High Jack 11/5/2018
-https://www.googleapis.com/drive/v3/files/1Y4-u9ttE4UThVcxdIFmAssu5ajNP8b-X?alt=media&key=AIzaSyC2i53nEgNh5ygLUUS8lC02P8RiT4J-vlc
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/High%2520Jack%25201152018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hope Aur Hum 11/5/2018" tvg-logo="https://subdl.com/p/sd188/sd188668.jpg" group-title="hindi",Hope Aur Hum 11/5/2018
 https://www.googleapis.com/drive/v3/files/1PXjwTxGKDzwvo5SwXGysTulgdP5GU1ON?alt=media&key=AIzaSyBrQnaG8U5RRnjbMbuifdAoUFu8PCISudw
 #EXTINF:-1 tvg-id="" tvg-name="Love Sonia 7/5/2018" tvg-logo="https://subdl.com/p/sd148/sd148651.jpg" group-title="hindi",Love Sonia 7/5/2018
