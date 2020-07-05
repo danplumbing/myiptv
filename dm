@@ -86,6 +86,8 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Underwater%2520722020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Underwater 7/2/2020" tvg-logo="https://subdl.com/p/sd478/sd478169.jpg" group-title="english hindi",Underwater 7/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Underwater%2520722020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yahan Sabhi Gyani Hain 7/2/2020" tvg-logo="https://subdl.com/p/sd478/sd478169.jpg" group-title="english hindi",Yahan Sabhi Gyani Hain 7/2/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Yahan%2520Sabhi%2520Gyani%2520Hain%2520722020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Malang 6/2/2020" tvg-logo="https://i.imgur.com/xWfDdS1.jpg" group-title="hindi",Malang 6/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Malang%2520622020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hacked 31/1/2020" tvg-logo="https://subdl.com/p/sd613/sd613701.jpg" group-title="hindi",Hacked 31/1/2020
