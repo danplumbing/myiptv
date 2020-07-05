@@ -18,6 +18,8 @@ https://snowy-poetry-5455-2012.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aiza
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Choked%2520Paisa%2520Bolta%2520Hai%2520562020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chippa 3/6/2020 " tvg-logo="https://i.imgur.com/VVNKnx9.jpg" group-title="hindi",Chippa 3/6/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chippa%2520362020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Purush 1/6/2020 " tvg-logo="https://i.imgur.com/rNGF5dB.jpg" group-title="hindi",Purush 1/6/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Purush%2520162020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Eeb Allay Ooo 30/5/2020 " tvg-logo="https://i.imgur.com/DpOqi72.jpg" group-title="hindi",Eeb Allay Ooo 30/5/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Eeb%2520Allay%2520Ooo%25203052020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ghoomketu 22/5/2020 " tvg-logo="https://i.imgur.com/H6Rn8E4.jpg" group-title="hindi",ghoomketu 22/5/2020
@@ -96,6 +98,8 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jawaani%2520Jaaneman%25203112020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Rhythm Section 31/1/2020" tvg-logo="https://subdl.com/p/sd499/sd499429.jpg" group-title="english",The Rhythm Section 31/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Rhythm%2520Section%25203112020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vir Das For India 26/1/2020" tvg-logo="https://i.imgur.com/S4DjDlP.jpg" group-title="hindi",Vir Das For India 26/1/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Vir%2520Das%2520For%2520India%25202612020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Enter The Fat Dragon 23/1/2020" tvg-logo="https://i.imgur.com/eqzBFTd.jpg" group-title="chinese sub eng",Enter The Fat Dragon 23/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Enter%2520The%2520Fat%2520Dragon%25202312020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="court martial 19/1/2020" tvg-logo="https://i.imgur.com/32jl0Vw.jpg" group-title="chinese sub eng",court martial 19/1/2020
