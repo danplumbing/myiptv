@@ -154,6 +154,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Made%2520in%2520China%252025102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Terminator Dark Fate 23/10/2019" tvg-logo="https://i.imgur.com/xTqqVft.jpg" group-title="english hindi",Terminator Dark Fate 23/10/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Terminator%2520Dark%2520Fate%252023102019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chintu Ka Birthday 20/10/2020" tvg-logo="https://i.imgur.com/2c5orJv.jpg" group-title="english hindi",Chintu Ka Birthday 20/10/2020
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chintu%2520Ka%2520Birthday%252020102019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Saand Ki Aankh 18/10/2019" tvg-logo="https://subdl.com/p/sd455/sd455354.jpg" group-title="hindi",Saand Ki Aankh 18/10/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saand%2520Ki%2520Aankh%252018102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ghost 15/10/2019" tvg-logo="https://subdl.com/p/sd516/sd516760.jpg" group-title="hindi",Ghost 15/10/2019
