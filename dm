@@ -321,7 +321,7 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Jalebi 19/9/2018" tvg-logo="https://subdl.com/p/sd94/sd94677.jpg" group-title="hindi",Jalebi 19/9/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jalebi%25201992018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pataakha 19/9/2018" tvg-logo="https://i.imgur.com/oirOMpn.jpg" group-title="hindi",Pataakha 19/9/2018
-https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pataakha%25201992018.mp4
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pataakha%25201992018(1).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sui Dhaaga Made in India 19/9/2018" tvg-logo="https://i.imgur.com/PcGXaWA.jpg" group-title="hindi",Sui Dhaaga Made in India 19/9/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sui%2520Dhaaga%2520Made%2520in%2520India%25201992018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Batti Gul Meter Chalu 14/9/2018" tvg-logo="https://i.imgur.com/7btLVug.jpg" group-title="hindi",Batti Gul Meter Chalu 14/9/2018
@@ -373,11 +373,11 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Teri Bhabhi Hai Pagle 10/7/2018" tvg-logo="https://i.imgur.com/9C15Tw3.jpg" group-title="hindi",Teri Bhabhi Hai Pagle 10/7/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Teri%2520Bhabhi%2520Hai%2520Pagle%25201072018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sanju 28/6/2018" tvg-logo="https://subdl.com/p/sd10/sd10853.jpg" group-title="hindi",Sanju 28/6/2018
-https://www.googleapis.com/drive/v3/files/1-pAWItUElG02a7SzEsj2Ec-dorvV7VI3?alt=media&key=AIzaSyCOIGPOBtgCrqEDRYrwHeODTx9X6Kl2vSA
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sanju%25202862018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Carry On Jatta 2 28/5/2018" tvg-logo="https://i.imgur.com/pKwgIZz.jpg" group-title="hindi",Carry On Jatta 2 28/5/2018
-https://www.googleapis.com/drive/v3/files/15RnAibtqaVzSAbMDiB_mrUKzifl10GKi?alt=media&key=AIzaSyBnOyiCkaXWHft8FCHyq_iF_cEJwvBx1PM
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Carry%2520On%2520Jatta%25202%25202852018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Veere Di Wedding 23/5/2018" tvg-logo="https://subdl.com/p/sd6/sd6929.jpg" group-title="hindi",Veere Di Wedding 23/5/2018
-https://www.googleapis.com/drive/v3/files/1BQs1XwfWpiE7VNAIzfeBpPpVoZRt73rG?alt=media&key=AIzaSyBhWnfQrpC9WV-au0PBmGDUW95WHMteM18
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Veere%2520Di%2520Wedding%25202352018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="High Jack 11/5/2018" tvg-logo="https://i.imgur.com/tbaSGRt.jpg" group-title="hindi",High Jack 11/5/2018
 https://www.googleapis.com/drive/v3/files/1Y4-u9ttE4UThVcxdIFmAssu5ajNP8b-X?alt=media&key=AIzaSyC2i53nEgNh5ygLUUS8lC02P8RiT4J-vlc
 #EXTINF:-1 tvg-id="" tvg-name="Hope Aur Hum 11/5/2018" tvg-logo="https://subdl.com/p/sd188/sd188668.jpg" group-title="hindi",Hope Aur Hum 11/5/2018
