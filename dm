@@ -319,7 +319,7 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Manto 21/9/2018" tvg-logo="https://subdl.com/p/sd83/sd83341.jpg" group-title="hindi",Manto 21/9/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Manto%25202192018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jalebi 19/9/2018" tvg-logo="https://subdl.com/p/sd94/sd94677.jpg" group-title="hindi",Jalebi 19/9/2018
-https://www.googleapis.com/drive/v3/files/1lRwXbe_rUyEb5I20Jdv10qnUIcInyvzY?alt=media&key=AIzaSyDWWETzh9ih_wiAP28MsWwh48sC96UgxCw
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jalebi%25201992018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pataakha 19/9/2018" tvg-logo="https://i.imgur.com/oirOMpn.jpg" group-title="hindi",Pataakha 19/9/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pataakha%25201992018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sui Dhaaga Made in India 19/9/2018" tvg-logo="https://i.imgur.com/PcGXaWA.jpg" group-title="hindi",Sui Dhaaga Made in India 19/9/2018
@@ -345,33 +345,33 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Stree 28/8/2018" tvg-logo="https://subdl.com/p/sd12/sd12203.jpg" group-title="hindi",Stree 28/8/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Stree%25202882018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Yamla Pagla Deewana Phir Se 28/8/2018" tvg-logo="https://i.imgur.com/y9xAgJx.jpg" group-title="hindi",Yamla Pagla Deewana Phir Se 28/8/2018
-https://www.googleapis.com/drive/v3/files/1ysKTSmhUwhVKdn1zPbYqnDLyG7doC2aE?alt=media&key=AIzaSyAUnpr_VSvXvdT-5BmwNwoBwu394afRmgY
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Yamla%2520Pagla%2520Deewana%2520Phir%2520Se%25202882018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Genius 20/8/2018" tvg-logo="https://i.imgur.com/cham299.jpg" group-title="hindi",Genius 20/8/2018
-https://www.googleapis.com/drive/v3/files/1Jo_BkEPgAaGIw7-cnOKiYAy80O3XP_K9?alt=media&key=AIzaSyCL7MElBZr1lYLaf_ZeGNAT6KA8xKpOSqA
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Genius%25202082018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Happy Phirr Bhag Jayegi 20/8/2018" tvg-logo="https://i.imgur.com/T026nUo.jpg" group-title="hindi",Happy Phirr Bhag Jayegi 20/8/2018
-https://www.googleapis.com/drive/v3/files/1uYD7_pNgYmz3rFLlWipgBvF2nrzBp1xj?alt=media&key=AIzaSyAc-qC83Kz6DtKPxR4do3o_yS1zhStW-ek
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Happy%2520Phirr%2520Bhag%2520Jayegi%25202082018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gold 10/8/2018" tvg-logo="https://subdl.com/p/sd42/sd42462.jpg" group-title="hindi",Gold 10/8/2018
-https://www.googleapis.com/drive/v3/files/1Zfs8fhtfueJCRRqnXhASVBzveuK4NPFU?alt=media&key=AIzaSyBLok0-wD6ePcWJkTvgeV8U-AV26sCsCaQ
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gold%25201082018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Satyameva Jayate 9/8/2018" tvg-logo="https://subdl.com/p/sd8/sd8029.jpg" group-title="hindi",Satyameva Jayate 9/8/2018
-https://www.googleapis.com/drive/v3/files/18EX_BzMYiTXbM66HtemgXmAIQmSJpqxK?alt=media&key=AIzaSyB8_fIX192QBPJD6fINnAowXBRU4vYupwk
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Satyameva%2520Jayate%2520982018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fanney Khan 30/7/2018" tvg-logo="https://subdl.com/p/sd12/sd12300.jpg" group-title="hindi",Fanney Khan 30/7/2018
-https://www.googleapis.com/drive/v3/files/1ij67PQT358InpJOq9jwoiLjWRpD8c1_z?alt=media&key=AIzaSyDcy8qfd5RJ95vVojC9ndbUS7hpIU_oVeY
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fanney%2520Khan%25203072018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mulk 27/7/2018" tvg-logo="https://i.imgur.com/Nri5tAb.jpg" group-title="hindi",Mulk 27/7/2018
-https://www.googleapis.com/drive/v3/files/1uF9MRBby77zTVzVTmFnokzogoQ4_-Lau?alt=media&key=AIzaSyBH_HtQHcGq9rbxFHyhbGW-jB_0iPHdlT0
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mulk%25202772018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Saheb Biwi Aur Gangster 3 25/7/2018" tvg-logo="https://subdl.com/p/sd47/sd47981.jpg" group-title="hindi",Saheb Biwi Aur Gangster 3 25/7/2018
-https://www.googleapis.com/drive/v3/files/1H-6--Es9HIY3QVAsDd7FRbMn1r6qnZ7f?alt=media&key=AIzaSyAC1ThL-qT9wOGMHzSQ8tQNIjQL8x3rCqQ
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saheb%2520Biwi%2520Aur%2520Gangster%25203%25202572018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nawabzaade 24/7/2018" tvg-logo="https://subdl.com/p/sd302/sd302331.jpg" group-title="hindi",Nawabzaade 24/7/2018
-https://www.googleapis.com/drive/v3/files/13skUayy4y68NI1Efflq7malFen67DyEf?alt=media&key=AIzaSyC1T-rjEfd5IBgMv5E6CxjtOnpR6Osy684
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Nawabzaade%25202472018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Karwaan 19/7/2018" tvg-logo="https://subdl.com/p/sd18/sd18443.jpg" group-title="hindi",Karwaan 19/7/2018
-https://www.googleapis.com/drive/v3/files/1oruRT9ejf69tjqMUP1rPkMG-D99jSO6_?alt=media&key=AIzaSyDZb6Huemx3Yv6pdMOV4mzds6AABfJQWgM
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Karwaan%25201972018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Teefa in Trouble 19/7/2018" tvg-logo="https://subdl.com/p/sd84/sd84713.jpg" group-title="hindi",Teefa in Trouble 19/7/2018
-https://www.googleapis.com/drive/v3/files/1qdhY0_wWL0hI_cFKCMTbfB87ztImCjhp?alt=media&key=AIzaSyBHxxl6S3DqvaGXsVX3K2jH-kLk98ckzx8
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Teefa%2520in%2520Trouble%25201972018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Soorma 13/7/2018" tvg-logo="https://subdl.com/p/sd27/sd27345.jpg" group-title="hindi",Soorma 13/7/2018
-https://www.googleapis.com/drive/v3/files/1-kCGPxajqJNxmR9z-6ECQ_A0SJ7g8Kfr?alt=media&key=AIzaSyBIsy03vtuJK1E3JvHrO2OaONeRyUVj2K4
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Soorma%25201372018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dhadak 11/7/2018" tvg-logo="https://i.imgur.com/NwFqMCd.jpg" group-title="hindi",Dhadak 11/7/2018
-https://www.googleapis.com/drive/v3/files/1-lH0ZuSZM1TK70OHHXBkNF1H5HJXgqvs?alt=media&key=AIzaSyDyvNAaqZW5ZcxhO4elIPfGuGAvpjjMv0M
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dhadak%25201172018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Teri Bhabhi Hai Pagle 10/7/2018" tvg-logo="https://i.imgur.com/9C15Tw3.jpg" group-title="hindi",Teri Bhabhi Hai Pagle 10/7/2018
-https://www.googleapis.com/drive/v3/files/1EkgDXa8BlZw7sTDlO25VcUgLyLiilRMl?alt=media&key=AIzaSyD6dpwEeNotfrrmMEGIPixZnPDK-_ZRxs0
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Teri%2520Bhabhi%2520Hai%2520Pagle%25201072018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sanju 28/6/2018" tvg-logo="https://subdl.com/p/sd10/sd10853.jpg" group-title="hindi",Sanju 28/6/2018
 https://www.googleapis.com/drive/v3/files/1-pAWItUElG02a7SzEsj2Ec-dorvV7VI3?alt=media&key=AIzaSyCOIGPOBtgCrqEDRYrwHeODTx9X6Kl2vSA
 #EXTINF:-1 tvg-id="" tvg-name="Carry On Jatta 2 28/5/2018" tvg-logo="https://i.imgur.com/pKwgIZz.jpg" group-title="hindi",Carry On Jatta 2 28/5/2018
