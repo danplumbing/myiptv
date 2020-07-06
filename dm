@@ -429,65 +429,65 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Daas Dev 10/4/2018" tvg-logo="https://i.imgur.com/i4OpsGb.jpg" group-title="hindi",Daas Dev 10/4/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daas%2520Dev%25201042018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="October 27/3/2018 " tvg-logo="https://subdl.com/p/sd2/sd2718.jpg" group-title="hindi",October 27/3/2018
-https://www.googleapis.com/drive/v3/files/10JkmJZVEpBpbhCZC0PNgdQYjCNf7RjYw?alt=media&key=AIzaSyAXqnIEWStjx9Q0XtpFwTnua2S27_wDM9U
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/October%25202732018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Missing 20/3/2018" tvg-logo="https://i.imgur.com/5qo06HU.jpg" group-title="hindi",Missing 20/3/2018
-https://www.googleapis.com/drive/v3/files/1ET_WBbS_Bc99wNyHOu9L-mwPZLshVoQR?alt=media&key=AIzaSyAOpf3VlZZMJogKJwFOye2oZXi66QO9Mbg
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Missing%25202032018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baaghi 2 14/3/2018" tvg-logo="https://subdl.com/p/sd4/sd4953.jpg" group-title="hindi",Baaghi 2 14/3/2018
-https://www.googleapis.com/drive/v3/files/1ZKwYto9FDXBtQxHDNnqlF6vjcjdViJ3p?alt=media&key=AIzaSyBfRUUmTJQw9sbQPsDrwqQMSbv8Nv9GcaE
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baaghi%25202%25201432018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Blackmail 14/3/2018" tvg-logo="https://subdl.com/p/sd2/sd2854.jpg" group-title="hindi",Blackmail 14/3/2018
-https://www.googleapis.com/drive/v3/files/1MitfBY9ssB-RXKkkWA_BDa_GYWnJIb_J?alt=media&key=AIzaSyA9VslvZ5KN23vhWF4mA_vifnVyIRtVdXc
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Blackmail%25201432018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dil Juunglee 9/3/2018" tvg-logo="https://subdl.com/p/sd159/sd159471.jpg" group-title="hindi",Dil Juunglee 9/3/2018
-https://www.googleapis.com/drive/v3/files/1gFJR10FbvtiAdYxtNgWmHlnT5J8bKJKT?alt=media&key=AIzaSyBUPhob3gWCViW4UvVNKygsXrM3faZZwvI
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Juunglee%2520932018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="raid 8/3/2018" tvg-logo="https://subdl.com/p/sd6/sd6123.jpg" group-title="hindi",raid 8/3/2018
-https://www.googleapis.com/drive/v3/files/1f-sRC22az0owkk5TAwmzYRsU_95kBm9H?alt=media&key=AIzaSyBLxo4CZoIUI9llmYBYndCISNfdWEivKsg
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/raid%2520832018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Parmanu 6/3/2018" tvg-logo="https://subdl.com/p/sd4/sd4615.jpg" group-title="hindi",Parmanu 6/3/2018
-https://www.googleapis.com/drive/v3/files/1BkfT78cCJINDBPkDnHLUhqq2rKHGBkDs?alt=media&key=AIzaSyBZzIM2YFkT4O9tnxrNAobN4-8hxv0USgg
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Parmanu%2520632018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kedarnath 31/2/2018" tvg-logo="https://subdl.com/p/sd175/sd175071.jpg" group-title="hindi",Kedarnath 31/2/2018
-https://www.googleapis.com/drive/v3/files/1crCOU_0CeGYNvkZSvcMHSzlmdEkMLpVz?alt=media&key=AIzaSyDHvIrdCJoLOB2Kp1fSy9RN06DU5grGe-4
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kedarnath%25203122018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hate Story 4 23/2/2018" tvg-logo="https://i.imgur.com/7vgLbxB.jpg" group-title="hindi",Hate Story 4 23/2/2018
-https://www.googleapis.com/drive/v3/files/1t-zuv3hmvb6wAEgjs5MWFKgBPF1jlibU?alt=media&key=AIzaSyAKEq55LA1GENdWfoCheHfI0lUkkK9T1lU
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hate%2520Story%25204%25202322018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Garbage 17/2/2018" tvg-logo="https://i.imgur.com/5aztfJA.jpg" group-title="hindi",Garbage 17/2/2018
-https://www.googleapis.com/drive/v3/files/1h7ddxLLP7UmV6rImvENn27R3kf23_7YA?alt=media&key=AIzaSyBd6mtphE8kCgQfF09G9GA6DwVs8weW5Vo
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Garbage%25201722018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aiyaary 16/2/2018" tvg-logo="https://subdl.com/p/sd6/sd6034.jpg" group-title="hindi",Aiyaary 16/2/2018
-https://www.googleapis.com/drive/v3/files/1N6rmVsYGfB3rjJGMiDaXWjz15CJkLRn6?alt=media&key=AIzaSyDusI8yNrsfLZaSzRDnYc0GVgEpnBWwrKo
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aiyaary%25201622018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kuch Bheege Alfaaz 16/2/2018" tvg-logo="https://i.imgur.com/csPqv5V.jpg" group-title="hindi",Kuch Bheege Alfaaz 16/2/2018
-https://www.googleapis.com/drive/v3/files/1jiMovUFXxpLochY3ZMABRNLaAliTqzTV?alt=media&key=AIzaSyANMHH5Jhk9DzKrFme8Fa1Om49dWI4fleI
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kuch%2520Bheege%2520Alfaaz%25201622018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sonu Ke Titu Ki Sweety 16/2/2018" tvg-logo="https://subdl.com/p/sd10/sd10681.jpg" group-title="hindi",Sonu Ke Titu Ki Sweety 16/2/2018
-https://www.googleapis.com/drive/v3/files/1kLhmdjve5H_lV-VvCf2NJ2e-8i3DEfRc?alt=media&key=AIzaSyDoIUNVCuQfTVXJhsA-FoLUsRCahlNVaDI
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sonu%2520Ke%2520Titu%2520Ki%2520Sweety%25201622018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="For Here or to Go 14/2/2018" tvg-logo="https://i.imgur.com/a7IxPlB.jpg" group-title="hindi",For Here or to Go 14/2/2018
-https://www.googleapis.com/drive/v3/files/1Qh49tkPlI0spIOcrH05-XK2nAOr2_O8h?alt=media&key=AIzaSyBPlFJ201GIei_GAL7BRBtIFOpZ4Y3-nKQ
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/For%2520Here%2520or%2520to%2520Go%25201422018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Veerey Ki Wedding 14/2/2018" tvg-logo="https://subdl.com/p/sd256/sd256278.jpg" group-title="hindi",Veerey Ki Wedding 14/2/2018
-https://www.googleapis.com/drive/v3/files/1BLtiEPCCHS0HoVs9Y0sCmjsDtlHOcyud?alt=media&key=AIzaSyCD57LoKAWN5MMlExXaB3LKNuaRNmoGEh0
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Veerey%2520Ki%2520Wedding%25201422018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hichki 12/2/2018" tvg-logo="https://subdl.com/p/sd2/sd2552.jpg" group-title="hindi",Hichki 12/2/2018
-https://www.googleapis.com/drive/v3/files/18wLNB3x_hTjH_mBzHNTAXg_EwzGB1m3v?alt=media&key=AIzaSyDlM6zb-Malik0OzuuAKtCnbKaRqnA-moI
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hichki%25201222018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pad Man 15/1/2018" tvg-logo="https://i.imgur.com/jBehVVr.jpg" group-title="hindi",Pad Man 15/1/2018
-https://www.googleapis.com/drive/v3/files/1v0MHqYEJtnDzhJZEaptWVO64oQkRoQwd?alt=media&key=AIzaSyB79Dl-m6CmtxFLiKeqd7SNFgCCN-Z6Nt0
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pad%2520Man%25201512018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vodka Diaries 15/1/2018" tvg-logo="https://subdl.com/p/sd84/sd84118.jpg" group-title="hindi",Vodka Diaries 15/1/2018
-https://www.googleapis.com/drive/v3/files/1o2fzePrSHW-PhmlxQ6Z9Vbpb7axd0-v6?alt=media&key=AIzaSyCOyWH0Ou3nRVYfFf_-4VCSTw-2ulwqKn0
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Vodka%2520Diaries%25201512018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohalla Assi 10/1/2018" tvg-logo="https://i.imgur.com/tNmvbG1.jpg" group-title="hindi",Mohalla Assi 10/1/2018
-https://www.googleapis.com/drive/v3/files/1EjibfdO1vDvWVh75bOoOU4x_6hwuyupe?alt=media&key=AIzaSyBygPIrDAYtRKp5KeCrHuEriiS-54gm9x4
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mohalla%2520Assi%25201012018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Union Leader 8/1/2018" tvg-logo="https://subdl.com/p/sd730/sd730130.jpg" group-title="hindi",Union Leader 8/1/2018
-https://www.googleapis.com/drive/v3/files/1lAdE6LLuekyuCGcPzLRkxxzTsT6x4n7A?alt=media&key=AIzaSyBlVnSV6MrVIu6eo7AAMUxNjgJrWhzFJ1A
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Union%2520Leader%2520812018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1921 05/01/2018" tvg-logo="https://subdl.com/p/sd75/sd75047.jpg" group-title="hindi",1921 05/01/2018
-https://www.googleapis.com/drive/v3/files/1zUfuvY8y6RtEg4mMPprlt9iRfmxArHA3?alt=media&key=AIzaSyCOF8_ys6cHZp0dnjdlgTWbb1BhTmLXu7s
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/1921%252005012018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chupan Chupai 5/1/2018" tvg-logo="https://i.imgur.com/yhm2HgQ.jpg" group-title="hindi",Chupan Chupai 5/1/2018
-https://www.googleapis.com/drive/v3/files/1o_OJ9x2vi6j3bGzbNZOY6vo2ASeenov5?alt=media&key=AIzaSyB7gYUaS4VXLHfI-LdT2pXCTLW3m7gk-hk
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chupan%2520Chupai%2520512018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Haseena 5/1/2018" tvg-logo="https://i.imgur.com/4DtRBv6.jpg" group-title="hindi",Haseena 5/1/2018
-https://www.googleapis.com/drive/v3/files/1Q9en_UpHu3fI5y1MJiD28XwWr8pYD3Fr?alt=media&key=AIzaSyBoa7TQvcvWaEIjgFUEVfXUtTHmQGo5cWo
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Haseena%2520512018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Redrum 2/1/2018 " tvg-logo="https://i.imgur.com/3g95SKf.jpg" group-title="hindi",Redrum 2/1/2018
-https://www.googleapis.com/drive/v3/files/1lPI2D0oikkNaCZX71BwWc99uAgYhTEcI?alt=media&key=AIzaSyCD3UfrwOmfbi6pglS_rTAQ4AcXqsKaIjU
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Redrum%2520212018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aksar 2 1/12/2017" tvg-logo="https://subdl.com/p/sd26/sd26099.jpg" group-title="hindi",Aksar 2 1/12/2017
-https://www.googleapis.com/drive/v3/files/1Kp1p5KTNs6BYQdhSu8tjb9Le8LMjVm1D?alt=media&key=AIzaSyCqtbskY0CyFRVLvThjmuMedzaZfr0RKtI
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aksar%25202%25201122017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dil Jo Na Keh Saka 17/11/2017" tvg-logo="https://subdl.com/p/sd376/sd376386.jpg" group-title="hindi",Dil Jo Na Keh Saka 17/11/2017
-https://www.googleapis.com/drive/v3/files/1W8Fes3hJCNrcjd_U037q6i8cSSyCVCRu?alt=media&key=AIzaSyA4G6WBU5Gi4uqOQYXyL-LlXTResjAl81g
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Jo%2520Na%2520Keh%2520Saka%252017112017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shaadi Mein Zaroor Aana 10/11/2017" tvg-logo="https://subdl.com/p/sd6/sd6611.jpg" group-title="hindi",Shaadi Mein Zaroor Aana 10/11/2017
-https://www.googleapis.com/drive/v3/files/1naMrH84Ukp515OQFmff7yXNa14CraorW?alt=media&key=AIzaSyDsnPwIIu9qLuFYYh5Xhbp-MKyYl940w78
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shaadi%2520Mein%2520Zaroor%2520Aana%252010112017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Golmaal Again 13/10/2017" tvg-logo="https://subdl.com/p/sd5/sd5119.jpg" group-title="hindi",Golmaal Again 13/10/2017
-https://www.googleapis.com/drive/v3/files/1vRu3HZZGh4Hiqw8YzY4SVyIedOxLqBpJ?alt=media&key=AIzaSyCFUZbM39wWQklzIy2gER5VZdO-SjeHbZQ
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Golmaal%2520Again%252013102017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Love And Shukla 13/10/2017" tvg-logo="https://subdl.com/p/sd517/sd517342.jpg" group-title="hindi",Love And Shukla 13/10/2017
-https://www.googleapis.com/drive/v3/files/1vpLihsb5rdH4NZwfex0sRu4gNblzg9Bq?alt=media&key=AIzaSyCIYUsfV4Mp2mZL-QAWM4M8GLHuGKZnFD0
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Love%2520And%2520Shukla%252013102017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chef 29/9/2017" tvg-logo="https://subdl.com/p/sd5/sd5450.jpg" group-title="hindi",Chef 29/9/2017
-https://www.googleapis.com/drive/v3/files/17IzsZvzAd-Bq4eoc26bp710HUsMGlRMY?alt=media&key=AIzaSyC8GUqBz8TeJCy0AcdhRYb4cc3yFfTRY9k
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chef%25202992017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhoomi 22/9/2017" tvg-logo="https://i.imgur.com/Nbizqk5.jpg" group-title="hindi",Bhoomi 22/9/2017
 https://www.googleapis.com/drive/v3/files/1dIMY7MOoz5e9euzGmYkc6N-X3wtKLIHA?alt=media&key=AIzaSyCLeLf8Pp5_FF83trmNmFMlJtgZ_EV0qQQ
 #EXTINF:-1 tvg-id="" tvg-name="B A  Pass 2 15/9/2017" tvg-logo="https://i.imgur.com/mMLDOrs.jpg" group-title="hindi",B A  Pass 2 15/9/2017
