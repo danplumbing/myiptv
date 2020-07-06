@@ -415,19 +415,19 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Daana Paani 1/5/2018" tvg-logo="https://subdl.com/p/sd161/sd161658.jpg" group-title="hindi",Daana Paani 1/5/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daana%2520Paani%2520152018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Past 26/4/2018" tvg-logo="https://i.imgur.com/0xlxTXx.jpg" group-title="hindi",The Past 26/4/2018
-https://www.googleapis.com/drive/v3/files/1IS9mhFL_0K6GBkmMl9R-maulSDXCxidi?alt=media&key=AIzaSyBcblWO4KUAza36QkudZ1V-BoWidc9nq14
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Past%25202642018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="102 Not Out 25/04/2018" tvg-logo="https://subdl.com/p/sd2/sd2588.jpg" group-title="hindi",102 Not Out 25/04/2018
-https://www.googleapis.com/drive/v3/files/1jo8AK7NdQv4rCxKJL_U2w9MlFCHCAvDo?alt=media&key=AIzaSyBszTOKcCPPO_LIRIxlH7HwE_0f-ECVCpo
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/102%2520Not%2520Out%252025042018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lashtam Pashtam 25/4/2018" tvg-logo="https://i.imgur.com/8mHZrYF.jpg" group-title="hindi",Lashtam Pashtam 25/4/2018
-https://www.googleapis.com/drive/v3/files/13ehEnkLyzxfF3a7q9UsOepMW6BSUZhpq?alt=media&key=AIzaSyCYkOBMeM7FGIMciqu6r6F4q20NKyqzRv4
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Lashtam%2520Pashtam%25202542018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Khido Khundi 20/4/2018" tvg-logo="https://i.imgur.com/XOC78tV.jpg" group-title="hindi",Khido Khundi 20/4/2018
-https://www.googleapis.com/drive/v3/files/19XPT0LIwsPdkB4t8E1gh95flklqVsNzH?alt=media&key=AIzaSyAR_uU7tyJmGvUGPEGqDOvy_TPcWxHaLBY
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Khido%2520Khundi%25202042018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Love Per Square Foot 20/4/2018" tvg-logo="https://subdl.com/p/sd9/sd9525.jpg" group-title="hindi",Love Per Square Foot 20/4/2018
-https://www.googleapis.com/drive/v3/files/11Ywuixl-segT3-U8vviZee9RvaNyqx4g?alt=media&key=AIzaSyAy5xk4zpJsj8nHNwU84_X1UCaByLfMLxw
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Love%2520Per%2520Square%2520Foot%25202042018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nanu Ki Jaanu 16/4/2018" tvg-logo="https://subdl.com/p/sd74/sd74301.jpg" group-title="hindi",Nanu Ki Jaanu 16/4/2018
-https://www.googleapis.com/drive/v3/files/1n3f3NWnXngss6RVoiyLDdEHZWwpaWfKk?alt=media&key=AIzaSyD710Bc20yuzNajiRbNZzjh1sSnnnn1w4c
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Nanu%2520Ki%2520Jaanu%25201642018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Daas Dev 10/4/2018" tvg-logo="https://i.imgur.com/i4OpsGb.jpg" group-title="hindi",Daas Dev 10/4/2018
-https://www.googleapis.com/drive/v3/files/1Bfh4p43nnjcb7C87zqMT7qAtrfvLCQzz?alt=media&key=AIzaSyAzV6cBCe9DJGPCm6yCd2P5Y9gdqDDjVcQ
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daas%2520Dev%25201042018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="October 27/3/2018 " tvg-logo="https://subdl.com/p/sd2/sd2718.jpg" group-title="hindi",October 27/3/2018
 https://www.googleapis.com/drive/v3/files/10JkmJZVEpBpbhCZC0PNgdQYjCNf7RjYw?alt=media&key=AIzaSyAXqnIEWStjx9Q0XtpFwTnua2S27_wDM9U
 #EXTINF:-1 tvg-id="" tvg-name="Missing 20/3/2018" tvg-logo="https://i.imgur.com/5qo06HU.jpg" group-title="hindi",Missing 20/3/2018
