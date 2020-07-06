@@ -569,15 +569,15 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Beiimaan Love 9/9/2016" tvg-logo="https://i.imgur.com/j8nXECV.jpg" group-title="hindi",Beiimaan Love 9/9/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Beiimaan%2520Love%2520992016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baar Baar Dekho 30/8/2016" tvg-logo="https://subdl.com/p/sd11/sd11033.jpg" group-title="hindi",Baar Baar Dekho 30/8/2016
-https://www.googleapis.com/drive/v3/files/1qXKcAvXCQMsH7ZdxnFWjJ6a81rfBxcYk?alt=media&key=AIzaSyDwWTmYfUlZqQhyL_0DdEyqXKjeNqOPdK0
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baar%2520Baar%2520Dekho%25203082016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Akira 26/8/2016" tvg-logo="https://subdl.com/p/sd1/sd1100.jpg" group-title="hindi",Akira 26/8/2016
 https://www.googleapis.com/drive/v3/files/1O5QOS3Prv_9l4GBf5okqLvpFAdohBBil?alt=media&key=AIzaSyD_pNVVptZMajggjr3L1ogbNxDUV6lEvjM
 #EXTINF:-1 tvg-id="" tvg-name="A Flying Jatt 25/08/2016" tvg-logo="https://subdl.com/p/sd3/sd3542.jpg" group-title="hindi",A Flying Jatt 25/08/2016
-https://www.googleapis.com/drive/v3/files/19dSUqliPztTXspf2EYclXyk8ReXNzdv6?alt=media&key=AIzaSyAwTI_vwtETG7POPXWwBWA3_5WQv4fzwXE
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/A%2520Flying%2520Jatt%252025082016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dishoom 21/7/2016" tvg-logo="https://subdl.com/p/sd5/sd5262.jpg" group-title="hindi",Dishoom 21/7/2016
-https://www.googleapis.com/drive/v3/files/1DSE0KeJ8wHaLgyBr02L57iwjuBSC9PdH?alt=media&key=AIzaSyAG8pxEJjzGm51LUlM83U3W-iOXqPI_WLw
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dishoom%25202172016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fever 8/7/2016" tvg-logo="https://subdl.com/p/sd103/sd103431.jpg" group-title="hindi",Fever 8/7/2016
-https://www.googleapis.com/drive/v3/files/19uatGqtx8tJLjNh9PoV3UgPf6bm5ocxX?alt=media&key=AIzaSyDssVklbcguHgMKC8qPg6ASODEFl3ZokTA
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fever%2520872016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Guddu Ki Gun 30/6/2016" tvg-logo="https://subdl.com/p/sd196/sd196814.jpg" group-title="hindi",Guddu Ki Gun 30/6/2016
 https://www.googleapis.com/drive/v3/files/1s86XoUypfmJsJSFRMs3AauYfsgnmmCV6?alt=media&key=AIzaSyBC-w1XLAAUGE-kCzyml93R1HpFgc2ok6E
 #EXTINF:-1 tvg-id="" tvg-name="A Scandall 24/06/2016" tvg-logo="https://subdl.com/p/sd374/sd374515.jpg" group-title="hindi",A Scandall 24/06/2016
