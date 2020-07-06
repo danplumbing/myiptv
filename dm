@@ -162,6 +162,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chintu%2520Ka%2520Birthday%252020102019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Saand Ki Aankh 18/10/2019" tvg-logo="https://subdl.com/p/sd455/sd455354.jpg" group-title="hindi",Saand Ki Aankh 18/10/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saand%2520Ki%2520Aankh%252018102019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="yaaram 18/10/2019" tvg-logo="https://i.imgur.com/w1gvs1U.jpg" group-title="hindi",yaaram 18/10/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/yaaram%252018102019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ghost 15/10/2019" tvg-logo="https://subdl.com/p/sd516/sd516760.jpg" group-title="hindi",Ghost 15/10/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ghost%252015102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Housefull 4 15/10/2019" tvg-logo="https://i.imgur.com/1XrzfH8.jpg" group-title="hindi",Housefull 4 15/10/2019
@@ -202,6 +204,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Khandaani%2520Shafakhana%25203072019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Judgementall Hai Kya 22/7/2019" tvg-logo="https://i.imgur.com/7bBf0qA.jpg" group-title="hindi",Judgementall Hai Kya 22/7/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Judgementall%2520Hai%2520Kya%25202272019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Penalty 19/7/2019" tvg-logo="https://i.imgur.com/VKpqVVX.jpg" group-title="hindi",Penalty 19/7/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Penalty%25201972019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Super 30 6/7/2019" tvg-logo="https://i.imgur.com/wNPpr1t.jpg" group-title="hindi",Super 30 6/7/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Super%252030%2520672019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Malaal 5/7/2019" tvg-logo="https://subdl.com/p/sd340/sd340512.jpg" group-title="hindi",Malaal 5/7/2019
@@ -401,13 +405,13 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="High Jack 11/5/2018" tvg-logo="https://i.imgur.com/tbaSGRt.jpg" group-title="hindi",High Jack 11/5/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/High%2520Jack%25201152018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hope Aur Hum 11/5/2018" tvg-logo="https://subdl.com/p/sd188/sd188668.jpg" group-title="hindi",Hope Aur Hum 11/5/2018
-https://www.googleapis.com/drive/v3/files/1PXjwTxGKDzwvo5SwXGysTulgdP5GU1ON?alt=media&key=AIzaSyBrQnaG8U5RRnjbMbuifdAoUFu8PCISudw
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hope%2520Aur%2520Hum%25201152018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Love Sonia 7/5/2018" tvg-logo="https://subdl.com/p/sd148/sd148651.jpg" group-title="hindi",Love Sonia 7/5/2018
-https://www.googleapis.com/drive/v3/files/1i1n4g4A-XtLndkM-h-v6PMG2KTkZLxkb?alt=media&key=AIzaSyAjiJfPZ1CRWPnfNqUUj3Qf1P4TwWCkqmI
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Love%2520Sonia%2520752018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Khajoor Pe Atke 2/5/2018" tvg-logo="https://i.imgur.com/ZegPgma.jpg" group-title="hindi",Khajoor Pe Atke 2/5/2018
-https://www.googleapis.com/drive/v3/files/1QM9nj6klOrrrQ2MTcaUUHSMRzo_hSJ-3?alt=media&key=AIzaSyApMb4Z-zlSFg-KRkjdBAL0c-T9q9CeKJk
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Khajoor%2520Pe%2520Atke%2520252018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Daana Paani 1/5/2018" tvg-logo="https://subdl.com/p/sd161/sd161658.jpg" group-title="hindi",Daana Paani 1/5/2018
-https://www.googleapis.com/drive/v3/files/1UganDIFCaBRxmxXPyQSPl9-KRmgBMz1e?alt=media&key=AIzaSyAbiCaHNF8bo_q2BYOkW4SrRmWMkIYtp4U
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daana%2520Paani%2520152018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Past 26/4/2018" tvg-logo="https://i.imgur.com/0xlxTXx.jpg" group-title="hindi",The Past 26/4/2018
 https://www.googleapis.com/drive/v3/files/1IS9mhFL_0K6GBkmMl9R-maulSDXCxidi?alt=media&key=AIzaSyBcblWO4KUAza36QkudZ1V-BoWidc9nq14
 #EXTINF:-1 tvg-id="" tvg-name="102 Not Out 25/04/2018" tvg-logo="https://subdl.com/p/sd2/sd2588.jpg" group-title="hindi",102 Not Out 25/04/2018
