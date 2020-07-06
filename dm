@@ -272,6 +272,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Ladki%2520Ko%2520Dekha%2520Toh%2520Aisa%2520Laga%2520122019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sonchiriya 31/1/2019" tvg-logo="https://subdl.com/p/sd226/sd226075.jpg" group-title="hindi",Sonchiriya 31/1/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sonchiriya%25203112019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hala 26/1/2019" tvg-logo="https://i.imgur.com/wiEbNeN.jpg" group-title="hindi",Hala 26/1/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hala%25202612019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Thackeray 25/1/2019" tvg-logo="https://subdl.com/p/sd225/sd225446.jpg" group-title="hindi",Thackeray 25/1/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Thackeray%25202512019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fraud Saiyyan 18/1/2019" tvg-logo="https://subdl.com/p/sd206/sd206862.jpg" group-title="hindi",Fraud Saiyyan 18/1/2019
