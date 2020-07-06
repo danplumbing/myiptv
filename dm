@@ -489,15 +489,15 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Chef 29/9/2017" tvg-logo="https://subdl.com/p/sd5/sd5450.jpg" group-title="hindi",Chef 29/9/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chef%25202992017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhoomi 22/9/2017" tvg-logo="https://i.imgur.com/Nbizqk5.jpg" group-title="hindi",Bhoomi 22/9/2017
-https://www.googleapis.com/drive/v3/files/1dIMY7MOoz5e9euzGmYkc6N-X3wtKLIHA?alt=media&key=AIzaSyCLeLf8Pp5_FF83trmNmFMlJtgZ_EV0qQQ
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhoomi%25202292017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="B A  Pass 2 15/9/2017" tvg-logo="https://i.imgur.com/mMLDOrs.jpg" group-title="hindi",B A  Pass 2 15/9/2017
-https://www.googleapis.com/drive/v3/files/1p-1kgtN1TxnCcA-PwkP94MU9N3woSDbp?alt=media&key=AIzaSyAegBjrT9nfMuFL71apCkkZpJCC-7a7Chk
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/B%2520A%2520%2520Pass%25202%25201592017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baadshaho 1/9/2017" tvg-logo="https://subdl.com/p/sd18/sd18660.jpg" group-title="hindi",Baadshaho 1/9/2017
-https://www.googleapis.com/drive/v3/files/19xVzVNfbyYiUWwuh6Y0beSPcvivcWOFj?alt=media&key=AIzaSyCNw1o8nUqR_Imom5N19aO6KYcwpzpnWZ0
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baadshaho%2520192017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shubh Mangal Saavdhan 24/8/2017" tvg-logo="https://i.imgur.com/9uus56y.jpg" group-title="hindi",Shubh Mangal Saavdhan 24/8/2017
-https://www.googleapis.com/drive/v3/files/17NVDOTEOTMxcfpRWg2UKPye-rUtXqWN2?alt=media&key=AIzaSyBSLTh9bYoAZ1J2MBm-c5z7zC2q11P-p6Y
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shubh%2520Mangal%2520Saavdhan%25202482017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Babumoshai Bandookbaaz 21/8/2017" tvg-logo="https://subdl.com/p/sd132/sd132086.jpg" group-title="hindi",Babumoshai Bandookbaaz 21/8/2017
-https://www.googleapis.com/drive/v3/files/1vzL7ccb8xPKffdWerM_TvIN3EP4a9L-_?alt=media&key=AIzaSyAm9zrKOppUh7wqxLQFkddUpPJAM1AkEAU
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Babumoshai%2520Bandookbaaz%25202182017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Gentleman 16/8/2017" tvg-logo="https://subdl.com/p/sd18/sd18436.jpg" group-title="hindi",A Gentleman 16/8/2017
 https://www.googleapis.com/drive/v3/files/14WRE0fYZ1pjYh4KvzJC4M1NxtuJteReg?alt=media&key=AIzaSyChNDoYJMnuSlbNMVY0tS5603Z9xljrgxw
 #EXTINF:-1 tvg-id="" tvg-name="Bareilly Ki Barfi 14/8/2017" tvg-logo="https://subdl.com/p/sd11/sd11677.jpg" group-title="hindi",Bareilly Ki Barfi 14/8/2017
