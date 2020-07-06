@@ -511,57 +511,57 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Gurgaon 4/8/2017" tvg-logo="https://i.imgur.com/OtuBqZk.jpg" group-title="hindi",Gurgaon 4/8/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gurgaon%2520482017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Newton 13/7/2017" tvg-logo="https://subdl.com/p/sd12/sd12356.jpg" group-title="hindi",Newton 13/7/2017
-https://www.googleapis.com/drive/v3/files/1mdW-odtxL46Rxbtkn1RTOB-z254C_xPn?alt=media&key=AIzaSyCqVC6_jhqkGw5cU-8p4KKrT0TTW4iUB10
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Newton%25201372017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Awarapan 21/6/2007" tvg-logo="https://subdl.com/p/sd5/sd5932.jpg" group-title="hindi",Awarapan 21/6/2007
-https://www.googleapis.com/drive/v3/files/19sfTEZQOrMJXk7o-d717SZqDRWh5NxIK?alt=media&key=AIzaSyC8qeQ5yaNtaiMhq7jncWuEhOFDgAJXLkQ
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Awarapan%25202162007.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Guest In London 21/6/2017" tvg-logo="https://i.imgur.com/kljhjX8.jpg" group-title="hindi",Guest In London 21/6/2017
-https://www.googleapis.com/drive/v3/files/1FadH935zNjXg6xqcqPLhZh8PR4pu4ZCF?alt=media&key=AIzaSyCaXwwPbo8BoBct6sNW1F-CN2OAsCAVMEY
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Guest%2520In%2520London%25202162017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Wishing Tree 9/6/2017" tvg-logo="https://i.imgur.com/2XuP9pc.jpg" group-title="hindi",The Wishing Tree 9/6/2017
-https://www.googleapis.com/drive/v3/files/1rR3JhBj92aC77SeMsVkt3TnkecsiWANJ?alt=media&key=AIzaSyDYDX3PB_VlOlf7g4QwUoYzJP2SrDJip-g
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Wishing%2520Tree%2520962017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Raabta 5/6/2017" tvg-logo="https://subdl.com/p/sd2/sd2802.jpg" group-title="hindi",Raabta 5/6/2017
-https://www.googleapis.com/drive/v3/files/1mbJsrUU9uRCay63GjgVCObPmrPf9tdmu?alt=media&key=AIzaSyAyBrGRxR__DVJw7Z0iGHRa2_9y0gJmF-g
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Raabta%2520562017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Flat 211 2/6/2017" tvg-logo="https://i.imgur.com/7FQVGJE.jpg" group-title="hindi",Flat 211 2/6/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Flat%2520211%2520262017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bank Chor 29/5/2017" tvg-logo="https://subdl.com/p/sd16/sd16511.jpg" group-title="hindi",Bank Chor 29/5/2017
-https://www.googleapis.com/drive/v3/files/1P7hgWGxttdBAoyLEBZ75hjS5dSM8wttK?alt=media&key=AIzaSyAsDc1102sAEPSaIg0BL84ypjUiosPevI0
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bank%2520Chor%25202952017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Half Girlfriend 19/5/2017" tvg-logo="https://subdl.com/p/sd1/sd1931.jpg" group-title="hindi",Half Girlfriend 19/5/2017
-https://www.googleapis.com/drive/v3/files/1Xh24JtJvAaqffvzGb5zuwWk9IbfuOrp1?alt=media&key=AIzaSyCvVjFJtGayBTTWKrVH9t1w9eJSzBZwe_8
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Half%2520Girlfriend%25201952017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sargoshiyan 8/5/2017" tvg-logo="https://subdl.com/p/sd807/sd807133.jpg" group-title="hindi",Sargoshiyan 8/5/2017
-https://www.googleapis.com/drive/v3/files/10WCQ_2Q3LlxtO90p0O8nZvgXRikIIwsT?alt=media&key=AIzaSyCQUHnME4Yhsfw3xfrevRGNXmVaZPYoKBM
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sargoshiyan%2520852017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sarkar 3 8/5/2017" tvg-logo="https://subdl.com/p/sd12/sd12174.jpg" group-title="hindi",Sarkar 3 8/5/2017
-https://www.googleapis.com/drive/v3/files/12N84Ddh-zIEkaGbgqdv_t4Y68GwAq9WP?alt=media&key=AIzaSyBWuZ8bKBBJYuPMcPEOOPlNLP-N3cWpPco
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sarkar%25203%2520852017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Begum Jaan 14/4/2017" tvg-logo="https://subdl.com/p/sd3/sd3334.jpg" group-title="hindi",Begum Jaan 14/4/2017
-https://www.googleapis.com/drive/v3/files/187FbY6H4Z3I_7ej2iyU2x8R0LIwH9l7d?alt=media&key=AIzaSyCi14wKmcSPackkC3DrSn3dSNNbEHcGhYY
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Begum%2520Jaan%25201442017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manje Bistre 14/4/2017" tvg-logo="https://i.imgur.com/3oihw9f.jpg" group-title="hindi",Manje Bistre 14/4/2017
-https://www.googleapis.com/drive/v3/files/1ZcMA_-eoUbL2X2CGWYk4IDhqlcHFE_F3?alt=media&key=AIzaSyD_d0FxczPzZsL03yAwQ1tgIyiDuekd0wg
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Manje%2520Bistre%25201442017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Badrinath Ki Dulhania 1/3/2017" tvg-logo="https://subdl.com/p/sd2/sd2892.jpg" group-title="hindi",Badrinath Ki Dulhania 1/3/2017
-https://www.googleapis.com/drive/v3/files/1GwdmpBY_4DKRbCj1vuZsqkEbzin6uCVz?alt=media&key=AIzaSyCjikVpI4y4Ejvplu0McROe6OgREUbnvTA
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Badrinath%2520Ki%2520Dulhania%2520132017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Commando 2 27/2/2017" tvg-logo="https://subdl.com/p/sd4/sd4315.jpg" group-title="hindi",Commando 2 27/2/2017
-https://www.googleapis.com/drive/v3/files/1sJ-9AzcQfpDB54tSRzNWvSRzSY6AivqW?alt=media&key=AIzaSyAAJEm2UApaxCFMzDxKbOfT5j6izxeroq0
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Commando%25202%25202722017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhouri 24/2/2017" tvg-logo="https://subdl.com/p/sd474/sd474863.jpg" group-title="hindi",Bhouri 24/2/2017
-https://www.googleapis.com/drive/v3/files/1dIMY7MOoz5e9euzGmYkc6N-X3wtKLIHA?alt=media&key=AIzaSyCBqBzf76tx6Rl5U-4NRtShb02zvmnTdnc
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhouri%25202422017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wedding Anniversary 17/2/2017" tvg-logo="https://i.imgur.com/sadUcHX.jpg" group-title="hindi",Wedding Anniversary 17/2/2017
-https://www.googleapis.com/drive/v3/files/1CbdRNerjK67OM740PKBaLiP-umtNCGBX?alt=media&key=AIzaSyB-AlFzdkCtcq68wnCJxns488KVLJW_MIE
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Wedding%2520Anniversary%25201722017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Love U Family 2/6/2017" tvg-logo="https://i.imgur.com/jq0uF0N.jpg" group-title="hindi",Love U Family 2/6/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Love%2520U%2520Family%2520262017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Coffee with D 10/1/2017" tvg-logo="https://i.imgur.com/MCffBf3.jpg" group-title="hindi",Coffee with D 10/1/2017
-https://www.googleapis.com/drive/v3/files/16440CxqYREfSYNFcJ1fbbODRjamJMH27?alt=media&key=AIzaSyD992fVbm0OntqqMFSChpOtweHe2U1PHMM
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Coffee%2520with%2520D%25201012017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dangal 22/12/2016" tvg-logo="https://subdl.com/p/sd5/sd5509.jpg" group-title="hindi",Dangal 22/12/2016
-https://www.googleapis.com/drive/v3/files/1nWVrGPqbXR9S3USzMldBp1299zRZqcus?alt=media&key=AIzaSyCueqEfrS-mrgkcyAMEKjT3chYL8AS_3Y4
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dangal%252022122016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Trapped 21/12/2016" tvg-logo="https://subdl.com/p/sd176/sd176737.jpg" group-title="hindi",Trapped 21/12/2016
-https://www.googleapis.com/drive/v3/files/1jTlSq8V41d-NyXuN-kSdFnjMkvYtbMTX?alt=media&key=AIzaSyAu5TymLDX563Iq_xvyAV2ihBusZabFpgQ
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Trapped%252021122016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="30 Minutes 9/12/2016" tvg-logo="https://i.imgur.com/OHLLOqx.jpg" group-title="hindi",30 Minutes 9/12/2016
-https://www.googleapis.com/drive/v3/files/1n3tDwUE-Udgc57RvhmTqXkdDFdwQrtHV?alt=media&key=AIzaSyDIbaxbtRtPZXYpDsIi6Mm2lqGLWej-ADM
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/30%2520Minutes%25209122016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wajah Tum Ho 22/11/2016" tvg-logo="https://subdl.com/p/sd14/sd14018.jpg" group-title="hindi",Wajah Tum Ho 22/11/2016
-https://www.googleapis.com/drive/v3/files/1lbq376w5ZqAb-evQ6-HCLoQDhA9gb2Xs?alt=media&key=AIzaSyBvBNEsjkAWutNHR2SgLEauuY8xiKViQ3Q
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Wajah%2520Tum%2520Ho%252022112016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dear Zindagi 16/11/2016" tvg-logo="https://subdl.com/p/sd1/sd1141.jpg" group-title="hindi",Dear Zindagi 16/11/2016
-https://www.googleapis.com/drive/v3/files/16rlhc1kqRAYBVXEV5DJNS_Rd4hJ21-Ae?alt=media&key=AIzaSyC2tez-0kJTpX5BvlbP7amv-JAFvO3-p3w
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dear%2520Zindagi%252016112016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Befikre 15/11/2016" tvg-logo="https://i.imgur.com/w9x33Sh.jpg" group-title="hindi",Befikre 15/11/2016
-https://www.googleapis.com/drive/v3/files/1ZUUt9VKxtCj5bLiJiq82kzk4mw7S2JbC?alt=media&key=AIzaSyCGgvroJu7fSgtDoC3KOCnm-_l8iwKaQBI
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Befikre%252015112016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Force 2 10/11/2016" tvg-logo="https://subdl.com/p/sd10/sd10993.jpg" group-title="hindi",Force 2 10/11/2016
-https://www.googleapis.com/drive/v3/files/1r2ZyMQ1c4rAquy5gZXxmtytg5sXmrUF8?alt=media&key=AIzaSyD5PPSEJs9b3O-kpq14OJSvNOMLIePho2g
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Force%25202%252010112016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dongri Ka Raja 8/11/2016" tvg-logo="https://subdl.com/p/sd13/sd13945.jpg" group-title="hindi",Dongri Ka Raja 8/11/2016
-https://www.googleapis.com/drive/v3/files/1UZDxfXll2_pgzmXeJPftUwVpsW6Ziphw?alt=media&key=AIzaSyA6BO0rfFFgImuZR4J5J2W8eYwtFfNxg4M
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dongri%2520Ka%2520Raja%25208112016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AE DIL HAI MUSHKIL 14/10/2016" tvg-logo="https://i.imgur.com/I1u58pF.jpg" group-title="hindi",AE DIL HAI MUSHKIL 14/10/2016
 https://www.googleapis.com/drive/v3/files/1H5subvrAwTLuLSZZaq29Lyk4gWX9LikU?alt=media&key=AIzaSyDAc4kgrCl8NE_SJYni7jdLyee7amQ_f1w
 #EXTINF:-1 tvg-id="" tvg-name="Banjo 15/9/2016" tvg-logo="https://subdl.com/p/sd6/sd6799.jpg" group-title="hindi",Banjo 15/9/2016
@@ -614,6 +614,8 @@ https://www.googleapis.com/drive/v3/files/1LwjsAlp-wwwN0IDxL4VkwkPkN-YdHo6K?alt=
 https://www.googleapis.com/drive/v3/files/1wfUUICR9jN0scgjaJLEG6y-MEFyLDsSd?alt=media&key=AIzaSyA42lDLIz3KNYCZNLw0MFBD716fh7zIU9M
 #EXTINF:-1 tvg-id="" tvg-name="Haunted 22/2/2016" tvg-logo="https://i.imgur.com/l3rxysy.jpg" group-title="hindi",Haunted 22/2/2016
 https://www.googleapis.com/drive/v3/files/1wtX16q_wZrVn_p9R5xRGB7vXzL0VVDzY?alt=media&key=AIzaSyDGThJHQL70HqeAzys8HtDPe7vyiDq5O2U
+#EXTINF:-1 tvg-id="" tvg-name="Ishq Forever 19/2/2016" tvg-logo="https://i.imgur.com/XwimOmZ.jpg" group-title="hindi",Ishq Forever 19/2/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ishq%2520Forever%25201922016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jai Gangaajal 16/2/2016" tvg-logo="https://subdl.com/p/sd67/sd67436.jpg" group-title="hindi",Jai Gangaajal 16/2/2016
 https://www.googleapis.com/drive/v3/files/18c8GplQBME3qTWidqf6m3AjTsn6mdtqm?alt=media&key=AIzaSyCMeFmPs_C6x3bxDMm_5mU3GY3-77s0gMs
 #EXTINF:-1 tvg-id="" tvg-name="Fitoor 11/2/2016" tvg-logo="https://i.imgur.com/ziFF6jQ.jpg" group-title="hindi",Fitoor 11/2/2016
