@@ -499,11 +499,11 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Babumoshai Bandookbaaz 21/8/2017" tvg-logo="https://subdl.com/p/sd132/sd132086.jpg" group-title="hindi",Babumoshai Bandookbaaz 21/8/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Babumoshai%2520Bandookbaaz%25202182017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Gentleman 16/8/2017" tvg-logo="https://subdl.com/p/sd18/sd18436.jpg" group-title="hindi",A Gentleman 16/8/2017
-https://www.googleapis.com/drive/v3/files/14WRE0fYZ1pjYh4KvzJC4M1NxtuJteReg?alt=media&key=AIzaSyChNDoYJMnuSlbNMVY0tS5603Z9xljrgxw
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/A%2520Gentleman%25201682017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bareilly Ki Barfi 14/8/2017" tvg-logo="https://subdl.com/p/sd11/sd11677.jpg" group-title="hindi",Bareilly Ki Barfi 14/8/2017
-https://www.googleapis.com/drive/v3/files/1kT9xTSgT3XNgFLeY0KCTAt9akkk9utVX?alt=media&key=AIzaSyAxwLH-p7cZN8s_lmq4hjjOgdI9XOGAK5s
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bareilly%2520Ki%2520Barfi%25201482017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gurgaon 4/8/2017" tvg-logo="https://i.imgur.com/OtuBqZk.jpg" group-title="hindi",Gurgaon 4/8/2017
-https://www.googleapis.com/drive/v3/files/1Cc6t_SH6M6mGH1IOh8ipjmplMeRuOgGM?alt=media&key=AIzaSyAqAw7xo3Go_mpyR3K3GYo_ybkNXgIrE_8
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gurgaon%2520482017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Newton 13/7/2017" tvg-logo="https://subdl.com/p/sd12/sd12356.jpg" group-title="hindi",Newton 13/7/2017
 https://www.googleapis.com/drive/v3/files/1mdW-odtxL46Rxbtkn1RTOB-z254C_xPn?alt=media&key=AIzaSyCqVC6_jhqkGw5cU-8p4KKrT0TTW4iUB10
 #EXTINF:-1 tvg-id="" tvg-name="Awarapan 21/6/2007" tvg-logo="https://subdl.com/p/sd5/sd5932.jpg" group-title="hindi",Awarapan 21/6/2007
