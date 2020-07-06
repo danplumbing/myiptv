@@ -216,6 +216,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Drive%25202862019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Noblemen 28/6/2019" tvg-logo="https://subdl.com/p/sd510/sd510291.jpg" group-title="hindi",Noblemen 28/6/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Noblemen%25202862019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tottaa Pataaka Item Maal 27/6/2019" tvg-logo="https://i.imgur.com/7jS30L7.jpg" group-title="hindi",Tottaa Pataaka Item Maal 27/6/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Tottaa%2520Pataaka%2520Item%2520Maal%25202762019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="One Day Justice Delivered 18/6/2019" tvg-logo="https://i.imgur.com/vibWw3L.jpg" group-title="hindi",One Day Justice Delivered 18/6/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/One%2520Day%2520Justice%2520Delivered%25201862019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Game Over 14/6/2019" tvg-logo="https://i.imgur.com/j6gSNth.jpg" group-title="hindi",Game Over 14/6/2019
@@ -516,6 +518,8 @@ https://www.googleapis.com/drive/v3/files/1FadH935zNjXg6xqcqPLhZh8PR4pu4ZCF?alt=
 https://www.googleapis.com/drive/v3/files/1rR3JhBj92aC77SeMsVkt3TnkecsiWANJ?alt=media&key=AIzaSyDYDX3PB_VlOlf7g4QwUoYzJP2SrDJip-g
 #EXTINF:-1 tvg-id="" tvg-name="Raabta 5/6/2017" tvg-logo="https://subdl.com/p/sd2/sd2802.jpg" group-title="hindi",Raabta 5/6/2017
 https://www.googleapis.com/drive/v3/files/1mbJsrUU9uRCay63GjgVCObPmrPf9tdmu?alt=media&key=AIzaSyAyBrGRxR__DVJw7Z0iGHRa2_9y0gJmF-g
+#EXTINF:-1 tvg-id="" tvg-name="Flat 211 2/6/2017" tvg-logo="https://i.imgur.com/7FQVGJE.jpg" group-title="hindi",Flat 211 2/6/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Flat%2520211%2520262017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bank Chor 29/5/2017" tvg-logo="https://subdl.com/p/sd16/sd16511.jpg" group-title="hindi",Bank Chor 29/5/2017
 https://www.googleapis.com/drive/v3/files/1P7hgWGxttdBAoyLEBZ75hjS5dSM8wttK?alt=media&key=AIzaSyAsDc1102sAEPSaIg0BL84ypjUiosPevI0
 #EXTINF:-1 tvg-id="" tvg-name="Half Girlfriend 19/5/2017" tvg-logo="https://subdl.com/p/sd1/sd1931.jpg" group-title="hindi",Half Girlfriend 19/5/2017
