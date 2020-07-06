@@ -563,11 +563,11 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Dongri Ka Raja 8/11/2016" tvg-logo="https://subdl.com/p/sd13/sd13945.jpg" group-title="hindi",Dongri Ka Raja 8/11/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dongri%2520Ka%2520Raja%25208112016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AE DIL HAI MUSHKIL 14/10/2016" tvg-logo="https://i.imgur.com/I1u58pF.jpg" group-title="hindi",AE DIL HAI MUSHKIL 14/10/2016
-https://www.googleapis.com/drive/v3/files/1H5subvrAwTLuLSZZaq29Lyk4gWX9LikU?alt=media&key=AIzaSyDAc4kgrCl8NE_SJYni7jdLyee7amQ_f1w
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/AE%2520DIL%2520HAI%2520MUSHKIL%252014102016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Banjo 15/9/2016" tvg-logo="https://subdl.com/p/sd6/sd6799.jpg" group-title="hindi",Banjo 15/9/2016
-https://www.googleapis.com/drive/v3/files/1_0Ok7HRXrbA4ozeeqV-VHcQapJublR9G?alt=media&key=AIzaSyBr6DzxhlYT_CFvJ5k44ebtMS9gF3OL8Og
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Banjo%25201592016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Beiimaan Love 9/9/2016" tvg-logo="https://i.imgur.com/j8nXECV.jpg" group-title="hindi",Beiimaan Love 9/9/2016
-https://www.googleapis.com/drive/v3/files/1s1htWSwhouVxzDbn6D8mZkQb8THUBoY7?alt=media&key=AIzaSyBCWrlCl9VuZhsX9ryQIsYsOTiPc3AF6as
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Beiimaan%2520Love%2520992016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baar Baar Dekho 30/8/2016" tvg-logo="https://subdl.com/p/sd11/sd11033.jpg" group-title="hindi",Baar Baar Dekho 30/8/2016
 https://www.googleapis.com/drive/v3/files/1qXKcAvXCQMsH7ZdxnFWjJ6a81rfBxcYk?alt=media&key=AIzaSyDwWTmYfUlZqQhyL_0DdEyqXKjeNqOPdK0
 #EXTINF:-1 tvg-id="" tvg-name="Akira 26/8/2016" tvg-logo="https://subdl.com/p/sd1/sd1100.jpg" group-title="hindi",Akira 26/8/2016
