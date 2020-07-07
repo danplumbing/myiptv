@@ -564,6 +564,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dongri%2520Ka%2520Raja%25208112016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AE DIL HAI MUSHKIL 14/10/2016" tvg-logo="https://i.imgur.com/I1u58pF.jpg" group-title="hindi",AE DIL HAI MUSHKIL 14/10/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/AE%2520DIL%2520HAI%2520MUSHKIL%252014102016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mirza's Lady 7/10/2016" tvg-logo="https://i.imgur.com/7AuKp7L.jpg" group-title="hindi",Mirza's Lady 7/10/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mirza%2527s%2520Lady%25207102016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Banjo 15/9/2016" tvg-logo="https://subdl.com/p/sd6/sd6799.jpg" group-title="hindi",Banjo 15/9/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Banjo%25201592016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Beiimaan Love 9/9/2016" tvg-logo="https://i.imgur.com/j8nXECV.jpg" group-title="hindi",Beiimaan Love 9/9/2016
