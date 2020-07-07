@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
-#EXTINF:-1 tvg-id="" tvg-name="Unlock 27/6/2020 " tvg-logo="https://i.imgur.com/tAGPCrt.jpg" https://www.imdb.com/title/tt8176040/" group-title="hindi",Unlock 27/6/2020
+#EXTINF:-1 tvg-id="" tvg-name="Unlock 27/6/2020 " tvg-logo="https://i.imgur.com/tAGPCrt.jpg" group-title="hindi",Unlock 27/6/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Unlock%25202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bhonsle 26/6/2020 " tvg-logo="https://i.imgur.com/45569qm.jpg" group-title="hindi",Bhonsle 26/6/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhonsle%25202020.mkv
@@ -597,7 +597,7 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Sarbjit 11/5/2016" tvg-logo="https://subdl.com/p/sd52/sd52892.jpg" group-title="hindi",Sarbjit 11/5/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sarbjit%25201152016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Azhar 6/5/2016" tvg-logo="https://subdl.com/p/sd374/sd374570.jpg" group-title="hindi",Azhar 6/5/2016
-https://www.googleapis.com/drive/v3/files/1AxKMqPW8ChmvYygHZPxqiFLcGAohqram?alt=media&key=AIzaSyCizIz_vo71peF1PIfQ0m2pM5zoYYnbJZQ
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Azhar%2520652016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1920 London 26/04/2016" tvg-logo="https://subdl.com/p/sd9/sd9394.jpg" group-title="hindi",1920 London 26/04/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/1920%2520London%252026042016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baaghi 18/4/2016" tvg-logo="https://subdl.com/p/sd1/sd1745.jpg" group-title="hindi",Baaghi 18/4/2016
@@ -665,39 +665,39 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Drishyam 20/7/2015 " tvg-logo="https://subdl.com/p/sd38/sd38073.jpg" group-title="hindi",Drishyam 20/7/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Drishyam%25202072015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bajrangi Bhaijaan 6/7/2015 " tvg-logo="https://subdl.com/p/sd1/sd1308.jpg" group-title="hindi",Bajrangi Bhaijaan 6/7/2015
-https://www.googleapis.com/drive/v3/files/1a-5KYAu_SQh9huuLHS86UVmrAr40i-qy?alt=media&key=AIzaSyDCAVhvE3SqPtY35UKWDUduc-NBd05rm_w
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bajrangi%2520Bhaijaan%2520672015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baahubali The Beginning 3/7/2015 " tvg-logo="https://i.imgur.com/u5VYQCT.jpg" group-title="hindi",Baahubali The Beginning 3/7/2015
-https://www.googleapis.com/drive/v3/files/1xVroZr4pPRQOYjEh0OGUJLv6XzidHnX7?alt=media&key=AIzaSyB-Uwx0_ffxvsw3DK3RNmzVdSA9aWPaWzE
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baahubali%2520The%2520Beginning%2520372015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="pyaar ka punchnama 2 27/6/2015 " tvg-logo="https://subdl.com/p/sd10/sd10808.jpg" group-title="hindi",pyaar ka punchnama 2 27/6/2015
-https://www.googleapis.com/drive/v3/files/1BIhGVFh3Re35eWpkdMCk0mYhE-ac_Lh-?alt=media&key=AIzaSyDx30UZtx7qzu_fA-YK81t34Df-mcTZ4pc
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/pyaar%2520ka%2520punchnama%25202%25202762015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Guddu Rangeela 18/6/2015 " tvg-logo="https://i.imgur.com/9fkUD73.jpg" group-title="hindi",Guddu Rangeela 18/6/2015
-https://www.googleapis.com/drive/v3/files/1smLkU95X_vNUpoLTA9Er79OW16hCGgks?alt=media&key=AIzaSyD76ZX-b4w91zxX9sGQGRj1vahawAWB5G4
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Guddu%2520Rangeela%25201862015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ABCD 2 4/6/2015 " tvg-logo="https://i.imgur.com/f226HoD.jpg" group-title="hindi",ABCD 2 4/6/2015
-https://www.googleapis.com/drive/v3/files/1tX1LSnTrLXwMga3uBI1TR-UfVNgoXctf?alt=media&key=AIzaSyAvYAPe5BxCa_KfzQkMD32tRhMyMu-Bwsc
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/ABCD%25202%2520462015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dil Dhadakne Do 29/5/2015 " tvg-logo="https://subdl.com/p/sd10/sd10116.jpg" group-title="hindi",Dil Dhadakne Do 29/5/2015
-https://www.googleapis.com/drive/v3/files/1Zrb658hb372CV_dtE2wp0oMihPeNcVKr?alt=media&key=AIzaSyB5xPJsO-CadqqAPNHtgKWZ5Job5XHOgQU
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Dhadakne%2520Do%25202952015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Welcome 2 Karachi 28/5/2015 " tvg-logo="https://subdl.com/p/sd323/sd323028.jpg" group-title="hindi",Welcome 2 Karachi 28/5/2015
-https://www.googleapis.com/drive/v3/files/1zPhdTXslJuR3kTNnfHdtAFxeQ6VzxSvY?alt=media&key=AIzaSyDGvTHRq2yZ__crvImKQzhTENnka73ykvk
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Welcome%25202%2520Karachi%25202852015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hamari Adhuri Kahani 20/5/2015 " tvg-logo="https://subdl.com/p/sd1/sd1992.jpg" group-title="hindi",Hamari Adhuri Kahani 20/5/2015
-https://www.googleapis.com/drive/v3/files/1FFEDDdiL5-H7EdgMcT1EcpWSBFZrJ28r?alt=media&key=AIzaSyCRfkTQW-RVzhdTw7JFIoIPUKgP20Lqlfo
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hamari%2520Adhuri%2520Kahani%25202052015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tanu Weds Manu Returns 16/5/2015 " tvg-logo="https://subdl.com/p/sd10/sd10063.jpg" group-title="hindi",Tanu Weds Manu Returns 16/5/2015
-https://www.googleapis.com/drive/v3/files/1y08NuOROvOnF_IcJ6LIf7-g2guYIBqHs?alt=media&key=AIzaSyAvH6_NWm7lA73-T1gkJbHzQDbzCQns9jU
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Tanu%2520Weds%2520Manu%2520Returns%25201652015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bombay Velvet 9/5/2015 " tvg-logo="https://subdl.com/p/sd2/sd2286.jpg" group-title="hindi",Bombay Velvet 9/5/2015
-https://www.googleapis.com/drive/v3/files/1d7B76fhD719-EB2psU5078c7jw5OMbxj?alt=media&key=AIzaSyCfS0mKUR7S1b-3GzfR5IuDirxnjSOSyF0
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bombay%2520Velvet%2520952015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gabbar Is Back 27/4/2015 " tvg-logo="https://subdl.com/p/sd4/sd4885.jpg" group-title="hindi",Gabbar Is Back 27/4/2015
-https://www.googleapis.com/drive/v3/files/1MX-D3D3hWR8DVxQP9_HQrf0GPUO5nApS?alt=media&key=AIzaSyAPBz-wu7a97GP_F9PNJqC7itxwdpiXGbE
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gabbar%2520Is%2520Back%25202742015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ek Paheli Leela 10/4/2015 " tvg-logo="https://i.imgur.com/RirexGz.jpg" group-title="hindi",Ek Paheli Leela 10/4/2015
-https://www.googleapis.com/drive/v3/files/1HfBPGswm2ib5kzS1JZCg9YkqfDLMvxH8?alt=media&key=AIzaSyBFF9n5XCgeV9IQ3tLdGoha3KWQA0OoY28
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Paheli%2520Leela%25201042015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hunterrr 9/3/2015 " tvg-logo="https://subdl.com/p/sd15/sd15238.jpg" group-title="hindi",Hunterrr 9/3/2015
-https://www.googleapis.com/drive/v3/files/1n6wlXfxgvXZDyYfJ5SzEZYzZMn5LUisI?alt=media&key=AIzaSyCJQ_WgngIq4ZKO_jm1J0-4Nyhc6ReuVhA
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hunterrr%2520932015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NH10 7/3/2015 " tvg-logo="https://i.imgur.com/PdxGfVw.jpg" group-title="hindi",NH10 7/3/2015
-https://www.googleapis.com/drive/v3/files/1Mrg97fQ3bzV7BVOta7JvtE3pJxjf9_64?alt=media&key=AIzaSyB9j-PeITImX2sVEUHg0GfCmBiR_Gmb26w
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/NH10%2520732015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ab Tak Chhappan 2 23/02/2015 " tvg-logo="https://subdl.com/p/sd385/sd385863.jpg" group-title="hindi",Ab Tak Chhappan 2 23/02/2015
-https://www.googleapis.com/drive/v3/files/1qLrLY5fAaMOb9jkx9Cs0IH9TNuseChEM?alt=media&key=AIzaSyBL2mpYwDUtWPX77AbI8CAfW9UNWnTIujw
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ab%2520Tak%2520Chhappan%25202%252023022015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Badmashiyaan 24/2/2015 " tvg-logo="https://subdl.com/p/sd71/sd71918.jpg" group-title="hindi",Badmashiyaan 24/2/2015
-https://www.googleapis.com/drive/v3/files/1LxwRCP163hC2DM245fWi9X1S4O-L_VJK?alt=media&key=AIzaSyDvoN5FV05momFKjM4WfVKd447RJUUDXPI
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Badmashiyaan%25202422015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dum Laga Ke Haisha 23/2/2015 " tvg-logo="https://subdl.com/p/sd3/sd3053.jpg" group-title="hindi",Dum Laga Ke Haisha 23/2/2015
-https://www.googleapis.com/drive/v3/files/1U2yEWUdjYkyNUkZd6xvcQ_Cs6q60fILc?alt=media&key=AIzaSyBz3ixz3vh72SKyDvyDjbuwe3k5M2XLjLQ
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dum%2520Laga%2520Ke%2520Haisha%25202322015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BADLAPUR 19/2/2015 " tvg-logo="https://i.imgur.com/Z0Tl7vo.jpg" group-title="hindi",BADLAPUR 19/2/2015
 https://www.googleapis.com/drive/v3/files/1XD0L_wEbxFXuisr3Ot1qqN4Vj4z3bC6h?alt=media&key=AIzaSyAqrPB3BNN3CMf4jBE-rl_vhkmw_lGde9E
 #EXTINF:-1 tvg-id="" tvg-name="Hate Story 3 10/2/2015 " tvg-logo="https://i.imgur.com/gYna4HP.jpg" group-title="hindi",Hate Story 3 10/2/2015
