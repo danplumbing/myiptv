@@ -548,6 +548,8 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Wedding%2520Anniversary%25201722017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Love U Family 2/6/2017" tvg-logo="https://i.imgur.com/jq0uF0N.jpg" group-title="hindi",Love U Family 2/6/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Love%2520U%2520Family%2520262017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jolly LLB 2 24/1/2017" tvg-logo="https://i.imgur.com/zbB078j.jpg" group-title="hindi",Jolly LLB 2 24/1/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jolly%2520LLB%25202%25202412017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Coffee with D 10/1/2017" tvg-logo="https://i.imgur.com/MCffBf3.jpg" group-title="hindi",Coffee with D 10/1/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Coffee%2520with%2520D%25201012017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dangal 22/12/2016" tvg-logo="https://subdl.com/p/sd5/sd5509.jpg" group-title="hindi",Dangal 22/12/2016
@@ -654,6 +656,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhaag%2520Johnny%25201992015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kis Kisko Pyaar Karu 15/9/2015" tvg-logo="https://i.imgur.com/2sLCj6M.jpg" group-title="hindi",Kis Kisko Pyaar Karu 15/9/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kis%2520Kisko%2520Pyaar%2520Karu%25201592015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tera Mera Tedha Medha 3/9/2015" tvg-logo="https://i.imgur.com/kcLsbrR.jpg" group-title="hindi",Tera Mera Tedha Medha 3/9/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Tera%2520Mera%2520Tedha%2520Medha%2520392015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Calendar Girls 1/9/2015" tvg-logo="https://subdl.com/p/sd5/sd5856.jpg" group-title="hindi",Calendar Girls 1/9/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Calendar%2520Girls%2520192015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hero 1/9/2015" tvg-logo="https://subdl.com/p/sd177/sd177127.jpg" group-title="hindi",Hero 1/9/2015
@@ -739,19 +743,19 @@ https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Daawat-e-Ishq 1/9/2014 " tvg-logo="https://subdl.com/p/sd9/sd9332.jpg" group-title="hindi",Daawat-e-Ishq 1/9/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daawat-e-Ishq%2520192014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Its Entertainment 31/7/2014 " tvg-logo="https://i.imgur.com/sMIy7md.jpg" group-title="hindi",Its Entertainment 31/7/2014
-https://www.googleapis.com/drive/v3/files/1dmd2GtJMofHQvGqp3ectXJ5r1DArMKuI?alt=media&key=AIzaSyDUhhBNo37imNa1jrBxun6FIdXIlEMTK_Y
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Its%2520Entertainment%25203172014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hate Story 2 10/7/2014 " tvg-logo="https://i.imgur.com/7U0kw6r.jpg" group-title="hindi",Hate Story 2 10/7/2014
-https://www.googleapis.com/drive/v3/files/1HTHCKgwRDZ2relqOwj97MWDDpxYMzNRj?alt=media&key=AIzaSyAXC5xLKaPHMMdJj6z6xwUniWDA0I3Twqo
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hate%2520Story%25202%25201072014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Humpty Sharma Ki Dulhania 26/6/2014 " tvg-logo="https://subdl.com/p/sd1/sd1273.jpg" group-title="hindi",Humpty Sharma Ki Dulhania 26/6/2014
-https://www.googleapis.com/drive/v3/files/1UrYiksN0cYtO79de_Cqrz6P1GDUqS_0v?alt=media&key=AIzaSyC9XEEzhSWXYVQtJX00i9UHLU9l1eIr5S4
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Humpty%2520Sharma%2520Ki%2520Dulhania%25202662014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bobby Jasoos 23/6/2014 " tvg-logo="https://subdl.com/p/sd11/sd11756.jpg" group-title="hindi",Bobby Jasoos 23/6/2014
-https://www.googleapis.com/drive/v3/files/1z76rs-KXOqKfSktM7fhzS8saBe9G1f0C?alt=media&key=AIzaSyCN6vp_3Gs4GoN-KHySa0-cVz-RnmFejGo
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bobby%2520Jasoos%25202362014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ek Villain 13/6/2014 " tvg-logo="https://subdl.com/p/sd1/sd1023.jpg" group-title="hindi",Ek Villain 13/6/2014
-https://www.googleapis.com/drive/v3/files/1j0nHx2deXrb2bW2O7QKOnq1HxNB70TPi?alt=media&key=AIzaSyDnXat1Z0co3IM_0cmXYx3Lcmdz6kp6AHA
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Villain%25201362014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fugly 12/6/2014 " tvg-logo="https://subdl.com/p/sd7/sd7866.jpg" group-title="hindi",Fugly 12/6/2014
-https://www.googleapis.com/drive/v3/files/1s1IL7Z3WNL44cfFhpLupO22rg5X3eGAA?alt=media&key=AIzaSyCxyDOJvKrnsZY1XHD-jgXuyRppKPnJq50
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fugly%25201262014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Humshakals 11/6/2014 " tvg-logo="https://subdl.com/p/sd4/sd4958.jpg" group-title="hindi",Humshakals 11/6/2014
-https://www.googleapis.com/drive/v3/files/1u7iZRG7azATgq3prGtwI8zRDKGFGDylI?alt=media&key=AIzaSyC_-FR3QBJXmL1J_sg2EkC4dBQuQya76wM
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Humshakals%25201162014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Holiday 26/5/2014 " tvg-logo="https://i.imgur.com/9ds9Ckn.jpg" group-title="hindi",Holiday 26/5/2014
 https://www.googleapis.com/drive/v3/files/10pFULKpeUACLkJUpBpOV4_oFqia-8QO8?alt=media&key=AIzaSyDE5WSm8omb2PqrwbEYNDwkHVyL067Ukps
 #EXTINF:-1 tvg-id="" tvg-name="Ugly 23/5/2014 " tvg-logo="https://subdl.com/p/sd2/sd2296.jpg" group-title="hindi",Ugly 23/5/2014
