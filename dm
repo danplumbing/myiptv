@@ -670,6 +670,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bangistan%25202372015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Drishyam 20/7/2015 " tvg-logo="https://subdl.com/p/sd38/sd38073.jpg" group-title="hindi",Drishyam 20/7/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Drishyam%25202072015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alone 18/7/2015 " tvg-logo="https://i.imgur.com/WhbIU1o.jpg" group-title="hindi",Alone 18/7/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Alone%25201872015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bajrangi Bhaijaan 6/7/2015 " tvg-logo="https://subdl.com/p/sd1/sd1308.jpg" group-title="hindi",Bajrangi Bhaijaan 6/7/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bajrangi%2520Bhaijaan%2520672015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baahubali The Beginning 3/7/2015 " tvg-logo="https://i.imgur.com/u5VYQCT.jpg" group-title="hindi",Baahubali The Beginning 3/7/2015
