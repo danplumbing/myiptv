@@ -905,21 +905,25 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="B A Pass 2/1/2013 " tvg-logo="https://i.imgur.com/qIrFwrA.jpg" group-title="hindi",B A Pass 2/1/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/B%2520A%2520Pass%2520212013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bandook 31/12/2012 " tvg-logo="https://i.imgur.com/eJVSAKu.jpg" group-title="hindi",Bandook 31/12/2012
-https://www.googleapis.com/drive/v3/files/1TAURSspQ1O_8BW8mbhIbux3kcpkfUV1f?alt=media&key=AIzaSyBwoqEFlKyIWAnpmid_XC76BX97C7HX5CI
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bandook%252031122012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Table No 21 20/12/2012 " tvg-logo="https://subdl.com/p/sd1/sd1128.jpg" group-title="hindi",Table No 21 20/12/2012
-https://www.googleapis.com/drive/v3/files/1RmYfvyqG5SNfl_XGwAtDtvm6af_WTlzq?alt=media&key=AIzaSyCPwKfTheOqKV5FG21xtMSzsJStLfF0Nkg
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Table%2520No%252021%252020122012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Table No 21 20/12/2012 " tvg-logo="https://subdl.com/p/sd1/sd1128.jpg" group-title="hindi",Table No 21 20/12/2012
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Table%2520No%252021%252020122012
 #EXTINF:-1 tvg-id="" tvg-name="Dabangg 2 11/12/2012 " tvg-logo="https://subdl.com/p/sd10/sd10825.jpg" group-title="hindi",Dabangg 2 11/12/2012
-https://www.googleapis.com/drive/v3/files/1bDaMmkBseljzVX3j2bXxgUpttBOzx-hI?alt=media&key=AIzaSyAdCVWGCLqvLalTvbLC2vTmTBohrSLW2HE
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dabangg%25202%252011122012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Four Two Ka One 27/11/2012 " tvg-logo="https://subdl.com/p/sd14/sd14154.jpg" group-title="hindi",Four Two Ka One 27/11/2012
-https://www.googleapis.com/drive/v3/files/1ZepaJkMImTH5RCe-4o0DblFwjE0Mcac4?alt=media&key=AIzaSyDCfIV_Q_ejdmMlB_fJncaYEoXsudRzaL4
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Four%2520Two%2520Ka%2520One%252027112012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jab Tak Hai Jaan 1/11/2012 " tvg-logo="https://subdl.com/p/sd1/sd1266.jpg" group-title="hindi",Jab Tak Hai Jaan 1/11/2012
-https://www.googleapis.com/drive/v3/files/107dTXS3j4-zW5X7ZVcvKhYKN8CrRsTOc?alt=media&key=AIzaSyBKJaGg-Fi-wozfzDcul4SENNCoHz20otk
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jab%2520Tak%2520Hai%2520Jaan%25201112012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1920 Evil Returns 18/10/2012 " tvg-logo="https://subdl.com/p/sd5/sd5946.jpg" group-title="hindi",1920 Evil Returns 18/10/2012
-https://www.googleapis.com/drive/v3/files/1Bbt9H3H4IesgWrEOcZx-Q4v0CSIUfc7_?alt=media&key=AIzaSyDmxuLX0PLzvFOutK6o5hkBoUWIMzo5lew
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/1920%2520Evil%2520Returns%252018102012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ajab Gazabb Love 17/10/2012 " tvg-logo="https://i.imgur.com/l0Kgomk.jpg" group-title="hindi",Ajab Gazabb Love 17/10/2012
-https://www.googleapis.com/drive/v3/files/1l58zffrYlTqcQj4APSxGAi689vfzymHa?alt=media&key=AIzaSyD2a0HG3OXbgEMraGb1S4Vl5FVN2xyMWT0
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ajab%2520Gazabb%2520Love%252017102012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rush 17/10/2012 " tvg-logo="https://subdl.com/p/sd296/sd296400.jpg" group-title="hindi",Rush 17/10/2012
 https://www.googleapis.com/drive/v3/files/1UNQzJodhThiPqZb-XGzUkIFux5_e6vEp?alt=media&key=AIzaSyDU_H3RLpRnLemwDZMQ3vrpVcKMfKeKXWM
+#EXTINF:-1 tvg-id="" tvg-name="Bhoot Returns 12/10/2012 " tvg-logo="https://i.imgur.com/YKvSlNH.jpg" group-title="hindi",Bhoot Returns 12/10/2012
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhoot%2520Returns%252012102012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chittagong 12/10/2012 " tvg-logo="https://i.imgur.com/rUff81H.jpg" group-title="hindi",Chittagong 12/10/2012
 https://www.googleapis.com/drive/v3/files/1N64yD5Wg_1mVHsmMLWHxYWVsKLsZw_CG?alt=media&key=AIzaSyBrzlzbDuh7VH-Jp_LGlhbbAAnnimGLYYk
 #EXTINF:-1 tvg-id="" tvg-name="Chakravyuh 1/10/2012 " tvg-logo="https://subdl.com/p/sd482/sd482259.jpg" group-title="hindi",Chakravyuh 1/10/2012
@@ -936,12 +940,14 @@ https://www.googleapis.com/drive/v3/files/1SIYE8Lm98kQfd8G3UQ26WsUetC7Wu2Z_?alt=
 https://www.googleapis.com/drive/v3/files/1pYLshK3IGVtBbrDbC5AMwu6iRMc3RTz8?alt=media&key=AIzaSyDyQpGyGTBFP4bglK_qzegPa6vsczewABA
 #EXTINF:-1 tvg-id="" tvg-name="Barfi 31/8/2012 " tvg-logo="https://subdl.com/p/sd4/sd4766.jpg" group-title="hindi",Barfi 31/8/2012
 https://www.googleapis.com/drive/v3/files/1olRTP1nbGtfOflzmKaEMyUwJvS7xOJOc?alt=media&key=AIzaSyBmV2xFg-SLSwnbvYbfWa5u8EY2WjnqqJI
+#EXTINF:-1 tvg-id="" tvg-name="Raaz 3 22/8/2012 " tvg-logo="https://i.imgur.com/HOKcx5h.jpg" group-title="hindi",Raaz 3 22/8/2012
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Raaz%25203%25202282012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ek Tha Tiger 31/7/2012 " tvg-logo="https://subdl.com/p/sd4/sd4296.jpg" group-title="hindi",Ek Tha Tiger 31/7/2012
 https://www.googleapis.com/drive/v3/files/1-cKSQymc-cMPoryTrMAnfBoZH-J5X7JV?alt=media&key=AIzaSyCtsUYroz1oSDgcO70uledZzXUM5wjv0xc
 #EXTINF:-1 tvg-id="" tvg-name="Gangs of Wasseypur II 30/7/2012 " tvg-logo="https://i.imgur.com/gSE7y2O.jpg" group-title="hindi",Gangs of Wasseypur II 30/7/2012
 https://www.googleapis.com/drive/v3/files/1GztpOxABsLPzn-wItkA0qSvT765u9bGP?alt=media&key=AIzaSyD8E2KSifo5q91ESfg9uUBesUz6GweyjeQ
 #EXTINF:-1 tvg-id="" tvg-name="Kyaa Super Kool Hain Hum 18/7/2012 " tvg-logo="https://subdl.com/p/sd14/sd14785.jpg" group-title="hindi",Kyaa Super Kool Hain Hum 18/7/2012
-https://www.googleapis.com/drive/v3/files/1bjMkXjioTuFrF2IVMSQB2LGZ7luvLkBL?alt=media&key=AIzaSyD21AUQbY1hLgQk3_MQ2rX5qoAI14DKhTs
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kyaa%2520Super%2520Kool%2520Hain%2520Hum%25201872012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="3 Bachelors 29/06/2012 " tvg-logo="https://i.imgur.com/9LVrCQd.jpg" group-title="hindi",3 Bachelors 29/06/2012
 https://www.googleapis.com/drive/v3/files/1VfT4ElUX_oT_Geb14rnlKlqynfCC8QMr?alt=media&key=AIzaSyDGUEzjfyBvq04UgK7sjAhqDspaRF5cWRw
 #EXTINF:-1 tvg-id="" tvg-name="Cocktail 29/6/2012 " tvg-logo="https://subdl.com/p/sd1/sd1859.jpg" group-title="hindi",Cocktail 29/6/2012
@@ -951,7 +957,7 @@ https://www.googleapis.com/drive/v3/files/1ZnASXj5QbdQvmeSi2BNbOZpgt0MuEeFi?alt=
 #EXTINF:-1 tvg-id="" tvg-name="Bol Bachchan 22/6/2012 " tvg-logo="https://subdl.com/p/sd17/sd17944.jpg" group-title="hindi",Bol Bachchan 22/6/2012
 https://www.googleapis.com/drive/v3/files/1bKR8lWadCN7qFzFb5gCSZRaKDbmu8cXZ?alt=media&key=AIzaSyAXOrTUqiKbwMB75z274slaEdEoC0CCrqg
 #EXTINF:-1 tvg-id="" tvg-name="Challo Driver 21/6/2012 " tvg-logo="https://i.imgur.com/rkaUfx3.jpg" group-title="hindi",Challo Driver 21/6/2012
-https://www.googleapis.com/drive/v3/files/1__3HhJtgUI3OeJX5wzAxJW9nyF8_YTIh?alt=media&key=AIzaSyAvHRIizW6fuqH2CGOo6b7lgEQ-3sqq58U
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Challo%2520Driver%25202162012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gangs Of Wasseypur 14/6/2012 " tvg-logo="https://subdl.com/p/sd11/sd11992.jpg" group-title="hindi",Gangs Of Wasseypur 14/6/2012
 https://www.googleapis.com/drive/v3/files/1aT-EgLDsmJ9MyFDkXnG-2VdvoaALu_nO?alt=media&key=AIzaSyDMnmbxtdy0mQry6ntjF_tK37pzHx5V5IU
 #EXTINF:-1 tvg-id="" tvg-name="Ferrari Ki Sawaari 5/6/2012 " tvg-logo="https://subdl.com/p/sd12/sd12962.jpg" group-title="hindi",Ferrari Ki Sawaari 5/6/2012
