@@ -534,6 +534,8 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Begum%2520Jaan%25201442017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manje Bistre 14/4/2017" tvg-logo="https://i.imgur.com/3oihw9f.jpg" group-title="hindi",Manje Bistre 14/4/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Manje%2520Bistre%25201442017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chor The Bicycle 3/3/2017" tvg-logo="https://i.imgur.com/jZm3Fzm.jpg" group-title="hindi",Chor The Bicycle 3/3/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chor%2520The%2520Bicycle%2520332017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Badrinath Ki Dulhania 1/3/2017" tvg-logo="https://subdl.com/p/sd2/sd2892.jpg" group-title="hindi",Badrinath Ki Dulhania 1/3/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Badrinath%2520Ki%2520Dulhania%2520132017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Commando 2 27/2/2017" tvg-logo="https://subdl.com/p/sd4/sd4315.jpg" group-title="hindi",Commando 2 27/2/2017
@@ -552,6 +554,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Trapped%252021122016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="30 Minutes 9/12/2016" tvg-logo="https://i.imgur.com/OHLLOqx.jpg" group-title="hindi",30 Minutes 9/12/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/30%2520Minutes%25209122016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Trainning 28/11/2016" tvg-logo="https://i.imgur.com/tBBtUhL.jpg" group-title="hindi",Love Trainning 28/11/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Love%2520Trainning%252028112016
 #EXTINF:-1 tvg-id="" tvg-name="Wajah Tum Ho 22/11/2016" tvg-logo="https://subdl.com/p/sd14/sd14018.jpg" group-title="hindi",Wajah Tum Ho 22/11/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Wajah%2520Tum%2520Ho%252022112016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dear Zindagi 16/11/2016" tvg-logo="https://subdl.com/p/sd1/sd1141.jpg" group-title="hindi",Dear Zindagi 16/11/2016
@@ -660,6 +664,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/All%2520is%2520Well%25201382015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brothers 6/8/2015 " tvg-logo="https://subdl.com/p/sd1/sd1381.jpg" group-title="hindi",Brothers 6/8/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Brothers%2520682015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masaan 24/7/2015 " tvg-logo="https://i.imgur.com/TIU4bL3.jpg" group-title="hindi",Masaan 24/7/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Masaan%25202472015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bangistan 23/7/2015 " tvg-logo="https://subdl.com/p/sd283/sd283824.jpg" group-title="hindi",Bangistan 23/7/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bangistan%25202372015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Drishyam 20/7/2015 " tvg-logo="https://subdl.com/p/sd38/sd38073.jpg" group-title="hindi",Drishyam 20/7/2015
