@@ -172,6 +172,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Laal%2520Kaptaan%252011102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Sky Is Pink 11/10/2019" tvg-logo="https://i.imgur.com/fKGygEc.jpg" group-title="hindi",The Sky Is Pink 11/10/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Sky%2520Is%2520Pink%252011102019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X Ray The Inner Image 11/10/2019" tvg-logo="https://i.imgur.com/vakARX0.jpg" group-title="hindi",X Ray The Inner Image 11/10/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/X%2520Ray%2520The%2520Inner%2520Image%252011102019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sye Raa Narasimha Reddy 30/9/2019" tvg-logo="https://i.imgur.com/ApgKK90.jpg" group-title="hindi",Sye Raa Narasimha Reddy 30/9/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sye%2520Raa%2520Narasimha%2520Reddy%25203092019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sye Main Zaroor Aaunga 27/9/2019" tvg-logo="https://i.imgur.com/qixSLNb.jpg" group-title="hindi",Main Zaroor Aaunga 27/9/2019
@@ -433,7 +435,7 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Daas Dev 10/4/2018" tvg-logo="https://i.imgur.com/i4OpsGb.jpg" group-title="hindi",Daas Dev 10/4/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daas%2520Dev%25201042018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="October 27/3/2018 " tvg-logo="https://subdl.com/p/sd2/sd2718.jpg" group-title="hindi",October 27/3/2018
-https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/October%25202732018.mp4
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/October%25202732018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Missing 20/3/2018" tvg-logo="https://i.imgur.com/5qo06HU.jpg" group-title="hindi",Missing 20/3/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Missing%25202032018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baaghi 2 14/3/2018" tvg-logo="https://subdl.com/p/sd4/sd4953.jpg" group-title="hindi",Baaghi 2 14/3/2018
@@ -702,6 +704,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bombay%2520Velvet%2520952015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gabbar Is Back 27/4/2015 " tvg-logo="https://subdl.com/p/sd4/sd4885.jpg" group-title="hindi",Gabbar Is Back 27/4/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gabbar%2520Is%2520Back%25202742015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piku 24/4/2015 " tvg-logo="https://i.imgur.com/4LrdJ0e.jpg" group-title="hindi",Piku 24/4/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Piku%25202442015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ek Paheli Leela 10/4/2015 " tvg-logo="https://i.imgur.com/RirexGz.jpg" group-title="hindi",Ek Paheli Leela 10/4/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Paheli%2520Leela%25201042015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hunterrr 9/3/2015 " tvg-logo="https://subdl.com/p/sd15/sd15238.jpg" group-title="hindi",Hunterrr 9/3/2015
@@ -855,51 +859,51 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Shree 19/4/2013 " tvg-logo="https://i.imgur.com/gV0etsD.jpg" group-title="hindi",Shree 19/4/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shree%25201942013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aashiqui 2 16/04/2013 " tvg-logo="https://i.imgur.com/lxMaS4Q.jpg" group-title="hindi",Aashiqui 2 16/04/2013
-https://www.googleapis.com/drive/v3/files/1GJXJ6QmQf3SGx1wtisfzdsHbGZ7JqZT8?alt=media&key=AIzaSyBcRoXRm1YjscTOZmyfYG1hubzAzeFbPZk
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aashiqui%25202%252016042013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Lunchbox 11/4/2013 " tvg-logo="https://i.imgur.com/ndORFfp.jpg" group-title="hindi",The Lunchbox 11/4/2013
-https://www.googleapis.com/drive/v3/files/1Fro8-lZXS9YVFbvCCe9jFAEOSomDDLv2?alt=media&key=AIzaSyDfD_h-5GhfNi6oUlqjT4V9dBTloEajuvI
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Lunchbox%25201142013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ek Thi Daayan 9/4/2013 " tvg-logo="https://subdl.com/p/sd4/sd4319.jpg" group-title="hindi",Ek Thi Daayan 9/4/2013
-https://www.googleapis.com/drive/v3/files/1gQYWBUgbE_cnPquLlSHLF6HgJLLjuXGH?alt=media&key=AIzaSyApPIrdzZGZJueiC4sTxx466vlExWNbigU
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Thi%2520Daayan%2520942013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Commando 4/4/2013 " tvg-logo="https://i.imgur.com/oEATJfL.jpg" group-title="hindi",Commando 4/4/2013
-https://www.googleapis.com/drive/v3/files/1QlV4p0zzwoW-zdvz6908DgJrZAXHSoDa?alt=media&key=AIzaSyACLhQ3ZBmncA00OWhGFFcu-V-7W2IjZoA
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Commando%2520442013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nautanki Saala 28/3/2013 " tvg-logo="https://i.imgur.com/vkmbpPH.jpg" group-title="hindi",Nautanki Saala 28/3/2013
-https://www.googleapis.com/drive/v3/files/1y88aYWISLo07Zou0WTUOs_XZC7HcrQXg?alt=media&key=AIzaSyDyzdiUcFrrFhBXWzhPFPFBRlWX98Hm2FM
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Nautanki%2520Saala%25202832013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Himmatwala 22/3/2013 " tvg-logo="https://subdl.com/p/sd2/sd2838.jpg" group-title="hindi",Himmatwala 22/3/2013
-https://www.googleapis.com/drive/v3/files/13blhEP7sng_OVOdTAFdWwhbX5bQhVNuE?alt=media&key=AIzaSyBngMVcybYFWwZl1gZYWlb7DVVQD4w-8r0
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Himmatwala%25202232013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aatma 21/03/2013 " tvg-logo="https://subdl.com/p/sd1/sd1307.jpg" group-title="hindi",Aatma 21/03/2013
-https://www.googleapis.com/drive/v3/files/1eoOEHkqB0hDLGtBAbkMlZV1P3M2hzgJR?alt=media&key=AIzaSyDb-1ogBEwLmV_uSvJkmtWtggIQCUsJQOk
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aatma%252021032013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rangrezz 15/3/2013 " tvg-logo="https://i.imgur.com/zDZEDBj.jpg" group-title="hindi",Rangrezz 15/3/2013
-https://www.googleapis.com/drive/v3/files/1cECGXttlBf4EJgTHMx2wRZsMdxbvhn9r?alt=media&key=AIzaSyDmmQVxbFM6IsPp4CAPocszak7mOUKO2mw
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rangrezz%25201532013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chashme Baddoor 4/3/2013 " tvg-logo="https://subdl.com/p/sd46/sd46497.jpg" group-title="hindi",Chashme Baddoor 4/3/2013
-https://www.googleapis.com/drive/v3/files/1qUlfFj27QMGKF_3kFl2_E6TPVjjCrghr?alt=media&key=AIzaSyCjxYehAkJmXIMWj4cdOzhLXbMVTnd_syQ
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chashme%2520Baddoor%2520432013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jolly LLB 1/3/2013 " tvg-logo="https://i.imgur.com/6DXOAf7.jpg" group-title="hindi",Jolly LLB 1/3/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jolly%2520LLB%2520132013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="3G A Killer Connection 27/02/2013 " tvg-logo="https://subdl.com/p/sd11/sd11762.jpg" group-title="hindi",3G A Killer Connection 27/02/2013
-https://www.googleapis.com/drive/v3/files/1r5Bu0anEIciWblN8ZyYDTFnqsiyrOFAV?alt=media&key=AIzaSyB9EDXnN8Plt33nfiSpWWBuhHif1ljv8ig
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/3G%2520A%2520Killer%2520Connection%252027022013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zila Ghaziabad 22/2/2013 " tvg-logo="https://i.imgur.com/sjv7SBp.jpg" group-title="hindi",Zila Ghaziabad 22/2/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Zila%2520Ghaziabad%25202222013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="I Me Aur Main 21/2/2013 " tvg-logo="https://subdl.com/p/sd13/sd13138.jpg" group-title="hindi",I Me Aur Main 21/2/2013
-https://www.googleapis.com/drive/v3/files/1K3LEuVTIzuTP6Lg2ng_yXEsCSmuCKhcn?alt=media&key=AIzaSyCVlq7r54jmb2ZV9IGHEvOTA8Sbgyyr8xc
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/I%2520Me%2520Aur%2520Main%25202122013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Saare Jahaan Se Mehnga 18/2/2013 " tvg-logo="https://i.imgur.com/97j4VIC.jpg" group-title="hindi",Saare Jahaan Se Mehnga 18/2/2013
-https://www.googleapis.com/drive/v3/files/1Gr0l5YoD4OCe-32c6Y1ZSxPwKKRD2qVG?alt=media&key=AIzaSyC6J7e0lM_hR0nSki8ZpgmYK5syfWzyjPY
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saare%2520Jahaan%2520Se%2520Mehnga%25201822013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jayantabhai Ki Luv Story 15/2/2013 " tvg-logo="https://subdl.com/p/sd15/sd15799.jpg" group-title="hindi",Jayantabhai Ki Luv Story 15/2/2013
-https://www.googleapis.com/drive/v3/files/19VyrPsebXr2qMZvT3v7KWndOj5Jl2nxn?alt=media&key=AIzaSyDTSyepMtG-vgnBWJ0Us6EcBNFCHLZ6dYE
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jayantabhai%2520Ki%2520Luv%2520Story%25201522013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Special 26 4/2/2013 " tvg-logo="https://i.imgur.com/djpWaf3.jpg" group-title="hindi",Special 26 4/2/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Special%252026%2520422013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Deewana Main Deewana 1/2/2013 " tvg-logo="https://subdl.com/p/sd28/sd28620.jpg" group-title="hindi",Deewana Main Deewana 1/2/2013
-https://www.googleapis.com/drive/v3/files/1SOZhSn4_5yvcfAkM5UVsIZt_6dIrXDWr?alt=media&key=AIzaSyBmTbjYL3et9uACZ_pTGRR0_L3i82_B2Dw
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Deewana%2520Main%2520Deewana%2520122013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="David 31/1/2013 " tvg-logo="https://i.imgur.com/Adp4ozR.jpg" group-title="hindi",David 31/1/2013
-https://www.googleapis.com/drive/v3/files/1mKZVlOdHXT7p9Wh0VOHlW5EOuLCd1kDz?alt=media&key=AIzaSyALHQ32KiLMQSd-1ugRh87Pgr1XYtH-wm8
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/David%25203112013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kai Po Che 30/1/2013 " tvg-logo="https://i.imgur.com/v58H4st.jpg" group-title="hindi",Kai Po Che 30/1/2013
-https://www.googleapis.com/drive/v3/files/1_jq4A5o52WUpBAwJh5zYuXSGObUg2ymM?alt=media&key=AIzaSyB04Jshkuo40za_zq6z3rHFkV4iGCVVaTA
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kai%2520Po%2520Che%25203012013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Akaash Vani 18/1/2013 " tvg-logo="https://i.imgur.com/yHr6NpC.jpg" group-title="hindi",Akaash Vani 18/1/2013
-https://www.googleapis.com/drive/v3/files/15tUczKu6WDVAjlyCT2mIJ195trwv69Nx?alt=media&key=AIzaSyDnOFil_Ukf6-8-jh14u7I6cJsy3i8BRG4
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Akaash%2520Vani%25201812013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Inkaar 18/1/2013 " tvg-logo="https://i.imgur.com/NpyRFW4.jpg" group-title="hindi",Inkaar 18/1/2013
-https://www.googleapis.com/drive/v3/files/1hI9-HFJQqFcM8SJYe2VBV_diRDgue4lg?alt=media&key=AIzaSyBsIfy0n8fB63D6TdadPio3n-M6SCnK4ks
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Inkaar%25201812013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Race 2 16/1/2013 " tvg-logo="https://i.imgur.com/gE4qncK.jpg" group-title="hindi",Race 2 16/1/2013
-https://www.googleapis.com/drive/v3/files/1v52hVscMlLspdqEhig2W_hPnmyvDE8Vn?alt=media&key=AIzaSyA59ThzTVLFYjGh2nChXnn8OXcsLxfajPI
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Race%25202%25201612013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="B A Pass 2/1/2013 " tvg-logo="https://i.imgur.com/qIrFwrA.jpg" group-title="hindi",B A Pass 2/1/2013
-https://www.googleapis.com/drive/v3/files/1csm6kLFsJlI_pXC9HksXYwxdlSSLGnFJ?alt=media&key=AIzaSyBfxUo5aAOybrN0jaRc-W_iyJk3-zRER3E
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/B%2520A%2520Pass%2520212013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bandook 31/12/2012 " tvg-logo="https://i.imgur.com/eJVSAKu.jpg" group-title="hindi",Bandook 31/12/2012
 https://www.googleapis.com/drive/v3/files/1TAURSspQ1O_8BW8mbhIbux3kcpkfUV1f?alt=media&key=AIzaSyBwoqEFlKyIWAnpmid_XC76BX97C7HX5CI
 #EXTINF:-1 tvg-id="" tvg-name="Table No 21 20/12/2012 " tvg-logo="https://subdl.com/p/sd1/sd1128.jpg" group-title="hindi",Table No 21 20/12/2012
