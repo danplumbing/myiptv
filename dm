@@ -731,13 +731,13 @@ https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Happy New Year 16/10/2014 " tvg-logo="https://subdl.com/p/sd1/sd1569.jpg" group-title="hindi",Happy New Year 16/10/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Happy%2520New%2520Year%252016102014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bang Bang 23/9/2014 " tvg-logo="https://i.imgur.com/dzCg7RV.jpg" group-title="hindi",Bang Bang 23/9/2014
-https://www.googleapis.com/drive/v3/files/1SV13M_Pd0vi9qbQFzsBVS7LqUQfsLSNR?alt=media&key=AIzaSyA-Bl9_6rZ2l0re2urxr2s-qIoe3Pah1zY
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bang%2520Bang%25202392014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Desi Kattey 23/9/2014 " tvg-logo="https://i.imgur.com/GRaqGHG.jpg" group-title="hindi",Desi Kattey 23/9/2014
-https://www.googleapis.com/drive/v3/files/15QF_eQV1KHzadeeOR200H54FkEZFDUUe?alt=media&key=AIzaSyC0_ebdkZdnh_YDMdXqsBUK9Fz3dfyHOjw
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Desi%2520Kattey%25202392014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="3 AM 22/09/2014 " tvg-logo="https://i.imgur.com/UrgRAL0.jpg" group-title="hindi",3 AM 22/09/2014
-https://www.googleapis.com/drive/v3/files/1B82g61ibJ0zjv-ojeODlBhNx0NLLnvVG?alt=media&key=AIzaSyAo0iL7bc9leSM_7vhhMb_AcL_U_rC9y8M
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/3%2520AM%252022092014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Daawat-e-Ishq 1/9/2014 " tvg-logo="https://subdl.com/p/sd9/sd9332.jpg" group-title="hindi",Daawat-e-Ishq 1/9/2014
-https://www.googleapis.com/drive/v3/files/1RfuamuvBeim2y8o4IthX3i4uK7-cwZHy?alt=media&key=AIzaSyDmOf-NUnHMsUQkUHusyuTOo_YaC1eI1f0
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daawat-e-Ishq%2520192014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Its Entertainment 31/7/2014 " tvg-logo="https://i.imgur.com/sMIy7md.jpg" group-title="hindi",Its Entertainment 31/7/2014
 https://www.googleapis.com/drive/v3/files/1dmd2GtJMofHQvGqp3ectXJ5r1DArMKuI?alt=media&key=AIzaSyDUhhBNo37imNa1jrBxun6FIdXIlEMTK_Y
 #EXTINF:-1 tvg-id="" tvg-name="Hate Story 2 10/7/2014 " tvg-logo="https://i.imgur.com/7U0kw6r.jpg" group-title="hindi",Hate Story 2 10/7/2014
