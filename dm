@@ -566,6 +566,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dear%2520Zindagi%252016112016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Befikre 15/11/2016" tvg-logo="https://i.imgur.com/w9x33Sh.jpg" group-title="hindi",Befikre 15/11/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Befikre%252015112016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ishq Junoon 11/11/2016" tvg-logo="https://i.imgur.com/DEN95aa.jpg" group-title="hindi",Ishq Junoon 11/11/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ishq%2520Junoon%252011112016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Force 2 10/11/2016" tvg-logo="https://subdl.com/p/sd10/sd10993.jpg" group-title="hindi",Force 2 10/11/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Force%25202%252010112016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dongri Ka Raja 8/11/2016" tvg-logo="https://subdl.com/p/sd13/sd13945.jpg" group-title="hindi",Dongri Ka Raja 8/11/2016
@@ -730,6 +732,8 @@ https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Action%2520Jackson%252027112014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Happy Ending 12/11/2014 " tvg-logo="https://i.imgur.com/a96jzne.jpg" group-title="hindi",Happy Ending 12/11/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Happy%2520Ending%252012112014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="pk 2/12/2014 " tvg-logo="https://i.imgur.com/kEMhxdH.jpg" group-title="hindi",pk 2/12/2014
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/PK%25202122014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dirty Politics 7/11/2014 " tvg-logo="https://subdl.com/p/sd7/sd7667.jpg" group-title="hindi",Dirty Politics 7/11/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dirty%2520Politics%25207112014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Happy New Year 16/10/2014 " tvg-logo="https://subdl.com/p/sd1/sd1569.jpg" group-title="hindi",Happy New Year 16/10/2014
@@ -868,6 +872,8 @@ https://www.googleapis.com/drive/v3/files/1eoOEHkqB0hDLGtBAbkMlZV1P3M2hzgJR?alt=
 https://www.googleapis.com/drive/v3/files/1cECGXttlBf4EJgTHMx2wRZsMdxbvhn9r?alt=media&key=AIzaSyDmmQVxbFM6IsPp4CAPocszak7mOUKO2mw
 #EXTINF:-1 tvg-id="" tvg-name="Chashme Baddoor 4/3/2013 " tvg-logo="https://subdl.com/p/sd46/sd46497.jpg" group-title="hindi",Chashme Baddoor 4/3/2013
 https://www.googleapis.com/drive/v3/files/1qUlfFj27QMGKF_3kFl2_E6TPVjjCrghr?alt=media&key=AIzaSyCjxYehAkJmXIMWj4cdOzhLXbMVTnd_syQ
+#EXTINF:-1 tvg-id="" tvg-name="Jolly LLB 1/3/2013 " tvg-logo="https://i.imgur.com/6DXOAf7.jpg" group-title="hindi",Jolly LLB 1/3/2013
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jolly%2520LLB%2520132013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="3G A Killer Connection 27/02/2013 " tvg-logo="https://subdl.com/p/sd11/sd11762.jpg" group-title="hindi",3G A Killer Connection 27/02/2013
 https://www.googleapis.com/drive/v3/files/1r5Bu0anEIciWblN8ZyYDTFnqsiyrOFAV?alt=media&key=AIzaSyB9EDXnN8Plt33nfiSpWWBuhHif1ljv8ig
 #EXTINF:-1 tvg-id="" tvg-name="Zila Ghaziabad 22/2/2013 " tvg-logo="https://i.imgur.com/sjv7SBp.jpg" group-title="hindi",Zila Ghaziabad 22/2/2013
