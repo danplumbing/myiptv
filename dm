@@ -486,6 +486,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aksar%25202%25201122017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dil Jo Na Keh Saka 17/11/2017" tvg-logo="https://subdl.com/p/sd376/sd376386.jpg" group-title="hindi",Dil Jo Na Keh Saka 17/11/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Jo%2520Na%2520Keh%2520Saka%252017112017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Qarib Qarib Singlle 2/11/2017" tvg-logo="https://i.imgur.com/Z2oVW1F.jpg" group-title="hindi",Qarib Qarib Singlle 2/11/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Qarib%2520Qarib%2520Singlle%25202112017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shaadi Mein Zaroor Aana 10/11/2017" tvg-logo="https://subdl.com/p/sd6/sd6611.jpg" group-title="hindi",Shaadi Mein Zaroor Aana 10/11/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shaadi%2520Mein%2520Zaroor%2520Aana%252010112017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Golmaal Again 13/10/2017" tvg-logo="https://subdl.com/p/sd5/sd5119.jpg" group-title="hindi",Golmaal Again 13/10/2017
@@ -719,15 +721,15 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Sharafat Gayi Tel Lene 2/1/2015 " tvg-logo="https://subdl.com/p/sd22/sd22063.jpg" group-title="hindi",Sharafat Gayi Tel Lene 2/1/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sharafat%2520Gayi%2520Tel%2520Lene%2520212015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hawaizaada 31/12/2014 " tvg-logo="https://subdl.com/p/sd184/sd184089.jpg" group-title="hindi",Hawaizaada 31/12/2014
-https://www.googleapis.com/drive/v3/files/1QFwnePE5dDVEsJPAaRlDla7SsmDmsuhK?alt=media&key=AIzaSyAcbdMCUFpmfOu7GUZoIsVLefBYXHXG924
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hawaizaada%252031122014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Action Jackson 27/11/2014 " tvg-logo="https://subdl.com/p/sd14/sd14789.jpg" group-title="hindi",Action Jackson 27/11/2014
-https://www.googleapis.com/drive/v3/files/1x0LzeM4ezvkxCBLW0MqqsZoPU3y2c8FL?alt=media&key=AIzaSyAStQzkKez3SVt0IHyFWJGoVcvshJoct3k
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Action%2520Jackson%252027112014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Happy Ending 12/11/2014 " tvg-logo="https://i.imgur.com/a96jzne.jpg" group-title="hindi",Happy Ending 12/11/2014
-https://www.googleapis.com/drive/v3/files/1Qz39-iIbmoylxlGBVGEzVZ9anQTkP3ru?alt=media&key=AIzaSyAvlJByyHgGdet4zDWaAhCGD-d5fb-fios
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Happy%2520Ending%252012112014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dirty Politics 7/11/2014 " tvg-logo="https://subdl.com/p/sd7/sd7667.jpg" group-title="hindi",Dirty Politics 7/11/2014
-https://www.googleapis.com/drive/v3/files/19k-X7OAXF38XFwHHA50A_xHG4LzJ7oIj?alt=media&key=AIzaSyBjqz2varccyeNLHGBqSUccIT_Jp2Da_-I
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dirty%2520Politics%25207112014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Happy New Year 16/10/2014 " tvg-logo="https://subdl.com/p/sd1/sd1569.jpg" group-title="hindi",Happy New Year 16/10/2014
-https://www.googleapis.com/drive/v3/files/1dL45LUCfYHTw4RRhkDUe43-bEnirlefM?alt=media&key=AIzaSyA1xZnnzI7K5JmPE3Z--C-BmFGUQgEs22g
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Happy%2520New%2520Year%252016102014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bang Bang 23/9/2014 " tvg-logo="https://i.imgur.com/dzCg7RV.jpg" group-title="hindi",Bang Bang 23/9/2014
 https://www.googleapis.com/drive/v3/files/1SV13M_Pd0vi9qbQFzsBVS7LqUQfsLSNR?alt=media&key=AIzaSyA-Bl9_6rZ2l0re2urxr2s-qIoe3Pah1zY
 #EXTINF:-1 tvg-id="" tvg-name="Desi Kattey 23/9/2014 " tvg-logo="https://i.imgur.com/GRaqGHG.jpg" group-title="hindi",Desi Kattey 23/9/2014
@@ -760,6 +762,8 @@ https://www.googleapis.com/drive/v3/files/1MGYTccEz-MYeCsR3ttp-0lXcldWgs90a?alt=
 https://www.googleapis.com/drive/v3/files/1lcZtfaiHs8ZlnfEu0FyyEyzPC2MQ1ld_?alt=media&key=AIzaSyBXUGcsPOzF1-ufyWExgH_EQ_si8qRrm-Y
 #EXTINF:-1 tvg-id="" tvg-name="I Love NY 29/4/2014 " tvg-logo="https://subdl.com/p/sd6/sd6446.jpg" group-title="hindi",I Love NY 29/4/2014
 https://www.googleapis.com/drive/v3/files/1L_e2t9XJQehAFj3WGBUIMv9dsJjdB4rd?alt=media&key=AIzaSyDIObaqsUwy6zi0JNH9wmWPmJDCrBsCn9w
+#EXTINF:-1 tvg-id="" tvg-name="Revolver Rani 24/4/2014 " tvg-logo="https://i.imgur.com/enxEjhZ.jpg" group-title="hindi",Revolver Rani 24/4/2014
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Revolver%2520Rani%25202442014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bhoothnath Returns 1/4/2014 " tvg-logo="https://subdl.com/p/sd44/sd44939.jpg" group-title="hindi",Bhoothnath Returns 1/4/2014
 https://www.googleapis.com/drive/v3/files/1O1swYQze95hMLqofZ0LJItuPRkSNLFZy?alt=media&key=AIzaSyC15j5XQEM9_X-DwrxL46uszxbhSslJ_k8
 #EXTINF:-1 tvg-id="" tvg-name="2 States 26/3/2014 " tvg-logo="https://subdl.com/p/sd2/sd2611.jpg" group-title="hindi",2 States 26/3/2014
@@ -777,7 +781,7 @@ https://www.googleapis.com/drive/v3/files/1-0zY6qbVdf4_DFYqpxODwTRsHGGOHJe6?alt=
 #EXTINF:-1 tvg-id="" tvg-name="Hasee Toh Phasee 21/1/2014 " tvg-logo="https://i.imgur.com/nTjVY9c.jpg" group-title="hindi",Hasee Toh Phasee 21/1/2014
 https://www.googleapis.com/drive/v3/files/1ZQSeD8D6YGe6Ukw4MYHkFM5QXuKhwSFA?alt=media&key=AIzaSyCbgeDT3T5O6GCtviJXEV3ikxpHGBRN2Y0
 #EXTINF:-1 tvg-id="" tvg-name="Dedh Ishqiya 9/1/2014 " tvg-logo="https://i.imgur.com/5TQfVCb.jpg" group-title="hindi",Dedh Ishqiya 9/1/2014
-https://www.googleapis.com/drive/v3/files/1ZPL110cJA1u92hZ0hYGw2GAyxU_aXipX?alt=media&key=AIzaSyByDGLh_deK-hvD45wBL0234RJ2xp6GxpA
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dedh%2520Ishqiya%2520912014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rahasya 8/1/2014 " tvg-logo="https://i.imgur.com/R8uwW9b.jpg" group-title="hindi",Rahasya 8/1/2014
 https://www.googleapis.com/drive/v3/files/1pE3M9Fg3p7_8pRBIYHa7pxnpKplEwKGN?alt=media&key=AIzaSyBbRLv6eEK2fuA63C-X1ycDedPXBpRDHxQ
 #EXTINF:-1 tvg-id="" tvg-name="Yaariyan 27/12/2013 " tvg-logo="https://i.imgur.com/ABSzWnB.jpg" group-title="hindi",Yaariyan 27/12/2013
