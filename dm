@@ -967,7 +967,7 @@ https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Dangerous Ishhq 11/5/2012 " tvg-logo="https://subdl.com/p/sd9/sd9469.jpg" group-title="hindi",Dangerous Ishhq 11/5/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dangerous%2520Ishhq%25201152012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hate Story 20/4/2012 " tvg-logo="https://i.imgur.com/tHFQAT5.jpg" group-title="hindi",Hate Story 20/4/2012
-https://www.googleapis.com/drive/v3/files/1B7Fz516GNdjVDkgJdHllDCjTzeSK_qLr?alt=media&key=AIzaSyDVXKInKgXxU-zuxebN2HJFJbKkFb5H_Z0
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hate%2520Story%25202042012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="5 Ghantey Mein 5 Crore 02/04/2012 " tvg-logo="https://i.imgur.com/UL2FYXs.jpg" group-title="hindi",5 Ghantey Mein 5 Crore 02/04/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/5%2520Ghantey%2520Mein%25205%2520Crore%252002042012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Housefull 2 29/3/2012 " tvg-logo="https://subdl.com/p/sd3/sd3027.jpg" group-title="hindi",Housefull 2 29/3/2012
@@ -992,10 +992,12 @@ https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Blood%2520Money%252028122011.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Don 2 23/12/2011 " tvg-logo="https://subdl.com/p/sd1/sd1019.jpg" group-title="hindi",Don 2 23/12/2011
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Don%25202%252023122011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Players 22/12/2011 " tvg-logo="https://i.imgur.com/pOVdDS4.jpg" group-title="hindi",Players 22/12/2011
+https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Players%252022122011.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lanka 1/12/2011 " tvg-logo="https://i.imgur.com/JzmhUuB.jpg" group-title="hindi",Lanka 1/12/2011
-https://www.googleapis.com/drive/v3/files/1dXKFN-htOYGEIs9bh2N4IuOtjUojat7M?alt=media&key=AIzaSyAiIhHs1jI-SWDvuVjdOyPNyiUntU9L5EU
+https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Lanka%25201122011.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Desi Boyz 18/11/2011 " tvg-logo="https://subdl.com/p/sd5/sd5649.jpg" group-title="hindi",Desi Boyz 18/11/2011
-https://www.googleapis.com/drive/v3/files/13J0DwRjUhkWml-aJZEQY4CRbqGgQ_1UL?alt=media&key=AIzaSyA7kPJv9ocIylIVwaQcIafHh-PYH8hIy6E
+https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Desi%2520Boyz%252018112011.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rockstar 2/11/2011 " tvg-logo="https://subdl.com/p/sd4/sd4648.jpg" group-title="hindi",Rockstar 2/11/2011
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rockstar%25202112011.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Azaan 11/10/2011 " tvg-logo="https://i.imgur.com/tVVLDBZ.jpg" group-title="hindi",Azaan 11/10/2011
