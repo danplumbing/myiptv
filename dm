@@ -540,6 +540,8 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Begum%2520Jaan%25201442017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manje Bistre 14/4/2017" tvg-logo="https://i.imgur.com/3oihw9f.jpg" group-title="hindi",Manje Bistre 14/4/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Manje%2520Bistre%25201442017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detective Byomkesh Bakshy! 3/4/2015" tvg-logo="https://i.imgur.com/4q19gJm.jpg" group-title="hindi",Detective Byomkesh Bakshy! 3/4/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Detective%2520Byomkesh%2520Bakshy!%2520342015
 #EXTINF:-1 tvg-id="" tvg-name="Chor The Bicycle 3/3/2017" tvg-logo="https://i.imgur.com/jZm3Fzm.jpg" group-title="hindi",Chor The Bicycle 3/3/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chor%2520The%2520Bicycle%2520332017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Badrinath Ki Dulhania 1/3/2017" tvg-logo="https://subdl.com/p/sd2/sd2892.jpg" group-title="hindi",Badrinath Ki Dulhania 1/3/2017
@@ -1063,7 +1065,7 @@ https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Band Baaja Baaraat 18/11/2010 " tvg-logo="https://subdl.com/p/sd1/sd1170.jpg" group-title="hindi",Band Baaja Baaraat 18/11/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Band%2520Baaja%2520Baaraat%252018112010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Guzaarish 8/11/2010 " tvg-logo="https://subdl.com/p/sd15/sd15233.jpg" group-title="hindi",Guzaarish 8/11/2010
-https://www.googleapis.com/drive/v3/files/14iEByrdxDRTKJ1NhE1BJMkW4KbosZwRs?alt=media&key=AIzaSyCjwWDfIFkqAfUwXE_-YMaowAs3lcp3l6s
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Guzaarish%25208112010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Action Replayy 05/11/2010 " tvg-logo="https://i.imgur.com/WpQZqU5.jpg" group-title="hindi",Action Replayy 05/11/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Action%2520Replayy%252005112010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="paan singh tomar 31/10/2010 " tvg-logo="https://i.imgur.com/D2ijNuu.jpg" group-title="hindi",paan singh tomar 31/10/2010
@@ -1075,41 +1077,41 @@ https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Aakrosh 05/10/2010 " tvg-logo="https://subdl.com/p/sd21/sd21901.jpg" group-title="hindi",Aakrosh 05/10/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aakrosh%252005102010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Crook 29/9/2010 " tvg-logo="https://i.imgur.com/ct9S63Y.jpg" group-title="hindi",Crook 29/9/2010
-https://www.googleapis.com/drive/v3/files/1ZoCJIbHowZ6vt5jGcpBH3FkHPRkRoh_H?alt=media&key=AIzaSyAhPowcLtqttLn4o5oevAuw802OZsfkTvE
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Crook%25202992010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Anjaana Anjaani 14/9/2010 " tvg-logo="https://subdl.com/p/sd2/sd2791.jpg" group-title="hindi",Anjaana Anjaani 14/9/2010
-https://www.googleapis.com/drive/v3/files/1hK3OrgeDJmqRQ60iGYFkvqPYdUbE5V8S?alt=media&key=AIzaSyCnOhfYMZbXMgjeUpUwObR7r67q0-fitOA
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Anjaana%2520Anjaani%25201492010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dabangg 30/8/2010 " tvg-logo="https://subdl.com/p/sd9/sd9289.jpg" group-title="hindi",Dabangg 30/8/2010
-https://www.googleapis.com/drive/v3/files/1IgG7x4TZXCxynANtQ7PoFEqo5gxB4NkN?alt=media&key=AIzaSyA8J2ulWEmKQDz4YNxFf1sBz5d_OtAFGbk
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dabangg%25203082010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aashayein 27/08/2010 " tvg-logo="https://i.imgur.com/w5uoj6c.jpg" group-title="hindi",Aashayein 27/08/2010
-https://www.googleapis.com/drive/v3/files/1M18uLT33MZ9O5pofaZSIAwa-M_nGWUyi?alt=media&key=AIzaSyCsNzSDf6LRH94ZlZmEuJuByS7meJSUZ10
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aashayein%252027082010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lafangey Parindey 20/8/2010 " tvg-logo="https://i.imgur.com/LLPpPlU.jpg" group-title="hindi",Lafangey Parindey 20/8/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Lafangey%2520Parindey%25202082010.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aisha 29/7/2010 " tvg-logo="https://subdl.com/p/sd3/sd3490.jpg" group-title="hindi",Aisha 29/7/2010
-https://www.googleapis.com/drive/v3/files/1qI4L-MyVUYt3NhhBR-u8mVxOUvOYi7fJ?alt=media&key=AIzaSyB5jsFHAUdsEwkuTQZjFj6LLX1B3X03T4o
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aisha%25202972010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Once Upon a Time in Mumbaai 23/7/2010 " tvg-logo="https://subdl.com/p/sd5/sd5625.jpg" group-title="hindi",Once Upon a Time in Mumbaai 23/7/2010
-https://www.googleapis.com/drive/v3/files/1ckd6mFw1MWM-zOaGJBdSlCaFc0BDqPqZ?alt=media&key=AIzaSyB9m2XeK6fLsjEQrFa_ewWik9kkDIKQgC8
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Once%2520Upon%2520a%2520Time%2520in%2520Mumbaai%25202372010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Help 6/7/2010 " tvg-logo="https://subdl.com/p/sd6/sd6776.jpg" group-title="hindi",Help 6/7/2010
-https://www.googleapis.com/drive/v3/files/1K6Gda9PpnWaxFi0VWVBcgyIfHo1a3hCE?alt=media&key=AIzaSyB9m2XeK6fLsjEQrFa_ewWik9kkDIKQgC8
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Help%2520672010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="I Hate Luv Storys 24/6/2010 " tvg-logo="https://subdl.com/p/sd8/sd8050.jpg" group-title="hindi",I Hate Luv Storys 24/6/2010
-https://www.googleapis.com/drive/v3/files/1Ap71qDUzro-B6Ipbfa8MJOfJ_-yEEs6C?alt=media&key=AIzaSyDnAEEhwTw0EFAyKnIVq9D-LuBHzSTPlSg
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/I%2520Hate%2520Luv%2520Storys%25202462010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Benny And Babloo 18/6/2010 " tvg-logo="https://subdl.com/p/sd16/sd16894.jpg" group-title="hindi",Benny And Babloo 18/6/2010
-https://www.googleapis.com/drive/v3/files/1qv23zhrg7THkMDqKb_GqILhZC3jPyiGr?alt=media&key=AIzaSyBj6E-wzJq7EI7iVakP8KRnf5IneGS96pY
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Benny%2520And%2520Babloo%25201862010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Badmaash Company 27/4/2010 " tvg-logo="https://i.imgur.com/7NI13RL.jpg" group-title="hindi",Badmaash Company 27/4/2010
-https://www.googleapis.com/drive/v3/files/13_SuBANjlk5e8GNHeA19SI4duBXX58gt?alt=media&key=AIzaSyC-BQpGfT0I2AZBRLdnBJ68O3ECgd-RJyE
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Badmaash%2520Company%25202742010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="HouseFull 21/4/2010 " tvg-logo="https://subdl.com/p/sd2/sd2367.jpg" group-title="hindi",HouseFull 21/4/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Housefull%25203042010.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kites 15/4/2010" tvg-logo="https://i.imgur.com/k3tfuij.jpg" group-title="hindi",Kites 15/4/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kites%25201542010.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Atithi Tum Kab Jaoge 19/2/2010 " tvg-logo="https://i.imgur.com/3dX0uZ8.jpg" group-title="hindi",Atithi Tum Kab Jaoge 19/2/2010
-https://www.googleapis.com/drive/v3/files/1myCtkADIDiq9oi6g5TVFF4NxdoE37EIX?alt=media&key=AIzaSyCdzwdybFGUHZj_mavWWVxwa-xbnzBp6FU
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Atithi%2520Tum%2520Kab%2520Jaoge%25201922010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hum Tum Aur Ghost 19/2/2010 " tvg-logo="https://subdl.com/p/sd5/sd5916.jpg" group-title="hindi",Hum Tum Aur Ghost 19/2/2010
-https://www.googleapis.com/drive/v3/files/1CuEv7QwwIKVZbpRKZfbYu9P7P2iLpK2B?alt=media&key=AIzaSyBIulBtb5ynNimF23mLCfx9zEhOX9qvZc0
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hum%2520Tum%2520Aur%2520Ghost%25201922010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Robot 17/2/2010 " tvg-logo="https://i.imgur.com/gHe3AxL.jpg" group-title="hindi",Robot 17/2/2010
-https://www.googleapis.com/drive/v3/files/1ZUeCA47QH0vCvvQ_i1KLJT4PiSRZu5C7?alt=media&key=AIzaSyDI7UGPCDlbigq7Ep9IsFy-nxrcXtd1QSw
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Robot%25201722010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Karthik Calling Karthik 11/2/2010 " tvg-logo="https://subdl.com/p/sd7/sd7025.jpg" group-title="hindi",Karthik Calling Karthik 11/2/2010
-https://www.googleapis.com/drive/v3/files/17r_wcBZwYtU8O0Qx2lkr62I57UcByr_Z?alt=media&key=AIzaSyCzH6FsdBdk0aa4Fgb3davUMC7ts3P1MxI
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Karthik%2520Calling%2520Karthik%25201122010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chance Pe Dance 4/1/2010 " tvg-logo="https://subdl.com/p/sd154/sd154025.jpg" group-title="hindi",Chance Pe Dance 4/1/2010
-https://www.googleapis.com/drive/v3/files/1N2356fvSGkbnYKPoYIJSUTEBBtse_sx2?alt=media&key=AIzaSyA7HpJBv03Tp5Sk9bIeIM9Eq37p8_V2Ob8
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chance%2520Pe%2520Dance%2520412010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Accident On Hill Road 31/12/2009 " tvg-logo="https://subdl.com/p/sd8/sd8131.jpg" group-title="hindi",Accident On Hill Road 31/12/2009
 https://www.googleapis.com/drive/v3/files/1_VrDtGrqisCdz2oC8ZhpaS-RvNfhdLfK?alt=media&key=AIzaSyDdQPutBTM7Q3AKmGNdlVIxTskTb9j8Jvc
 #EXTINF:-1 tvg-id="" tvg-name="Dulha Mil Gaya 29/12/2009 " tvg-logo="https://subdl.com/p/sd14/sd14684.jpg" group-title="hindi",Dulha Mil Gaya 29/12/2009
