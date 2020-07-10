@@ -38,6 +38,8 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Extraction%25202442020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gulabo Sitabo 17/4/2020 " tvg-logo="https://i.imgur.com/i8b1QXa.jpg" group-title="hindi",Gulabo Sitabo 17/4/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gulabo%2520Sitabo%25201742020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bamfaad 10/4/2020 " tvg-logo="https://i.imgur.com/Jp5OwCf.jpg" group-title="hindi",Bamfaad 10/4/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bamfaad%25201042020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Main Event 10/4/2020" tvg-logo="https://subdl.com/p/sd651/sd651102.jpg" group-title="english",The Main Event 10/4/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Main%2520Event%25201042020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Main Event 10/4/2020" tvg-logo="https://subdl.com/p/sd651/sd651102.jpg" group-title="english hindi",The Main Event 10/4/2020
