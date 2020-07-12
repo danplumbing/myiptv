@@ -1369,11 +1369,11 @@ https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",Fight Club 10/2/2006
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fight%2520Club%25201022006.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vaah Life Ho Toh Aisi 16/12/2005 " tvg-logo="https://subdl.com/p/sd514/sd514409.jpg" group-title="hindi",Vaah Life Ho Toh Aisi 16/12/2005
-https://www.googleapis.com/drive/v3/files/1clgnUvnPhmet5CLecALxY7L7PmIq7g9c?alt=media&key=AIzaSyA3GhauIIVYVAx4-jTVIuK2f6_x6GETRns
+https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Vaah%2520Life%2520Ho%2520Toh%2520Aisi%252016122005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shikhar 20/12/2005 " tvg-logo="https://i.imgur.com/S9mv8HK.jpg" group-title="hindi",Shikhar 20/12/2005
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shikhar%252020122005.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bluffmaster! 9/12/2005 " tvg-logo="https://subdl.com/p/sd329/sd329460.jpg" group-title="hindi",Bluffmaster! 9/12/2005
-https://www.googleapis.com/drive/v3/files/1zuQWvmSUxDPCd2jdqbQ5aG4i0yR5Nngh?alt=media&key=AIzaSyBBh579ACkMG3JhkMFYsSbU7tOUqG0bjoQ
+https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bluffmaster!%25209122005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ek Ajnabee 2/12/2005 " tvg-logo="https://subdl.com/p/sd36/sd36425.jpg" group-title="hindi",Ek Ajnabee 2/12/2005
 https://www.googleapis.com/drive/v3/files/1XY5mbTdKx_Mt7Cqr6rnO5MOLYK7OV2k6?alt=media&key=AIzaSyD2srbShcZlXPJx4FNXBiIChyVgjQ-x65I
 #EXTINF:-1 tvg-id="" tvg-name="Home Delivery 2/12/2005 " tvg-logo="https://i.imgur.com/dqcnAue.jpg" group-title="hindi",Home Delivery 2/12/2005
@@ -1470,12 +1470,16 @@ https://www.googleapis.com/drive/v3/files/1MWsEvaO9YMd5H1EBE7WAinusOPwSi9yI?alt=
 https://www.googleapis.com/drive/v3/files/13JxnfukJXWEZRmgq7VcJ3goxJc1a1Llg?alt=media&key=AIzaSyDOwtf9MHs2dENY2goCDXFHhpZ7u3CpyWM
 #EXTINF:-1 tvg-id="" tvg-name="Murder 23/3/2004 " tvg-logo="https://i.imgur.com/oWEdIFz.jpg" group-title="hindi",Murder 23/3/2004
 https://www.googleapis.com/drive/v3/files/1ASDmcXCArAZcWbjGeRVacqiideSASEqV?alt=media&key=AIzaSyCCPWhJ4OjB5OUFm1m4TOgU9Eno40MFxTA
+#EXTINF:-1 tvg-id="" tvg-name="Masti 17/3/2004 " tvg-logo="https://i.imgur.com/spwPKdu.jpg" group-title="hindi",Masti 17/3/2004
+https://movieshd-544-720-1080-4k-3d-2004-ancient-flower-7182-4.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Masti%25201732004.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ab Tak Chhappan 27/02/2004 " tvg-logo="https://i.imgur.com/RyTn4a7.jpg" group-title="hindi",Ab Tak Chhappan 27/02/2004
 https://www.googleapis.com/drive/v3/files/16SBtzy-9m7yfuxLPEEmm7yk5Q6GwZDAF?alt=media&key=AIzaSyC5Co0qQLft6jan3tEIkr8VixYed_VlSI0
 #EXTINF:-1 tvg-id="" tvg-name="Muskaan 10/2/2004 " tvg-logo="https://i.imgur.com/O06GDw6.jpg" group-title="hindi",Muskaan 10/2/2004
 https://www.googleapis.com/drive/v3/files/1n8-vH_44aJan0vEZ0TzuKQOHOcU-Cibt?alt=media&key=AIzaSyA-Ad0r30UA55Ds0JP8BAm6n0irja5UF0c
 #EXTINF:-1 tvg-id="" tvg-name="Rudraksh 6/2/2004 " tvg-logo="https://i.imgur.com/b10lzWm.jpg" group-title="hindi",Rudraksh 6/2/2004
 https://www.googleapis.com/drive/v3/files/1b1PwEO5nJFWErIe4gpRC4ksc9whl3vAn?alt=media&key=AIzaSyAaRoi2APjvjpSac4Foo8HY2Nmxj5CtTN8
+#EXTINF:-1 tvg-id="" tvg-name="Paisa Vasool 6/1/2004 " tvg-logo="https://i.imgur.com/frxsY6Y.jpg" group-title="hindi",Paisa Vasool 6/1/2004
+https://movieshd-544-720-1080-4k-3d-2004-ancient-flower-7182-4.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Paisa%2520Vasool%2520612004.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ek Haseena Thi 2/1/2004 " tvg-logo="https://i.imgur.com/Kwy3RFQ.jpg" group-title="hindi",Ek Haseena Thi 2/1/2004
 https://www.googleapis.com/drive/v3/files/1yzoJd1LNw6V6-Lr090dj3FK2lI-_1Atg?alt=media&key=AIzaSyDD-wkeF6N_PBe0BZfrjaXjy3vgP2ekeCs
 #EXTINF:-1 tvg-id="" tvg-name="Chameli 30/12/2003 " tvg-logo="https://subdl.com/p/sd27/sd27301.jpg" group-title="hindi",Chameli 30/12/2003
