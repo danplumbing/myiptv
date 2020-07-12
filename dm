@@ -1330,6 +1330,8 @@ https://www.googleapis.com/drive/v3/files/1moQX-gLD4p737EEocMEGeG0LRj-qfjE1?alt=
 https://www.googleapis.com/drive/v3/files/17ykccy2Eem9PmQY2kblP7zW0dCHK_iCr?alt=media&key=AIzaSyBH6yyckEYmYqBttok3Z3VXwoo7rFWhiGw
 #EXTINF:-1 tvg-id="" tvg-name="Kabhi Alvida Naa Kehna 26/7/2006 " tvg-logo="https://i.imgur.com/qEhmFyD.jpg" group-title="hindi",Kabhi Alvida Naa Kehna 26/7/2006
 https://www.googleapis.com/drive/v3/files/1MZ26IJOoAfo6gFIekg5BrfxVT1bq6ThD?alt=media&key=AIzaSyCKEWcvYjeh6GT_TvxsF1qaMuBmb96icCM
+#EXTINF:-1 tvg-id="" tvg-name="Omkara 20/7/2006 " tvg-logo="https://i.imgur.com/CyGfJTI.jpg" group-title="hindi",Omkara 20/7/2006
+https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Omkara%25202072006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aksar 11/7/2006 " tvg-logo="https://subdl.com/p/sd40/sd40360.jpg" group-title="hindi",Aksar 11/7/2006
 https://www.googleapis.com/drive/v3/files/1tQ2hHUbaKi2z03Qmh7xjLLl5W9BuD03j?alt=media&key=AIzaSyAd_9YNPlkgQTO8mEphDBRbDVCEtfFj_WE
 #EXTINF:-1 tvg-id="" tvg-name="Golmaal Fun Unlimited 7/7/2006 " tvg-logo="https://subdl.com/p/sd229/sd229871.jpg" group-title="hindi",Golmaal Fun Unlimited 7/7/2006
@@ -1340,6 +1342,8 @@ https://www.googleapis.com/drive/v3/files/1UOgd1FBqtNXryuWW3OAxef38W1laMjv7?alt=
 https://www.googleapis.com/drive/v3/files/1n9Fxn237xDUqdHGG1hrg5dn0YV-iRQGc?alt=media&key=AIzaSyDbHvnG6GfnkjaQ8cYwIqbFeZFjpQMv2_s
 #EXTINF:-1 tvg-id="" tvg-name="Chup Chup Ke 30/5/2006 " tvg-logo="https://subdl.com/p/sd36/sd36839.jpg" group-title="hindi",Chup Chup Ke 30/5/2006
 https://www.googleapis.com/drive/v3/files/1UgUqj3NdzSkbR0dWpxY8oC3dN8beEuvO?alt=media&key=AIzaSyDAp4nTJk1Ksi5dgJRl5oJJcOEm1HEK7d8
+#EXTINF:-1 tvg-id="" tvg-name="Phir Hera Pheri 30/5/2006 " tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/3491245/p3491245_v_v8_aa.jpg" group-title="hindi",Phir Hera Pheri 30/5/2006
+https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Phir%2520Hera%2520Pheri%25203052006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fanaa 12/5/2006 " tvg-logo="https://subdl.com/p/sd213/sd213726.jpg" group-title="hindi",Fanaa 12/5/2006
 https://www.googleapis.com/drive/v3/files/1bFo9MBbhmblo-Ekr-oxzXNN0GSetJEbJ?alt=media&key=AIzaSyDQ0dpyq9w5i8LFveIQOBZqgxjOtUtHK4w
 #EXTINF:-1 tvg-id="" tvg-name="Deadline Sirf 24 Ghante 10/5/2006 " tvg-logo="https://i.imgur.com/q6IkgHl.jpg" group-title="hindi",Deadline Sirf 24 Ghante 10/5/2006
