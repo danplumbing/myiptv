@@ -1383,9 +1383,9 @@ https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Apaharan 21/11/2005 " tvg-logo="https://subdl.com/p/sd29/sd29982.jpg" group-title="hindi",Apaharan 21/11/2005
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Apaharan%252021112005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deewane Huye Paagal 16/11/2005 " tvg-logo="https://subdl.com/p/sd27/sd27020.jpg" group-title="hindi",Deewane Huye Paagal 16/11/2005
-https://www.googleapis.com/drive/v3/files/1VTtIi0UdOwOUvylZuV3G-8wMzzmDZ0Oe?alt=media&key=AIzaSyB6FlfT3lBhohpRsK_hgVlahX9m30DFYJU
+https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Deewane%2520Huye%2520Paagal%252016112005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Garam Masala 26/10/2005 " tvg-logo="https://subdl.com/p/sd20/sd20385.jpg" group-title="hindi",Garam Masala 26/10/2005
-https://www.googleapis.com/drive/v3/files/1ey2nruUdGG4GazI6sB_lGvUVLz9gm3Us?alt=media&key=AIzaSyBR11KMR8ZwPC4YuGbcyOlLQo_bi40-DGw
+https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Garam%2520Masala%252026102005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fareb 19/10/2005 " tvg-logo="https://i.imgur.com/pGUFJy2.jpg" group-title="hindi",Fareb 19/10/2005
 https://www.googleapis.com/drive/v3/files/1aNyiR_dk5x9D8DRcma2JMGO2WOykhOnk?alt=media&key=AIzaSyBr2GSqN2Ccj7wWfQJTcudJE0BO_Q9MlgY
 #EXTINF:-1 tvg-id="" tvg-name="Elaan 9/10/2005 " tvg-logo="https://i.imgur.com/hfEyVeS.jpg" group-title="hindi",Elaan 9/10/2005
