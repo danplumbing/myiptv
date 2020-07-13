@@ -154,6 +154,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pagalpanti%252015112019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bypass Road 8/11/2019" tvg-logo="https://subdl.com/p/sd556/sd556657.jpg" group-title="hindi",Bypass Road 8/11/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bypass%2520Road%25208112019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="marne bhi do yaaron 1/11/2019" tvg-logo="https://i.imgur.com/d8A1JOv.jpg" group-title="hindi",marne bhi do yaaron 1/11/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Marne%2520Bhi%2520Do%2520Yaaron%25201112019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bala 25/10/2019" tvg-logo="https://subdl.com/p/sd492/sd492156.jpg" group-title="hindi",Bala 25/10/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bala%252025102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Made in China 25/10/2019" tvg-logo="https://subdl.com/p/sd487/sd487738.jpg" group-title="hindi",Made in China 25/10/2019
@@ -1375,7 +1377,7 @@ https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Bluffmaster! 9/12/2005 " tvg-logo="https://subdl.com/p/sd329/sd329460.jpg" group-title="hindi",Bluffmaster! 9/12/2005
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bluffmaster!%25209122005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ek Ajnabee 2/12/2005 " tvg-logo="https://subdl.com/p/sd36/sd36425.jpg" group-title="hindi",Ek Ajnabee 2/12/2005
-https://www.googleapis.com/drive/v3/files/1XY5mbTdKx_Mt7Cqr6rnO5MOLYK7OV2k6?alt=media&key=AIzaSyD2srbShcZlXPJx4FNXBiIChyVgjQ-x65I
+https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Ajnabee%25202122005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Home Delivery 2/12/2005 " tvg-logo="https://i.imgur.com/dqcnAue.jpg" group-title="hindi",Home Delivery 2/12/2005
 https://www.googleapis.com/drive/v3/files/1cFf8BNAJSduFcJ0yKfH3vY5EEHJKkxEe?alt=media&key=AIzaSyCCg6XyTZZFUBrbSaEjjnMcg6qZ67hyqTA
 #EXTINF:-1 tvg-id="" tvg-name="Apaharan 21/11/2005 " tvg-logo="https://subdl.com/p/sd29/sd29982.jpg" group-title="hindi",Apaharan 21/11/2005
