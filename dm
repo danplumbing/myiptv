@@ -412,6 +412,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Teri%2520Bhabhi%2520Hai%2520Pagle%25201072018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sanju 28/6/2018" tvg-logo="https://subdl.com/p/sd10/sd10853.jpg" group-title="hindi",Sanju 28/6/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sanju%25202862018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lust Stories 15/6/2018" tvg-logo="https://i.imgur.com/kexqaea.jpg" group-title="hindi",Lust Stories 15/6/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Lust%2520Stories%25201562018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Carry On Jatta 2 28/5/2018" tvg-logo="https://i.imgur.com/pKwgIZz.jpg" group-title="hindi",Carry On Jatta 2 28/5/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Carry%2520On%2520Jatta%25202%25202852018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Veere Di Wedding 23/5/2018" tvg-logo="https://subdl.com/p/sd6/sd6929.jpg" group-title="hindi",Veere Di Wedding 23/5/2018
@@ -1489,13 +1491,13 @@ https://movieshd-544-720-1080-4k-3d-2004-ancient-flower-7182-4.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Ek Haseena Thi 2/1/2004 " tvg-logo="https://i.imgur.com/Kwy3RFQ.jpg" group-title="hindi",Ek Haseena Thi 2/1/2004
 https://movieshd-544-720-1080-4k-3d-2004-ancient-flower-7182-4.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Haseena%2520Thi%2520212004.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chameli 30/12/2003 " tvg-logo="https://subdl.com/p/sd27/sd27301.jpg" group-title="hindi",Chameli 30/12/2003
-https://www.googleapis.com/drive/v3/files/1xIDTv3GB2n2cXFq5W53Nk2xzVvOPhgpq?alt=media&key=AIzaSyA4TWixZ86qBC5qXwIDZg6Ug9RDJledOIo
+https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chameli%252030122003.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fun2shh Dudes in the 10th Century 15/12/2003 " tvg-logo="https://subdl.com/p/sd134/sd134179.jpg" group-title="hindi",Fun2shh Dudes in the 10th Century 15/12/2003
-https://www.googleapis.com/drive/v3/files/1hD0NPKXQn34xiVAHB9aIjb6D0jAHUNAM?alt=media&key=AIzaSyDUXteixpVr_1zXgZcHDm_597YrKvXlPT0
+https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fun2shh%2520Dudes%2520in%2520the%252010th%2520Century%252015122003.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maqbool 10/12/2003 " tvg-logo="https://i.imgur.com/sfYToNx.jpg" group-title="hindi",Maqbool 10/12/2003
 https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Maqbool%252010122003.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Paap 10/12/2003 " tvg-logo="https://subdl.com/p/sd263/sd263927.jpg" group-title="hindi",Paap 10/12/2003
-https://www.googleapis.com/drive/v3/files/1XNkovRgIf12NLakYfhWfXI_o_DYdI2V3?alt=media&key=AIzaSyBsn2Pk6RbaWTFwi2akfX0-9tEdR0XxW7g
+https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Paap%252010122003.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Police Force An Inside Story 10/12/2003 " tvg-logo="https://i.imgur.com/q6KGctR.jpg" group-title="hindi",Police Force An Inside Story 10/12/2003
 https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Police%2520Force%2520An%2520Inside%2520Story%252010122003.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Inteha 16/10/2003 " tvg-logo="https://i.jeded.com/i/inteha.154-166511.jpg" group-title="hindi",Inteha 16/10/2003
@@ -1536,6 +1538,8 @@ https://www.googleapis.com/drive/v3/files/1Ljs2R5_j6FfYPZOQM3sg2Uw5g2w366KA?alt=
 https://www.googleapis.com/drive/v3/files/1KEwdasej0zxjso9P8b5F-rKoO62OgN7R?alt=media&key=AIzaSyByUUVNbj55p3bSVMo05OoMS7SuMJ7VW_c
 #EXTINF:-1 tvg-id="" tvg-name="Dil Ka Rishta 17/1/2003 " tvg-logo="https://i.imgur.com/0gGsHbY.jpg" group-title="hindi",Dil Ka Rishta 17/1/2003
 https://www.googleapis.com/drive/v3/files/1wV3Ovi8a5F-DydfUkCWiFNBKJbZPFzp7?alt=media&key=AIzaSyDGMF_Dprfs6AAe_FLIyLC7MlKmS27c7rY
+#EXTINF:-1 tvg-id="" tvg-name="Kucch To Hai 16/1/2003 " tvg-logo="https://i.imgur.com/KvhSs3R.jpg" group-title="hindi",Kucch To Hai 16/1/2003
+https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kucch%2520To%2520Hai%25201612003.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aapko Pehle Bhi Kahin Dekha Hai 10/01/2003 " tvg-logo="https://subdl.com/p/sd214/sd214336.jpg" group-title="hindi",Aapko Pehle Bhi Kahin Dekha Hai 10/01/2003
 https://www.googleapis.com/drive/v3/files/1zKTvVNnuk6IF-sh_ThyapsqKWyzCcOa7?alt=media&key=AIzaSyBDJ9aiQ7E7OU-1aizfPoiHFdsObO4X0tU
 #EXTINF:-1 tvg-id="" tvg-name="Chalo Ishq Ladaaye 27/12/2002 " tvg-logo="https://subdl.com/p/sd22/sd22551.jpg" group-title="hindi",Chalo Ishq Ladaaye 27/12/2002
