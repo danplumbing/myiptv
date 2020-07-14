@@ -992,6 +992,8 @@ https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Paan%2520Singh%2520Tomar%2520232012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="London Paris New York 9/2/2012 " tvg-logo="https://subdl.com/p/sd15/sd15674.jpg" group-title="hindi",London Paris New York 9/2/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/London%2520Paris%2520New%2520York%2520922012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gali Gali Chor Hai 3/2/2012 " tvg-logo="https://i.imgur.com/h5zGA9H.jpg" group-title="hindi",Gali Gali Chor Hai 3/2/2012
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gali%2520Gali%2520Chor%2520Hai%2520322012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ek Main Aur Ekk Tu 2/2/2012 " tvg-logo="https://i.imgur.com/phCBV0t.jpg" group-title="hindi",Ek Main Aur Ekk Tu 2/2/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Main%2520Aur%2520Ekk%2520Tu%2520222012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Diary of a Butterfly 1/2/2012 " tvg-logo="https://i.imgur.com/qnNRDSt.jpg" group-title="hindi",Diary of a Butterfly 1/2/2012
