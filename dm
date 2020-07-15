@@ -1608,28 +1608,28 @@ https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Yeh%2520Zindagi%2520Ka%2520Safar%252025102001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Indian 17 10 2001 " tvg-logo="https://i.jeded.com/i/indian-2001.154-1302.jpg" group-title="hindi",Indian 17 10 2001
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Indian%252017102001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chandni Bar 28 9 2001 " tvg-logo="https://subdl.com/p/sd230/sd230392.jpg" group-title="hindi",Chandni Bar 28 9 2001
+#EXTINF:-1 tvg-id="" tvg-name="Chandni Bar 28/9/2001 " tvg-logo="https://subdl.com/p/sd230/sd230392.jpg" group-title="hindi",Chandni Bar 28/9/2001
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chandni%2520Bar%25202892001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kyo Kii Main Jhuth Nahin Bolta 12 9 2001 " tvg-logo="https://i.imgur.com/fM2O43Y.jpg" group-title="hindi",Kyo Kii Main Jhuth Nahin Bolta 12 9 2001
+#EXTINF:-1 tvg-id="" tvg-name="Kyo Kii Main Jhuth Nahin Bolta 129/2001 " tvg-logo="https://i.imgur.com/fM2O43Y.jpg" group-title="hindi",Kyo Kii Main Jhuth Nahin Bolta 129/2001
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kyo%2520Kii%2520Main%2520Jhuth%2520Nahin%2520Bolta%25201292001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Asoka 11 9 2001 " tvg-logo="https://subdl.com/p/sd16/sd16150.jpg" group-title="hindi",Asoka 11 9 2001
+#EXTINF:-1 tvg-id="" tvg-name="Asoka 11/9/2001 " tvg-logo="https://subdl.com/p/sd16/sd16150.jpg" group-title="hindi",Asoka 11/9/2001
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Asoka%25201192001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nayak 6 8 2001 " tvg-logo="https://subdl.com/p/sd32/sd32921.jpg" group-title="hindi",Nayak 6 8 2001
-https://www.googleapis.com/drive/v3/files/1RPMTuOoyY5xxJwcCHC4oSxlH-U7zcl3_?alt=media&key=AIzaSyA78W6tmDOlzpq2ssGwJ2cTuX8hviUXQW8
-#EXTINF:-1 tvg-id="" tvg-name="Dil Chahta Hai 24 7 2001 " tvg-logo="https://i.imgur.com/IYhDN2y.jpg" group-title="hindi",Dil Chahta Hai 24 7 2001
-https://www.googleapis.com/drive/v3/files/1drOAaB7gjGSoQmFvk_YsJnUyncBoN8IL?alt=media&key=AIzaSyC80FcuuabKm4KyGLdDnFdb_eBDgprYYCg
-#EXTINF:-1 tvg-id="" tvg-name="Tum Bin 25 6 2001 " tvg-logo="https://subdl.com/p/sd49/sd49353.jpg" group-title="hindi",Tum Bin 25 6 2001
-https://www.googleapis.com/drive/v3/files/1xpKuKJvQQoQAXRRCBPR-3HdR26I7Lm8Q?alt=media&key=AIzaSyDtswjmXuyvm0aS6OXVI06ItZ0zUqY4PSc
-#EXTINF:-1 tvg-id="" tvg-name="Gadar 30 5 2001 " tvg-logo="https://i.imgur.com/N6EH159.jpg" group-title="hindi",Gadar 30 5 2001
-https://www.googleapis.com/drive/v3/files/1QIeMevfa-OZtA12_4mkZc_tIKHKcnF_4?alt=media&key=AIzaSyCWo3Xf0SnWuy2z8qF6fuo595_zclI6S90
-#EXTINF:-1 tvg-id="" tvg-name="Ek Rishtaa 11 5 2001 " tvg-logo="https://i.imgur.com/s3FtWRu.jpg" group-title="hindi",Ek Rishtaa 11 5 2001
-https://www.googleapis.com/drive/v3/files/1Adeb_I-CfBZA_1uT9jDl9M_3a01Tjbge?alt=media&key=AIzaSyAfuD5e84ja2e30jqGpd8uF_YC_39o6sWw
-#EXTINF:-1 tvg-id="" tvg-name="Albela 9 4 2001 " tvg-logo="https://subdl.com/p/sd264/sd264489.jpg" group-title="hindi",Albela 9 4 2001
-https://www.googleapis.com/drive/v3/files/13tIAHPsS05dr_op5pqvmpJAbVAoG13AZ?alt=media&key=AIzaSyDsbiIMkM6Ee1XA1PHuztQvRP5MZ3ePU10
-#EXTINF:-1 tvg-id="" tvg-name="Aashiq 26 01 2001 " tvg-logo="https://subdl.com/p/sd44/sd44101.jpg" group-title="hindi",Aashiq 26 01 2001
-https://www.googleapis.com/drive/v3/files/11F_w9lsvmi37xSEJzhCqmoLTwAbOLdzJ?alt=media&key=AIzaSyDqH7E5lkI_SyaozmKWSrXzhVperRJ3Ou4
-#EXTINF:-1 tvg-id="" tvg-name="Ajnabee 15 1 2001 " tvg-logo="https://i.imgur.com/4qKhJkW.jpg" group-title="hindi",Ajnabee 15 1 2001
-https://www.googleapis.com/drive/v3/files/1GqUF6h1KiIt9khDwA1zh9ULZ99OlnQ5W?alt=media&key=AIzaSyDoyp2V1oZEIojDbmJqxGCVaN0kxCq4Urg
+#EXTINF:-1 tvg-id="" tvg-name="Nayak 6/8/2001 " tvg-logo="https://subdl.com/p/sd32/sd32921.jpg" group-title="hindi",Nayak 6/8/2001
+https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Nayak%2520682001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dil Chahta Hai 24/7/2001 " tvg-logo="https://i.imgur.com/IYhDN2y.jpg" group-title="hindi",Dil Chahta Hai 24/7/2001
+https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Chahta%2520Hai%25202472001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tum Bin 25/6/2001 " tvg-logo="https://subdl.com/p/sd49/sd49353.jpg" group-title="hindi",Tum Bin 25/6/2001
+https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Tum%2520Bin%25202662001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gadar 30/5/2001 " tvg-logo="https://i.imgur.com/N6EH159.jpg" group-title="hindi",Gadar 30/5/2001
+https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gadar%25203052001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ek Rishtaa 11/5/2001 " tvg-logo="https://i.imgur.com/s3FtWRu.jpg" group-title="hindi",Ek Rishtaa 11/5/2001
+https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Rishtaa%25201152001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Albela 9/4/2001 " tvg-logo="https://subdl.com/p/sd264/sd264489.jpg" group-title="hindi",Albela 9/4/2001
+https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Albela%2520942001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aashiq 26/1/2001 " tvg-logo="https://subdl.com/p/sd44/sd44101.jpg" group-title="hindi",Aashiq 26/1/2001
+https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aashiq%25202612001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ajnabee 15/1/2001 " tvg-logo="https://i.imgur.com/4qKhJkW.jpg" group-title="hindi",Ajnabee 15/1/2001
+https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ajnabee%25201512001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Farz 29/12/2000 " tvg-logo="https://subdl.com/p/sd488/sd488881.jpg" group-title="hindi",Farz 29/12/2000
 https://www.googleapis.com/drive/v3/files/147pvBs9LAt6HxA-qDvnAeZUYqS4QcFVn?alt=media&key=AIzaSyC5go9FlfhL2FdQxh7722TAc5JdTD8lddQ
 #EXTINF:-1 tvg-id="" tvg-name="champion 18/12/2000 " tvg-logo="https://subdl.com/p/sd297/sd297247.jpg" group-title="hindi",champion 18/12/2000
