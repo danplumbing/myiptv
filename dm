@@ -1677,6 +1677,19 @@ https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Phir Bhi Dil Hai Hindustani 7/1/2000 " tvg-logo="https://i.imgur.com/Uf9JCwt.jpg" group-title="hindi",Phir Bhi Dil Hai Hindustani 7/1/2000
 https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Phir%2520Bhi%2520Dil%2520Hai%2520Hindustani%2520712000.mkv
 https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Phir%2520Bhi%2520Dil%2520Hai%2520Hindustani%2520712000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baadshah 27/8/1999 " tvg-logo="https://i.imgur.com/5bwsvBO.jpg" group-title="hindi",Baadshah 27/8/1999
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baadshah%25202781999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arjun Pandit 20/8/1999 " tvg-logo="https://i.imgur.com/GSbSq0u.jpg" group-title="hindi",Arjun Pandit 20/8/1999
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Arjun%2520Pandit%25202081999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Biwi No 1 14/5/1999 " tvg-logo="https://i.imgur.com/Vb4t0EL.jpg" group-title="hindi",Biwi No 1 14/5/1999
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Biwi%2520No%25201%25201451999.mp4
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Biwi%2520No%25201%25201451999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aarzoo 12/3/1999 " tvg-logo="https://i.imgur.com/pgj7RvY.jpg" group-title="hindi",Aarzoo 12/3/1999
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aarzoo%25201231999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anari No 1 10/3/1999 " tvg-logo="https://i.imgur.com/dXx3Nve.jpg" group-title="hindi",Anari No 1 10/3/1999
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Anari%2520No%25201%25201031999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aa Ab Laut Chalen 22/1/1999 " tvg-logo="https://i.imgur.com/t9kC0Bn.jpg" group-title="hindi",Aa Ab Laut Chalen 22/1/1999
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aa%2520Ab%2520Laut%2520Chalen%25202211999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
@@ -1687,13 +1700,38 @@ https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 
