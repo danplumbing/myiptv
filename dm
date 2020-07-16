@@ -1679,6 +1679,8 @@ https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Phir Bhi Dil Hai Hindustani 7/1/2000 " tvg-logo="https://i.imgur.com/Uf9JCwt.jpg" group-title="hindi",Phir Bhi Dil Hai Hindustani 7/1/2000
 https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Phir%2520Bhi%2520Dil%2520Hai%2520Hindustani%2520712000.mkv
 https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Phir%2520Bhi%2520Dil%2520Hai%2520Hindustani%2520712000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaanwar 24/12/1999 " tvg-logo="https://i.imgur.com/bTDZPHt.jpg" group-title="hindi",Jaanwar 24/12/1999
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jaanwar%252024121999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dillagi 19/11/1999 " tvg-logo="https://i.imgur.com/dIp9oIW.jpg" group-title="hindi",Dillagi 19/11/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dillagi%252019111999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gair 18/10/1999 " tvg-logo="https://i.imgur.com/yxJXqmx.jpg" group-title="hindi",Gair 18/10/1999
