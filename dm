@@ -1679,10 +1679,14 @@ https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Phir Bhi Dil Hai Hindustani 7/1/2000 " tvg-logo="https://i.imgur.com/Uf9JCwt.jpg" group-title="hindi",Phir Bhi Dil Hai Hindustani 7/1/2000
 https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Phir%2520Bhi%2520Dil%2520Hai%2520Hindustani%2520712000.mkv
 https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Phir%2520Bhi%2520Dil%2520Hai%2520Hindustani%2520712000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kaho Naa Pyaar Hai 29/12/1999 " tvg-logo="https://i.imgur.com/CBIJq9P.jpg" group-title="hindi",Kaho Naa Pyaar Hai 29/12/1999
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kaho%2520Naa%2520Pyaar%2520Hai%252029121999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jaanwar 24/12/1999 " tvg-logo="https://i.imgur.com/bTDZPHt.jpg" group-title="hindi",Jaanwar 24/12/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jaanwar%252024121999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dillagi 19/11/1999 " tvg-logo="https://i.imgur.com/dIp9oIW.jpg" group-title="hindi",Dillagi 19/11/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dillagi%252019111999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Khoobsurat 17/11/1999 " tvg-logo="https://i.imgur.com/sbCEC8h.jpg" group-title="hindi",Khoobsurat 17/11/1999
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Khoobsurat%252017111999.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gair 18/10/1999 " tvg-logo="https://i.imgur.com/yxJXqmx.jpg" group-title="hindi",Gair 18/10/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gair%252018101999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hum Tum Pe Marte Hain 24/9/1999 " tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/67964/p67964_v_v8_aa.jpg" group-title="hindi",Hum Tum Pe Marte Hain 24/9/1999
@@ -1699,25 +1703,30 @@ https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hindustan%2520Ki%2520Kasam%25201571999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Haseena Maan Jaayegi 25/6/1999 " tvg-logo="https://i.imgur.com/7oGUIwx.jpg" group-title="hindi",Haseena Maan Jaayegi 25/6/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Haseena%2520Maan%2520Jaayegi%25202561999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hum Dil De Chuke Sanam 18/6/1999 " tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/25517/p25517_v_v8_ad.jpg" group-title="hindi",Hum Dil De Chuke Sanam 18/6/1999
+#EXTINF:-1 tvg-id="" tvg-name="Hum Dil De Chuke Sanam 18/6/1999 " tvg-logo="https://i.imgur.com/SjbPgsZ.jpg" group-title="hindi",Hum Dil De Chuke Sanam 18/6/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hum%2520Dil%2520De%2520Chuke%2520Sanam%25201861999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Biwi No 1 14/5/1999 " tvg-logo="https://i.imgur.com/Vb4t0EL.jpg" group-title="hindi",Biwi No 1 14/5/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Biwi%2520No%25201%25201451999.mp4
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Biwi%2520No%25201%25201451999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hogi Pyaar Ki Jeet 26/4/1999 " tvg-logo="https://subdl.com/p/sd535/sd535487.jpg" group-title="hindi",Hogi Pyaar Ki Jeet 26/4/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hogi%2520Pyaar%2520Ki%2520Jeet%25202641999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="International Khiladi 26/3/1999 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/International_Khiladi.jpg" group-title="hindi",International Khiladi 26/3/1999
+#EXTINF:-1 tvg-id="" tvg-name="Sarfarosh 20/4/1999 " tvg-logo="https://i.imgur.com/buciHbs.jpg" group-title="hindi",Sarfarosh 20/4/1999
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sarfarosh%25202041999.mp4
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sarfarosh%25202041999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="International Khiladi 26/3/1999 " tvg-logo="https://i.imgur.com/pKjVWjW.jpg?1" group-title="hindi",International Khiladi 26/3/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/International%2520Khiladi%25202631999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aarzoo 12/3/1999 " tvg-logo="https://i.imgur.com/pgj7RvY.jpg" group-title="hindi",Aarzoo 12/3/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aarzoo%25201231999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Anari No 1 10/3/1999 " tvg-logo="https://i.imgur.com/dXx3Nve.jpg" group-title="hindi",Anari No 1 10/3/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Anari%2520No%25201%25201031999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Daag 1/2/1999 " tvg-logo="https://d1ba50i68eftrl.cloudfront.net/images/Artifact_Data/CINE/CINE-ssb/.resized_img_s3/medium/1105378.CINE.ssb.jpg" group-title="hindi",Daag 1/2/1999
+#EXTINF:-1 tvg-id="" tvg-name="Kaun 26/2/1999 " tvg-logo="https://i.imgur.com/HnIG2I6.jpg" group-title="hindi",Kaun 26/2/1999
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kaun%25202621999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daag 1/2/1999 " tvg-logo="https://i.imgur.com/5c69tIs.jpg" group-title="hindi",Daag 1/2/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daag%2520121999.mp4
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daag%2520121999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aa Ab Laut Chalen 22/1/1999 " tvg-logo="https://i.imgur.com/t9kC0Bn.jpg" group-title="hindi",Aa Ab Laut Chalen 22/1/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aa%2520Ab%2520Laut%2520Chalen%25202211999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="hum aapke dil mein rehte hain 22/1/1999 " tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/71100/p71100_v_v8_ab.jpg" group-title="hindi",hum aapke dil mein rehte hain 22/1/1999
+#EXTINF:-1 tvg-id="" tvg-name="hum aapke dil mein rehte hain 22/1/1999 " tvg-logo="https://i.imgur.com/Y7CEW1P.jpg" group-title="hindi",hum aapke dil mein rehte hain 22/1/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/hum%2520aapke%2520dil%2520mein%2520rehte%2520hain%25202211999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
