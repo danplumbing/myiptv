@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Bhanu Priya 16/7/2020 " tvg-logo="https://i.imgur.com/NuzNNy8.jpg" group-title="hindi",Virgin Bhanu Priya 16/7/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Virgin%2520Bhanu%2520Priya%25201672020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Unlock 27/6/2020 " tvg-logo="https://i.imgur.com/tAGPCrt.jpg" group-title="hindi",Unlock 27/6/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Unlock%25202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bhonsle 26/6/2020 " tvg-logo="https://i.imgur.com/45569qm.jpg" group-title="hindi",Bhonsle 26/6/2020
