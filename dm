@@ -1090,7 +1090,7 @@ https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/paan%2520singh%2520tomar%252031102010.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Golmaal 3 26/10/2010 " tvg-logo="https://i.imgur.com/5F17Aoj.jpg" group-title="hindi",Golmaal 3 26/10/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Golmaal%25203%252026102010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rakhta Charitra 20/10/2010 " tvg-logo="https://i.imgur.com/5F17Aoj.jpg" group-title="hindi",Rakhta Charitra 20/10/2010
+#EXTINF:-1 tvg-id="" tvg-name="Rakhta Charitra 20/10/2010 " tvg-logo="https://i.imgur.com/XMsxTV3.jpg" group-title="hindi",Rakhta Charitra 20/10/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rakhta%2520Charitra%252020102010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aakrosh 05/10/2010 " tvg-logo="https://subdl.com/p/sd21/sd21901.jpg" group-title="hindi",Aakrosh 05/10/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aakrosh%252005102010.mp4
@@ -1704,6 +1704,8 @@ https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Biwi%2520No%25201%25201451999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hogi Pyaar Ki Jeet 26/4/1999 " tvg-logo="https://subdl.com/p/sd535/sd535487.jpg" group-title="hindi",Hogi Pyaar Ki Jeet 26/4/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hogi%2520Pyaar%2520Ki%2520Jeet%25202641999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="International Khiladi 26/3/1999 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/International_Khiladi.jpg" group-title="hindi",International Khiladi 26/3/1999
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/International%2520Khiladi%25202631999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aarzoo 12/3/1999 " tvg-logo="https://i.imgur.com/pgj7RvY.jpg" group-title="hindi",Aarzoo 12/3/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aarzoo%25201231999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Anari No 1 10/3/1999 " tvg-logo="https://i.imgur.com/dXx3Nve.jpg" group-title="hindi",Anari No 1 10/3/1999
