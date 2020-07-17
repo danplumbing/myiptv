@@ -1819,8 +1819,8 @@ https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Himmat%2520511996.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Akele Hum Akele Tum 24/11/1995 " tvg-logo="https://i.imgur.com/fmWWvy0.jpg" group-title="hindi",Akele Hum Akele Tum 24/11/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Akele%2520Hum%2520Akele%2520Tum%252024111995.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
