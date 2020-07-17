@@ -1745,10 +1745,12 @@ https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dulhe%2520Raja%2520171998.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Achanak 12/6/1998 " tvg-logo="https://i.imgur.com/a14JcCi.jpg" group-title="hindi",Achanak 12/6/1998
 https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Achanak%25201261998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Ghulam 9/6/1998 " tvg-logo="https://i.imgur.com/ejSUmNF.jpg" group-title="hindi",Ghulam 9/6/1998
+https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ghulam%2520961998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dushman 29/5/1998 " tvg-logo="https://i.imgur.com/W8nLiIx.jpg" group-title="hindi",Dushman 29/5/1998
+https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dushman%25202951998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duplicate 17/4/1998 " tvg-logo="https://i.imgur.com/IJlkgzx.jpg" group-title="hindi",Duplicate 17/4/1998
+https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Duplicate%25201741998.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aakrosh 26/3/1998 " tvg-logo="https://i.imgur.com/QhveBBO.jpg" group-title="hindi",Aakrosh 26/3/1998
 https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aakrosh%25202631998.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
@@ -1770,6 +1772,145 @@ https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
+#EXTINF:-1 tvg-id="" tvg-name="Hero No 1 14/2/1997 " tvg-logo="https://i.imgur.com/ZMD2DW3.jpg" group-title="hindi",Hero No 1 14/2/1997
+https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hero%2520No%25201%25201421997.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+
 
 
