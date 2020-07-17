@@ -1730,12 +1730,8 @@ https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aa%2520Ab%2520Laut%2520Chalen%25202211999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="hum aapke dil mein rehte hain 22/1/1999 " tvg-logo="https://i.imgur.com/Y7CEW1P.jpg" group-title="hindi",hum aapke dil mein rehte hain 22/1/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/hum%2520aapke%2520dil%2520mein%2520rehte%2520hain%25202211999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
 #EXTINF:-1 tvg-id="" tvg-name="Doli Saja Ke Rakhna 17/11/1998 " tvg-logo="https://i.imgur.com/GpXWasJ.jpg" group-title="hindi",Doli Saja Ke Rakhna 17/11/1998
 https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Doli%2520Saja%2520Ke%2520Rakhna%252017111998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
 #EXTINF:-1 tvg-id="" tvg-name="Kuch Kuch Hota Hai 30/9/1998 " tvg-logo="https://i.imgur.com/RdCrQ2p.jpg" group-title="hindi",Kuch Kuch Hota Hai 30/9/1998
 https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kuch%20Kuch%20Hota%20Hai%203091998.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bandhan 28/9/1998 " tvg-logo="https://i.imgur.com/dVLKatC.jpg" group-title="hindi",Bandhan 28/9/1998
