@@ -230,6 +230,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Noblemen%25202862019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tottaa Pataaka Item Maal 27/6/2019" tvg-logo="https://i.imgur.com/7jS30L7.jpg" group-title="hindi",Tottaa Pataaka Item Maal 27/6/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Tottaa%2520Pataaka%2520Item%2520Maal%25202762019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Phati Padi Hai Yaar 26/6/2019" tvg-logo="https://i.imgur.com/998eRv8.jpg" group-title="hindi",Phati Padi Hai Yaar 26/6/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Phati%2520Padi%2520Hai%2520Yaar%252026/6/2019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="One Day Justice Delivered 18/6/2019" tvg-logo="https://i.imgur.com/vibWw3L.jpg" group-title="hindi",One Day Justice Delivered 18/6/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/One%2520Day%2520Justice%2520Delivered%25201862019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Game Over 14/6/2019" tvg-logo="https://i.imgur.com/j6gSNth.jpg" group-title="hindi",Game Over 14/6/2019
@@ -1768,28 +1770,56 @@ https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aflatoon%25204121997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dhaal /12/11/1997 " tvg-logo="https://i.imgur.com/euNCA2K.jpg" group-title="hindi",Dhaal /12/11/1997
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dhaal%252012111997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ghulam e mustafa 31/10/1997 " tvg-logo="https://i.imgur.com/3fCwT4G.jpg" group-title="hindi",ghulam e mustafa 31/10/1997
+https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/ghulam%2520e%2520mustafa%252031101997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dil To Pagal Hai 17/10/1997 " tvg-logo="https://i.imgur.com/5iCIavs.jpg" group-title="hindi",Dil To Pagal Hai 17/10/1997
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520To%2520Pagal%2520Hai%252017101997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhai 15/10/1997 " tvg-logo="https://i.imgur.com/EewU8Yx.jpg" group-title="hindi",Bhai 15/10/1997
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhai%252015101997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deewana Mastana 23/9/1997 " tvg-logo="https://i.imgur.com/JkKIdFK.jpg" group-title="hindi",Deewana Mastana 23/9/1997
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Deewana%2520Mastana%25202391997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hameshaa 8/9/1997 " tvg-logo="https://i.imgur.com/4ktScR1.jpg" group-title="hindi",Hameshaa 8/9/1997
+https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hameshaa%2520891997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Betaabi 5/9/1997 " tvg-logo="https://i.imgur.com/tGLpESq.jpg" group-title="hindi",Betaabi 5/9/1997
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Betaabi%2520591997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Daud 22/8/1997 " tvg-logo="https://i.imgur.com/26A82vA.jpg" group-title="hindi",Daud 22/8/1997
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daud%25202281997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prithvi 22/8/1997 " tvg-logo="https://i.imgur.com/236qUzY.jpg" group-title="hindi",Prithvi 22/8/1997
+https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Prithvi%25202281997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aur Pyaar Ho Gaya 6/8/1997 " tvg-logo="https://i.imgur.com/1i8lYKo.jpg" group-title="hindi",Aur Pyaar Ho Gaya 6/8/1997
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aur%2520Pyaar%2520Ho%2520Gaya%2520681997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Gupt 19/6/1997" tvg-logo="https://i.imgur.com/92fZNWn.jpg" group-title="hindi",Gupt 19/6/1997
+https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gupt%25201961997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Border 13/6/1997 " tvg-logo="https://i.imgur.com/9XdxGke.jpg" group-title="hindi",Border 13/6/1997
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Border%25201361997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insaaf 15/5/1997 " tvg-logo="https://i.imgur.com/WeZXdBb.jpg" group-title="hindi",Insaaf 15/5/1997
+https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Insaaf%25201551997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sapnay 25/4/1997 " tvg-logo="https://i.imgur.com/9Q0ZG0u.jpg" group-title="hindi",Sapnay 25/4/1997
+https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sapnay%25202541997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Auzaar 28/2/1997 " tvg-logo="https://i.imgur.com/ea7eTw8.jpg" group-title="hindi",Auzaar 28/2/1997
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Auzaar%25202821997.mp4
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Auzaar%25202821997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hero No 1 14/2/1997 " tvg-logo="https://i.imgur.com/ZMD2DW3.jpg" group-title="hindi",Hero No 1 14/2/1997
+https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hero%2520No%25201%25201421997.mp4
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hero%2520No%25201%25201421997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ajay 20/12/1996 " tvg-logo="https://i.imgur.com/99KAbi1.jpg" group-title="hindi",Ajay 20/12/1996
+https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ajay%252020121996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chhote Sarkar 22/11/1996 " tvg-logo="https://i.imgur.com/7mAqjJE.jpg" group-title="hindi",Chhote Sarkar 22/11/1996
+https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chhote%2520Sarkar%252022111996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raja Hindustani 15/11/1996" tvg-logo="https://i.imgur.com/15VOomw.jpg" group-title="hindi",Raja Hindustani 15/11/1996
+https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Raja%2520Hindustani%252015111996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghatak 8/11/1996 " tvg-logo="https://i.imgur.com/eqbIGsR.jpg" group-title="hindi",Ghatak 8/11/1996
+https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ghatak%25208111996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diljale 20/9/1996 " tvg-logo="https://i.imgur.com/xlAUzRE.jpg" group-title="hindi",Diljale 20/9/1996
+https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Diljale%25202091996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+#EXTINF:-1 tvg-id="" tvg-name="Army 10/6/1996 " tvg-logo="https://i.imgur.com/oqbkwaW.jpg" group-title="hindi",Army 10/6/1996
+https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Army%25201061996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaahat 6/6/1996 " tvg-logo="https://i.imgur.com/Nmecht5.jpg" group-title="hindi",Chaahat 6/6/1996
+https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chaahat%2520661996.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
@@ -1798,24 +1828,10 @@ https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="English Babu Desi Mem 22/1/1996 " tvg-logo="https://i.imgur.com/eRcaGYM.jpg" group-title="hindi",English Babu Desi Mem 22/1/1996
+https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/English%2520Babu%2520Desi%2520Mem%25202211996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Himmat 5/1/1996 " tvg-logo="https://i.imgur.com/rMacf3Q.jpg" group-title="hindi",Himmat 5/1/1996
+https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Himmat%2520511996.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
