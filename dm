@@ -246,6 +246,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bharat%25202352019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Once Again 16/5/2019" tvg-logo="https://subdl.com/p/sd486/sd486728.jpg" group-title="hindi",Once Again 16/5/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Once%2520Again%25201652019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla King of the Monsters 13/5/2019" tvg-logo="https://i.imgur.com/Ndv0VuZ.jpg" group-title="english hindi",Godzilla King of the Monsters 13/5/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Godzilla%2520King%2520of%2520the%2520Monsters%25201352019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="De De Pyaar De 7/5/2019" tvg-logo="https://i.imgur.com/YjFkdQ5.jpg" group-title="hindi",De De Pyaar De 7/5/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/De%2520De%2520Pyaar%2520De%2520752019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Indias Most Wanted 7/5/2019" tvg-logo="https://i.imgur.com/lUPN2Gl.jpg" group-title="hindi",Indias Most Wanted 7/5/2019
