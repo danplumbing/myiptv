@@ -1817,30 +1817,39 @@ https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/English%2520Babu%2520Desi%2520Mem%25202211996.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Himmat 5/1/1996 " tvg-logo="https://i.imgur.com/rMacf3Q.jpg" group-title="hindi",Himmat 5/1/1996
 https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Himmat%2520511996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Beqabu 28/12/1995 " tvg-logo="https://i.imgur.com/qwtNgxp.jpg" group-title="hindi",Beqabu 28/12/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Beqabu%252028121995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haqeeqat 20/12/1995 " tvg-logo="https://i.imgur.com/vpMaGv7.jpg" group-title="hindi",Haqeeqat 20/12/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Haqeeqat%252020121995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gambler 30/11/1995 " tvg-logo="https://i.imgur.com/aKbHQqe.jpg" group-title="hindi",Gambler 30/11/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gambler%252030111995.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Akele Hum Akele Tum 24/11/1995 " tvg-logo="https://i.imgur.com/fmWWvy0.jpg" group-title="hindi",Akele Hum Akele Tum 24/11/1995
 https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Akele%2520Hum%2520Akele%2520Tum%252024111995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Barsaat 29/9/1995 " tvg-logo="https://i.imgur.com/OuMJKIm.jpg" group-title="hindi",Barsaat 29/9/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Barsaat%25202991995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dilwale Dulhania le Jayenge 26/9/1995 " tvg-logo="https://i.imgur.com/wSgnMRd.jpg" group-title="hindi",Dilwale Dulhania le Jayenge 26/9/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dilwale%2520Dulhania%2520le%2520Jayenge%25202691995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rangeela 31/8/1995 " tvg-logo="https://i.imgur.com/0CwBv0u.jpg" group-title="hindi",Rangeela 31/8/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rangeela%25203181995.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ahankaar 8/8/1995 " tvg-logo="https://i.imgur.com/CX9hk4o.jpg" group-title="hindi",Ahankaar 8/8/1995
 https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ahankaar%2520881995.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Zamaana Deewana 28/7/1995 " tvg-logo="https://i.imgur.com/UzwY6Oz.jpg" group-title="hindi",Zamaana Deewana 28/7/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Zamaana%2520Deewana%25202871995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hulchul 27/7/1995 " tvg-logo="https://i.imgur.com/SeoYlhX.jpg?1" group-title="hindi",Hulchul 27/7/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hulchul%25202771995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gundaraj 14/6/1995 " tvg-logo="https://i.imgur.com/624Mrc1.jpg" group-title="hindi",Gundaraj 14/6/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gundaraj%25201461995.mp4
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gundaraj%25201461995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raghuveer 5/5/1995 " tvg-logo="https://i.imgur.com/zd438tf.jpg" group-title="hindi",Raghuveer 5/5/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Raghuveer%2520551995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BAAZI 5/4/1995 " tvg-logo="https://i.imgur.com/DfMWlox.jpg" group-title="hindi",BAAZI 5/4/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/BAAZI%2520541995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andolan 21/2/1995 " tvg-logo="https://i.imgur.com/ve7ciIC.jpg" group-title="hindi",Andolan 21/2/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Andolan%25202121995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Surakshaa 16/2/1995 " tvg-logo="https://i.imgur.com/i6X9zZo.jpg" group-title="hindi",Surakshaa 16/2/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Surakshaa%25201621995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dushmani A Violent Love Story 10/1/1995 " tvg-logo="https://i.imgur.com/oGqmxIj.jpg" group-title="hindi",Dushmani A Violent Love Story 10/1/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dushmani%2520A%2520Violent%2520Love%2520Story%25201011995.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
