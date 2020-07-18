@@ -1850,44 +1850,46 @@ https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Surakshaa%25201621995.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dushmani A Violent Love Story 10/1/1995 " tvg-logo="https://i.imgur.com/oGqmxIj.jpg" group-title="hindi",Dushmani A Violent Love Story 10/1/1995
 https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dushmani%2520A%2520Violent%2520Love%2520Story%25201011995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjaam 31/12/1994 " tvg-logo="https://i.imgur.com/HbqTtA3.jpg" group-title="hindi",Anjaam 31/12/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Anjaam%252031121994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hum Hain Bemisal 6/12/1994 " tvg-logo="https://i.imgur.com/ZQefig1.jpg" group-title="hindi",Hum Hain Bemisal 6/12/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hum%2520Hain%2520Bemisal%25206121994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gopi Kishan 2/12/1994 " tvg-logo="https://i.imgur.com/gsSnmuh.jpg" group-title="hindi",Gopi Kishan 2/12/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gopi%2520Kishan%25202121994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Manzil Manzil 25/9/1994 " tvg-logo="https://i.imgur.com/6PNTw5v.jpg" group-title="hindi",Manzil Manzil 25/9/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Manzil%2520Manzil%25202591994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bandit Queen 9/9/1994 " tvg-logo="https://i.imgur.com/OA9qbtD.jpg" group-title="hindi",Bandit Queen 9/9/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bandit%2520Queen%2520991994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andaz Apna Apna 31/8/1994 " tvg-logo="https://i.imgur.com/tu6Vtmk.jpg" group-title="hindi",Andaz Apna Apna 31/8/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Andaz%2520Apna%2520Apna%25203181994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaand Kaa Tukdaa 19/8/1994 " tvg-logo="https://i.imgur.com/hDcBH1T.jpg" group-title="hindi",Chaand Kaa Tukdaa 19/8/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chaand%2520Kaa%2520Tukdaa%25201981994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hum Aapke Hain Koun 18/7/1994 " tvg-logo="https://i.imgur.com/Our8qx5.jpg" group-title="hindi",Hum Aapke Hain Koun 18/7/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hum%2520Aapke%2520Hain%2520Koun%25201871994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Krantiveer 11/7/1994 " tvg-logo="https://i.imgur.com/FiXDgnH.jpg" group-title="hindi",Krantiveer 11/7/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Krantiveer%25201171994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mohra 16/5/1994 " tvg-logo="https://i.imgur.com/peWUxfi.jpg" group-title="hindi",Mohra 16/5/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mohra%25201651994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imtihaan 4/3/1994 " tvg-logo="https://i.imgur.com/7c0Ndl9.jpg" group-title="hindi",Imtihaan 4/3/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Imtihaan%2520431994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="INSANIYAT 28/2/1994 " tvg-logo="https://i.imgur.com/oYPpGxJ.jpg" group-title="hindi",INSANIYAT 28/2/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/INSANIYAT%25202821994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kabhi Haan Kabhi Naa 25/2/1994 " tvg-logo="https://i.imgur.com/GXGvSHQ.jpg" group-title="hindi",Kabhi Haan Kabhi Naa 25/2/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kabhi%2520Haan%2520Kabhi%2520Naa%25202521994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dilwale 4/2/1994 " tvg-logo="https://i.imgur.com/scsPOAZ.jpg" group-title="hindi",Dilwale 4/2/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dilwale%2520421994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dulaara 22/1/1994 " tvg-logo="https://i.imgur.com/oZjF4a3.jpg" group-title="hindi",Dulaara 22/1/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dulaara%25202211994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dulaara 22/1/1994 " tvg-logo="https://i.imgur.com/oZjF4a3.jpg" group-title="hindi",Dulaara 22/1/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dulaara%25202211994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zamane Se Kya Darna 14/1/1994 " tvg-logo="https://i.imgur.com/IXt9xUp.jpg" group-title="hindi",Zamane Se Kya Darna 14/1/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Zamane%2520Se%2520Kya%2520Darna%25201411994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elaan 11/1/1994 " tvg-logo="https://i.imgur.com/UzuakG1.jpg" group-title="hindi",Elaan 11/1/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Elaan%25201111994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
