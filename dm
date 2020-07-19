@@ -1840,10 +1840,10 @@ https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hum%2520Hain%2520Bemisal%25206121994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gopi Kishan 2/12/1994 " tvg-logo="https://i.imgur.com/gsSnmuh.jpg" group-title="hindi",Gopi Kishan 2/12/1994
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gopi%2520Kishan%25202121994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Aao Pyaar Karen 17/11/1994" tvg-logo="https://i.imgur.com/PGiT0Bw.jpg" group-title="hindi",Aao Pyaar Karen 17/11/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aao%2520Pyaar%2520Karen%252017111994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amaanat 27/9/1994 " tvg-logo="https://i.imgur.com/bUGjrDJ.jpg" group-title="hindi",Amaanat 27/9/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Amaanat%25202791994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manzil Manzil 25/9/1994 " tvg-logo="https://i.imgur.com/6PNTw5v.jpg" group-title="hindi",Manzil Manzil 25/9/1994
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Manzil%2520Manzil%25202591994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bandit Queen 9/9/1994 " tvg-logo="https://i.imgur.com/OA9qbtD.jpg" group-title="hindi",Bandit Queen 9/9/1994
@@ -1852,12 +1852,20 @@ https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Andaz%2520Apna%2520Apna%25203181994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chaand Kaa Tukdaa 19/8/1994 " tvg-logo="https://i.imgur.com/hDcBH1T.jpg" group-title="hindi",Chaand Kaa Tukdaa 19/8/1994
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chaand%2520Kaa%2520Tukdaa%25201981994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aag 12/8/1994 " tvg-logo="https://i.imgur.com/0zghshL.jpg" group-title="hindi",Aag 12/8/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aag%25201281994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hum Aapke Hain Koun 18/7/1994 " tvg-logo="https://i.imgur.com/Our8qx5.jpg" group-title="hindi",Hum Aapke Hain Koun 18/7/1994
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hum%2520Aapke%2520Hain%2520Koun%25201871994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Krantiveer 11/7/1994 " tvg-logo="https://i.imgur.com/FiXDgnH.jpg" group-title="hindi",Krantiveer 11/7/1994
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Krantiveer%25201171994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra 16/5/1994 " tvg-logo="https://i.imgur.com/peWUxfi.jpg" group-title="hindi",Mohra 16/5/1994
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mohra%25201651994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aatish 5/5/1994 " tvg-logo="https://i.imgur.com/vDpBFLd.jpg" group-title="hindi",Aatish 5/5/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aatish%2520551994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1942 A Love Story 15/4/1994 " tvg-logo="https://i.imgur.com/DgGK3zd.jpg" group-title="hindi",1942 A Love Story 15/4/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/1942%2520A%2520Love%2520Story%25201541994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andaz 8/4/1994 " tvg-logo="https://i.imgur.com/6fmH9gt.jpg" group-title="hindi",Andaz 8/4/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Andaz%2520841994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Imtihaan 4/3/1994 " tvg-logo="https://i.imgur.com/7c0Ndl9.jpg" group-title="hindi",Imtihaan 4/3/1994
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Imtihaan%2520431994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="INSANIYAT 28/2/1994 " tvg-logo="https://i.imgur.com/oYPpGxJ.jpg" group-title="hindi",INSANIYAT 28/2/1994
