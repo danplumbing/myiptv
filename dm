@@ -1554,6 +1554,8 @@ https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hathyar%25201102002.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shakti 20/9/2002 " tvg-logo="https://i.imgur.com/NcrBexn.jpg" group-title="hindi",Shakti 20/9/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shakti%25202092002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gunaah 28/8/2002 " tvg-logo="https://media2.bollywoodhungama.in/wp-content/uploads/2020/05/4-1-1.jpg" group-title="hindi",Gunaah 28/8/2002
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gunaah%25202882002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chor Machaaye Shor 23/8/2002 " tvg-logo="https://i.imgur.com/i2cMKPK.jpg" group-title="hindi",Chor Machaaye Shor 23/8/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chor%2520Machaaye%2520Shor%25202382002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dil Hai Tumhaara 5/8/2002 " tvg-logo="https://i.imgur.com/L3PStiU.jpg" group-title="hindi",Dil Hai Tumhaara 5/8/2002
@@ -1568,6 +1570,8 @@ https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Awara%2520Paagal%2520Deewana%25202062002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Badhaai Ho Badhaai 7/6/2002 " tvg-logo="https://subdl.com/p/sd27/sd27332.jpg" group-title="hindi",Badhaai Ho Badhaai 7/6/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Badhaai%2520Ho%2520Badhaai%2520762002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hum Kisi Se Kum Nahin 17/5/2002 " tvg-logo="https://subdl.com/p/sd226/sd226617.jpg" group-title="hindi",Hum Kisi Se Kum Nahin 17/5/2002
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hum%2520Kisi%2520Se%2520Kum%2520Nahin%25201752002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Devdas 15/5/2002 " tvg-logo="https://subdl.com/p/sd16/sd16284.jpg" group-title="hindi",Devdas 15/5/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Devdas%25201552002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Devdas 15/5/2002 " tvg-logo="https://subdl.com/p/sd16/sd16284.jpg" group-title="hindi",Devdas 15/5/2002
@@ -1590,10 +1594,14 @@ https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Filhaal%2520342002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kitne Door Kitne Paas 19/3/2002 " tvg-logo="https://i.imgur.com/cyP8dOl.jpg" group-title="hindi",Kitne Door Kitne Paas 19/3/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kitne%2520Door%2520Kitne%2520Paas%25201932002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haan Maine Bhi Pyaar Kiya 15/2/2002 " tvg-logo="https://subdl.com/p/sd289/sd289194.jpg" group-title="hindi",Haan Maine Bhi Pyaar Kiya 15/2/2002
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Haan%2520Maine%2520Bhi%2520Pyaar%2520Kiya%25201522002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Agni Varsha 29/1/2002 " tvg-logo="https://i.imgur.com/CP5eUGZ.jpg" group-title="hindi",Agni Varsha 29/1/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Agni%2520Varsha%25202912002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Yeh Dil Aashiqanaa 18/1/2002 " tvg-logo="https://subdl.com/p/sd32/sd32097.jpg" group-title="hindi",Yeh Dil Aashiqanaa 18/1/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Yeh%2520Dil%2520Aashiqanaa%25201812002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hathyar 1/1/2002 " tvg-logo="https://subdl.com/p/sd185/sd185326.jpg" group-title="hindi",Hathyar 1/1/2002
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hathyar%25201102002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Raaz 26 12 2001 " tvg-logo="https://i.imgur.com/mOfqmtJ.jpg" group-title="hindi",Raaz 26 12 2001
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Raaz%252026122001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aamdani Atthanni Kharcha Rupaiya 21 12 2001 " tvg-logo="https://i.imgur.com/gzoVXH7.jpg" group-title="hindi",Aamdani Atthanni Kharcha Rupaiya 21 12 2001
@@ -1882,54 +1890,80 @@ https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Zamane%2520Se%2520Kya%2520Darna%25201411994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Elaan 11/1/1994 " tvg-logo="https://i.imgur.com/UzuakG1.jpg" group-title="hindi",Elaan 11/1/1994
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Elaan%25201111994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Darr 13/12/1993 " tvg-logo="https://i.imgur.com/a4EhJnA.jpg" group-title="hindi",Darr 13/12/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Darr%252013121993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dhanwaan 30/11/1993 " tvg-logo="https://i.imgur.com/DTusoR5.jpg" group-title="hindi",Dhanwaan 30/11/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dhanwaan%252030111993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tadipaar 25/11/1993 " tvg-logo="https://subdl.com/p/sd579/sd579866.jpg" group-title="hindi",Tadipaar 25/11/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Tadipaar%252025111993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bedardi 12/11/1993 " tvg-logo="https://i.imgur.com/4eixPI9.jpg" group-title="hindi",Bedardi 12/11/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bedardi%252012111993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gumrah 30/8/1993 " tvg-logo="https://i.imgur.com/z3Hsjlw.jpg" group-title="hindi",Gumrah 30/8/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gumrah%25203081993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gardish 19/8/1993 " tvg-logo="https://i.imgur.com/T7kAbrC.jpg" group-title="hindi",Gardish 19/8/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gardish%25201981993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aadmi Khilona Hai 30/7/1993 " tvg-logo="https://i.imgur.com/TKLzIyH.jpg" group-title="hindi",Aadmi Khilona Hai 30/7/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aadmi%2520Khilona%2520Hai%25203071993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hum Hain Rahi Pyar Ke 5/7/1993 " tvg-logo="https://subdl.com/p/sd16/sd16005.jpg" group-title="hindi",Hum Hain Rahi Pyar Ke 5/7/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hum%2520Hain%2520Rahi%2520Pyar%2520Ke%2520571993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Waqt Hamara Hai 23/6/1993 " tvg-logo="https://subdl.com/p/sd43/sd43345.jpg" group-title="hindi",Waqt Hamara Hai 23/6/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Waqt%2520Hamara%2520Hai%25202361993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Khal Nayak 15/6/1993 " tvg-logo="https://subdl.com/p/sd246/sd246603.jpg" group-title="hindi",Khal Nayak 15/6/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Khal%2520Nayak%25201561993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dil Hai Betaab 11/6/1993 " tvg-logo="https://i.imgur.com/Z9iCc27.jpg" group-title="hindi",Dil Hai Betaab 11/6/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Hai%2520Betaab%25201161993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aashik Aawara 28/5/1993 " tvg-logo="https://i.imgur.com/HxM6P5I.jpg" group-title="hindi",Aashik Aawara 28/5/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aashik%2520Aawara%25202851993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anari 26/5/1993 " tvg-logo="https://i.imgur.com/wI7wM9l.jpg" group-title="hindi",Anari 26/5/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Anari%25202651993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Damini 30/4/1993 " tvg-logo="https://i.imgur.com/CPDIGMb.jpg" group-title="hindi",Damini 30/4/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Damini%25203041993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aankhen 30/3/1993 " tvg-logo="https://i.imgur.com/K6qjVuS.jpg" group-title="hindi",Aankhen 30/3/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aankhen%25203031993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kayda Kanoon 23/3/1993 " tvg-logo="https://subdl.com/p/sd296/sd296631.jpg" group-title="hindi",Kayda Kanoon 23/3/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kayda%2520Kanoon%25202331993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dil Ki Baazi 4/3/1993 " tvg-logo="https://i.imgur.com/0Npnw3B.jpg" group-title="hindi",Dil Ki Baazi 4/3/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Ki%2520Baazi%2520431993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baazigar 31/1/1993 " tvg-logo="https://i.imgur.com/SdbGxQo.jpg" group-title="hindi",Baazigar 31/1/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baazigar%25203111993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ek Hi Raasta 14/1/1993" tvg-logo="https://i.imgur.com/WxCdESp.jpg" group-title="hindi",Ek Hi Raasta 14/1/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Hi%2520Raasta%25201411993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dil Tera Aashiq 5/1/1993 " tvg-logo="https://i.imgur.com/VqndXel.jpg" group-title="hindi",Dil Tera Aashiq 5/1/1993
+https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Tera%2520Aashiq%2520511993.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Apradhi 28/10/1992 " tvg-logo="https://d1ba50i68eftrl.cloudfront.net/images/Artifact_Data/CINE/CINE-ssb/.resized_img_s3/medium/1104598.CINE.ssb.jpg" group-title="hindi",Apradhi 28/10/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Apradhi%252028101992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dil Aashna Hai 23/10/1992 " tvg-logo="https://subdl.com/p/sd29/sd29086.jpg" group-title="hindi",Dil Aashna Hai 23/10/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Aashna%2520Hai%252023101992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="geet 6/10/1992 " tvg-logo="https://image.tmdb.org/t/p/w500/5vKbDUkRJKIR3YOxUU8IeVPKaWc.jpg" group-title="hindi",geet 6/10/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/geet%25206101992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jigar 16/9/1992 " tvg-logo="https://www.induna.com/uploaded_images/dvd_vcd_master/medium/00_20_55_vcd%20jigar.jpg" group-title="hindi",Jigar 16/9/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jigar%25201691992.mp4
+#EXTINf:-1 tvg-id="" tvg-name="Balwaan 11/9/1992 " tvg-logo="https://66.media.tumblr.com/77658781c6dd2def793cd49ecae65997/tumblr_pxnonmN7dL1ueyi99o1_1280.jpg" group-title="hindi",Balwaan 11/9/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Balwaan%25201191992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bewaffa Se Waffa 11/9/1992 " tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61WSSal0NIL._SY445_.jpg" group-title="hindi",Bewaffa Se Waffa 11/9/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bewaffa%2520Se%2520Waffa%25201191992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="heer ranjha 5/8/1992 " tvg-logo="https://subdl.com/p/sd361/sd361545.jpg" group-title="hindi",heer ranjha 5/8/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/heer%2520ranjha%2520581992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chamatkar 16/7/1992 " tvg-logo=https://subdl.com/p/sd232/sd232506.jpg" group-title="hindi",Chamatkar 16/7/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chamatkar%25201671992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bol Radha Bol 3/7/1992 " tvg-logo="https://subdl.com/p/sd34/sd34572.jpg" group-title="hindi",Bol Radha Bol 3/7/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bol%2520Radha%2520Bol%2520371992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deewana 25/6/1992 " tvg-logo="https://subdl.com/p/sd218/sd218543.jpg" group-title="hindi",Deewana 25/6/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Deewana%25202561992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Khiladi 5/6/1992 " tvg-logo="https://subdl.com/p/sd27/sd27108.jpg" group-title="hindi",Khiladi 5/6/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Khiladi%2520561992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paayal 2/6/1992 " tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/8158656/p8158656_v_v8_aa.jpg" group-title="hindi",Paayal 2/6/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Paayal%2520261992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shola Aur Shabnam 23/1/1992 " tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/8229781/p8229781_v_v7_aa.jpg" group-title="hindi",Shola Aur Shabnam 23/1/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shola%2520Aur%2520Shabnam%25202311992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dil Ka Kya Kasoor 14/1/1992 " tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81aJx-BsbVL._SL1500_.jpg" group-title="hindi",Dil Ka Kya Kasoor 14/1/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Ka%2520Kya%2520Kasoor%25201411992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daulat Ki Jung 3/1/1992 " tvg-logo="https://subdl.com/p/sd213/sd213931.jpg" group-title="hindi",Daulat Ki Jung 3/1/1992
+https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daulat%2520Ki%2520Jung%2520311992.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
