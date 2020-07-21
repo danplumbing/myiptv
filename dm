@@ -1964,18 +1964,18 @@ https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Ka%2520Kya%2520Kasoor%25201411992.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Daulat Ki Jung 3/1/1992 " tvg-logo="https://subdl.com/p/sd213/sd213931.jpg" group-title="hindi",Daulat Ki Jung 3/1/1992
 https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daulat%2520Ki%2520Jung%2520311992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Love 15/11/1991 " tvg-logo="https://i.imgur.com/L5I6AKL.jpg" group-title="hindi",Love 15/11/1991
+https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Love%252015111991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Banajran 29/10/1991" tvg-logo="https://i.imgur.com/ZpcOPha.jpg" group-title="hindi",Banajran 29/10/1991
+https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Banajran%252029101991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saathi 3/9/1991 " tvg-logo="https://i.imgur.com/wjBOSA5.jpg" group-title="hindi",Saathi 3/9/1991
+https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saathi%2520391991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saajan 30/8/1991 " tvg-logo="https://i.imgur.com/aUzKtnL.jpg" group-title="hindi",Saajan 30/8/1991
+https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saajan%25203081991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dancer 12/8/1991 " tvg-logo="https://i.imgur.com/Wngk445.jpg" group-title="hindi",Dancer 12/8/1991
+https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dancer%25201281991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indrajeet 26/7/1991 " tvg-logo="https://i.imgur.com/YV7ZlLV.jpg" group-title="hindi",Indrajeet 26/7/1991
+https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Indrajeet%25202671991.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
@@ -2018,16 +2018,16 @@ https://movieshd-544-720-1080-4k-3d-1989-dark-silence-146f-dan.movieshd4k3d1080p
 https://movieshd-544-720-1080-4k-3d-1989-dark-silence-146f-dan.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Tridev%25202661989.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gair Kaanooni 17/3/1989 " tvg-logo="https://i.imgur.com/xSjAcfg.jpg" group-title="hindi",Gair Kaanooni 17/3/1989
 https://movieshd-544-720-1080-4k-3d-1989-dark-silence-146f-dan.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Gair%2520Kaanooni%25201731989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Gangaa Jamunaa Saraswathi 23/12/1988 " tvg-logo="https://i.imgur.com/81LN59i.jpg" group-title="hindi",Gangaa Jamunaa Saraswathi 23/12/1988
+https://movieshd-544-720-1080-4k-3d-1988-twilight-king-8ff3-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Gangaa%2520Jamunaa%2520Saraswathi%252023121988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inteqam 11/11/1988 " tvg-logo="https://i.imgur.com/D7QRomz.jpg" group-title="hindi",Inteqam 11/11/1988
+https://movieshd-544-720-1080-4k-3d-1988-twilight-king-8ff3-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Inteqam%252011111988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dayavan 29/9/1988 " tvg-logo="https://i.imgur.com/QMXpFpk.jpg" group-title="hindi",Dayavan 29/9/1988
+https://movieshd-544-720-1080-4k-3d-1988-twilight-king-8ff3-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Dayavan%25202991988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghar Ghar Ki Kahani 22/6/1988 " tvg-logo="https://i.imgur.com/T63wGR0.jpg" group-title="hindi",Ghar Ghar Ki Kahani 22/6/1988
+https://movieshd-544-720-1080-4k-3d-1988-twilight-king-8ff3-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Ghar%2520Ghar%2520Ki%2520Kahani%25202261988.m4v
+#EXTINF:-1 tvg-id="" tvg-name="Hatya 1/6/1988 " tvg-logo="https://i.imgur.com/xUvTrfW.jpg" group-title="hindi",Hatya 1/6/1988
+https://movieshd-544-720-1080-4k-3d-1988-twilight-king-8ff3-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Hatya%2520161988.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
