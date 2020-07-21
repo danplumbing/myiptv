@@ -1990,35 +1990,34 @@ https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Baaghi 11/12/1990 " tvg-logo="https://i.imgur.com/KkRoUxu.jpg" group-title="hindi",Baaghi 11/12/1990
+https://movieshd-544-720-1080-4k-3d-1990-late-poetry-66cd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Baaghi%252011121990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doodh Ka Karz 21/8/1990 " tvg-logo="https://i.imgur.com/c8yLP9Z.jpg" group-title="hindi",Doodh Ka Karz 21/8/1990
+https://movieshd-544-720-1080-4k-3d-1990-late-poetry-66cd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Doodh%2520Ka%2520Karz%25202181990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aaj Ka Arjun 3/8/1990 " tvg-logo="https://i.imgur.com/MA3iCwe.jpg" group-title="hindi",Aaj Ka Arjun 3/8/1990
+https://movieshd-544-720-1080-4k-3d-1990-late-poetry-66cd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Aaj%2520Ka%2520Arjun%2520381990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="aashiqui 23/7/1990 " tvg-logo="https://i.imgur.com/O5VLSuR.jpg" group-title="hindi",aashiqui 23/7/1990
+https://movieshd-544-720-1080-4k-3d-1990-late-poetry-66cd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/aashiqui%25202371990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deewana Mujh Sa Nahin 20/7/1990 " tvg-logo="https://i.imgur.com/4zwLeN2.jpg" group-title="hindi",Deewana Mujh Sa Nahin 20/7/1990
+https://movieshd-544-720-1080-4k-3d-1990-late-poetry-66cd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Deewana%2520Mujh%2520Sa%2520Nahin%25202071990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dil 12/6/1990 " tvg-logo="https://i.imgur.com/o0CE84l.jpg" group-title="hindi",Dil 12/6/1990
+https://movieshd-544-720-1080-4k-3d-1990-late-poetry-66cd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Dil%25201261990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghayal 8/6/1990 " tvg-logo="https://i.imgur.com/sGXQ0E7.jpg" group-title="hindi",Ghayal 8/6/1990
+https://movieshd-544-720-1080-4k-3d-1990-late-poetry-66cd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Ghayal%2520861990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghar Ho Toh Aisa 30/3/1990 " tvg-logo="https://i.imgur.com/R8tj1Py.jpg" group-title="hindi",Ghar Ho Toh Aisa 30/3/1990
+https://movieshd-544-720-1080-4k-3d-1990-late-poetry-66cd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Ghar%2520Ho%2520Toh%2520Aisa%25203031990.m4v
+#EXTINF:-1 tvg-id="" tvg-name="Agneepath 7/2/1990 " tvg-logo="https://i.imgur.com/eN3vLrM.jpg" group-title="hindi",Agneepath 7/2/1990
+https://movieshd-544-720-1080-4k-3d-1990-late-poetry-66cd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Agneepath%2520721990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ChaalBaaz 22/11/1989 " tvg-logo="https://i.imgur.com/XYLWaMQ.jpg" group-title="hindi",ChaalBaaz 22/11/1989
+https://movieshd-544-720-1080-4k-3d-1989-dark-silence-146f-dan.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/ChaalBaaz%252022111989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maine Pyar Kiya 16/10/1989 " tvg-logo="https://i.imgur.com/bu55uHv.jpg" group-title="hindi",Maine Pyar Kiya 16/10/1989
+https://movieshd-544-720-1080-4k-3d-1989-dark-silence-146f-dan.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Maine%2520Pyar%2520Kiya%252016101989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chandni 26/7/1989 " tvg-logo="https://i.imgur.com/QS7C0xE.jpg" group-title="hindi",Chandni 26/7/1989
+https://movieshd-544-720-1080-4k-3d-1989-dark-silence-146f-dan.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Chandni%25202671989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tridev 26/6/1989 " tvg-logo="https://i.imgur.com/63RUC07.jpg" group-title="hindi",Tridev 26/6/1989
+https://movieshd-544-720-1080-4k-3d-1989-dark-silence-146f-dan.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Tridev%25202661989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gair Kaanooni 17/3/1989 " tvg-logo="https://i.imgur.com/xSjAcfg.jpg" group-title="hindi",Gair Kaanooni 17/3/1989
+https://movieshd-544-720-1080-4k-3d-1989-dark-silence-146f-dan.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Gair%2520Kaanooni%25201731989.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
