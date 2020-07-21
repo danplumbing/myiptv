@@ -1930,10 +1930,6 @@ https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Hi%2520Raasta%25201411993.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dil Tera Aashiq 5/1/1993 " tvg-logo="https://i.imgur.com/VqndXel.jpg" group-title="hindi",Dil Tera Aashiq 5/1/1993
 https://movieshd-544-720-1080-4k-3d-1993-divine-cake-797d-1993.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Tera%2520Aashiq%2520511993.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
 #EXTINF:-1 tvg-id="" tvg-name="Apradhi 28/10/1992 " tvg-logo="https://d1ba50i68eftrl.cloudfront.net/images/Artifact_Data/CINE/CINE-ssb/.resized_img_s3/medium/1104598.CINE.ssb.jpg" group-title="hindi",Apradhi 28/10/1992
 https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Apradhi%252028101992.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dil Aashna Hai 23/10/1992 " tvg-logo="https://subdl.com/p/sd29/sd29086.jpg" group-title="hindi",Dil Aashna Hai 23/10/1992
@@ -1976,20 +1972,20 @@ https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dancer%25201281991.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Indrajeet 26/7/1991 " tvg-logo="https://i.imgur.com/YV7ZlLV.jpg" group-title="hindi",Indrajeet 26/7/1991
 https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Indrajeet%25202671991.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Dil Hai Ke Manta Nahin 3/7/1991 " tvg-logo="https://i.imgur.com/RMjKAXh.jpg" group-title="hindi",Dil Hai Ke Manta Nahin 3/7/1991
+https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Hai%2520Ke%2520Manta%2520Nahin%2520371991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henna 14/6/1991 " tvg-logo="https://i.imgur.com/3SNXv2n.jpg" group-title="hindi",Henna 14/6/1991
+https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Henna%25201461991.m4v
+#EXTINF:-1 tvg-id="" tvg-name="Henna 14/6/1991 " tvg-logo="https://i.imgur.com/3SNXv2n.jpg" group-title="hindi",Henna 14/6/1991
+https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Henna%25201461991.m4v
+#EXTINF:-1 tvg-id="" tvg-name="Afsana Pyar Ka 18/4/1991 " tvg-logo="https://i.imgur.com/tdL6qvO.jpg" group-title="hindi",Afsana Pyar Ka 18/4/1991
+https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Afsana%2520Pyar%2520Ka%25201841991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Benaam Badsha 5/4/1991 " tvg-logo="https://i.imgur.com/KZuqOpX.jpg" group-title="hindi",Benaam Badsha 5/4/1991
+https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Benaam%2520Badsha%2520541991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hum 23/1/1991 " tvg-logo="https://i.imgur.com/g6JBHRs.jpg?1" group-title="hindi",Hum 23/1/1991
+https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hum%25202311991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Farishtey 11/1/1991 " tvg-logo="https://i.imgur.com/NKjWygI.jpg?1" group-title="hindi",Farishtey 11/1/1991
+https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Farishtey%25201111991.m4v
 #EXTINF:-1 tvg-id="" tvg-name="Baaghi 11/12/1990 " tvg-logo="https://i.imgur.com/KkRoUxu.jpg" group-title="hindi",Baaghi 11/12/1990
 https://movieshd-544-720-1080-4k-3d-1990-late-poetry-66cd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Baaghi%252011121990.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doodh Ka Karz 21/8/1990 " tvg-logo="https://i.imgur.com/c8yLP9Z.jpg" group-title="hindi",Doodh Ka Karz 21/8/1990
