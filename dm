@@ -2060,7 +2060,18 @@ https://movieshd-544-720-1080-4k-3d-1982-delicate-limit-8a62-h.movieshd4k3d1080p
 https://movieshd-544-720-1080-4k-3d-1982-delicate-limit-8a62-h.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Desh%2520Premee%2520631982.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bemisal 24/2/1982 " tvg-logo="https://i.imgur.com/Z26LOde.jpg" group-title="hindi",Bemisal 24/2/1982
 https://movieshd-544-720-1080-4k-3d-1982-delicate-limit-8a62-h.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Bemisal%25202421982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kudrat 3/4/1981 " tvg-logo="https://i.imgur.com/Fyhu82v.jpg" group-title="hindi",Kudrat 3/4/1981
+https://movieshd-544-720-1080-4k-3d-1981-blue-dew-ab6f-dan1981.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Kudrat%2520341981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barsaat Ki Ek Raat 6/2/1981 " tvg-logo="https://i.imgur.com/WD2Lg7U.jpg" group-title="hindi",Barsaat Ki Ek Raat 6/2/1981
+https://movieshd-544-720-1080-4k-3d-1981-blue-dew-ab6f-dan1981.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Barsaat%2520Ki%2520Ek%2520Raat%2520621981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barsaat Ki Ek Raat 6/2/1981 " tvg-logo="https://i.imgur.com/WD2Lg7U.jpg" group-title="hindi",Barsaat Ki Ek Raat 6/2/1981
+https://movieshd-544-720-1080-4k-3d-1981-blue-dew-ab6f-dan1981.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Barsaat%2520Ki%2520Ek%2520Raat%2520621981.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
+
+
+
+
+
+
 
