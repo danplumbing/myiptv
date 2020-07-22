@@ -2066,12 +2066,44 @@ https://movieshd-544-720-1080-4k-3d-1981-blue-dew-ab6f-dan1981.movieshd4k3d1080p
 https://movieshd-544-720-1080-4k-3d-1981-blue-dew-ab6f-dan1981.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Barsaat%2520Ki%2520Ek%2520Raat%2520621981.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Barsaat Ki Ek Raat 6/2/1981 " tvg-logo="https://i.imgur.com/WD2Lg7U.jpg" group-title="hindi",Barsaat Ki Ek Raat 6/2/1981
 https://movieshd-544-720-1080-4k-3d-1981-blue-dew-ab6f-dan1981.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Barsaat%2520Ki%2520Ek%2520Raat%2520621981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hum Paanch 27/11/1980" tvg-logo="https://i.imgur.com/jPpbbJj.jpg" group-title="hindi",Hum Paanch 27/11/1980
+https://movieshd-544-720-1080-4k-3d-1980-wandering-unit-c7eb-d.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Hum%2520Paanch%252027111980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ali Baba Aur 40 Chor 30/5/1980 " tvg-logo="https://i.imgur.com/EqBUXZV.jpg" group-title="hindi",Ali Baba Aur 40 Chor 30/5/1980
+https://movieshd-544-720-1080-4k-3d-1980-wandering-unit-c7eb-d.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Ali%2520Baba%2520Aur%252040%2520Chor%25203051980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dostana 8/1/1980 " tvg-logo="https://i.imgur.com/Kfkyv2f.jpg" group-title="hindi",Dostana 8/1/1980
+https://movieshd-544-720-1080-4k-3d-1980-wandering-unit-c7eb-d.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Dostana%2520811980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dostana 8/1/1980 " tvg-logo="https://i.imgur.com/Kfkyv2f.jpg" group-title="hindi",Dostana 8/1/1980
+https://movieshd-544-720-1080-4k-3d-1980-wandering-unit-c7eb-d.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Dostana%2520811980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kaala Patthar 9/8/1979 " tvg-logo="https://i.imgur.com/24MuVyL.jpg" group-title="hindi",Kaala Patthar 9/8/1979
+https://movieshd-544-720-1080-4k-3d-1979-lingering-king-9bb3-m.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Kaala%2520Patthar%2520981979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don 20/4/1978 " tvg-logo="https://i.imgur.com/Uz00Tyj.jpg" group-title="hindi",Don 20/4/1978
+https://movieshd-544-720-1080-4k-3d-1978-wild-paper-dca5-m1978.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Don%25202041978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Satyam Shivam Sundaram 22/3/1978 " tvg-logo="https://i.imgur.com/lcjZERk.jpg" group-title="hindi",Satyam Shivam Sundaram 22/3/1978
+https://movieshd-544-720-1080-4k-3d-1978-wild-paper-dca5-m1978.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Satyam%2520Shivam%2520Sundaram%25202231978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ganga Ki Saugand 7/2/1978 " tvg-logo="https://i.imgur.com/HVj3ubD.jpg" group-title="hindi",Ganga Ki Saugand 7/2/1978
+https://movieshd-544-720-1080-4k-3d-1978-wild-paper-dca5-m1978.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Ganga%2520Ki%2520Saugand%2520721978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amar Akbar Anthony 10/5/1977 " tvg-logo="https://i.imgur.com/NULVHDd.jpg" group-title="hindi",Amar Akbar Anthony 10/5/1977
+https://movieshd-544-720-1080-4k-3d-1977-late-wildflower-be04m.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Amar%2520Akbar%2520Anthony%25201051977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amar Akbar Anthony 10/5/1977 " tvg-logo="https://i.imgur.com/NULVHDd.jpg" group-title="hindi",Amar Akbar Anthony 10/5/1977
+https://movieshd-544-720-1080-4k-3d-1977-late-wildflower-be04m.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Amar%2520Akbar%2520Anthony%25201051977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anurodh 11/2/1977 " tvg-logo="https://i.imgur.com/oAc3SDK.jpg" group-title="hindi",Anurodh 11/2/1977
+https://movieshd-544-720-1080-4k-3d-1977-late-wildflower-be04m.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Anurodh%25201121977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adalat 29/12/1976 " tvg-logo="https://i.imgur.com/KOQD2of.jpg" group-title="hindi",Adalat 29/12/1976
+https://movieshd-544-720-1080-4k-3d-1976-flat-dream-99cb-m1976.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Adalat%252029121976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Anjaane 17/11/1976 " tvg-logo="https://i.imgur.com/UXXbJsi.jpg" group-title="hindi",Do Anjaane 17/11/1976
+https://movieshd-544-720-1080-4k-3d-1976-flat-dream-99cb-m1976.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Do%2520Anjaane%252017111976%2520720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hera Pheri 2/9/1976 " tvg-logo="https://i.imgur.com/8m4dUXC.jpg" group-title="hindi",Hera Pheri 2/9/1976
+https://movieshd-544-720-1080-4k-3d-1976-flat-dream-99cb-m1976.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Hera%2520Pheri%2520291976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chupke Chupke 3/4/1975 " tvg-logo="https://i.imgur.com/KKZOaru.jpg" group-title="hindi",Chupke Chupke 3/4/1975
+https://movieshd-544-720-1080-4k-3d-1975-shiny-lake-d40c-m1975.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Chupke%2520Chupke%2520341975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DEEWAAR 14/1/1975 " tvg-logo="https://i.imgur.com/wkgoqLY.jpg" group-title="hindi",DEEWAAR 14/1/1975
+https://movieshd-544-720-1080-4k-3d-1975-shiny-lake-d40c-m1975.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/DEEWAAR%25201411975.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 
