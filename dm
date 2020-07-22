@@ -2024,42 +2024,42 @@ https://movieshd-544-720-1080-4k-3d-1988-twilight-king-8ff3-hd.movieshd4k3d1080p
 https://movieshd-544-720-1080-4k-3d-1988-twilight-king-8ff3-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Ghar%2520Ghar%2520Ki%2520Kahani%25202261988.m4v
 #EXTINF:-1 tvg-id="" tvg-name="Hatya 1/6/1988 " tvg-logo="https://i.imgur.com/xUvTrfW.jpg" group-title="hindi",Hatya 1/6/1988
 https://movieshd-544-720-1080-4k-3d-1988-twilight-king-8ff3-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Hatya%2520161988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="Dak Bangla 14/5/1987 " tvg-logo="https://i.imgur.com/3end7WU.jpg" group-title="hindi",Dak Bangla 14/5/1987
+https://movieshd-544-720-1080-4k-3d-1987-royal-mouse-c70f-1987.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Dak%2520Bangla%25201451987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aulad 8/4/1987 " tvg-logo="https://i.imgur.com/vnLjF4q.jpg" group-title="hindi",Aulad 8/4/1987
+https://movieshd-544-720-1080-4k-3d-1987-royal-mouse-c70f-1987.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Aulad%2520841987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dharam Veer 17/3/1987 " tvg-logo="https://i.imgur.com/n2u8ckI.jpg" group-title="hindi",Dharam Veer 17/3/1987
+https://movieshd-544-720-1080-4k-3d-1987-royal-mouse-c70f-1987.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Dharam%2520Veer%25201731987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghar Sansar 30/6/1986 " tvg-logo="https://i.imgur.com/dGfHNN6.jpg" group-title="hindi",Ghar Sansar 30/6/1986
+https://movieshd-544-720-1080-4k-3d-1986-purple-violet-2f3a-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Ghar%2520Sansar%25203061986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GERAFTAAR 13/9/1985 " tvg-logo="https://i.imgur.com/lsVQT5u.jpg" group-title="hindi",GERAFTAAR 13/9/1985
+https://movieshd-544-720-1080-4k-3d-1985-green-grass-916c-1985.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/GERAFTAAR%25201391985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GERAFTAAR 13/9/1985 " tvg-logo="https://i.imgur.com/lsVQT5u.jpg" group-title="hindi",GERAFTAAR 13/9/1985
+https://movieshd-544-720-1080-4k-3d-1985-green-grass-916c-1985.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/GERAFTAAR%25201391985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andar Bahar 7/9/1984 " tvg-logo="https://i.imgur.com/6qlsjkQ.jpg" group-title="hindi",Andar Bahar 7/9/1984
+https://movieshd-544-720-1080-4k-3d-1984-patient-bonus-6132-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Andar%2520Bahar%2520791984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inquilaab 25/1/1984 " tvg-logo="https://i.imgur.com/hluKSWr.jpg" group-title="hindi",Inquilaab 25/1/1984
+https://movieshd-544-720-1080-4k-3d-1984-patient-bonus-6132-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Inquilaab%25202511984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="hero 16/12/1983 " tvg-logo="https://i.imgur.com/R9J35W8.jpg" group-title="hindi",hero 16/12/1983
+https://movieshd-544-720-1080-4k-3d-1983-hidden-cell-1b39-1983.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/hero%252016121983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coolie 14/11/1983 " tvg-logo="[Imgur](https://i.imgur.com/5x5Zldx.jpg)" group-title="hindi",Coolie 14/11/1983
+https://movieshd-544-720-1080-4k-3d-1983-hidden-cell-1b39-1983.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Coolie%252014111983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ek Jaan Hain Hum 16/9/1983 " tvg-logo="https://i.imgur.com/t1DPIfM.jpg" group-title="hindi",Ek Jaan Hain Hum 16/9/1983
+https://movieshd-544-720-1080-4k-3d-1983-hidden-cell-1b39-1983.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Ek%2520Jaan%2520Hain%2520Hum%25201691983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betaab 5/8/1983 " tvg-logo="https://i.imgur.com/Q7zJyxZ.jpg" group-title="hindi",Betaab 5/8/1983
+https://movieshd-544-720-1080-4k-3d-1983-hidden-cell-1b39-1983.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Betaab%2520581983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andhaa Kaanoon 4/4/1983 " tvg-logo="https://i.imgur.com/LANTnYZ.jpg" group-title="hindi",Andhaa Kaanoon 4/4/1983
+https://movieshd-544-720-1080-4k-3d-1983-hidden-cell-1b39-1983.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Andhaa%2520Kaanoon%2520441983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Himmatwala 15/1/1983 " tvg-logo="https://i.imgur.com/oVC5y6X.jpg" group-title="hindi",Himmatwala 15/1/1983
+https://movieshd-544-720-1080-4k-3d-1983-hidden-cell-1b39-1983.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Himmatwala%25201511983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dharam Kanta 13/8/1982 " tvg-logo="https://i.imgur.com/A7duL3l.jpg" group-title="hindi",Dharam Kanta 13/8/1982
+https://movieshd-544-720-1080-4k-3d-1982-delicate-limit-8a62-h.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Dharam%2520Kanta%25201381982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Namak Halaal 15/4/1982 " tvg-logo="https://i.imgur.com/ODUD3kN.jpg" group-title="hindi",Namak Halaal 15/4/1982
+https://movieshd-544-720-1080-4k-3d-1982-delicate-limit-8a62-h.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Namak%2520Halaal%25201541982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desh Premee 6/3/1982 " tvg-logo="https://i.imgur.com/4Yehze9.jpg" group-title="hindi",Desh Premee 6/3/1982
+https://movieshd-544-720-1080-4k-3d-1982-delicate-limit-8a62-h.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Desh%2520Premee%2520631982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bemisal 24/2/1982 " tvg-logo="https://i.imgur.com/Z26LOde.jpg" group-title="hindi",Bemisal 24/2/1982
+https://movieshd-544-720-1080-4k-3d-1982-delicate-limit-8a62-h.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Bemisal%25202421982.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
