@@ -40,6 +40,8 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/mrs%2520serial%2520killer%2520152020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Extraction 24/4/2020" tvg-logo="https://subdl.com/p/sd636/sd636302.jpg" group-title="english hindi",Extraction 24/4/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Extraction%25202442020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Willoughbys 22/4/2020" tvg-logo="https://i.imgur.com/kSQFUqQ.jpg" group-title="Animation english hindi",The Willoughbys 22/4/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Willoughbys%25202242020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gulabo Sitabo 17/4/2020 " tvg-logo="https://i.imgur.com/i8b1QXa.jpg" group-title="hindi",Gulabo Sitabo 17/4/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gulabo%2520Sitabo%25201742020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bamfaad 10/4/2020 " tvg-logo="https://i.imgur.com/Jp5OwCf.jpg" group-title="hindi",Bamfaad 10/4/2020
@@ -68,7 +70,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kaamyaab%2520632020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doordarshan 28/2/2020" tvg-logo="https://i.imgur.com/caSyCP4.jpg" group-title="hindi",Doordarshan 28/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Doordarshan%25202822020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Invisible Man 28/2/2020" tvg-logo="https://i.imgur.com/kSQFUqQ.jpg" group-title="Animation english hindi",The Invisible Man 28/2/2020
+#EXTINF:-1 tvg-id="" tvg-name="The Invisible Man 28/2/2020" tvg-logo="https://i.imgur.com/kSQFUqQ.jpg" group-title="english",The Invisible Man 28/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Invisible%2520Man%25202822020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Angrezi Medium 27/2/2020" tvg-logo="https://subdl.com/p/sd627/sd627486.jpg" group-title="hindi",Angrezi Medium 27/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Angrezi%2520Medium%25202722020.mp4
@@ -90,10 +92,14 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shubh%2520Mangal%2520Zyada%2520Saavdhan%25201422020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sonic The Hedgehog 14/2/2020" tvg-logo="https://i.imgur.com/xhJfD2w.jpg" group-title="english hindi",Sonic The Hedgehog 14/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sonic%2520The%2520Hedgehog%25201422020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Birds of Prey 7/2/2020" tvg-logo="https://i.imgur.com/kSQFUqQ.jpg" group-title="Animation english hindi",Birds of Prey 7/2/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Birds%2520of%2520Prey%2520722020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shikara 7/2/2020" tvg-logo="https://subdl.com/p/sd620/sd620027.jpg" group-title="hindi",Shikara 7/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shikara%2520722020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Underwater 7/2/2020" tvg-logo="https://subdl.com/p/sd478/sd478169.jpg" group-title="english hindi",Underwater 7/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Underwater%2520722020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yahan Sabhi Gyani Hain 7/2/2020" tvg-logo="https://i.imgur.com/ScBlgnL.jpg" group-title="hindi",Yahan Sabhi Gyani Hain 7/2/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Yahan%2520Sabhi%2520Gyani%2520Hain%2520722020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Malang 6/2/2020" tvg-logo="https://i.imgur.com/xWfDdS1.jpg" group-title="hindi",Malang 6/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Malang%2520622020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hacked 31/1/2020" tvg-logo="https://subdl.com/p/sd613/sd613701.jpg" group-title="hindi",Hacked 31/1/2020
@@ -142,8 +148,6 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mauli%252012122019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Body 12/12/2019" tvg-logo="https://images.newasiantv.tv/s2/the-body.7144.jpg" group-title="hindi",The Body 12/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Body%252012122019.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yahan Sabhi Gyani Hain 7/2/2020" tvg-logo="https://i.imgur.com/ScBlgnL.jpg" group-title="hindi",Yahan Sabhi Gyani Hain 7/2/2020
-https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Yahan%2520Sabhi%2520Gyani%2520Hain%2520722020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chhapaak 6/12/2020" tvg-logo="https://subdl.com/p/sd547/sd547046.jpg" group-title="hindi",Chhapaak 6/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chhapaak%25206122019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Panipat 5/12/2019" tvg-logo="https://i.imgur.com/CKO0cZQ.jpg" group-title="hindi",Panipat 5/12/2019
@@ -154,6 +158,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pati%2520Patni%2520Aur%2520Woh%252025112019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Commando 3 22/11/2019" tvg-logo="https://subdl.com/p/sd534/sd534017.jpg" group-title="hindi",Commando 3 22/11/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Commando%25203%252022112019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frozen II 22/11/2019" tvg-logo="https://i.imgur.com/kSQFUqQ.jpg" group-title="Animation english hindi",Frozen II 22/11/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Frozen%2520II%252022112019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yeh Saali Aashiqui 22/11/2019" tvg-logo="https://subdl.com/p/sd575/sd575759.jpg" group-title="hindi",Yeh Saali Aashiqui 22/11/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Yeh%2520Saali%2520Aashiqui%252022112019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Primal 21/11/2019" tvg-logo="https://i.imgur.com/WWcj2Sn.jpg" group-title="english hindi",Primal 21/11/2019
