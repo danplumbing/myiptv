@@ -46,7 +46,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gulabo%2520Sitabo%25201742020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bamfaad 10/4/2020 " tvg-logo="https://i.imgur.com/Jp5OwCf.jpg" group-title="hindi",Bamfaad 10/4/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bamfaad%25201042020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Main Event 10/4/2020" tvg-logo="https://subdl.com/p/sd651/sd651102.jpg" group-title="english",The Main Event 10/4/2020
+#EXTINF:-1 tvg-id="" tvg-name="The Main Event 10/4/2020" tvg-logo="https://subdl.com/p/sd651/sd651102.jpg" group-title="english hindi",The Main Event 10/4/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Main%2520Event%25201042020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Main Event 10/4/2020" tvg-logo="https://subdl.com/p/sd651/sd651102.jpg" group-title="english hindi",The Main Event 10/4/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Main%2520Event%25201042020.mp4
@@ -70,7 +70,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kaamyaab%2520632020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doordarshan 28/2/2020" tvg-logo="https://i.imgur.com/caSyCP4.jpg" group-title="hindi",Doordarshan 28/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Doordarshan%25202822020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Invisible Man 28/2/2020" tvg-logo="https://i.imgur.com/kSQFUqQ.jpg" group-title="english",The Invisible Man 28/2/2020
+#EXTINF:-1 tvg-id="" tvg-name="The Invisible Man 28/2/2020" tvg-logo="https://i.imgur.com/kSQFUqQ.jpg" group-title="english hindi",The Invisible Man 28/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Invisible%2520Man%25202822020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Angrezi Medium 27/2/2020" tvg-logo="https://subdl.com/p/sd627/sd627486.jpg" group-title="hindi",Angrezi Medium 27/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Angrezi%2520Medium%25202722020.mp4
@@ -92,7 +92,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shubh%2520Mangal%2520Zyada%2520Saavdhan%25201422020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sonic The Hedgehog 14/2/2020" tvg-logo="https://i.imgur.com/xhJfD2w.jpg" group-title="english hindi",Sonic The Hedgehog 14/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sonic%2520The%2520Hedgehog%25201422020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birds of Prey 7/2/2020" tvg-logo="https://i.imgur.com/r78dhVz.jpg" group-title="english",Birds of Prey 7/2/2020
+#EXTINF:-1 tvg-id="" tvg-name="Birds of Prey 7/2/2020" tvg-logo="https://i.imgur.com/r78dhVz.jpg" group-title="english hindi",Birds of Prey 7/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Birds%2520of%2520Prey%2520722020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dolittle 7/2/2020" tvg-logo="https://i.imgur.com/nYm5pxF.jpg" group-title="english hindi",Dolittle 7/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dolittle%2520722020.mkv
