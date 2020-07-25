@@ -2354,8 +2354,8 @@ https://movieshd-544-720-1080-4k-3d-1975-shiny-lake-d40c-m1975.movieshd4k3d1080p
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
 
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",
-
+#EXTINF:-1 tvg-id="" tvg-name="majboor 6/12/1974 " tvg-logo="https://i.imgur.com/NBeGLQC.jpg" group-title="hindi",majboor 6/12/1974
+https://movieshd-544-720-1080-4k-3d-1974-still-fog-6e66-d-1974.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Majboor%25206121974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sangam 21/7/1974 " tvg-logo="https://i.imgur.com/d5Fxu4t.jpg" group-title="hindi",Sangam 21/7/1974
+https://movieshd-544-720-1080-4k-3d-1974-still-fog-6e66-d-1974.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Sangam%25202171974.mp4
 
