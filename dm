@@ -146,6 +146,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Little%2520Women%252026122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Playing with Fire 26/12/2019" tvg-logo="https://i.imgur.com/k7rYBJD.jpg" group-title="english hindi",Playing with Fire 26/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Playing%2520with%2520Fire%252026122019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man 4 The Finale 25/12/2019" tvg-logo="https://i.imgur.com/Njmj4Nl.jpg" group-title="4K",Ip Man 4 The Finale 25/12/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ip%2520Man%25204%2520The%2520Finale%252025122019%25205gb%25204K.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars The Rise of Skywalker 19/12/2019" tvg-logo="https://i.imgur.com/VaNTsx8.jpg" group-title="english hindi",Star Wars The Rise of Skywalker 19/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Star%2520Wars%2520The%2520Rise%2520of%2520Skywalker%252019122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Good Newwz 17/12/2019" tvg-logo="https://subdl.com/p/sd536/sd536494.jpg" group-title="hindi",Good Newwz 17/12/2019
