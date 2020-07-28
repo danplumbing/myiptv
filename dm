@@ -166,7 +166,7 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Body%252012122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jumanji The Next Level 11/12/2019" tvg-logo="https://i.imgur.com/LIOqN9u.jpg" group-title="english hindi",Jumanji The Next Level 11/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jumanji%2520The%2520Next%2520Level%252011122019.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jumanji The Next Level 11/12/2019" tvg-logo="https://i.imgur.com/LIOqN9u.jpg" group-title="4K",Jumanji The Next Level 11/12/2019
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji The Next Level 11/12/2019" tvg-logo="https://i.imgur.com/HJm3UnI.jpg" group-title="4K",Jumanji The Next Level 11/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jumanji%2520The%2520Next%2520Level%252011122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chhapaak 6/12/2020" tvg-logo="https://subdl.com/p/sd547/sd547046.jpg" group-title="hindi",Chhapaak 6/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chhapaak%25206122019.mp4
@@ -1050,6 +1050,8 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bin%2520Phere%2520Free%2520Me%2520Tere%25202642013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Go Goa Gone 25/4/2013 " tvg-logo="https://i.imgur.com/ohoeVtF.jpg" group-title="hindi",Go Goa Gone 25/4/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Go%2520Goa%2520Gone%25202542013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 3 25/4/2013 " tvg-logo="https://i.imgur.com/ynSI8wG.jpg" group-title="4K",Iron Man 3 25/4/2013
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Iron%2520Man%25203%25202542013%25204K.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Iron Man 3 25/4/2013" tvg-logo="https://subdl.com/p/sd4/sd4915.jpg" group-title="english hindi",Iron Man 3 25/4/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Iron%2520Man%25203%25202542013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bombay Talkies 23/4/2013 " tvg-logo="https://subdl.com/p/sd3/sd3579.jpg" group-title="hindi",Bombay Talkies 23/4/2013
@@ -1324,6 +1326,8 @@ https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Benny%2520And%2520Babloo%25201862010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Badmaash Company 27/4/2010 " tvg-logo="https://i.imgur.com/7NI13RL.jpg" group-title="hindi",Badmaash Company 27/4/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Badmaash%2520Company%25202742010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 2 30/4/2010 " tvg-logo="https://i.imgur.com/6KcA6Y6.jpg" group-title="4K",Iron Man 2 30/4/2010
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Iron%2520Man%25202%25203042010%25204K.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Iron Man 2 30/4/2010" tvg-logo="https://subdl.com/p/sd2/sd2884.jpg" group-title="english hindi",Iron Man 2 30/4/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Iron%2520Man%25202%25203042010.mkv
 #EXTINF:-1 tvg-id="" tvg-name="HouseFull 21/4/2010 " tvg-logo="https://subdl.com/p/sd2/sd2367.jpg" group-title="hindi",HouseFull 21/4/2010
@@ -1476,6 +1480,8 @@ https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Incredible%2520Hulk%25201362008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dhoom Dadakka 3/5/2008 " tvg-logo="https://subdl.com/p/sd10/sd10098.jpg" group-title="hindi",Dhoom Dadakka 3/5/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dhoom%2520Dadakka%2520352008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 2/5/2008 " tvg-logo="https://i.imgur.com/HvzpkR2.jpg" group-title="4K",Iron Man 2/5/2008
+https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Iron%2520Man%2520252008%25204k.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Iron Man 2/5/2008" tvg-logo="https://i.imgur.com/WG4sYG4.jpg" group-title="english hindi",Iron Man 2/5/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Iron%2520Man%2520252008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aamir 30/04/2008 " tvg-logo="https://subdl.com/p/sd93/sd93377.jpg" group-title="hindi",Aamir 30/04/2008
