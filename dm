@@ -832,10 +832,14 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hero%2520192015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manjhi The Mountain Man 30/8/2015" tvg-logo="https://subdl.com/p/sd3/sd3655.jpg" group-title="hindi",Manjhi The Mountain Man 30/8/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Manjhi%2520The%2520Mountain%2520Man%25203082015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vacation 21/8/2015" tvg-logo="https://i.imgur.com/LQri7pE.jpg" group-title="4k",Vacation 21/8/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Vacation%25202182015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Talvar 14/8/2015 " tvg-logo="https://subdl.com/p/sd24/sd24582.jpg" group-title="hindi",Talvar 14/8/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Talvar%25201482015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="All is Well 13/8/2015 " tvg-logo="https://i.imgur.com/qXiEpaD.jpg" group-title="hindi",All is Well 13/8/2015 
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/All%2520is%2520Well%25201382015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pixels 12/8/2015" tvg-logo="https://i.imgur.com/hTPJHGL.jpg" group-title="4k",Pixels 12/8/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pixels%25201282015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Brothers 6/8/2015 " tvg-logo="https://subdl.com/p/sd1/sd1381.jpg" group-title="hindi",Brothers 6/8/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Brothers%2520682015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Terror Birds 8/3/2016" tvg-logo="https://i.imgur.com/LUtSB5b.jpg" group-title="english hindi",Terror Birds 8/3/2016
