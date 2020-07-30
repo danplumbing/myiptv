@@ -80,8 +80,12 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baaghi%25203%25202622020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rag Doll 26/2/2020" tvg-logo="https://subdl.com/p/sd546/sd546010.jpg" group-title="english",Rag Doll 26/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rag%2520Doll%25202622020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon Resleeved 20/2/2020" tvg-logo="https://i.imgur.com/NHGL01Y.jpg?1" group-title="Animation english hindi",Altered Carbon Resleeved 20/2/2020
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon Resleeved 20/2/2020" tvg-logo="https://i.imgur.com/NHGL01Y.jpg" group-title="Animation english hindi",Altered Carbon Resleeved 20/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Altered%2520Carbon%2520Resleeved%25202022020
+#EXTINF:-1 tvg-id="" tvg-name="Bloodshot 20/2/2020" tvg-logo="https://i.imgur.com/79fpTPu.jpg" group-title="4K",Bloodshot 20/2/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bloodshot%25202022020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Call Of The Wild 19/2/2020" tvg-logo="https://i.imgur.com/AdniQpw.jpg" group-title="4K",The Call Of The Wild 19/2/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Call%2520Of%2520The%2520Wild%25201922020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Thappad 17/2/2020" tvg-logo="https://subdl.com/p/sd562/sd562489.jpg" group-title="hindi",Thappad 17/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Thappad%25201722020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhoot Part One The Haunted Ship 14/2/2020" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1jz1ChAwSL._RI_.jpg" group-title="hindi",Bhoot Part One The Haunted Ship 14/2/2020
@@ -92,10 +96,14 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Love%2520Aaj%2520Kal%25201422020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shubh Mangal Zyada Saavdhan 14/2/2020" tvg-logo="https://subdl.com/p/sd690/sd690037.jpg" group-title="hindi",Shubh Mangal Zyada Saavdhan 14/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shubh%2520Mangal%2520Zyada%2520Saavdhan%25201422020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic The Hedgehog 14/2/2020" tvg-logo="https://i.imgur.com/LwaRjO9.jpg" group-title="4K",Sonic The Hedgehog 14/2/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sonic%2520The%2520Hedgehog%25201422020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sonic The Hedgehog 14/2/2020" tvg-logo="https://i.imgur.com/xhJfD2w.jpg" group-title="english hindi",Sonic The Hedgehog 14/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sonic%2520The%2520Hedgehog%25201422020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Birds of Prey 7/2/2020" tvg-logo="https://i.imgur.com/r78dhVz.jpg" group-title="english hindi",Birds of Prey 7/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Birds%2520of%2520Prey%2520722020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dolittle 7/2/2020" tvg-logo="https://i.imgur.com/HfamSGo.jpg" group-title="4K",Dolittle 7/2/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dolittle%2520722020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dolittle 7/2/2020" tvg-logo="https://i.imgur.com/nYm5pxF.jpg" group-title="english hindi",Dolittle 7/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dolittle%2520722020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shikara 7/2/2020" tvg-logo="https://subdl.com/p/sd620/sd620027.jpg" group-title="hindi",Shikara 7/2/2020
@@ -122,6 +130,8 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/court martial 19/1/2020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Hidden Life 17/1/2020" tvg-logo="https://i.imgur.com/VwhsJBO.jpg" group-title="english hindi",A Hidden Life 17/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/A%2520Hidden%2520Life%25201712020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life 17/1/2020" tvg-logo="https://i.imgur.com/mCqjnqF.jpg" group-title="4K",Bad Boys for Life 17/1/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bad%2520Boys%2520For%2520Life%25201712020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life 17/1/2020" tvg-logo="https://i.imgur.com/ZGZ3PD3.jpg" group-title="english hindi",Bad Boys for Life 17/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bad%2520Boys%2520for%2520Life%25201712020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bunker 17/1/2020" tvg-logo="https://i.imgur.com/G4s9TOl.jpg" group-title="english hindi",Bunker 17/1/2020
@@ -152,6 +162,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Spies%2520in%2520Disguise%252026122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ip Man 4 The Finale 25/12/2019" tvg-logo="https://i.imgur.com/Njmj4Nl.jpg" group-title="4K",Ip Man 4 The Finale 25/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ip%2520Man%25204%2520The%2520Finale%252025122019%25205gb%25204K.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars The Rise of Skywalker 19/12/2019" tvg-logo="https://i.imgur.com/dQHeHBx.jpg" group-title="4K",Star Wars The Rise of Skywalker 19/12/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Star%2520Wars%2520Episode%2520IX%2520The%2520Rise%2520Of%2520Skywalker%252019122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars The Rise of Skywalker 19/12/2019" tvg-logo="https://i.imgur.com/VaNTsx8.jpg" group-title="english hindi",Star Wars The Rise of Skywalker 19/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Star%2520Wars%2520The%2520Rise%2520of%2520Skywalker%252019122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Good Newwz 17/12/2019" tvg-logo="https://subdl.com/p/sd536/sd536494.jpg" group-title="hindi",Good Newwz 17/12/2019
@@ -182,6 +194,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Frozen%2520II%252022112019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yeh Saali Aashiqui 22/11/2019" tvg-logo="https://subdl.com/p/sd575/sd575759.jpg" group-title="hindi",Yeh Saali Aashiqui 22/11/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Yeh%2520Saali%2520Aashiqui%252022112019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="21 Bridges 21/11/2019" tvg-logo="https://i.imgur.com/M4CexXI.jpg" group-title="4K",21 Bridges 21/11/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/21%2520Bridges%252021112019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Primal 21/11/2019" tvg-logo="https://i.imgur.com/WWcj2Sn.jpg" group-title="english hindi",Primal 21/11/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Primal%252021112019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="House Arrest 15/11/2019" tvg-logo="https://subdl.com/p/sd388/sd388537.jpg" group-title="hindi",House Arrest 15/11/2019
@@ -202,6 +216,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Black%2520and%2520Blue%252025102019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Made in China 25/10/2019" tvg-logo="https://subdl.com/p/sd487/sd487738.jpg" group-title="hindi",Made in China 25/10/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Made%2520in%2520China%252025102019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terminator Dark Fate 23/10/2019" tvg-logo="https://i.imgur.com/7ZocP5F.png" group-title="4K",Terminator Dark Fate 23/10/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Terminator%2520Dark%2520Fate%252023102019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Terminator Dark Fate 23/10/2019" tvg-logo="https://i.imgur.com/xTqqVft.jpg" group-title="english hindi",Terminator Dark Fate 23/10/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Terminator%2520Dark%2520Fate%252023102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chintu Ka Birthday 20/10/2019" tvg-logo="https://i.imgur.com/2c5orJv.jpg" group-title="hindi",Chintu Ka Birthday 20/10/2019
@@ -356,6 +372,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hala%25202612019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Thackeray 25/1/2019" tvg-logo="https://subdl.com/p/sd225/sd225446.jpg" group-title="hindi",Thackeray 25/1/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Thackeray%25202512019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Color Out Of Space 24/1/2019" tvg-logo="https://i.imgur.com/T12uXmG.png" group-title="4K",Color Out Of Space 24/1/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Color%2520Out%2520Of%2520Space%25202412019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fraud Saiyyan 18/1/2019" tvg-logo="https://subdl.com/p/sd206/sd206862.jpg" group-title="hindi",Fraud Saiyyan 18/1/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fraud%2520Saiyyan%25201812019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Glass 18/1/2019" tvg-logo="https://i.imgur.com/frS4vjp.jpg" group-title="english hindi",Glass 18/1/2019
@@ -832,14 +850,10 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hero%2520192015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manjhi The Mountain Man 30/8/2015" tvg-logo="https://subdl.com/p/sd3/sd3655.jpg" group-title="hindi",Manjhi The Mountain Man 30/8/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Manjhi%2520The%2520Mountain%2520Man%25203082015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vacation 21/8/2015" tvg-logo="https://i.imgur.com/LQri7pE.jpg" group-title="4K",Vacation 21/8/2015
-https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Vacation%25202182015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Talvar 14/8/2015 " tvg-logo="https://subdl.com/p/sd24/sd24582.jpg" group-title="hindi",Talvar 14/8/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Talvar%25201482015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="All is Well 13/8/2015 " tvg-logo="https://i.imgur.com/qXiEpaD.jpg" group-title="hindi",All is Well 13/8/2015 
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/All%2520is%2520Well%25201382015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pixels 12/8/2015" tvg-logo="https://i.imgur.com/hTPJHGL.jpg" group-title="4K",Pixels 12/8/2015
-https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pixels%25201282015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Brothers 6/8/2015 " tvg-logo="https://subdl.com/p/sd1/sd1381.jpg" group-title="hindi",Brothers 6/8/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Brothers%2520682015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Terror Birds 8/3/2016" tvg-logo="https://i.imgur.com/LUtSB5b.jpg" group-title="english hindi",Terror Birds 8/3/2016
