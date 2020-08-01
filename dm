@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
+#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 3 2020" tvg-logo="https://i.imgur.com/1VYdpsW.jpg" group-title="english",Deep Blue Sea 3 2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Deep%2520Blue%2520Sea%25203%25202872020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dil Bechara 24/7/2020 " tvg-logo="https://i.imgur.com/Pn5GtZ0.jpg" group-title="hindi",Dil Bechara 24/7/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Bechara%25202472020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Bhanu Priya 16/7/2020 " tvg-logo="https://i.imgur.com/NuzNNy8.jpg" group-title="hindi",Virgin Bhanu Priya 16/7/2020
