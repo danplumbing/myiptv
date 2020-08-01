@@ -204,6 +204,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Motichoor%2520Chaknachoor%252015112019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pagalpanti 15/11/2019" tvg-logo="https://i.imgur.com/zdsJxbH.jpg" group-title="hindi",Pagalpanti 15/11/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pagalpanti%252015112019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Charlies Angels 13/11/2019" tvg-logo="https://i.imgur.com/vbIrjui.jpg" group-title="4K",Charlies Angels 13/11/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Charlie%2527s%2520Angels%252013112019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Charlies Angels 13/11/2019" tvg-logo="https://i.imgur.com/ouZzwUu.jpg" group-title="english hindi",Charlies Angels 13/11/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Charlies%2520Angels%252013112019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bypass Road 8/11/2019" tvg-logo="https://subdl.com/p/sd556/sd556657.jpg" group-title="hindi",Bypass Road 8/11/2019
@@ -236,6 +238,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Sky%2520Is%2520Pink%252011102019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X Ray The Inner Image 11/10/2019" tvg-logo="https://i.imgur.com/vakARX0.jpg" group-title="hindi",X Ray The Inner Image 11/10/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/X%2520Ray%2520The%2520Inner%2520Image%252011102019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gemini Man 2019" tvg-logo="https://i.imgur.com/xs9qJFq.jpg" group-title="4K",Gemini Man 2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gemini%2520Man%252010102019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sye Raa Narasimha Reddy 30/9/2019" tvg-logo="https://i.imgur.com/ApgKK90.jpg" group-title="hindi",Sye Raa Narasimha Reddy 30/9/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sye%2520Raa%2520Narasimha%2520Reddy%25203092019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sye Main Zaroor Aaunga 27/9/2019" tvg-logo="https://i.imgur.com/qixSLNb.jpg" group-title="hindi",Main Zaroor Aaunga 27/9/2019
