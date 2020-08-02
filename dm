@@ -54,6 +54,8 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Main%2520Event%25201042020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Main Event 10/4/2020" tvg-logo="https://subdl.com/p/sd651/sd651102.jpg" group-title="english hindi",The Main Event 10/4/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Main%2520Event%25201042020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribal Get Out Alive 9/4/2020" tvg-logo="https://i.imgur.com/Os8qpqN.jpg" group-title="english",Tribal Get Out Alive 9/4/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Tribal%2520Get%2520Out%2520Alive%2520942020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem 3/4/2020" tvg-logo="https://i.imgur.com/D2dmLrS.jpg" group-title="english",Coffee & Kareem 3/4/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Coffee%2520%26%2520Kareem%2520342020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shooting Heroin 3/4/2020" tvg-logo="https://i.imgur.com/OklIW3s.jpg" group-title="english",Shooting Heroin 3/4/2020
