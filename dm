@@ -106,6 +106,8 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhoot%2520Part%2520One%2520The%2520Haunted%2520Ship%25201422020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fantasy Island 14/2/2020" tvg-logo="https://i.imgur.com/i9fVYa2.jpg?1" group-title="english hindi",Fantasy Island 14/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fantasy%2520Island%25201422020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love Aaj Kal 14/2/2020" tvg-logo="https://subdl.com/p/sd730/sd730703.jpg" group-title="4K",Love Aaj Kal 14/2/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Love%2520Aaj%2520Kal%25201422020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Love Aaj Kal 14/2/2020" tvg-logo="https://subdl.com/p/sd730/sd730703.jpg" group-title="hindi",Love Aaj Kal 14/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Love%2520Aaj%2520Kal%25201422020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shubh Mangal Zyada Saavdhan 14/2/2020" tvg-logo="https://subdl.com/p/sd690/sd690037.jpg" group-title="hindi",Shubh Mangal Zyada Saavdhan 14/2/2020
