@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
+#EXTINF:-1 tvg-id="" tvg-name="Pareeksha 6/8/2020 " tvg-logo="https://i.imgur.com/fC0jIeN.jpg" group-title="hindi",Pareeksha 6/8/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pareeksha%2520682020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lootcase 31/7/2020 " tvg-logo="https://i.imgur.com/IXBx5tM.jpg" group-title="hindi",Lootcase 31/7/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Lootcase%25203172020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Raat Akeli Hai 31/7/2020 " tvg-logo="https://i.imgur.com/QM1m3xI.jpg?1" group-title="hindi",Raat Akeli Hai 31/7/2020
