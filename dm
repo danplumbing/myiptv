@@ -568,6 +568,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Love%2520Per%2520Square%2520Foot%25202042018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nanu Ki Jaanu 16/4/2018" tvg-logo="https://subdl.com/p/sd74/sd74301.jpg" group-title="hindi",Nanu Ki Jaanu 16/4/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Nanu%2520Ki%2520Jaanu%25201642018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scavengers 3/9/2013" tvg-logo="https://i.imgur.com/rNYIuR3.jpg" group-title="english hindi",
+
 #EXTINF:-1 tvg-id="" tvg-name="Daas Dev 10/4/2018" tvg-logo="https://i.imgur.com/i4OpsGb.jpg" group-title="hindi",Daas Dev 10/4/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daas%2520Dev%25201042018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Blockers 6/4/2018" tvg-logo="https://i.imgur.com/ANaUmLp.jpg" group-title="english hindi",Blockers 6/4/2018
@@ -972,6 +974,8 @@ https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/3%2520AM%252022092014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Daawat-e-Ishq 1/9/2014 " tvg-logo="https://subdl.com/p/sd9/sd9332.jpg" group-title="hindi",Daawat-e-Ishq 1/9/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daawat-e-Ishq%2520192014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tekken Kazuyas Revenge 6/8/2014" tvg-logo="https://i.imgur.com/rJHSEKH.jpg" group-title="english hindi",Tekken Kazuyas Revenge 6/8/2014
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Tekken%2520Kazuyas%2520Revenge%2520682014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy 31/7/2014" tvg-logo="https://subdl.com/p/sd2/sd2742.jpg" group-title="english hindi",Guardians of the Galaxy 31/7/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Guardians%2520of%2520the%2520Galaxy%25203172014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Its Entertainment 31/7/2014 " tvg-logo="https://i.imgur.com/sMIy7md.jpg" group-title="hindi",Its Entertainment 31/7/2014
@@ -1050,6 +1054,8 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/War%2520Chod%2520Na%2520Yaar%25204102013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Besharam 20/9/2013 " tvg-logo="https://i.imgur.com/mi3omIg.jpg" group-title="hindi",Besharam 20/9/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Besharam%25202092013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scavengers 3/9/2013" tvg-logo="https://i.imgur.com/rNYIuR3.jpg" group-title="english hindi",Scavengers 3/9/2013
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Scavengers%2520392013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shuddh Desi Romance 27/8/2013 " tvg-logo="https://subdl.com/p/sd2/sd2677.jpg" group-title="hindi",Shuddh Desi Romance 27/8/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shuddh%2520Desi%2520Romance%25202782013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Satyagraha 12/8/2013 " tvg-logo="https://i.imgur.com/y6gzKCp.jpg" group-title="hindi",Satyagraha 12/8/2013
@@ -1548,6 +1554,8 @@ https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Race%25201432008.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Twilight 31/2/2008" tvg-logo="https://i.imgur.com/420AEPr.jpg" group-title="english hindi",Twilight 31/2/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Twilight%25203122008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scavengers 3/9/2013" tvg-logo="https://i.imgur.com/rNYIuR3.jpg" group-title="english hindi",
+
 #EXTINF:-1 tvg-id="" tvg-name="Halla Bol 11/1/2008 " tvg-logo="https://subdl.com/p/sd238/sd238186.jpg" group-title="hindi",Halla Bol 11/1/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Halla%2520Bol%25201112008.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dus Kahaniyaan 29/11/2007 " tvg-logo="https://i.imgur.com/o9HNAe2.jpg" group-title="hindi",Dus Kahaniyaan 29/11/2007
