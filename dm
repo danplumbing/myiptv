@@ -21,7 +21,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 #EXTINF:-1 tvg-id="" tvg-name="Unlock 27/6/2020 " tvg-logo="https://i.imgur.com/tAGPCrt.jpg" group-title="hindi",Unlock 27/6/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Unlock%25202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bhonsle 26/6/2020 " tvg-logo="https://i.imgur.com/45569qm.jpg" group-title="hindi",Bhonsle 26/6/2020
-https://firebasestorage.googleapis.com/v0/b/macro-mercury-267410.appspot.com/o/Bhonsle%202662020.mkv?alt=media&token=0d6ea81a-7d8e-49dd-835b-f9df6996315f
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhonsle%25202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bulbbul 24/6/2020 " tvg-logo="https://i.imgur.com/tBjUXmz.jpg" group-title="hindi",Bulbbul 24/6/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bulbbul%252024/6/2020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chaman Bahaar 19/6/2020 " tvg-logo="https://i.imgur.com/2At3MVN.jpg" group-title="hindi",Chaman Bahaar 19/6/2020
@@ -500,6 +500,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Stree%25202882018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Yamla Pagla Deewana Phir Se 28/8/2018" tvg-logo="https://i.imgur.com/y9xAgJx.jpg" group-title="hindi",Yamla Pagla Deewana Phir Se 28/8/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Yamla%2520Pagla%2520Deewana%2520Phir%2520Se%25202882018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Action Point 23/8/2018" tvg-logo="https://i.imgur.com/UMP6Qnj.jpg" group-title="english hindi",Action Point 23/8/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Action%2520Point%25202382018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Genius 20/8/2018" tvg-logo="https://i.imgur.com/cham299.jpg" group-title="hindi",Genius 20/8/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Genius%25202082018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Happy Phirr Bhag Jayegi 20/8/2018" tvg-logo="https://i.imgur.com/T026nUo.jpg" group-title="hindi",Happy Phirr Bhag Jayegi 20/8/2018
@@ -1130,6 +1132,8 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saare%2520Jahaan%2520Se%2520Mehnga%25201822013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jayantabhai Ki Luv Story 15/2/2013 " tvg-logo="https://subdl.com/p/sd15/sd15799.jpg" group-title="hindi",Jayantabhai Ki Luv Story 15/2/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jayantabhai%2520Ki%2520Luv%2520Story%25201522013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Good Day to Die Hard 14/2/2013" tvg-logo="https://i.imgur.com/m4Oxfxh.jpg" group-title="english hindi",A Good Day to Die Hard 14/2/2013
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/A%2520Good%2520Day%2520to%2520Die%2520Hard%25201422013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Special 26 4/2/2013 " tvg-logo="https://i.imgur.com/djpWaf3.jpg" group-title="hindi",Special 26 4/2/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Special%252026%2520422013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Deewana Main Deewana 1/2/2013 " tvg-logo="https://subdl.com/p/sd28/sd28620.jpg" group-title="hindi",Deewana Main Deewana 1/2/2013
@@ -1170,6 +1174,8 @@ https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhoot%2520Returns%252012102012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chittagong 12/10/2012 " tvg-logo="https://i.imgur.com/rUff81H.jpg" group-title="hindi",Chittagong 12/10/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chittagong%252012102012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Universal Soldier Day of Reckoning 4/10/2012" tvg-logo="https://i.imgur.com/eoJzq1d.jpg" group-title="english hindi",Universal Soldier Day of Reckoning 4/10/2012
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Universal%2520Soldier%2520Day%2520of%2520Reckoning%25204102012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chakravyuh 1/10/2012 " tvg-logo="https://subdl.com/p/sd482/sd482259.jpg" group-title="hindi",Chakravyuh 1/10/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chakravyuh%25201102012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aiyyaa 28/9/2012 " tvg-logo="https://subdl.com/p/sd13/sd13040.jpg" group-title="hindi",Aiyyaa 28/9/2012
