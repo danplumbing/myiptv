@@ -570,6 +570,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Nanu%2520Ki%2520Jaanu%25201642018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Daas Dev 10/4/2018" tvg-logo="https://i.imgur.com/i4OpsGb.jpg" group-title="hindi",Daas Dev 10/4/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daas%2520Dev%25201042018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blockers 6/4/2018" tvg-logo="https://i.imgur.com/ANaUmLp.jpg" group-title="english hindi",Blockers 6/4/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Blockers%2520642018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="October 27/3/2018 " tvg-logo="https://subdl.com/p/sd2/sd2718.jpg" group-title="hindi",October 27/3/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/October%25202732018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Missing 20/3/2018" tvg-logo="https://i.imgur.com/5qo06HU.jpg" group-title="hindi",Missing 20/3/2018
