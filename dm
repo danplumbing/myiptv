@@ -178,6 +178,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Spies%2520in%2520Disguise%252026122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ip Man 4 The Finale 25/12/2019" tvg-logo="https://i.imgur.com/Njmj4Nl.jpg" group-title="4K",Ip Man 4 The Finale 25/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ip%2520Man%25204%2520The%2520Finale%252025122019%25205gb%25204K.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Latte and the Magic Waterstone 19/12/2020" tvg-logo="https://i.imgur.com/9PwoRGA.jpg" group-title="Animation english hindi",Latte and the Magic Waterstone 19/12/2020
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Latte%2520and%2520the%2520Magic%2520Waterstone%252019122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars The Rise of Skywalker 19/12/2019" tvg-logo="https://i.imgur.com/dQHeHBx.jpg" group-title="4K",Star Wars The Rise of Skywalker 19/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Star%2520Wars%2520Episode%2520IX%2520The%2520Rise%2520Of%2520Skywalker%252019122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars The Rise of Skywalker 19/12/2019" tvg-logo="https://i.imgur.com/VaNTsx8.jpg" group-title="english hindi",Star Wars The Rise of Skywalker 19/12/2019
@@ -1188,6 +1190,8 @@ https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Tha%2520Tiger%25203172012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gangs of Wasseypur II 30/7/2012 " tvg-logo="https://i.imgur.com/gSE7y2O.jpg" group-title="hindi",Gangs of Wasseypur II 30/7/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gangs%2520of%2520Wasseypur%2520II%25203072012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Knight Rises 20/7/2012" tvg-logo="https://i.imgur.com/ORoh6Dl.gifv" group-title="4K",The Dark Knight Rises 20/7/2012
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Dark%2520Knight%2520Rises%25202072012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Dark Knight Rises 20/7/2012" tvg-logo="https://i.imgur.com/LwsTiCY.jpg" group-title="english hindi",The Dark Knight Rises 20/7/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Dark%2520Knight%2520Rises%25202072012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kyaa Super Kool Hain Hum 18/7/2012 " tvg-logo="https://subdl.com/p/sd14/sd14785.jpg" group-title="hindi",Kyaa Super Kool Hain Hum 18/7/2012
