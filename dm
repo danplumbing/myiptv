@@ -1190,7 +1190,7 @@ https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Tha%2520Tiger%25203172012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gangs of Wasseypur II 30/7/2012 " tvg-logo="https://i.imgur.com/gSE7y2O.jpg" group-title="hindi",Gangs of Wasseypur II 30/7/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gangs%2520of%2520Wasseypur%2520II%25203072012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Dark Knight Rises 20/7/2012" tvg-logo="https://i.imgur.com/ORoh6Dl.gifv" group-title="4K",The Dark Knight Rises 20/7/2012
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Knight Rises 20/7/2012" tvg-logo="https://i.imgur.com/04bCTwQ.jpg" group-title="4K",The Dark Knight Rises 20/7/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Dark%2520Knight%2520Rises%25202072012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Dark Knight Rises 20/7/2012" tvg-logo="https://i.imgur.com/LwsTiCY.jpg" group-title="english hindi",The Dark Knight Rises 20/7/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Dark%2520Knight%2520Rises%25202072012.mkv
