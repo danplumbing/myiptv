@@ -16,6 +16,8 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Bechara%25202472020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Bhanu Priya 16/7/2020 " tvg-logo="https://i.imgur.com/NuzNNy8.jpg" group-title="hindi",Virgin Bhanu Priya 16/7/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Virgin%2520Bhanu%2520Priya%25201672020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Water Abyss 10/7/2020" tvg-logo="https://i.imgur.com/vPKc4TR.jpg" group-title="english hindi",Black Water Abyss 10/7/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Black%2520Water%2520Abyss%25201072020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Old Guard 10/7/2020" tvg-logo="https://i.imgur.com/tIWRPFb.jpg" group-title="english hindi",The Old Guard 10/7/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Old%2520Guard%25201072020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Unlock 27/6/2020 " tvg-logo="https://i.imgur.com/tAGPCrt.jpg" group-title="hindi",Unlock 27/6/2020
@@ -276,6 +278,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dream%2520Girl%2520992019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Section 375 9/9/2019" tvg-logo="https://i.imgur.com/7dtuwXn.jpg" group-title="hindi",Section 375 9/9/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Section%2520375%2520992019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Kingdom 3/9/2019" tvg-logo="https://i.imgur.com/ttAAfFZ.jpg" group-title="english hindi",The Dark Kingdom 3/9/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Dark%2520Kingdom%2520392019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Saaho 30/8/2019" tvg-logo="https://i.imgur.com/l254EID.jpg" group-title="hindi",Saaho 30/8/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saaho%25203082019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="47 Meters Down Uncaged 23/8/2019" tvg-logo="https://i.imgur.com/Yu0Mp7X.jpg" group-title="english hindi",47 Meters Down Uncaged 23/8/2019
@@ -306,6 +310,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Lion%2520King%25201972019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fast & Furious Presents Hobbs & Shaw 13/7/2019" tvg-logo="https://i.imgur.com/kG5mlFL.jpg" group-title="english hindi",Fast & Furious Presents Hobbs & Shaw 13/7/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fast%2520%26%2520Furious%2520Presents%2520Hobbs%2520%26%2520Shaw%25201372019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crawl 10/7/2019" tvg-logo="https://i.imgur.com/UnqrxTn.jpg" group-title="english hindi",Crawl 10/7/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Crawl%25201072019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Super 30 6/7/2019" tvg-logo="https://i.imgur.com/wNPpr1t.jpg" group-title="hindi",Super 30 6/7/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Super%252030%2520672019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Malaal 5/7/2019" tvg-logo="https://subdl.com/p/sd340/sd340512.jpg" group-title="hindi",Malaal 5/7/2019
@@ -356,6 +362,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Tashkent%2520Files%25201242019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kalank 9/4/2019" tvg-logo="https://i.imgur.com/9RTqxRR.jpg" group-title="hindi",Kalank 9/4/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kalank%2520942019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellboy 9/4/2019" tvg-logo="https://i.imgur.com/nS32Mla.jpg" group-title="english hindi",Hellboy 9/4/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hellboy%2520942019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Romeo Akbar Walter 5/4/2019" tvg-logo="https://subdl.com/p/sd232/sd232648.jpg" group-title="hindi",Romeo Akbar Walter 5/4/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Romeo%2520Akbar%2520Walter%2520542019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Notebook 26/3/2019" tvg-logo="https://subdl.com/p/sd257/sd257380.jpg" group-title="hindi",Notebook 26/3/2019
@@ -390,6 +398,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dosti%2520Ke%2520Side%2520Effects%2520522019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ek Ladki Ko Dekha Toh Aisa Laga 1/2/2019" tvg-logo="https://subdl.com/p/sd221/sd221381.jpg" group-title="hindi",Ek Ladki Ko Dekha Toh Aisa Laga 1/2/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Ladki%2520Ko%2520Dekha%2520Toh%2520Aisa%2520Laga%2520122019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="How To Train Your Dragon 1/2/2019" tvg-logo="https://i.imgur.com/plcsFkw.jpg" group-title="Animation english hindi",How To Train Your Dragon 1/2/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/How%2520To%2520Train%2520Your%2520Dragon%2520122019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sonchiriya 31/1/2019" tvg-logo="https://subdl.com/p/sd226/sd226075.jpg" group-title="hindi",Sonchiriya 31/1/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sonchiriya%25203112019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hala 26/1/2019" tvg-logo="https://i.imgur.com/wiEbNeN.jpg" group-title="hindi",Hala 26/1/2019
@@ -694,6 +704,8 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Guest%2520In%2520London%25202162017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Wishing Tree 9/6/2017" tvg-logo="https://i.imgur.com/2XuP9pc.jpg" group-title="hindi",The Wishing Tree 9/6/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Wishing%2520Tree%2520962017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hunter s Prayer 8/6/2017" tvg-logo="https://i.imgur.com/wPpVCBj.jpg" group-title="english hindi",The Hunter s Prayer 8/6/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Hunter%2527s%2520Prayer%2520862017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Raabta 5/6/2017" tvg-logo="https://subdl.com/p/sd2/sd2802.jpg" group-title="hindi",Raabta 5/6/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Raabta%2520562017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Flat 211 2/6/2017" tvg-logo="https://i.imgur.com/7FQVGJE.jpg" group-title="hindi",Flat 211 2/6/2017
