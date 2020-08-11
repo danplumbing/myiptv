@@ -800,6 +800,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Akira%25202682016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Flying Jatt 25/08/2016" tvg-logo="https://subdl.com/p/sd3/sd3542.jpg" group-title="hindi",A Flying Jatt 25/08/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/A%2520Flying%2520Jatt%252025082016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Beyond 22/7/2016" tvg-logo="https://i.imgur.com/RUliSDn.jpg" group-title="english hindi",Star Trek Beyond 22/7/201
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Star%2520Trek%2520Beyond%25202272016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dishoom 21/7/2016" tvg-logo="https://subdl.com/p/sd5/sd5262.jpg" group-title="hindi",Dishoom 21/7/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dishoom%25202172016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fever 8/7/2016" tvg-logo="https://subdl.com/p/sd103/sd103431.jpg" group-title="hindi",Fever 8/7/2016
@@ -830,6 +832,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/1920%2520London%252026042016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Captain America Civil War 26/4/2016" tvg-logo="https://i.imgur.com/CjR675D.jpg" group-title="english hindi",Captain America Civil War 26/4/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Captain%2520America%2520Civil%2520War%25202642016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Precious Cargo 22/4/2016" tvg-logo="https://i.imgur.com/nVZFkBl.jpg" group-title="english hindi",Precious Cargo 22/4/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Precious%2520Cargo%25202242016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Precious Cargo 22/4/2016" tvg-logo="https://i.imgur.com/G3LRoQW.jpg" group-title="english hindi",Precious Cargo 22/4/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Precious%2520Cargo%25202242016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Baaghi 18/4/2016" tvg-logo="https://subdl.com/p/sd1/sd1745.jpg" group-title="hindi",Baaghi 18/4/2016
@@ -844,6 +848,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/One%2520Night%2520Stand%2520742016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Great Grand Masti 1/4/2016" tvg-logo="https://subdl.com/p/sd10/sd10855.jpg" group-title="hindi",Great Grand Masti 1/4/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Great%2520Grand%2520Masti%2520142016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terror Birds 8/3/2016" tvg-logo="https://i.imgur.com/LUtSB5b.jpg" group-title="english hindi",Terror Birds 8/3/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Terror%2520Birds%2520832016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aligarh 26/2/2016" tvg-logo="https://subdl.com/p/sd66/sd66987.jpg" group-title="hindi",Aligarh 26/2/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aligarh%25202622016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood Diaries 22/2/2016" tvg-logo="https://subdl.com/p/sd70/sd70066.jpg" group-title="hindi",Bollywood Diaries 22/2/2016
@@ -874,6 +880,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Budhia%2520Singh%2520Born%2520to%2520Run%252016122015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bajirao Mastani 11/12/2015" tvg-logo="https://subdl.com/p/sd4/sd4436.jpg" group-title="hindi",Bajirao Mastani 11/12/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bajirao%2520Mastani%252011122015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Founder 24/11/2016" tvg-logo="https://i.imgur.com/CSB87qq.jpg" group-title="english hindi",The Founder 24/11/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Founder%252024112016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Criminal Activities 20/11/2015" tvg-logo="https://i.imgur.com/QVGmXHy.jpg" group-title="english hindi",Criminal Activities 20/11/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Criminal%2520Activities%252020112015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Charlie Kay Chakkar Mein 6/11/2015" tvg-logo="https://subdl.com/p/sd484/sd484069.jpg" group-title="hindi",Charlie Kay Chakkar Mein 6/11/2015
@@ -902,8 +910,6 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/All%2520is%2520Well%25201382015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brothers 6/8/2015 " tvg-logo="https://subdl.com/p/sd1/sd1381.jpg" group-title="hindi",Brothers 6/8/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Brothers%2520682015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terror Birds 8/3/2016" tvg-logo="https://i.imgur.com/LUtSB5b.jpg" group-title="english hindi",Terror Birds 8/3/2016
-https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Terror%2520Birds%2520832016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mission Impossible 5 Rogue Nation 25/7/2015 " tvg-logo="https://i.imgur.com/xc46UFH.jpg" group-title="english hindi",Mission Impossible 5 Rogue Nation 25/7/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mission%2520Impossible%25205%2520Rogue%2520Nation%25202572015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Masaan 24/7/2015 " tvg-logo="https://i.imgur.com/TIU4bL3.jpg" group-title="hindi",Masaan 24/7/2015
@@ -1072,6 +1078,8 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/War%2520Chod%2520Na%2520Yaar%25204102013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Besharam 20/9/2013 " tvg-logo="https://i.imgur.com/mi3omIg.jpg" group-title="hindi",Besharam 20/9/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Besharam%25202092013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terror Birds 8/3/2016" tvg-logo="https://i.imgur.com/LUtSB5b.jpg" group-title="english hindi",
+
 #EXTINF:-1 tvg-id="" tvg-name="Scavengers 3/9/2013" tvg-logo="https://i.imgur.com/rNYIuR3.jpg" group-title="english hindi",Scavengers 3/9/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Scavengers%2520392013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shuddh Desi Romance 27/8/2013 " tvg-logo="https://subdl.com/p/sd2/sd2677.jpg" group-title="hindi",Shuddh Desi Romance 27/8/2013
