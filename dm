@@ -1610,7 +1610,7 @@ https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/A%2520Wednesday%252031032008.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shaurya 27/3/2008 " tvg-logo="https://subdl.com/p/sd76/sd76525.jpg" group-title="hindi",Shaurya 27/3/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shaurya%25202732008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Spiderwick Chronicles 21/3/2008" tvg-logo="https://imgur.com/pLoJi44" group-title="english hindi",The Spiderwick Chronicles 21/3/2008
+#EXTINF:-1 tvg-id="" tvg-name="The Spiderwick Chronicles 21/3/2008" tvg-logo="https://imgur.com/pLoJi44.jpg" group-title="english hindi",The Spiderwick Chronicles 21/3/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Spiderwick%2520Chronicles%25202132008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="One Two Three 19/3/2008 " tvg-logo="https://subdl.com/p/sd18/sd18033.jpg" group-title="hindi",One Two Three 19/3/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/One%2520Two%2520Three%25201932008.mp4
