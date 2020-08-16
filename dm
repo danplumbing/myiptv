@@ -1790,6 +1790,8 @@ https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fareb%252019102005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Elaan 9/10/2005 " tvg-logo="https://i.imgur.com/hfEyVeS.jpg" group-title="hindi",Elaan 9/10/2005
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Elaan%25209102005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wallace & Gromit The Curse of the Were Rabbit 8/10/2005" tvg-logo="https://imgur.com/nh4v2t1.jpg" group-title="Animation english hindi",Wallace & Gromit The Curse of the Were Rabbit 8/10/2005
+https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Wallace%2520%26%2520Gromit%2520The%2520Curse%2520of%2520the%2520Were%2520Rabbit%25208102005.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ek Khiladi Ek Haseena 3/10/2005 " tvg-logo="https://i.imgur.com/cxESZaO.jpg" group-title="hindi",Ek Khiladi Ek Haseena 3/10/2005
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Khiladi%2520Ek%2520Haseena%25203102005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DOR 13/9/2005 " tvg-logo="https://subdl.com/p/sd292/sd292920.jpg" group-title="hindi",DOR 13/9/2005
@@ -1822,6 +1824,8 @@ https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Waqt%25202242005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hazaaron Khwaishein Aisi 15/4/2005 " tvg-logo="https://subdl.com/p/sd759/sd759310.jpg" group-title="hindi",Hazaaron Khwaishein Aisi 15/4/2005
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hazaaron%2520Khwaishein%2520Aisi%25201542005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Main Aisa Hi Hoon 13/4/2005 " tvg-logo="https://imgur.com/PzHEeoG.jpg" group-title="hindi",Main Aisa Hi Hoon 13/4/2005
+https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Main%2520Aisa%2520Hi%2520Hoon%25201342005.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Zeher 3/3/2005 " tvg-logo="https://i.imgur.com/3Hki8NP.jpg" group-title="hindi",Zeher 3/3/2005
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Zeher%2520332005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bewafaa 18/2/2005 " tvg-logo="https://subdl.com/p/sd318/sd318652.jpg" group-title="hindi",Bewafaa 18/2/2005
