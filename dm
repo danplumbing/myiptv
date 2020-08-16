@@ -1652,22 +1652,16 @@ https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Transformers%25201%25202772007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cash 26/7/2007 " tvg-logo="https://subdl.com/p/sd12/sd12647.jpg" group-title="hindi",Cash 26/7/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Cash%25202672007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman Returns 14/7/2006" tvg-logo="https://i.imgur.com/gTUcAim.jpg" group-title="english hindi",Superman Returns 14/7/2006
-https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Superman%2520Returns%25201472006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Awarapan 21/6/2007 " tvg-logo="https://subdl.com/p/sd5/sd5932.jpg" group-title="hindi",Awarapan 21/6/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Awarapan%25202162007.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Apne 19/6/2007 " tvg-logo="https://subdl.com/p/sd24/sd24060.jpg" group-title="hindi",Apne 19/6/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Apne%25201962007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Fast and the Furious Tokyo Drift 16/6/2006" tvg-logo="https://subdl.com/p/sd19/sd19776.jpg" group-title="english hindi",The Fast and the Furious Tokyo Drift 16/6/2006
-https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Fast%2520and%2520the%2520Furious%2520Tokyo%2520Drift%25201662006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pirates of the Caribbean At World's End 24/5/2007" tvg-logo="https://i.imgur.com/PnVSpIj.jpg" group-title="english hindi",Pirates of the Caribbean At World's End 24/5/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pirates%2520of%2520the%2520Caribbean%2520At%2520World%2527s%2520End%25202452007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shootout at Lokhandwala 17/5/2007 " tvg-logo="https://i.imgur.com/zh7ybFJ.jpg" group-title="hindi",Shootout at Lokhandwala 17/5/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shootout%2520at%2520Lokhandwala%25201752007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cheeni Kum 16/5/2007 " tvg-logo="https://subdl.com/p/sd19/sd19192.jpg" group-title="hindi",Cheeni Kum 16/5/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Cheeni%2520Kum%25201652007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible 3 3/5/2006" tvg-logo="https://subdl.com/p/sd14/sd14817.jpg" group-title="english hindi",Mission Impossible 3 3/5/2006
-https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mission%2520Impossible%25203%2520352006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Good Boy Bad Boy 30/4/2007 " tvg-logo="https://i.imgur.com/xZypq48.jpg" group-title="hindi",Good Boy Bad Boy 30/4/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Good%2520Boy%2520Bad%2520Boy%25203042007.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 13/4/2007 " tvg-logo="https://subdl.com/p/sd214/sd214932.jpg" group-title="hindi",Big Brother 13/4/2007
@@ -1684,8 +1678,6 @@ https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/1971%25202622007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Eklavya 16/2/2007 " tvg-logo="https://i.imgur.com/la3aImB.jpg" group-title="hindi",Eklavya 16/2/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Eklavya%25201622007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Final Destination 3 9/2/2006" tvg-logo="https://subdl.com/p/sd213/sd213727.jpg" group-title="english hindi",Final Destination 3 9/2/2006
-https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Final%2520Destination%25203%2520922006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Honeymoon Travels Pvt Ltd  22/1/2007 " tvg-logo="https://i.imgur.com/1c8K1bL.jpg" group-title="hindi",Honeymoon Travels Pvt Ltd  22/1/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Honeymoon%2520Travels%2520Pvt%2520Ltd%2520%25202212007.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Salaam-E-Ishq 17/1/2007 " tvg-logo="https://i.imgur.com/J8vfJPF.jpg" group-title="hindi",Salaam-E-Ishq 17/1/2007
@@ -1738,6 +1730,8 @@ https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Corporate%25202362006.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Alag 16/6/2006 " tvg-logo="https://subdl.com/p/sd217/sd217917.jpg" group-title="hindi",Alag 16/6/2006
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Alag%25201662006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Fast and the Furious Tokyo Drift 16/6/2006" tvg-logo="https://subdl.com/p/sd19/sd19776.jpg" group-title="english hindi",The Fast and the Furious Tokyo Drift 16/6/2006
+https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Fast%2520and%2520the%2520Furious%2520Tokyo%2520Drift%25201662006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chup Chup Ke 30/5/2006 " tvg-logo="https://subdl.com/p/sd36/sd36839.jpg" group-title="hindi",Chup Chup Ke 30/5/2006
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chup%2520Chup%2520Ke%25203052006.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Phir Hera Pheri 30/5/2006 " tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/3491245/p3491245_v_v8_aa.jpg" group-title="hindi",Phir Hera Pheri 30/5/2006
@@ -1746,6 +1740,8 @@ https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/X%2520Men%25203%2520The%2520Last%2520Stand%25202552006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fanaa 12/5/2006 " tvg-logo="https://subdl.com/p/sd213/sd213726.jpg" group-title="hindi",Fanaa 12/5/2006
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fanaa%25201252006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible 3 3/5/2006" tvg-logo="https://subdl.com/p/sd14/sd14817.jpg" group-title="english hindi",Mission Impossible 3 3/5/2006
+https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mission%2520Impossible%25203%2520352006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Deadline Sirf 24 Ghante 10/5/2006 " tvg-logo="https://i.imgur.com/q6IkgHl.jpg" group-title="hindi",Deadline Sirf 24 Ghante 10/5/2006
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Deadline%2520Sirf%252024%2520Ghante%25201052006.mp4
 #EXTINF:-1 tvg-id="" tvg-name="36 China Town 21/04/2006 " tvg-logo="https://subdl.com/p/sd39/sd39173.jpg" group-title="hindi",36 China Town 21/04/2006
@@ -1770,6 +1766,8 @@ https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fight%2520Club%25201022006.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club 10/2/2006 " tvg-logo="https://i.imgur.com/6IlQSgz.jpg" group-title="hindi",Fight Club 10/2/2006
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fight%2520Club%25201022006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Final Destination 3 9/2/2006" tvg-logo="https://subdl.com/p/sd213/sd213727.jpg" group-title="english hindi",Final Destination 3 9/2/2006
+https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Final%2520Destination%25203%2520922006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vaah Life Ho Toh Aisi 16/12/2005 " tvg-logo="https://subdl.com/p/sd514/sd514409.jpg" group-title="hindi",Vaah Life Ho Toh Aisi 16/12/2005
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Vaah%2520Life%2520Ho%2520Toh%2520Aisi%252016122005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shikhar 20/12/2005 " tvg-logo="https://i.imgur.com/S9mv8HK.jpg" group-title="hindi",Shikhar 20/12/2005
