@@ -2076,6 +2076,8 @@ https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/champion%252018122000.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chori Chori Chupke Chupke 18/12/2000 " tvg-logo="https://subdl.com/p/sd20/sd20717.jpg" group-title="hindi",Chori Chori Chupke Chupke 18/12/2000
 https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chori%2520Chori%2520Chupke%2520Chupke%252018122000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vertical Limit 8/12/2000" tvg-logo="https://i.imgur.com/sxrxJ8g.jpg" group-title="english hindi",Vertical Limit 8/12/2000
+https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Vertical%2520Limit%25208122000.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kahin Pyaar Na Ho Jaaye 17112000 " tvg-logo="https://i.imgur.com/tZ8WacW.jpg" group-title="hindi",Kahin Pyaar Na Ho Jaaye 17112000
 https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kahin%2520Pyaar%2520Na%2520Ho%2520Jaaye%252017112000.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mohabbatein 3/10/2000 " tvg-logo="https://subdl.com/p/sd9/sd9943.jpg" group-title="hindi",Mohabbatein 3/10/2000
