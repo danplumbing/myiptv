@@ -662,6 +662,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Redrum%2520212018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="First Reformed 31/12/2017" tvg-logo="https://i.imgur.com/WhcKg7Y.jpg" group-title="english hindi",First Reformed 31/12/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/First%2520Reformed%252031122017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bleeding Steel 22122017" tvg-logo="https://i.imgur.com/mwqluwb.jpg" group-title="english hindi",Bleeding Steel 22/12/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bleeding%2520Steel%252022122017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aksar 2 1/12/2017" tvg-logo="https://subdl.com/p/sd26/sd26099.jpg" group-title="hindi",Aksar 2 1/12/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aksar%25202%25201122017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dil Jo Na Keh Saka 17/11/2017" tvg-logo="https://subdl.com/p/sd376/sd376386.jpg" group-title="hindi",Dil Jo Na Keh Saka 17/11/2017
@@ -684,6 +686,8 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Love%2520And%2520Shukla%252013102017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Thor Ragnarok 10/10/2017" tvg-logo="https://i.imgur.com/yNPzJwK.jpg" group-title="english hindi",Thor Ragnarok 10/10/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Thor%2520Ragnarok%252010102017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sniper Ultimate Kill 3/10/2017" tvg-logo="https://i.imgur.com/evu0ajq.jpg" group-title="english hindi",Sniper Ultimate Kill 3/10/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sniper%2520Ultimate%2520Kill%25203102017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chef 29/9/2017" tvg-logo="https://subdl.com/p/sd5/sd5450.jpg" group-title="hindi",Chef 29/9/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chef%25202992017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhoomi 22/9/2017" tvg-logo="https://i.imgur.com/Nbizqk5.jpg" group-title="hindi",Bhoomi 22/9/2017
@@ -752,6 +756,8 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Thoroughbreds%2520642017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Detective Byomkesh Bakshy! 3/4/2015" tvg-logo="https://i.imgur.com/4q19gJm.jpg" group-title="hindi",Detective Byomkesh Bakshy! 3/4/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Detective%2520Byomkesh%2520Bakshy!%2520342015
+#EXTINF:-1 tvg-id="" tvg-name="The Marine 5 Battleground 28/3/2017" tvg-logo="https://i.imgur.com/1im4Hlc.jpg" group-title="english hindi",The Marine 5 Battleground 28/3/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Marine%25205%2520Battleground%25202832017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman Vs Superman Dawn Of Justice 25/3/2016" tvg-logo="https://i.imgur.com/WowFUc4.jpg" group-title="english hindi",Batman Vs Superman Dawn Of Justice 25/3/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Batman%2520Vs%2520Superman%2520Dawn%2520Of%2520Justice%25202532016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Power Rangers 23/3/2017" tvg-logo="https://i.imgur.com/aXXr0We.jpg" group-title="english hindi",Power Rangers 23/3/2017
