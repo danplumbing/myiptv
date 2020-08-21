@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
+#EXTINF:-1 tvg-id="" tvg-name="Class of ’83 21/8/2020 " tvg-logo="https://i.imgur.com/SpOQdrK.jpg" group-title="hindi",Class of ’83 21/8/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Class%2520of%2520%E2%80%9983%25202182020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Project Power 14/8/2020" tvg-logo="https://i.imgur.com/Zv8xn9M.jpg" group-title="english hindi",Project Power 14/8/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Project%2520Power%25201482020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gunjan Saxena The Kargil Girl 12/8/2020 " tvg-logo="https://i.imgur.com/lxg0Ett.jpg" group-title="hindi",Gunjan Saxena The Kargil Girl 12/8/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gunjan%2520Saxena%2520The%2520Kargil%2520Girl%25201282020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pareeksha 6/8/2020 " tvg-logo="https://i.imgur.com/fC0jIeN.jpg" group-title="hindi",Pareeksha 6/8/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pareeksha%2520682020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lootcase 31/7/2020 " tvg-logo="https://i.imgur.com/IXBx5tM.jpg" group-title="hindi",Lootcase 31/7/2020
@@ -172,6 +178,8 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shimla%2520Mirchi%25202020%25201080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhangra Paa Le 3/1/2020" tvg-logo="https://subdl.com/p/sd545/sd545004.jpg" group-title="hindi",Bhangra Paa Le 3/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhangra%2520Paa%2520Le%2520312020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Stories 1/1/2020" tvg-logo="https://i.imgur.com/rxU7owb.jpg" group-title="english hindi",Ghost Stories 1/1/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ghost%2520Stories%2520112020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Panga 30/12/2019" tvg-logo="https://subdl.com/p/sd560/sd560717.jpg" group-title="hindi",Panga 30/12/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Panga%252030122019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Accidental Prime Minister 27/12/2019" tvg-logo="https://subdl.com/p/sd225/sd225097.jpg" group-title="hindi",The Accidental Prime Minister 27/12/2019
