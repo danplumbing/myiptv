@@ -294,12 +294,16 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Posham%2520Pa%25202382019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chhichhore 20/8/2019" tvg-logo="https://i.imgur.com/875oqEl.jpg" group-title="hindi",Chhichhore 20/8/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chhichhore%25202082019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Time in Hollywood 14/8/2019" tvg-logo="https://i.imgur.com/PbbKu2t.jpg" group-title="english hindi",Once Upon a Time in Hollywood 14/8/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Once%2520Upon%2520a%2520Time%2520in%2520Hollywood%25201482019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Mummy Rebirth 13/8/2019" tvg-logo="https://i.imgur.com/B97IFW0.jpg" group-title="english hindi",The Mummy Rebirth 13/8/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Mummy%2520Rebirth%25201382019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Barot House 7/8/2019" tvg-logo="https://subdl.com/p/sd343/sd343583.jpg" group-title="hindi",Barot House 7/8/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Barot%2520House%2520782019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mission Mangal 6/8/2019" tvg-logo="https://subdl.com/p/sd349/sd349713.jpg" group-title="hindi",Mission Mangal 6/8/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mission%2520Mangal%2520682019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descendants 3 2/8/2019" tvg-logo="https://i.imgur.com/XtbdGSC.jpg" group-title="english hindi",Descendants 3 2/8/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Descendants%25203%2520282019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batla House 31/7/2019" tvg-logo="https://i.imgur.com/zZBdm1G.jpg" group-title="hindi",Batla House 31/7/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Batla%2520House%25203172019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Khandaani Shafakhana 30/7/2019" tvg-logo="https://i.imgur.com/5IYS5sk.jpg" group-title="hindi",Khandaani Shafakhana 30/7/2019
@@ -350,6 +354,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chopsticks%25203152019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bharat 23/5/2019" tvg-logo="https://i.imgur.com/FdCPHSc.jpg" group-title="hindi",Bharat 23/5/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bharat%25202352019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocketman 22/5/2019" tvg-logo="https://i.imgur.com/BvK9Lxx.jpg" group-title="english hindi",Rocketman 22/5/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rocketman%25202252019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Once Again 16/5/2019" tvg-logo="https://subdl.com/p/sd486/sd486728.jpg" group-title="hindi",Once Again 16/5/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Once%2520Again%25201652019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla King of the Monsters 13/5/2019" tvg-logo="https://i.imgur.com/Ndv0VuZ.jpg" group-title="english hindi",Godzilla King of the Monsters 13/5/2019
@@ -376,6 +382,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Romeo%2520Akbar%2520Walter%2520542019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dumbo 29/3/2019" tvg-logo="https://i.imgur.com/7EOgJky.jpg" group-title="Animation english hindi",Dumbo 29/3/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dumbo%25202932019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Overcomer 28/3/2019" tvg-logo="https://i.imgur.com/eOM0u4f.jpg" group-title="english hindi",Overcomer 28/3/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Overcomer%25202832019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Notebook 26/3/2019" tvg-logo="https://subdl.com/p/sd257/sd257380.jpg" group-title="hindi",Notebook 26/3/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Notebook%25202632019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Junglee 25/3/2019" tvg-logo="https://subdl.com/p/sd224/sd224999.jpg" group-title="hindi",Junglee 25/3/2019
@@ -2036,6 +2044,8 @@ https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Devdas%25201552002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Devdas 15/5/2002 " tvg-logo="https://subdl.com/p/sd16/sd16284.jpg" group-title="hindi",Devdas 15/5/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Devdas%25201552002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spirit Stallion of the Cimarron 5/7/2002" tvg-logo="https://i.imgur.com/JTkO99v.jpg" group-title="Animation english hindi",Spirit Stallion of the Cimarron 5/7/2002
+https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Spirit%2520Stallion%2520of%2520the%2520Cimarron%2520572002.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ab Ke Baras 03/05/2002 " tvg-logo="https://i.imgur.com/HhClhax.jpg" group-title="hindi",Ab Ke Baras 03/05/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ab%2520Ke%2520Baras%252003052002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hum Tumhare Hain Sanam 22/4/2002 " tvg-logo="https://subdl.com/p/sd213/sd213753.jpg" group-title="hindi",Hum Tumhare Hain Sanam 22/4/2002
