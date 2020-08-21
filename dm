@@ -914,6 +914,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Charlie%2520Kay%2520Chakkar%2520Mein%25206112015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shaandaar 13/10/2015" tvg-logo="https://subdl.com/p/sd11/sd11546.jpg" group-title="hindi",Shaandaar 13/10/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shaandaar%252013102015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Knock Knock 8/10/2015" tvg-logo="https://i.imgur.com/13BD0V4.jpg" group-title="english hindi",Knock Knock 8/10/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Knock%2520Knock%25208102015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Wedding Pullav 5/10/2015" tvg-logo="https://subdl.com/p/sd85/sd85981.jpg" group-title="hindi",Wedding Pullav 5/10/2015 
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Wedding%2520Pullav%25205102015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhaag Johnny 19/9/2015" tvg-logo="https://i.imgur.com/Uj8UwT8.jpg" group-title="hindi",Bhaag Johnny 19/9/2015
@@ -956,6 +958,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/pyaar%2520ka%2520punchnama%25202%25202762015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Guddu Rangeela 18/6/2015 " tvg-logo="https://i.imgur.com/9fkUD73.jpg" group-title="hindi",Guddu Rangeela 18/6/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Guddu%2520Rangeela%25201862015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Survivor 5/6/2015" tvg-logo="https://i.imgur.com/LGIuqdw.jpg" group-title="english hindi",Survivor 5/6/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Survivor%2520562015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ABCD 2 4/6/2015 " tvg-logo="https://i.imgur.com/f226HoD.jpg" group-title="hindi",ABCD 2 4/6/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/ABCD%25202%2520462015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dil Dhadakne Do 29/5/2015 " tvg-logo="https://subdl.com/p/sd10/sd10116.jpg" group-title="hindi",Dil Dhadakne Do 29/5/2015
@@ -1654,6 +1658,8 @@ https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Race%25201432008.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Twilight 31/2/2008" tvg-logo="https://i.imgur.com/420AEPr.jpg" group-title="english hindi",Twilight 31/2/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Twilight%25203122008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bank Job 19/2/2008" tvg-logo="https://i.imgur.com/f8luixn.jpg" group-title="english hindi",The Bank Job 19/2/2008
+https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Bank%2520Job%25201922008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Untraceable 25/1/2008" tvg-logo="https://i.imgur.com/0ZygkjO.jpg" group-title="english hindi",Untraceable 25/1/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Untraceable%25202512008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halla Bol 11/1/2008 " tvg-logo="https://subdl.com/p/sd238/sd238186.jpg" group-title="hindi",Halla Bol 11/1/2008
