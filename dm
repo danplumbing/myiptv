@@ -996,6 +996,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Dhadakne%2520Do%25202952015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Welcome 2 Karachi 28/5/2015 " tvg-logo="https://subdl.com/p/sd323/sd323028.jpg" group-title="hindi",Welcome 2 Karachi 28/5/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Welcome%25202%2520Karachi%25202852015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="San Andreas 27/5/2015" tvg-logo="https://i.imgur.com/qUeNUzR.jpg" group-title="english hindi",San Andreas 27/5/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/San%2520Andreas%25202752015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hamari Adhuri Kahani 20/5/2015 " tvg-logo="https://subdl.com/p/sd1/sd1992.jpg" group-title="hindi",Hamari Adhuri Kahani 20/5/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hamari%2520Adhuri%2520Kahani%25202052015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tanu Weds Manu Returns 16/5/2015 " tvg-logo="https://subdl.com/p/sd10/sd10063.jpg" group-title="hindi",Tanu Weds Manu Returns 16/5/2015
