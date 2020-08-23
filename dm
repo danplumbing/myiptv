@@ -1780,6 +1780,8 @@ https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/I%2520See%2520You%252029122006.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhagam Bhag 15/12/2006 " tvg-logo="https://subdl.com/p/sd27/sd27327.jpg" group-title="hindi",Bhagam Bhag 15/12/2006
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhagam%2520Bhag%252015122006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dead Mans Cards 15/12/2006" tvg-logo="https://i.imgur.com/xRiRCkn.jpg" group-title="english hindi",Dead Mans Cards 15/12/2006
+https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dead%2520Mans%2520Cards%252015122006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Baabul 30/11/2006 " tvg-logo="https://i.imgur.com/qLArxue.jpg" group-title="hindi",Baabul 30/11/2006
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baabul%252030112006.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baabul 30/11/2006 " tvg-logo="https://i.imgur.com/qLArxue.jpg" group-title="hindi",Baabul 30/11/2006
