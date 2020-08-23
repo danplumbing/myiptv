@@ -474,6 +474,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/K%2520G%2520F%2520Chapter%25201%252020122018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Master Z The Ip Man Legacy 20/12/2018" tvg-logo="https://i.imgur.com/lIQMRR9.jpg" group-title="chinese hindi",Master Z The Ip Man Legacy 20/12/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Master%2520Z%2520The%2520Ip%2520Man%2520Legacy%252020122018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman 12/12/2018" tvg-logo="https://i.imgur.com/sOzgTDZ.jpg" group-title="english hindi",Aquaman 12/12/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aquaman%252012122018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="2.0 26/11/2018" tvg-logo="https://subdl.com/p/sd78/sd78203.jpg" group-title="hindi",2.0 26/11/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/2.0%252026112018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Burning Kiss 24/11/2018" tvg-logo="https://i.imgur.com/pAmQSJu.jpg" group-title="english hindi",Burning Kiss 24/11/2018
