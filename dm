@@ -1108,6 +1108,8 @@ https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/2%2520States%25202632014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Captain America The Winter Soldier 26/3/2014" tvg-logo="https://subdl.com/p/sd1/sd1435.jpg" group-title="english hindi",Captain America The Winter Soldier 26/3/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Captain%2520America%2520The%2520Winter%2520Soldier%25202632014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="300 Rise of an Empire 7/3/2014" tvg-logo="https://i.imgur.com/6uY1uZX.jpg" group-title="english hindi",300 Rise of an Empire 7/3/2014
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/300%2520Rise%2520of%2520an%2520Empire%2520732014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gulaab Gang 7/3/2014 " tvg-logo="https://i.imgur.com/oOsMYkO.jpg" group-title="hindi",Gulaab Gang 7/3/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gulaab%2520Gang%2520732014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Total Siyapaa 7/3/2014 " tvg-logo="https://subdl.com/p/sd6/sd6210.jpg" group-title="hindi",Total Siyapaa 7/3/2014
