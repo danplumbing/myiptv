@@ -486,6 +486,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pihu%252016112018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Thugs of Hindostan 5/11/2018" tvg-logo="https://subdl.com/p/sd52/sd52217.jpg" group-title="hindi",Thugs of Hindostan 5/11/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Thugs%2520of%2520Hindostan%25205112018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Overlord 3/11/2018" tvg-logo="https://i.imgur.com/pa8LX41.jpg" group-title="english hindi",Overlord 3/11/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Overlord%25203112018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lupt 2/11/2018" tvg-logo="https://i.imgur.com/qQhhBH7.jpg" group-title="hindi",Lupt 2/11/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Lupt%25202112018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="5 Weddings 26/10/2018" tvg-logo="https://subdl.com/p/sd103/sd103335.jpg" group-title="hindi",5 Weddings 26/10/2018
@@ -734,6 +736,8 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/B%2520A%2520%2520Pass%25202%25201592017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baadshaho 1/9/2017" tvg-logo="https://subdl.com/p/sd18/sd18660.jpg" group-title="hindi",Baadshaho 1/9/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baadshaho%2520192017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Made 25/8/2017" tvg-logo="https://i.imgur.com/4NJ7WBK.jpg" group-title="english hindi",American Made 25/8/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/American%2520Made%25202582017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rough Night 25/8/2017" tvg-logo="https://i.imgur.com/hCmHXmA.jpg?1" group-title="english hindi",Rough Night 25/8/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rough%2520Night%25202582017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shubh Mangal Saavdhan 24/8/2017" tvg-logo="https://i.imgur.com/9uus56y.jpg" group-title="hindi",Shubh Mangal Saavdhan 24/8/2017
@@ -798,6 +802,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Marine%25205%2520Battleground%25202832017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman Vs Superman Dawn Of Justice 25/3/2016" tvg-logo="https://i.imgur.com/WowFUc4.jpg" group-title="english hindi",Batman Vs Superman Dawn Of Justice 25/3/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Batman%2520Vs%2520Superman%2520Dawn%2520Of%2520Justice%25202532016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Life 24/3/2017" tvg-logo="https://i.imgur.com/l52orQ5.jpg" group-title="english hindi",Life 24/3/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Life%25202432017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Power Rangers 23/3/2017" tvg-logo="https://i.imgur.com/aXXr0We.jpg" group-title="english hindi",Power Rangers 23/3/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Power%2520Rangers%25202332017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chor The Bicycle 3/3/2017" tvg-logo="https://i.imgur.com/jZm3Fzm.jpg" group-title="hindi",Chor The Bicycle 3/3/2017
