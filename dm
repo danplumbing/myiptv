@@ -554,6 +554,12 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Genius%25202082018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Happy Phirr Bhag Jayegi 20/8/2018" tvg-logo="https://i.imgur.com/T026nUo.jpg" group-title="hindi",Happy Phirr Bhag Jayegi 20/8/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Happy%2520Phirr%2520Bhag%2520Jayegi%25202082018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Equalizer 2 17/8/2018" tvg-logo="https://i.imgur.com/kanKRGc.jpg" group-title="english hindi",The Equalizer 2 17/8/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Equalizer%25202%25201782018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A-X-L 16/8/2018" tvg-logo="https://i.imgur.com/2Ixl2Vk.jpg" group-title="english hindi",A-X-L 16/8/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/A-X-L%25201682018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alpha 16/8/2018" tvg-logo="https://i.imgur.com/qgdRFPn.jpg" group-title="english hindi",Alpha 16/8/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Alpha%25201682018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mile 22 16/8/2018" tvg-logo="https://i.imgur.com/qFo1TwU.jpg" group-title="english hindi",Mile 22 16/8/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mile%252022%25201682018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gold 10/8/2018" tvg-logo="https://subdl.com/p/sd42/sd42462.jpg" group-title="hindi",Gold 10/8/2018
@@ -592,6 +598,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Lust%2520Stories%25201562018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Carry On Jatta 2 28/5/2018" tvg-logo="https://i.imgur.com/pKwgIZz.jpg" group-title="hindi",Carry On Jatta 2 28/5/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Carry%2520On%2520Jatta%25202%25202852018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Solo A Star Wars Story 25/5/2018" tvg-logo="https://i.imgur.com/ihOmqE2.jpg" group-title="english hindi",Solo A Star Wars Story 25/5/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Solo%2520A%2520Star%2520Wars%2520Story%25202552018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Veere Di Wedding 23/5/2018" tvg-logo="https://subdl.com/p/sd6/sd6929.jpg" group-title="hindi",Veere Di Wedding 23/5/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Veere%2520Di%2520Wedding%25202352018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool 15/5/2018" tvg-logo="https://i.imgur.com/iU978pc.jpg?1" group-title="english hindi",Deadpool 15/5/2018
@@ -1016,6 +1024,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Paheli%2520Leela%25201042015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fast and Furious 7 3/4/2015" tvg-logo="https://i.imgur.com/wyE3K84.jpg" group-title="english hindi",Fast and Furious 7 3/4/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fast%2520and%2520Furious%25207%2520342015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detective Byomkesh Bakshy! 24/3/2015 " tvg-logo="https://i.imgur.com/n2W9bFW.jpg" group-title="hindi",Detective Byomkesh Bakshy! 24/3/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Detective%2520Byomkesh%2520Bakshy!%25202432015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hunterrr 9/3/2015 " tvg-logo="https://subdl.com/p/sd15/sd15238.jpg" group-title="hindi",Hunterrr 9/3/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hunterrr%2520932015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NH10 7/3/2015 " tvg-logo="https://i.imgur.com/PdxGfVw.jpg" group-title="hindi",NH10 7/3/2015
