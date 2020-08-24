@@ -1180,8 +1180,12 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Scavengers%2520392013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shuddh Desi Romance 27/8/2013 " tvg-logo="https://subdl.com/p/sd2/sd2677.jpg" group-title="hindi",Shuddh Desi Romance 27/8/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shuddh%2520Desi%2520Romance%25202782013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elysium 21/8/2013" tvg-logo="https://i.imgur.com/1jWRVVh.jpg" group-title="english hindi",Elysium 21/8/2013
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Elysium%25202182013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Satyagraha 12/8/2013 " tvg-logo="https://i.imgur.com/y6gzKCp.jpg" group-title="hindi",Satyagraha 12/8/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Satyagraha%25201282013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Percy Jackson Sea of Monsters 7/8/2013" tvg-logo="https://i.imgur.com/QPLcDB9.jpg" group-title="english hindi",Percy Jackson Sea of Monsters 7/8/2013
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Percy%2520Jackson%2520Sea%2520of%2520Monsters%2520782013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chennai Express 29/7/2013 " tvg-logo="https://subdl.com/p/sd1/sd1298.jpg" group-title="hindi",Chennai Express 29/7/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chennai%2520Express%25202972013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chor Chor Super Chor 27/7/2013 " tvg-logo="https://subdl.com/p/sd17/sd17123.jpg" group-title="hindi",Chor Chor Super Chor 27/7/2013
@@ -1294,6 +1298,8 @@ https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Table%2520No%252021%252020122012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Table No 21 20/12/2012 " tvg-logo="https://subdl.com/p/sd1/sd1128.jpg" group-title="hindi",Table No 21 20/12/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Table%2520No%252021%252020122012
+#EXTINF:-1 tvg-id="" tvg-name="Life of Pi 20/12/2012" tvg-logo="https://i.imgur.com/yIonfld.jpg" group-title="english hindi",Life of Pi 20/12/2012
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Life%2520of%2520Pi%252020122012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dabangg 2 11/12/2012 " tvg-logo="https://subdl.com/p/sd10/sd10825.jpg" group-title="hindi",Dabangg 2 11/12/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dabangg%25202%252011122012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Four Two Ka One 27/11/2012 " tvg-logo="https://subdl.com/p/sd14/sd14154.jpg" group-title="hindi",Four Two Ka One 27/11/2012
