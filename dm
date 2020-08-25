@@ -356,6 +356,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Game%2520Over%25201462019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kabir Singh 13/6/2019" tvg-logo="https://subdl.com/p/sd256/sd256899.jpg" group-title="hindi",Kabir Singh 13/6/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kabir%2520Singh%25201362019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Men in Black International 13/6/2019" tvg-logo="https://i.imgur.com/MIx2JiU.jpg" group-title="english hindi",Men in Black International 13/6/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Men%2520in%2520Black%2520International%25201362019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dark Phoenix 5/6/2019" tvg-logo="https://i.imgur.com/FbdRUM1.jpg" group-title="english hindi",Dark Phoenix 5/6/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dark%2520Phoenix%2520562019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Khamoshi 3/6/2019" tvg-logo="https://subdl.com/p/sd298/sd298554.jpg" group-title="hindi",Khamoshi 3/6/2019
@@ -872,12 +874,14 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/A%2520Flying%2520Jatt%252025082016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Isle of the Dead 18/8/2016" tvg-logo="https://i.imgur.com/948oyVm.jpg" group-title="english hindi",Isle of the Dead 18/8/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Isle%2520of%2520the%2520Dead%25201882016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek Beyond 22/7/2016" tvg-logo="https://i.imgur.com/RUliSDn.jpg" group-title="english hindi",Star Trek Beyond 22/7/201
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Beyond 22/7/2016" tvg-logo="https://i.imgur.com/RUliSDn.jpg" group-title="english hindi",Star Trek Beyond 22/7/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Star%2520Trek%2520Beyond%25202272016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dishoom 21/7/2016" tvg-logo="https://subdl.com/p/sd5/sd5262.jpg" group-title="hindi",Dishoom 21/7/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dishoom%25202172016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fever 8/7/2016" tvg-logo="https://subdl.com/p/sd103/sd103431.jpg" group-title="hindi",Fever 8/7/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fever%2520872016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Now You See Me 2 4/7/2016" tvg-logo="https://i.imgur.com/Xirnxo4.jpg" group-title="english hindi",Now You See Me 2 4/7/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Now%2520You%2520See%2520Me%25202%2520472016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Guddu Ki Gun 30/6/2016" tvg-logo="https://subdl.com/p/sd196/sd196814.jpg" group-title="hindi",Guddu Ki Gun 30/6/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Guddu%2520Ki%2520Gun%25203062016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Scandall 24/06/2016" tvg-logo="https://subdl.com/p/sd374/sd374515.jpg" group-title="hindi",A Scandall 24/06/2016
@@ -942,6 +946,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Love%2520Games%25202512016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kyaa Kool Hain Hum 3 22/1/2016" tvg-logo="https://i.imgur.com/sBVC9Pn.jpg" group-title="hindi",Kyaa Kool Hain Hum 3 22/1/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kyaa%2520Kool%2520Hain%2520Hum%25203%25202212016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The 5th Wave 22/1/2016" tvg-logo="https://i.imgur.com/ZZ8wfNr.jpg" group-title="english hindi",The 5th Wave 22/1/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%25205th%2520Wave%25202212016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ghayal Once Again 13/1/2016" tvg-logo="https://i.imgur.com/6u9Z2gk.jpg" group-title="hindi",Ghayal Once Again 13/1/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ghayal%2520Once%2520Again%25201312016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Airlift 8/1/2016" tvg-logo="https://subdl.com/p/sd2/sd2705.jpg" group-title="hindi",Airlift 8/1/2016
