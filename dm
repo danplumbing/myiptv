@@ -972,6 +972,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Wedding%2520Pullav%25205102015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhaag Johnny 19/9/2015" tvg-logo="https://i.imgur.com/Uj8UwT8.jpg" group-title="hindi",Bhaag Johnny 19/9/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhaag%2520Johnny%25201992015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sicario 18/9/2015" tvg-logo="https://i.imgur.com/oo9dr9w.jpg" group-title="english hindi",Sicario 18/9/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sicario%25201892015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kis Kisko Pyaar Karu 15/9/2015" tvg-logo="https://i.imgur.com/2sLCj6M.jpg" group-title="hindi",Kis Kisko Pyaar Karu 15/9/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kis%2520Kisko%2520Pyaar%2520Karu%25201592015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Perfect Girl 11/9/2015" tvg-logo="https://i.imgur.com/g9HOxVS.jpg" group-title="hindi",The Perfect Girl 11/9/2015
@@ -1020,6 +1022,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Welcome%25202%2520Karachi%25202852015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="San Andreas 27/5/2015" tvg-logo="https://i.imgur.com/qUeNUzR.jpg" group-title="english hindi",San Andreas 27/5/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/San%2520Andreas%25202752015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="spy 23/5/2015" tvg-logo="https://i.imgur.com/567mYSJ.jpg" group-title="english hindi",spy 23/5/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/spy%25202352015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hamari Adhuri Kahani 20/5/2015 " tvg-logo="https://subdl.com/p/sd1/sd1992.jpg" group-title="hindi",Hamari Adhuri Kahani 20/5/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hamari%2520Adhuri%2520Kahani%25202052015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tanu Weds Manu Returns 16/5/2015 " tvg-logo="https://subdl.com/p/sd10/sd10063.jpg" group-title="hindi",Tanu Weds Manu Returns 16/5/2015
@@ -1552,6 +1556,8 @@ https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hum%2520Tum%2520Aur%2520Ghost%25201922010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Robot 17/2/2010 " tvg-logo="https://i.imgur.com/gHe3AxL.jpg" group-title="hindi",Robot 17/2/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Robot%25201722010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Percy Jackson & The Olympians The Lightning Thief 12/2/2010" tvg-logo="https://imgur.com/s0GKX2j" group-title="english hindi",Percy Jackson & The Olympians The Lightning Thief 12/2/2010
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Percy%2520Jackson%2520%26%2520The%2520Olympians%2520The%2520Lightning%2520Thief%25201222010.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Karthik Calling Karthik 11/2/2010 " tvg-logo="https://subdl.com/p/sd7/sd7025.jpg" group-title="hindi",Karthik Calling Karthik 11/2/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Karthik%2520Calling%2520Karthik%25201122010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chance Pe Dance 4/1/2010 " tvg-logo="https://subdl.com/p/sd154/sd154025.jpg" group-title="hindi",Chance Pe Dance 4/1/2010
