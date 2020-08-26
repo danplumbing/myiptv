@@ -486,6 +486,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Burning%2520Kiss%252024112018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bhaiaji Superhit 20/11/2018" tvg-logo="https://i.imgur.com/4EbknK4.jpg" group-title="hindi",Bhaiaji Superhit 20/11/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhaiaji%2520Superhit%252020112018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantastic Beasts The Crimes of Grindelwald 16/11/2018" tvg-logo="https://i.imgur.com/sbO17pI.jpg" group-title="english hindi",Fantastic Beasts The Crimes of Grindelwald 16/11/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fantastic%2520Beasts%2520The%2520Crimes%2520of%2520Grindelwald%252016112018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pihu 16/11/2018" tvg-logo="https://i.imgur.com/gRotfaj.jpg" group-title="hindi",Pihu 16/11/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pihu%252016112018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Thugs of Hindostan 5/11/2018" tvg-logo="https://subdl.com/p/sd52/sd52217.jpg" group-title="hindi",Thugs of Hindostan 5/11/2018
@@ -1786,6 +1788,8 @@ https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Transformers%25201%25202772007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cash 26/7/2007 " tvg-logo="https://subdl.com/p/sd12/sd12647.jpg" group-title="hindi",Cash 26/7/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Cash%25202672007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flash Point 26/7/2007" tvg-logo="https://i.imgur.com/B4SaqWU.jpg" group-title="english hindi",Flash Point 26/7/2007
+https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Flash%2520Point%25202672007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Awarapan 21/6/2007 " tvg-logo="https://subdl.com/p/sd5/sd5932.jpg" group-title="hindi",Awarapan 21/6/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Awarapan%25202162007.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Apne 19/6/2007 " tvg-logo="https://subdl.com/p/sd24/sd24060.jpg" group-title="hindi",Apne 19/6/2007
