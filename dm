@@ -2122,6 +2122,8 @@ https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aapko%2520Pehle%2520Bhi%2520Kahin%2520Dekha%2520Hai%252010012003.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chalo Ishq Ladaaye 27/12/2002 " tvg-logo="https://subdl.com/p/sd22/sd22551.jpg" group-title="hindi",Chalo Ishq Ladaaye 27/12/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chalo%2520Ishq%2520Ladaaye%252027122002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings The Two Towers 11/12/2002" tvg-logo="https://i.imgur.com/1gUJLOF.jpg" group-title="english hindi",The Lord of the Rings The Two Towers 11/12/2002
+https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Lord%2520of%2520the%2520Rings%2520The%2520Two%2520Towers%252011122002.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Deewangee 17/10/2002 " tvg-logo="https://i.imgur.com/G5mkhpD.jpg" group-title="hindi",Deewangee 17/10/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Deewangee%252017102002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deewangee 17/10/2002 " tvg-logo="https://i.imgur.com/G5mkhpD.jpg" group-title="hindi",Deewangee 17/10/2002
@@ -2192,6 +2194,8 @@ https://movieshd-544-720-1080-4k-3d-1992-cold-sun-0ca0-dan1992.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Raaz%252026122001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aamdani Atthanni Kharcha Rupaiya 21 12 2001 " tvg-logo="https://i.imgur.com/gzoVXH7.jpg" group-title="hindi",Aamdani Atthanni Kharcha Rupaiya 21 12 2001
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aamdani%2520Atthanni%2520Kharcha%2520Rupaiya%252021122001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings The Fellowship of the Ring 10/12/2001" tvg-logo="https://i.imgur.com/PMLBr1K.jpg" group-title="english hindi",The Lord of the Rings The Fellowship of the Ring 10/12/2001
+https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Lord%2520of%2520the%2520Rings%2520The%2520Fellowship%2520of%2520the%2520Ring%252010122001.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kabhi Khushi Kabhie Gham 19 11 2001 " tvg-logo="https://subdl.com/p/sd9/sd9777.jpg" group-title="hindi",Kabhi Khushi Kabhie Gham 19 11 2001
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kabhi%2520Khushi%2520Kabhie%2520Gham%252019112001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deewaanapan 7 11 2001 " tvg-logo="https://subdl.com/p/sd216/sd216419.jpg" group-title="hindi",Deewaanapan 7 11 2001
