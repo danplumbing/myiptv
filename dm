@@ -1234,6 +1234,8 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Man%2520Of%2520Steel%25201262013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Grand Masti 14/6/2013 " tvg-logo="https://subdl.com/p/sd5/sd5548.jpg" group-title="hindi",Grand Masti 14/6/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Grand%2520Masti%25201462013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After Earth 7/6/2013" tvg-logo="https://i.imgur.com/ql5vCqU.jpg" group-title="english hindi",After Earth 7/6/2013
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/After%2520Earth%2520762013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fukrey 4/6/2013 " tvg-logo="https://i.imgur.com/YiJzFZ3.jpg" group-title="hindi",Fukrey 4/6/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fukrey%2520462013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Hangover Part III 24/5/2013" tvg-logo="https://i.imgur.com/NeuYKPC.jpg" group-title="english hindi",The Hangover Part III 24/5/2013
