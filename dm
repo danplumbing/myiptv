@@ -416,6 +416,8 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Captain%2520Marvel%2520832019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Sholay Girl 8/3/2019" tvg-logo="https://i.imgur.com/6bQfaS7.jpg" group-title="hindi",The Sholay Girl 8/3/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Sholay%2520Girl%2520832019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Triple Frontier 3/3/2019" tvg-logo="https://i.imgur.com/emg0unW.jpg" group-title="english hindi",Triple Frontier 3/3/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Triple%2520Frontier%2520332019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Luka Chuppi 19/2/2019" tvg-logo="https://subdl.com/p/sd257/sd257379.jpg" group-title="hindi",Luka Chuppi 19/2/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Luka%2520Chuppi%25201922019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Total Dhamaal 12/2/2019" tvg-logo="https://subdl.com/p/sd184/sd184100.jpg" group-title="hindi",Total Dhamaal 12/2/2019
@@ -600,6 +602,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Teri%2520Bhabhi%2520Hai%2520Pagle%25201072018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ant Man and the Wasp 4/7/2018" tvg-logo="https://i.imgur.com/dG3ZZCz.jpg" group-title="english hindi",Ant Man and the Wasp 4/7/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ant%2520Man%2520and%2520the%2520Wasp%2520472018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soccer Killer 30/6/2017" tvg-logo="https://i.imgur.com/EIUIDKA.jpg" group-title="chinese hindi eng sub",Soccer Killer 30/6/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Soccer%2520Killer%25203062017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sanju 28/6/2018" tvg-logo="https://subdl.com/p/sd10/sd10853.jpg" group-title="hindi",Sanju 28/6/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sanju%25202862018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lust Stories 15/6/2018" tvg-logo="https://i.imgur.com/kexqaea.jpg" group-title="hindi",Lust Stories 15/6/2018
@@ -898,6 +902,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Junooniyat%25201062016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Project Marathwada 3/6/2016" tvg-logo="https://i.imgur.com/1FQDqij.jpg" group-title="hindi",Project Marathwada 3/6/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Project%2520Marathwada%2520362016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Warcraft 30/5/2016" tvg-logo="https://i.imgur.com/nnJoO1I.jpg" group-title="english hindi",Warcraft 30/5/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Warcraft%25203052016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Housefull 3 26/5/2016" tvg-logo="https://subdl.com/p/sd176/sd176637.jpg" group-title="hindi",Housefull 3 26/5/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Housefull%25203%25202652016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Buddha in a Traffic Jam 13/5/2016" tvg-logo="https://subdl.com/p/sd74/sd74422.jpg" group-title="hindi",Buddha in a Traffic Jam 13/5/2016
@@ -1072,6 +1078,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sharafat%2520Gayi%2520Tel%2520Lene%2520212015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hawaizaada 31/12/2014 " tvg-logo="https://subdl.com/p/sd184/sd184089.jpg" group-title="hindi",Hawaizaada 31/12/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hawaizaada%252031122014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seventh Son 17/12/2014" tvg-logo="https://i.imgur.com/AvcSenD.jpg" group-title="english hindi",Seventh Son 17/12/2014
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Seventh%2520Son%252017122014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Action Jackson 27/11/2014 " tvg-logo="https://subdl.com/p/sd14/sd14789.jpg" group-title="hindi",Action Jackson 27/11/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Action%2520Jackson%252027112014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Happy Ending 12/11/2014 " tvg-logo="https://i.imgur.com/a96jzne.jpg" group-title="hindi",Happy Ending 12/11/2014
@@ -1528,6 +1536,8 @@ https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rakhta%2520Charitra%252020102010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aakrosh 5/10/2010 " tvg-logo="https://subdl.com/p/sd21/sd21901.jpg" group-title="hindi",Aakrosh 5/10/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aakrosh%252005102010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Takers 1/10/2010" tvg-logo="https://i.imgur.com/rM85or2.jpg" group-title="english hindi",Takers 1/10/2010
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Takers%25201102010.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Crook 29/9/2010 " tvg-logo="https://i.imgur.com/ct9S63Y.jpg" group-title="hindi",Crook 29/9/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Crook%25202992010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Anjaana Anjaani 14/9/2010 " tvg-logo="https://subdl.com/p/sd2/sd2791.jpg" group-title="hindi",Anjaana Anjaani 14/9/2010
@@ -1554,6 +1564,8 @@ https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/I%2520Hate%2520Luv%2520Storys%25202462010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Benny And Babloo 18/6/2010 " tvg-logo="https://subdl.com/p/sd16/sd16894.jpg" group-title="hindi",Benny And Babloo 18/6/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Benny%2520And%2520Babloo%25201862010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prince of Persia The Sands of Time 21/5/2010" tvg-logo="https://i.imgur.com/mxuUXaC.jpg" group-title="english hindi",Prince of Persia The Sands of Time 21/5/2010
+https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Prince%2520of%2520Persia%2520The%2520Sands%2520of%2520Time%25202152010.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Badmaash Company 27/4/2010 " tvg-logo="https://i.imgur.com/7NI13RL.jpg" group-title="hindi",Badmaash Company 27/4/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Badmaash%2520Company%25202742010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Iron Man 2 30/4/2010 " tvg-logo="https://i.imgur.com/6KcA6Y6.jpg" group-title="4K",Iron Man 2 30/4/2010
@@ -2118,6 +2130,8 @@ https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Vil%2520Pyar%2520Vyar%25208102002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hathyar 1/10/2002 " tvg-logo="https://i.imgur.com/7nOLAgq.jpg" group-title="hindi",Hathyar 1/10/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hathyar%25201102002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Tuxedo 27/9/2002" tvg-logo="https://i.imgur.com/73sKK7b.jpg" group-title="english hindi",The Tuxedo 27/9/2002
+https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Tuxedo%25202792002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shakti 20/9/2002 " tvg-logo="https://i.imgur.com/NcrBexn.jpg" group-title="hindi",Shakti 20/9/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shakti%25202092002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gunaah 28/8/2002 " tvg-logo="https://media2.bollywoodhungama.in/wp-content/uploads/2020/05/4-1-1.jpg" group-title="hindi",Gunaah 28/8/2002
