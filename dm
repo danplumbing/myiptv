@@ -482,6 +482,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aquaman%252012122018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spider Man Into The Spider Verse 12/12/2018" tvg-logo="https://i.imgur.com/hG394sj.jpg" group-title=" Animation english hindi",Spider Man Into The Spider Verse 12/12/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Spider%2520Man%2520Into%2520The%2520Spider%2520Verse%252012122018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Possession of Hannah Grace 30/11/2018" tvg-logo="https://i.imgur.com/dAdaZaw.jpg" group-title="english hindi",The Possession of Hannah Grace 30/11/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Possession%2520of%2520Hannah%2520Grace%252030112018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="2.0 26/11/2018" tvg-logo="https://subdl.com/p/sd78/sd78203.jpg" group-title="hindi",2.0 26/11/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/2.0%252026112018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Burning Kiss 24/11/2018" tvg-logo="https://i.imgur.com/pAmQSJu.jpg" group-title="english hindi",Burning Kiss 24/11/2018
@@ -504,6 +506,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baazaar%252026102018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dassehra 23/10/2018" tvg-logo="https://i.imgur.com/EuFPoKo.jpg" group-title="hindi",Dassehra 23/10/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dassehra%252023102018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Goosebumps 2 19/10/2018" tvg-logo="https://i.imgur.com/9PPfWMO.jpg" group-title="english hindi",Goosebumps 2 19/10/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Goosebumps%25202%252019102018.MKV
 #EXTINF:-1 tvg-id="" tvg-name="Namaste England 18/10/2018" tvg-logo="https://i.imgur.com/i96WANv.jpg" group-title="hindi",Namaste England 18/10/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Namaste%2520England%252018102018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rajma Chawal 13/10/2018" tvg-logo="https://subdl.com/p/sd83/sd83530.jpg" group-title="hindi",Rajma Chawal 13/10/2018
@@ -882,6 +886,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/A%2520Flying%2520Jatt%252025082016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Isle of the Dead 18/8/2016" tvg-logo="https://i.imgur.com/948oyVm.jpg" group-title="english hindi",Isle of the Dead 18/8/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Isle%2520of%2520the%2520Dead%25201882016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Time Raiders 5/8/2016" tvg-logo="https://i.imgur.com/9AkmI7G.jpg" group-title="hindi",Time Raiders 5/8/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Time%2520Raiders%2520582016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Trek Beyond 22/7/2016" tvg-logo="https://i.imgur.com/RUliSDn.jpg" group-title="english hindi",Star Trek Beyond 22/7/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Star%2520Trek%2520Beyond%25202272016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dishoom 21/7/2016" tvg-logo="https://subdl.com/p/sd5/sd5262.jpg" group-title="hindi",Dishoom 21/7/2016
@@ -2058,6 +2064,8 @@ https://movieshd-544-720-1080-4k-3d-2004-ancient-flower-7182-4.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2004-ancient-flower-7182-4.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Haseena%2520Thi%2520212004.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chameli 30/12/2003 " tvg-logo="https://subdl.com/p/sd27/sd27301.jpg" group-title="hindi",Chameli 30/12/2003
 https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chameli%252030122003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings The Return of the King 17/12/2003" tvg-logo="https://i.imgur.com/jeAM4DG.jpg" group-title="english hindi",The Lord of the Rings The Return of the King 17/12/2003
+https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Lord%2520of%2520the%2520Rings%2520The%2520Return%2520of%2520the%2520King%252017122003.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fun2shh Dudes in the 10th Century 15/12/2003 " tvg-logo="https://subdl.com/p/sd134/sd134179.jpg" group-title="hindi",Fun2shh Dudes in the 10th Century 15/12/2003
 https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fun2shh%2520Dudes%2520in%2520the%252010th%2520Century%252015122003.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maqbool 10/12/2003 " tvg-logo="https://i.imgur.com/sfYToNx.jpg" group-title="hindi",Maqbool 10/12/2003
@@ -2120,6 +2128,8 @@ https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kucch%2520To%2520Hai%25201612003.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aapko Pehle Bhi Kahin Dekha Hai 10/01/2003 " tvg-logo="https://subdl.com/p/sd214/sd214336.jpg" group-title="hindi",Aapko Pehle Bhi Kahin Dekha Hai 10/01/2003
 https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aapko%2520Pehle%2520Bhi%2520Kahin%2520Dekha%2520Hai%252010012003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="the last samurai 9/1/2003" tvg-logo="https://i.imgur.com/HJwkWtM.jpg" group-title="english hindi",the last samurai 9/1/2003
+https://movieshd-544-720-1080-4k-3d-2003-late-firefly-5a27-da3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/the%2520last%2520samurai%2520912003.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chalo Ishq Ladaaye 27/12/2002 " tvg-logo="https://subdl.com/p/sd22/sd22551.jpg" group-title="hindi",Chalo Ishq Ladaaye 27/12/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chalo%2520Ishq%2520Ladaaye%252027122002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings The Two Towers 11/12/2002" tvg-logo="https://i.imgur.com/1gUJLOF.jpg" group-title="english hindi",The Lord of the Rings The Two Towers 11/12/2002
