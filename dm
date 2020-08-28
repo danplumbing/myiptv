@@ -584,6 +584,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mile%252022%25201682018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gold 10/8/2018" tvg-logo="https://subdl.com/p/sd42/sd42462.jpg" group-title="hindi",Gold 10/8/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gold%25201082018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Darkest Minds 10/8/2018" tvg-logo="https://i.imgur.com/CoSoxJb.jpg" group-title="english hindi",The Darkest Minds 10/8/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Darkest%2520Minds%25201082018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Meg 10/8/2018" tvg-logo="https://i.imgur.com/9IBpgOK.jpg" group-title="english hindi",The Meg 10/8/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Meg%25201082018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Satyameva Jayate 9/8/2018" tvg-logo="https://subdl.com/p/sd8/sd8029.jpg" group-title="hindi",Satyameva Jayate 9/8/2018
@@ -1160,6 +1162,8 @@ https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fugly%25201262014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Humshakals 11/6/2014 " tvg-logo="https://subdl.com/p/sd4/sd4958.jpg" group-title="hindi",Humshakals 11/6/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Humshakals%25201162014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Edge of Tomorrow 28/5/2014" tvg-logo="https://i.imgur.com/YQS5fKp.jpg" group-title="english hindi",Edge of Tomorrow 28/5/2014
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Edge%2520of%2520Tomorrow%25202852014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Holiday 26/5/2014 " tvg-logo="https://i.imgur.com/9ds9Ckn.jpg" group-title="hindi",Holiday 26/5/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Holiday%25202652014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ugly 23/5/2014 " tvg-logo="https://subdl.com/p/sd2/sd2296.jpg" group-title="hindi",Ugly 23/5/2014
@@ -1644,6 +1648,8 @@ https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/De%2520Dana%2520Dan%252018112009.mp4
 #EXTINF:-1 tvg-id="" tvg-name="De Dana Dan 18/11/2009 " tvg-logo="https://subdl.com/p/sd17/sd17399.jpg" group-title="hindi",De Dana Dan 18/11/2009
 https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/De%2520Dana%2520Dan%252018112009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2012 13/11/2009" tvg-logo="https://i.imgur.com/bY52BSg.jpg" group-title="english hindi",2012 13/11/2009
+https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/2012%252013112009.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aao Wish Karein 09/11/2009 " tvg-logo="https://i.imgur.com/AYAKndA.jpg" group-title="hindi",Aao Wish Karein 09/11/2009
 https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aao%2520Wish%2520Karein%252009112009.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ajab Prem Ki Ghazab Kahani 6/11/2009 " tvg-https://subdl.com/p/sd2/sd2543.jpg" group-title="hindi",Ajab Prem Ki Ghazab Kahani 6/11/2009
