@@ -134,6 +134,8 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dolittle%2520722020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dolittle 7/2/2020" tvg-logo="https://i.imgur.com/nYm5pxF.jpg" group-title="english hindi",Dolittle 7/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dolittle%2520722020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parasite 7/2/2020 " tvg-logo="https://i.imgur.com/dNj0fqT.jpg" group-title="korean hindi",Parasite 7/2/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Parasite%2520722020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shikara 7/2/2020" tvg-logo="https://subdl.com/p/sd620/sd620027.jpg" group-title="hindi",Shikara 7/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shikara%2520722020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Underwater 7/2/2020" tvg-logo="https://subdl.com/p/sd478/sd478169.jpg" group-title="english hindi",Underwater 7/2/2020
@@ -780,6 +782,8 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Nut%2520Job%25202%25201182017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gurgaon 4/8/2017" tvg-logo="https://i.imgur.com/OtuBqZk.jpg" group-title="hindi",Gurgaon 4/8/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gurgaon%2520482017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valerian and the City of a Thousand Planets 4/8/2017" tvg-logo="https://i.imgur.com/nNSwBiI.jpg" group-title="english hindi",Valerian and the City of a Thousand Planets 4/8/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Valerian%2520and%2520the%2520City%2520of%2520a%2520Thousand%2520Planets%2520482017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Newton 13/7/2017" tvg-logo="https://subdl.com/p/sd12/sd12356.jpg" group-title="hindi",Newton 13/7/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Newton%25201372017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Spider Man Homecoming 5/7/2017" tvg-logo="https://i.imgur.com/Q3NXIFy.jpg" group-title="english hindi",Spider Man Homecoming 5/7/2017
@@ -856,6 +860,8 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/A%2520Frozen%2520Christmas%25202%2520212017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marauders 26/12/2016" tvg-logo="https://i.imgur.com/AvOnNFy.jpg" group-title="english hindi",Marauders 26/12/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Marauders%252026122016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operation Chromite 26/12/2016 " tvg-logo="https://i.imgur.com/MTC1qhG.jpg" group-title="korean hindi",Operation Chromite 26/12/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Operation%2520Chromite%252026122016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dangal 22/12/2016" tvg-logo="https://subdl.com/p/sd5/sd5509.jpg" group-title="hindi",Dangal 22/12/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dangal%252022122016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Trapped 21/12/2016" tvg-logo="https://subdl.com/p/sd176/sd176737.jpg" group-title="hindi",Trapped 21/12/2016
@@ -1962,6 +1968,8 @@ https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Vaah%2520Life%2520Ho%2520Toh%2520Aisi%252016122005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shikhar 20/12/2005 " tvg-logo="https://i.imgur.com/S9mv8HK.jpg" group-title="hindi",Shikhar 20/12/2005
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shikhar%252020122005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="King Kong 15/12/2005" tvg-logo="https://i.imgur.com/xcQ4A41.jpg" group-title="english hindi",King Kong 15/12/2005
+https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/King%2520Kong%252015122005.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bluffmaster! 9/12/2005 " tvg-logo="https://subdl.com/p/sd329/sd329460.jpg" group-title="hindi",Bluffmaster! 9/12/2005
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bluffmaster!%25209122005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ek Ajnabee 2/12/2005 " tvg-logo="https://subdl.com/p/sd36/sd36425.jpg" group-title="hindi",Ek Ajnabee 2/12/2005
@@ -2772,4 +2780,8 @@ https://movieshd-544-720-1080-4k-3d-1975-shiny-lake-d40c-m1975.movieshd4k3d1080p
 https://movieshd-544-720-1080-4k-3d-1974-still-fog-6e66-d-1974.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Majboor%25206121974.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sangam 21/7/1974 " tvg-logo="https://i.imgur.com/d5Fxu4t.jpg" group-title="hindi",Sangam 21/7/1974
 https://movieshd-544-720-1080-4k-3d-1974-still-fog-6e66-d-1974.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Sangam%25202171974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spartacus 8/12/1960" tvg-logo="https://i.imgur.com/hJnr9kc.jpg" group-title="english hindi",Spartacus 8/12/1960
+https://movieshd-544-720-1080-4k-3d-1960-dark-silence-146f-dan.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Spartacus%25208121960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mughal-E-Azam 5/.8/1960 " tvg-logo="https://i.imgur.com/Evn6yI6.jpg" group-title="hindi",Mughal-E-Azam 5/.8/1960
+https://movieshd-544-720-1080-4k-3d-1960-dark-silence-146f-dan.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Mughal-E-Azam%2520581960.mp4
 
