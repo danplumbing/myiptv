@@ -628,6 +628,8 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sanju%25202862018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lust Stories 15/6/2018" tvg-logo="https://i.imgur.com/kexqaea.jpg" group-title="hindi",Lust Stories 15/6/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Lust%2520Stories%25201562018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World 2 Fallen Kingdom 6/6/2018" tvg-logo="https://i.imgur.com/IPIlcP1.jpg group-title="english hindi",Jurassic World 2 Fallen Kingdom 6/6/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jurassic%2520World%25202%2520Fallen%2520Kingdom%2520662018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Carry On Jatta 2 28/5/2018" tvg-logo="https://i.imgur.com/pKwgIZz.jpg" group-title="hindi",Carry On Jatta 2 28/5/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Carry%2520On%2520Jatta%25202%25202852018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Solo A Star Wars Story 25/5/2018" tvg-logo="https://i.imgur.com/ihOmqE2.jpg" group-title="english hindi",Solo A Star Wars Story 25/5/2018
@@ -808,6 +810,8 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bank%2520Chor%25202952017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Half Girlfriend 19/5/2017" tvg-logo="https://subdl.com/p/sd1/sd1931.jpg" group-title="hindi",Half Girlfriend 19/5/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Half%2520Girlfriend%25201952017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman 15/5/2017" tvg-logo="https://i.imgur.com/OT9DRF1.jpg group-title="english hindi",Wonder Woman 15/5/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Wonder%2520Woman%25201552017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pirates of the Caribbean Dead Men Tell No Tales 11/5/2017" tvg-logo="https://i.imgur.com/NOCgcWR.jpg" group-title="english hindi",Pirates of the Caribbean Dead Men Tell No Tales 11/5/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pirates%2520of%2520the%2520Caribbean%2520Dead%2520Men%2520Tell%2520No%2520Tales%25201152017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sargoshiyan 8/5/2017" tvg-logo="https://subdl.com/p/sd807/sd807133.jpg" group-title="hindi",Sargoshiyan 8/5/2017
