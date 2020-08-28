@@ -552,6 +552,8 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mitron%25201192018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Silvat 7/9/2018" tvg-logo="https://i.imgur.com/damVLPA.jpg" group-title="hindi",Silvat 7/9/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Silvat%2520792018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Nun 7/9/2018" tvg-logo="https://i.imgur.com/24lY8BA.jpg" group-title="english hindi",The Nun 7/9/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Nun%2520792018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Paltan 6/9/2018" tvg-logo="https://subdl.com/p/sd171/sd171665.jpg" group-title="hindi",Paltan 6/9/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Paltan%2520692018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Soni 5/9/2018" tvg-logo="https://subdl.com/p/sd148/sd148443.jpg" group-title="hindi",Soni 5/9/2018
@@ -580,12 +582,16 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mile%252022%25201682018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gold 10/8/2018" tvg-logo="https://subdl.com/p/sd42/sd42462.jpg" group-title="hindi",Gold 10/8/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gold%25201082018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Meg 10/8/2018" tvg-logo="https://i.imgur.com/9IBpgOK.jpg" group-title="english hindi",The Meg 10/8/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Meg%25201082018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Satyameva Jayate 9/8/2018" tvg-logo="https://subdl.com/p/sd8/sd8029.jpg" group-title="hindi",Satyameva Jayate 9/8/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Satyameva%2520Jayate%2520982018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="D Railed 6/8/2018" tvg-logo="https://i.imgur.com/5HRx8rP.jpg" group-title="english hindi",D Railed 6/8/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/D%2520Railed%2520682018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fanney Khan 30/7/2018" tvg-logo="https://subdl.com/p/sd12/sd12300.jpg" group-title="hindi",Fanney Khan 30/7/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fanney%2520Khan%25203072018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Transylvania 3 Summer Vacation 27/7/2018" tvg-logo="https://i.imgur.com/bXcb1PZ.jpg" group-title="Animation english hindi",Hotel Transylvania 3 Summer Vacation 27/7/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hotel%2520Transylvania%25203%2520Summer%2520Vacation%25202772018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mulk 27/7/2018" tvg-logo="https://i.imgur.com/Nri5tAb.jpg" group-title="hindi",Mulk 27/7/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mulk%25202772018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Saheb Biwi Aur Gangster 3 25/7/2018" tvg-logo="https://subdl.com/p/sd47/sd47981.jpg" group-title="hindi",Saheb Biwi Aur Gangster 3 25/7/2018
@@ -598,10 +604,14 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Karwaan%25201972018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Teefa in Trouble 19/7/2018" tvg-logo="https://subdl.com/p/sd84/sd84713.jpg" group-title="hindi",Teefa in Trouble 19/7/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Teefa%2520in%2520Trouble%25201972018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Incredibles 2 13/7/2018" tvg-logo="https://i.imgur.com/HoGvfUx.jpg" group-title="Animation english hindi",Incredibles 2 13/7/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Incredibles%25202%25201372018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Soorma 13/7/2018" tvg-logo="https://subdl.com/p/sd27/sd27345.jpg" group-title="hindi",Soorma 13/7/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Soorma%25201372018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mission Impossible 6 Fallout 12/7/2018" tvg-logo="https://i.imgur.com/DIjY0mZ.jpg" group-title="english hindi",Mission Impossible 6 Fallout 12/7/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mission%2520Impossible%25206%2520Fallout%25201272018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Skyscraper 12/7/2018" tvg-logo="https://i.imgur.com/beGPC0j.jpg" group-title="english hindi",Skyscraper 12/7/2018
+https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Skyscraper%25201272018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dhadak 11/7/2018" tvg-logo="https://i.imgur.com/NwFqMCd.jpg" group-title="hindi",Dhadak 11/7/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dhadak%25201172018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Teri Bhabhi Hai Pagle 10/7/2018" tvg-logo="https://i.imgur.com/9C15Tw3.jpg" group-title="hindi",Teri Bhabhi Hai Pagle 10/7/2018
@@ -1300,6 +1310,8 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Himmatwala%25202232013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aatma 21/03/2013 " tvg-logo="https://subdl.com/p/sd1/sd1307.jpg" group-title="hindi",Aatma 21/03/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aatma%252021032013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Broken City 15/3/2013" tvg-logo="https://i.imgur.com/FcVosGm.jpg" group-title="english hindi",Broken City 15/3/2013
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Broken%2520City%25201532013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rangrezz 15/3/2013 " tvg-logo="https://i.imgur.com/zDZEDBj.jpg" group-title="hindi",Rangrezz 15/3/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rangrezz%25201532013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chashme Baddoor 4/3/2013 " tvg-logo="https://subdl.com/p/sd46/sd46497.jpg" group-title="hindi",Chashme Baddoor 4/3/2013
@@ -2438,6 +2450,8 @@ https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Diljale%25202091996.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mission Impossible 1 5/7/1996" tvg-logo="https://subdl.com/p/sd139/sd139831.jpg" group-title="english hindi",Mission Impossible 1 5/7/1996
 https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mission%2520Impossible%25201%2520571996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eraser 21/6/1996" tvg-logo="https://i.imgur.com/JXgKZPA.jpg" group-title="english hindi",Eraser 21/6/1996
+https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Eraser%25202161996.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Army 10/6/1996 " tvg-logo="https://i.imgur.com/oqbkwaW.jpg" group-title="hindi",Army 10/6/1996
 https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Army%25201061996.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chaahat 6/6/1996 " tvg-logo="https://i.imgur.com/Nmecht5.jpg" group-title="hindi",Chaahat 6/6/1996
