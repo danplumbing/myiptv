@@ -26,6 +26,8 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Virgin%2520Bhanu%2520Priya%25201672020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Black Water Abyss 10/7/2020" tvg-logo="https://i.imgur.com/vPKc4TR.jpg" group-title="english hindi",Black Water Abyss 10/7/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Black%2520Water%2520Abyss%25201072020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sadak 2 10/7/2020 " tvg-logo="https://i.imgur.com/ziE4oAc.jpg" group-title="hindi",Sadak 2 10/7/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sadak%25202%25201072020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Old Guard 10/7/2020" tvg-logo="https://i.imgur.com/tIWRPFb.jpg" group-title="english hindi",The Old Guard 10/7/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Old%2520Guard%25201072020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Unlock 27/6/2020 " tvg-logo="https://i.imgur.com/tAGPCrt.jpg" group-title="hindi",Unlock 27/6/2020
