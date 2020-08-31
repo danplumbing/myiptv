@@ -922,6 +922,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dongri%2520Ka%2520Raja%25208112016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doctor Strange 24/10/2016" tvg-logo="https://i.imgur.com/MnTnEHw.jpg" group-title="english hindi",Doctor Strange 24/10/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Doctor%2520Strange%252024102016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jack Reacher Never Go Back 21/10/2016" tvg-logo="https://i.imgur.com/fhTy7kB.jpg" group-title="english hindi",Jack Reacher Never Go Back 21/10/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jack%2520Reacher%2520Never%2520Go%2520Back%252021102016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hacksaw Ridge 16/10/2016" tvg-logo="https://i.imgur.com/jCZWBaz.jpg" group-title="english hindi",Hacksaw Ridge 16/10/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hacksaw%2520Ridge%252016102016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AE DIL HAI MUSHKIL 14/10/2016" tvg-logo="https://i.imgur.com/I1u58pF.jpg" group-title="hindi",AE DIL HAI MUSHKIL 14/10/2016
@@ -964,6 +966,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Udta%2520Punjab%25201562016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="7 Hours To Go 14/06/2016" tvg-logo="https://i.imgur.com/b68RBYM.jpg" group-title="hindi",7 Hours To Go 14/06/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/7%2520Hours%2520To%2520Go%252014062016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beacon Point 10/6/2016" tvg-logo="https://i.imgur.com/gBDdHe4.jpg" group-title="english hindi",Beacon Point 10/6/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Beacon%2520Point%25201062016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Junooniyat 10/6/2016" tvg-logo="https://subdl.com/p/sd16/sd16681.jpg" group-title="hindi",Junooniyat 10/6/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Junooniyat%25201062016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Project Marathwada 3/6/2016" tvg-logo="https://i.imgur.com/1FQDqij.jpg" group-title="hindi",Project Marathwada 3/6/2016
@@ -1002,6 +1006,10 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/One%2520Night%2520Stand%2520742016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Great Grand Masti 1/4/2016" tvg-logo="https://subdl.com/p/sd10/sd10855.jpg" group-title="hindi",Great Grand Masti 1/4/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Great%2520Grand%2520Masti%2520142016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lost City of Z 30/3/2016" tvg-logo="https://i.imgur.com/vw2Qxc4.jpg" group-title="english hindi",The Lost City of Z 30/3/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Lost%2520City%2520of%2520Z%25203032016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky Handsome 25/3/2016" tvg-logo="https://i.imgur.com/xcKXdeJ.jpg" group-title="hindi",Rocky Handsome 25/3/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rocky%2520Handsome%25202532016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Terror Birds 8/3/2016" tvg-logo="https://i.imgur.com/LUtSB5b.jpg" group-title="english hindi",Terror Birds 8/3/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Terror%2520Birds%2520832016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aligarh 26/2/2016" tvg-logo="https://subdl.com/p/sd66/sd66987.jpg" group-title="hindi",Aligarh 26/2/2016
