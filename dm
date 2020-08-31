@@ -1050,6 +1050,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Budhia%2520Singh%2520Born%2520to%2520Run%252016122015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bajirao Mastani 11/12/2015" tvg-logo="https://subdl.com/p/sd4/sd4436.jpg" group-title="hindi",Bajirao Mastani 11/12/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bajirao%2520Mastani%252011122015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daddys Home 9/12/2015" tvg-logo="https://i.imgur.com/RRhAmjC.jpg" group-title="english hindi",Daddys Home 9/12/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daddys%2520Home%25209122015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Founder 24/11/2016" tvg-logo="https://i.imgur.com/CSB87qq.jpg" group-title="english hindi",The Founder 24/11/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Founder%252024112016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Criminal Activities 20/11/2015" tvg-logo="https://i.imgur.com/QVGmXHy.jpg" group-title="english hindi",Criminal Activities 20/11/2015
@@ -1078,6 +1080,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hero%2520192015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manjhi The Mountain Man 30/8/2015" tvg-logo="https://subdl.com/p/sd3/sd3655.jpg" group-title="hindi",Manjhi The Mountain Man 30/8/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Manjhi%2520The%2520Mountain%2520Man%25203082015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Assassin 27/8/2015" tvg-logo="https://i.imgur.com/eIITXsY.jpg" group-title="chinese hindi eng sub",The Assassin 27/8/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Assassin%25202782015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Talvar 14/8/2015 " tvg-logo="https://subdl.com/p/sd24/sd24582.jpg" group-title="hindi",Talvar 14/8/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Talvar%25201482015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="All is Well 13/8/2015 " tvg-logo="https://i.imgur.com/qXiEpaD.jpg" group-title="hindi",All is Well 13/8/2015 
@@ -1422,6 +1426,8 @@ https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Life%2520of%2520Pi%252020122012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dabangg 2 11/12/2012 " tvg-logo="https://subdl.com/p/sd10/sd10825.jpg" group-title="hindi",Dabangg 2 11/12/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dabangg%25202%252011122012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jack Reacher 10/12/2012" tvg-logo="https://i.imgur.com/N4fO6xk.jpg" group-title="english hindi",Jack Reacher 10/12/2012
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jack%2520Reacher%252010122012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Four Two Ka One 27/11/2012 " tvg-logo="https://subdl.com/p/sd14/sd14154.jpg" group-title="hindi",Four Two Ka One 27/11/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Four%2520Two%2520Ka%2520One%252027112012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Twilight Breaking Dawn Part 2 16/11/2012" tvg-logo="https://i.imgur.com/woVa6Lh.jpg" group-title="english hindi",Twilight Breaking Dawn Part 2 16/11/2012
@@ -1452,6 +1458,8 @@ https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/OMG%2520Oh%2520My%2520God%25201792012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="heroine 14/9/2012 " tvg-logo="https://subdl.com/p/sd12/sd12956.jpg" group-title="hindi",heroine 14/9/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/heroine%25201492012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Premium Rush 14/9/2012" tvg-logo="https://i.imgur.com/aQtJ09e.jpg" group-title="english hindi",Premium Rush 14/9/2012
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Premium%2520Rush%25201492012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dredd 7/9/2012" tvg-logo="https://i.imgur.com/0HGmHHU.jpg" group-title="english hindi",Dredd 7/9/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dredd%2520792012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chal Pichchur Banate Hain 3/9/2012 " tvg-logo="https://i.imgur.com/Kafhnf5.jpg" group-title="hindi",Chal Pichchur Banate Hain 3/9/2012
@@ -1490,6 +1498,8 @@ https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Department%25201452012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dangerous Ishhq 11/5/2012 " tvg-logo="https://subdl.com/p/sd9/sd9469.jpg" group-title="hindi",Dangerous Ishhq 11/5/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dangerous%2520Ishhq%25201152012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dark Shadows 11/5/2012" tvg-logo="https://i.imgur.com/8QoZnwB.jpg" group-title="english hindi",Dark Shadows 11/5/2012
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dark%2520Shadows%25201152012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hate Story 20/4/2012 " tvg-logo="https://i.imgur.com/tHFQAT5.jpg" group-title="hindi",Hate Story 20/4/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hate%2520Story%25202042012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="5 Ghantey Mein 5 Crore 02/04/2012 " tvg-logo="https://i.imgur.com/UL2FYXs.jpg" group-title="hindi",5 Ghantey Mein 5 Crore 02/04/2012
