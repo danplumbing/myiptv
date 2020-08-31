@@ -60,12 +60,16 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/ghoomketu%25202252020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="what are the odds 20/5/2020 " tvg-logo="https://i.imgur.com/NYxYtk8.jpg" group-title="hindi",what are the odds 20/5/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/what%2520are%2520the%2520odds%25202052020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fast And Fierce Death Race 19/5/2020" tvg-logo="https://i.imgur.com/jW6qrQT.jpg" group-title="english",Fast And Fierce Death Race 19/5/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fast%2520And%2520Fierce%2520Death%2520Race%25201952020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Soldiers 11/5/2020" tvg-logo="https://subdl.com/p/sd799/sd799104.jpg" group-title="english",Dragon Soldiers 11/5/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dragon%2520Soldiers%25201152020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Legion 8/5/2020" tvg-logo="https://i.imgur.com/5Ydy03H.jpg" group-title="english",The Legion 8/5/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Legion%2520852020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Arkansas 5/5/2020" tvg-logo="https://i.imgur.com/HyFf1J6.jpg" group-title="english hindi",Arkansas 5/5/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Arkansas%2520552020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars The Clone Wars 4/5/2020" tvg-logo="https://i.imgur.com/JHK0Xes.jpg" group-title="Animation english hindi",Star Wars The Clone Wars 4/5/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Star%2520Wars%2520The%2520Clone%2520Wars%2520452020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="mrs serial killer 1/5/2020" tvg-logo="https://i.imgur.com/CQYsxug.jpg" group-title="hindi",mrs serial killer 1/5/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/mrs%2520serial%2520killer%2520152020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Extraction 24/4/2020" tvg-logo="https://subdl.com/p/sd636/sd636302.jpg" group-title="english hindi",Extraction 24/4/2020
@@ -1870,12 +1874,18 @@ https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Untraceable%25202512008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halla Bol 11/1/2008 " tvg-logo="https://subdl.com/p/sd238/sd238186.jpg" group-title="hindi",Halla Bol 11/1/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Halla%2520Bol%25201112008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bee Movie 14/12/2007" tvg-logo="https://i.imgur.com/MLRfF3a.jpg" group-title=" Animation english hindi",Bee Movie 14/12/2007
+https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bee%2520Movie%252014122007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dus Kahaniyaan 29/11/2007 " tvg-logo="https://i.imgur.com/o9HNAe2.jpg" group-title="hindi",Dus Kahaniyaan 29/11/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dus%2520Kahaniyaan%252029112007.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aaja Nachle 16/11/2007 " tvg-logo="https://subdl.com/p/sd235/sd235873.jpg" group-title="hindi",Aaja Nachle 16/11/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aaja%2520Nachle%252016112007.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Goal 16/11/2007 " tvg-logo="https://subdl.com/p/sd20/sd20171.jpg" group-title="hindi",Goal 16/11/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Goal%252016112007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Om Shanti Om 9/11/2007" tvg-logo="https://i.imgur.com/94Gy9k9.jpg" group-title="hindi",Om Shanti Om 9/11/2007
+https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Om%2520Shanti%2520Om%25209112007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saawariya 9/11/2007" tvg-logo="https://i.imgur.com/uinZR0d.jpg" group-title="hindi",Saawariya 9/11/2007
+https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saawariya%25209112007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="30 Days Of Night 1/11/2007" tvg-logo="https://i.imgur.com/P9FncaK.jpg" group-title="english hindi",30 Days Of Night 1/11/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/30%2520Days%2520Of%2520Night%25201112007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Boogeyman 20/10/2007" tvg-logo="https://i.imgur.com/7OsdTzy.jpg" group-title="english hindi",Boogeyman 20/10/2007
@@ -1930,6 +1940,8 @@ https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hattrick%2520732007.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1971 26/2/2007 " tvg-logo="https://i.imgur.com/pCXo0gB.jpg" group-title="hindi",1971 26/2/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/1971%25202622007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flight of Fury 20/2/2007" tvg-logo="https://i.imgur.com/X86bYXa.jpg" group-title="english hindi",Flight of Fury 20/2/2007
+https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Flight%2520of%2520Fury%25202022007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Eklavya 16/2/2007 " tvg-logo="https://i.imgur.com/la3aImB.jpg" group-title="hindi",Eklavya 16/2/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Eklavya%25201622007.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Honeymoon Travels Pvt Ltd  22/1/2007 " tvg-logo="https://i.imgur.com/1c8K1bL.jpg" group-title="hindi",Honeymoon Travels Pvt Ltd  22/1/2007
