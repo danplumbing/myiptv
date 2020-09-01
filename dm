@@ -2896,6 +2896,16 @@ https://movieshd-544-720-1080-4k-3d-1975-shiny-lake-d40c-m1975.movieshd4k3d1080p
 https://movieshd-544-720-1080-4k-3d-1974-still-fog-6e66-d-1974.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Majboor%25206121974.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sangam 21/7/1974 " tvg-logo="https://i.imgur.com/d5Fxu4t.jpg" group-title="hindi",Sangam 21/7/1974
 https://movieshd-544-720-1080-4k-3d-1974-still-fog-6e66-d-1974.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Sangam%25202171974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Mail 28/11/1973 " tvg-logo="https://i.imgur.com/yLx5xqm.jpg" group-title="hindi",Black Mail 28/11/1973
+https://movieshd-544-720-1080-4k-3d-1973-broad-sky-f5af-1973-d.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Black%2520Mail%252028111973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Battle For The Planet Of The Apes 12/7/1973" tvg-logo="https://i.imgur.com/wxxDjYa.jpg" group-title="english",Battle For The Planet Of The Apes 12/7/1973
+https://movieshd-544-720-1080-4k-3d-1973-broad-sky-f5af-1973-d.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Battle%2520For%2520The%2520Planet%2520Of%2520The%2520Apes%25201271973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conquest of the Planet of the Apes 22/12/1972" tvg-logo="https://i.imgur.com/1KAYdfV.jpg" group-title="english",Conquest of the Planet of the Apes 22/12/1972
+https://movieshd-544-720-1080-4k-3d-1972-dawn-cyoung-lake-78bf.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Conquest%2520of%2520the%2520Planet%2520of%2520the%2520Apes%252022121972.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ek Nazar 28/7/1972 " tvg-logo="https://i.imgur.com/pxWPiuH.jpg" group-title="hindi",Ek Nazar 28/7/1972
+https://movieshd-544-720-1080-4k-3d-1972-dawn-cyoung-lake-78bf.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Ek%2520Nazar%25202871972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amar Prem 28/1/1972 " tvg-logo="https://i.imgur.com/wwQebgh.jpg" group-title="hindi",Amar Prem 28/1/1972
+https://movieshd-544-720-1080-4k-3d-1972-dawn-cyoung-lake-78bf.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Amar%2520Prem%25202811972.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Escape From The Planet Of The Apes 21/5/1971" tvg-logo="https://i.imgur.com/drhbgyP.jpg" group-title="english hindi",Escape From The Planet Of The Apes 21/5/1971
 https://movieshd-544-720-1080-4k-3d-1971-dawn-cake-1971-986543.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Escape%2520From%2520The%2520Planet%2520Of%2520The%2520Apes%25202151971.mkv
 #EXTINF:-1 tvg-id="" tvg-name="anand 5/3/1971 " tvg-logo="https://i.imgur.com/JYQQ9PH.jpg" group-title="hindi",anand 5/3/1971
