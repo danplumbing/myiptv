@@ -1034,6 +1034,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rocky%2520Handsome%25202532016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Terror Birds 8/3/2016" tvg-logo="https://i.imgur.com/LUtSB5b.jpg" group-title="english hindi",Terror Birds 8/3/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Terror%2520Birds%2520832016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="London Has Fallen 3/3/2016" tvg-logo="https://subdl.com/p/sd1/sd1383.jpg" group-title="english hindi",London Has Fallen 3/3/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/London%2520Has%2520Fallen%2520332016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aligarh 26/2/2016" tvg-logo="https://subdl.com/p/sd66/sd66987.jpg" group-title="hindi",Aligarh 26/2/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aligarh%25202622016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood Diaries 22/2/2016" tvg-logo="https://subdl.com/p/sd70/sd70066.jpg" group-title="hindi",Bollywood Diaries 22/2/2016
@@ -1392,6 +1394,8 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bombay%2520Talkies%25202342013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shree 19/4/2013 " tvg-logo="https://i.imgur.com/gV0etsD.jpg" group-title="hindi",Shree 19/4/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shree%25201942013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olympus Has Fallen 17/4/2013" tvg-logo="https://subdl.com/p/sd5/sd5086.jpg" group-title="english hindi",Olympus Has Fallen 17/4/2013
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Olympus%2520Has%2520Fallen%25201742013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aashiqui 2 16/04/2013 " tvg-logo="https://i.imgur.com/lxMaS4Q.jpg" group-title="hindi",Aashiqui 2 16/04/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aashiqui%25202%252016042013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Lunchbox 11/4/2013 " tvg-logo="https://i.imgur.com/ndORFfp.jpg" group-title="hindi",The Lunchbox 11/4/2013
@@ -2576,6 +2580,8 @@ https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Prithvi%25202281997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aur Pyaar Ho Gaya 6/8/1997 " tvg-logo="https://i.imgur.com/1i8lYKo.jpg" group-title="hindi",Aur Pyaar Ho Gaya 6/8/1997
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aur%2520Pyaar%2520Ho%2520Gaya%2520681997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park 2 18/7/1997" tvg-logo="https://subdl.com/p/sd10/sd10543.jpg" group-title="english hindi",Jurassic Park 2 18/7/1997
+https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jurassic%2520Park%25202%25201871997.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gupt 19/6/1997" tvg-logo="https://i.imgur.com/92fZNWn.jpg" group-title="hindi",Gupt 19/6/1997
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gupt%25201961997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Border 13/6/1997 " tvg-logo="https://i.imgur.com/9XdxGke.jpg" group-title="hindi",Border 13/6/1997
@@ -2646,6 +2652,8 @@ https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Toy%2520Story%25202231995.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Andolan 21/2/1995 " tvg-logo="https://i.imgur.com/ve7ciIC.jpg" group-title="hindi",Andolan 21/2/1995
 https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Andolan%25202121995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji 16/2/1995" tvg-logo="https://subdl.com/p/sd20/sd20487.jpg" group-title="english hindi",Jumanji 16/2/1995
+https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jumanji%25201621995.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Surakshaa 16/2/1995 " tvg-logo="https://i.imgur.com/i6X9zZo.jpg" group-title="hindi",Surakshaa 16/2/1995
 https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Surakshaa%25201621995.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dushmani A Violent Love Story 10/1/1995 " tvg-logo="https://i.imgur.com/oGqmxIj.jpg" group-title="hindi",Dushmani A Violent Love Story 10/1/1995
@@ -2850,8 +2858,16 @@ https://movieshd-544-720-1080-4k-3d-1987-royal-mouse-c70f-1987.movieshd4k3d1080p
 https://movieshd-544-720-1080-4k-3d-1987-royal-mouse-c70f-1987.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Aulad%2520841987.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dharam Veer 17/3/1987 " tvg-logo="https://i.imgur.com/n2u8ckI.jpg" group-title="hindi",Dharam Veer 17/3/1987
 https://movieshd-544-720-1080-4k-3d-1987-royal-mouse-c70f-1987.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Dharam%2520Veer%25201731987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aliens 29/8/1986" tvg-logo="https://subdl.com/p/sd318/sd318941.jpg" group-title="english hindi",Aliens 29/8/1986
+https://movieshd-544-720-1080-4k-3d-1986-purple-violet-2f3a-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Aliens%25202981986.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ghar Sansar 30/6/1986 " tvg-logo="https://i.imgur.com/dGfHNN6.jpg" group-title="hindi",Ghar Sansar 30/6/1986
 https://movieshd-544-720-1080-4k-3d-1986-purple-violet-2f3a-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Ghar%2520Sansar%25203061986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aakhree Raasta 6/6/1986 " tvg-logo="https://i.imgur.com/UFjwvLs.jpg" group-title="hindi",Aakhree Raasta 6/6/1986
+https://movieshd-544-720-1080-4k-3d-1986-purple-violet-2f3a-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Aakhree%2520Raasta%2520661986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baat Ban Jaye 14/3/1986 " tvg-logo="https://i.imgur.com/IWrDx6l.jpg" group-title="hindi",Baat Ban Jaye 14/3/1986
+https://movieshd-544-720-1080-4k-3d-1986-purple-violet-2f3a-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Baat%2520Ban%2520Jaye%25201431986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aap Ke Saath 4/3/1986 " tvg-logo="https://i.imgur.com/EBWAbB5.jpg" group-title="hindi",Aap Ke Saath 4/3/1986
+https://movieshd-544-720-1080-4k-3d-1986-purple-violet-2f3a-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Aap%2520Ke%2520Saath%2520431986.mp4
 #EXTINF:-1 tvg-id="" tvg-name="GERAFTAAR 13/9/1985 " tvg-logo="https://i.imgur.com/lsVQT5u.jpg" group-title="hindi",GERAFTAAR 13/9/1985
 https://movieshd-544-720-1080-4k-3d-1985-green-grass-916c-1985.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/GERAFTAAR%25201391985.mp4
 #EXTINF:-1 tvg-id="" tvg-name="GERAFTAAR 13/9/1985 " tvg-logo="https://i.imgur.com/lsVQT5u.jpg" group-title="hindi",GERAFTAAR 13/9/1985
@@ -2896,6 +2912,8 @@ https://movieshd-544-720-1080-4k-3d-1980-wandering-unit-c7eb-d.movieshd4k3d1080p
 https://movieshd-544-720-1080-4k-3d-1980-wandering-unit-c7eb-d.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Dostana%2520811980.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dostana 8/1/1980 " tvg-logo="https://i.imgur.com/Kfkyv2f.jpg" group-title="hindi",Dostana 8/1/1980
 https://movieshd-544-720-1080-4k-3d-1980-wandering-unit-c7eb-d.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Dostana%2520811980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien 6/9/1979" tvg-logo="https://subdl.com/p/sd19/sd19681.jpg" group-title="english hindi",Alien 6/9/1979
+https://movieshd-544-720-1080-4k-3d-1979-lingering-king-9bb3-m.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Alien%2520691979.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kaala Patthar 9/8/1979 " tvg-logo="https://i.imgur.com/24MuVyL.jpg" group-title="hindi",Kaala Patthar 9/8/1979
 https://movieshd-544-720-1080-4k-3d-1979-lingering-king-9bb3-m.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Kaala%2520Patthar%2520981979.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Don 20/4/1978 " tvg-logo="https://i.imgur.com/Uz00Tyj.jpg" group-title="hindi",Don 20/4/1978
