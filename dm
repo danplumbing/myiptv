@@ -300,8 +300,12 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Family%2520Man%25202092019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Zoya Factor 20/9/2019" tvg-logo="https://subdl.com/p/sd409/sd409184.jpg" group-title="hindi",The Zoya Factor 20/9/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Zoya%2520Factor%25202092019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ad Astra 19/9/2019" tvg-logo="https://subdl.com/p/sd276/sd276767.jpg" group-title="english hindi",Ad Astra 19/9/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ad%2520Astra%25201992019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pal Pal Dil Ke Paas 18/9/2019" tvg-logo="https://i.imgur.com/jH2BxBI.jpg" group-title="hindi",Pal Pal Dil Ke Paas 18/9/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pal%2520Pal%2520Dil%2520Ke%2520Paas%25201892019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo Last Blood 18/9/2019" tvg-logo="https://i.imgur.com/TZxdORe.jpg" group-title="english hindi",Rambo Last Blood 18/9/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rambo%2520Last%2520Blood%25201892019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Prassthanam 17/9/2019" tvg-logo="https://i.imgur.com/RfAvIMG.jpg" group-title="hindi",Prassthanam 17/9/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Prassthanam%25201792019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dream Girl 9/9/2019" tvg-logo="https://subdl.com/p/sd395/sd395631.jpg" group-title="hindi",Dream Girl 9/9/2019
@@ -314,16 +318,22 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Dark%2520Kingdom%2520392019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Saaho 30/8/2019" tvg-logo="https://i.imgur.com/l254EID.jpg" group-title="hindi",Saaho 30/8/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saaho%25203082019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="It Chapter Two 26/8/2019" tvg-logo="https://subdl.com/p/sd411/sd411234.jpg" group-title="english hindi",It Chapter Two 26/8/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/It%2520Chapter%2520Two%25202682019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="47 Meters Down Uncaged 23/8/2019" tvg-logo="https://i.imgur.com/Yu0Mp7X.jpg" group-title="english hindi",47 Meters Down Uncaged 23/8/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/47%2520Meters%2520Down%2520Uncaged%25202382019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Posham Pa 23/8/2019" tvg-logo="https://i.imgur.com/z3gaTfj.jpg" group-title="hindi",Posham Pa 23/8/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Posham%2520Pa%25202382019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ready or Not 22/8/2019" tvg-logo="https://subdl.com/p/sd386/sd386130.jpg" group-title="english hindi",Ready or Not 22/8/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ready%2520or%2520Not%25202282019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chhichhore 20/8/2019" tvg-logo="https://i.imgur.com/875oqEl.jpg" group-title="hindi",Chhichhore 20/8/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chhichhore%25202082019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Once Upon a Time in Hollywood 14/8/2019" tvg-logo="https://i.imgur.com/PbbKu2t.jpg" group-title="english hindi",Once Upon a Time in Hollywood 14/8/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Once%2520Upon%2520a%2520Time%2520in%2520Hollywood%25201482019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Mummy Rebirth 13/8/2019" tvg-logo="https://i.imgur.com/B97IFW0.jpg" group-title="english hindi",The Mummy Rebirth 13/8/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Mummy%2520Rebirth%25201382019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Angry Birds Movie 2 8/8/2019" tvg-logo="https://subdl.com/p/sd253/sd253501.jpg" group-title="Animation english hindi",The Angry Birds Movie 2 8/8/2019
+https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Angry%2520Birds%2520Movie%25202%2520882019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Barot House 7/8/2019" tvg-logo="https://subdl.com/p/sd343/sd343583.jpg" group-title="hindi",Barot House 7/8/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Barot%2520House%2520782019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mission Mangal 6/8/2019" tvg-logo="https://subdl.com/p/sd349/sd349713.jpg" group-title="hindi",Mission Mangal 6/8/2019
