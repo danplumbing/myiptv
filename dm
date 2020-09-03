@@ -862,8 +862,8 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Half%2520Girlfriend%25201952017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wonder Woman 15/5/2017" tvg-logo="https://i.imgur.com/OT9DRF1.jpg" group-title="english hindi",Wonder Woman 15/5/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Wonder%2520Woman%25201552017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Covenant 12/5/2017" tvg-logo="https://subdl.com/p/sd517/sd517906.jpg" group-title="english hindi",Covenant 12/5/2017
-https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Covenant%25201252017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="alien covenant 12/5/2017" tvg-logo="https://subdl.com/p/sd517/sd517906.jpg" group-title="english hindi",alien covenant 12/5/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/alien%2520covenant%25201252017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pirates of the Caribbean Dead Men Tell No Tales 11/5/2017" tvg-logo="https://i.imgur.com/NOCgcWR.jpg" group-title="english hindi",Pirates of the Caribbean Dead Men Tell No Tales 11/5/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pirates%2520of%2520the%2520Caribbean%2520Dead%2520Men%2520Tell%2520No%2520Tales%25201152017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sargoshiyan 8/5/2017" tvg-logo="https://subdl.com/p/sd807/sd807133.jpg" group-title="hindi",Sargoshiyan 8/5/2017
