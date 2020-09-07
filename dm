@@ -964,6 +964,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Operation%2520Chromite%252026122016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dangal 22/12/2016" tvg-logo="https://subdl.com/p/sd5/sd5509.jpg" group-title="hindi",Dangal 22/12/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dangal%252022122016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Passengers 22/12/2016" tvg-logo="https://subdl.com/p/sd6/sd6315.jpg" group-title="english hindi",Passengers 22/12/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Passengers%252022122016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Trapped 21/12/2016" tvg-logo="https://subdl.com/p/sd176/sd176737.jpg" group-title="hindi",Trapped 21/12/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Trapped%252021122016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rogue One A Star Wars Story 13/12/2016" tvg-logo="https://i.imgur.com/kI8vhLw.jpg" group-title="english hindi",Rogue One A Star Wars Story 13/12/2016
@@ -1014,6 +1016,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Akira%25202682016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Flying Jatt 25/08/2016" tvg-logo="https://subdl.com/p/sd3/sd3542.jpg" group-title="hindi",A Flying Jatt 25/08/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/A%2520Flying%2520Jatt%252025082016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ben Hur 18/8/2016" tvg-logo="https://subdl.com/p/sd15/sd15595.jpg" group-title="english hindi",Ben Hur 18/8/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ben%2520Hur%25201882016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Isle of the Dead 18/8/2016" tvg-logo="https://i.imgur.com/948oyVm.jpg" group-title="english hindi",Isle of the Dead 18/8/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Isle%2520of%2520the%2520Dead%25201882016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Suicide Squad 5/8/2016" tvg-logo="https://i.imgur.com/mFhdARk.jpg" group-title="english hindi",Suicide Squad 5/8/2016
@@ -1032,8 +1036,14 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Now%2520You%2520See%2520Me%25202%2520472016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Guddu Ki Gun 30/6/2016" tvg-logo="https://subdl.com/p/sd196/sd196814.jpg" group-title="hindi",Guddu Ki Gun 30/6/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Guddu%2520Ki%2520Gun%25203062016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Intelligence 29/6/2016" tvg-logo="https://subdl.com/p/sd2/sd2320.jpg" group-title="english hindi",Central Intelligence 29/6/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Central%2520Intelligence%25202962016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Scandall 24/06/2016" tvg-logo="https://subdl.com/p/sd374/sd374515.jpg" group-title="hindi",A Scandall 24/06/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/A%2520Scandall%252024062016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Independence Day Resurgence 23/6/2016" tvg-logo="https://subdl.com/p/sd1/sd1219.jpg" group-title="english hindi",Independence Day Resurgence 23/6/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Independence%2520Day%2520Resurgence%25202362016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gods of Egypt 17/6/2016" tvg-logo="https://subdl.com/p/sd1/sd1474.jpg" group-title="english hindi",Gods of Egypt 17/6/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gods%2520of%2520Egypt%25201762016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Udta Punjab 15/6/2016" tvg-logo="https://subdl.com/p/sd4/sd4927.jpg" group-title="hindi",Udta Punjab 15/6/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Udta%2520Punjab%25201562016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="7 Hours To Go 14/06/2016" tvg-logo="https://i.imgur.com/b68RBYM.jpg" group-title="hindi",7 Hours To Go 14/06/2016
@@ -1066,6 +1076,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Precious%2520Cargo%25202242016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Precious Cargo 22/4/2016" tvg-logo="https://i.imgur.com/G3LRoQW.jpg" group-title="english hindi",Precious Cargo 22/4/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Precious%2520Cargo%25202242016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flight Crew 21/4/2016" tvg-logo="https://i.imgur.com/Kmaxdpj.jpg" group-title="english hindi",Flight Crew 21/4/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Flight%2520Crew%25202142016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Baaghi 18/4/2016" tvg-logo="https://subdl.com/p/sd1/sd1745.jpg" group-title="hindi",Baaghi 18/4/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baaghi%25201842016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chudail Story 13/4/2016" tvg-logo="https://subdl.com/p/sd708/sd708328.jpg" group-title="hindi",Chudail Story 13/4/2016
