@@ -1874,7 +1874,7 @@ https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hum%2520Tum%2520Aur%2520Ghost%25201922010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Robot 17/2/2010 " tvg-logo="https://i.imgur.com/gHe3AxL.jpg" group-title="hindi",Robot 17/2/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Robot%25201722010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Percy Jackson & The Olympians The Lightning Thief 12/2/2010" tvg-logo="https://imgur.com/s0GKX2j" group-title="english hindi",Percy Jackson & The Olympians The Lightning Thief 12/2/2010
+#EXTINF:-1 tvg-id="" tvg-name="Percy Jackson & The Olympians The Lightning Thief 12/2/2010" tvg-logo="https://imgur.com/s0GKX2j.jpg" group-title="english hindi",Percy Jackson & The Olympians The Lightning Thief 12/2/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Percy%2520Jackson%2520%26%2520The%2520Olympians%2520The%2520Lightning%2520Thief%25201222010.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Karthik Calling Karthik 11/2/2010 " tvg-logo="https://subdl.com/p/sd7/sd7025.jpg" group-title="hindi",Karthik Calling Karthik 11/2/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Karthik%2520Calling%2520Karthik%25201122010.mp4
