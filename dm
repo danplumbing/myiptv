@@ -1516,7 +1516,7 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Hangover%2520Part%2520III%25202452013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Zindagi 50 50 24/5/2013 " tvg-logo="https://i.imgur.com/pafiKGo.jpg" group-title="hindi",Zindagi 50 50 24/5/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Zindagi%252050%252050%25202452013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="now you see me 21/5/2013" tvg-logo="https://subdl.com/p/sd3/sd3969.jpg" group-title="english hindi",now you see me 21/52013
+#EXTINF:-1 tvg-id="" tvg-name="now you see me 21/5/2013" tvg-logo="https://subdl.com/p/sd3/sd3969.jpg" group-title="english hindi",now you see me 21/5/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/now%2520you%2520see%2520me%25202152013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fast And Furious 6 17/5/2013" tvg-logo="https://i.imgur.com/Mhn5HWk.jpg" group-title="english hindi",Fast And Furious 6 17/5/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fast%2520And%2520Furious%25206%25201752013.mkv
@@ -1584,6 +1584,8 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jayantabhai%2520Ki%2520Luv%2520Story%25201522013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Good Day to Die Hard 14/2/2013" tvg-logo="https://i.imgur.com/m4Oxfxh.jpg" group-title="english hindi",A Good Day to Die Hard 14/2/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/A%2520Good%2520Day%2520to%2520Die%2520Hard%25201422013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Warm Bodies 8/2/2013" tvg-logo="https://subdl.com/p/sd5/sd5125.jpg" group-title="english hindi",Warm Bodies 8/2/2013
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Warm%2520Bodies%25208/2/2013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Special 26 4/2/2013 " tvg-logo="https://i.imgur.com/djpWaf3.jpg" group-title="hindi",Special 26 4/2/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Special%252026%2520422013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Deewana Main Deewana 1/2/2013 " tvg-logo="https://subdl.com/p/sd28/sd28620.jpg" group-title="hindi",Deewana Main Deewana 1/2/2013
@@ -2994,6 +2996,8 @@ https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/INSANIYAT%25202821994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kabhi Haan Kabhi Naa 25/2/1994 " tvg-logo="https://i.imgur.com/GXGvSHQ.jpg" group-title="hindi",Kabhi Haan Kabhi Naa 25/2/1994
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kabhi%2520Haan%2520Kabhi%2520Naa%25202521994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Shawshank Redemption 17/2/1994" tvg-logo="https://subdl.com/p/sd9/sd9929.jpg" group-title="english hindi",The Shawshank Redemption 17/2/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Shawshank%2520Redemption%252017/2/1994.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dilwale 4/2/1994 " tvg-logo="https://i.imgur.com/scsPOAZ.jpg" group-title="hindi",Dilwale 4/2/1994
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dilwale%2520421994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dulaara 22/1/1994 " tvg-logo="https://i.imgur.com/oZjF4a3.jpg" group-title="hindi",Dulaara 22/1/1994
