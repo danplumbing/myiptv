@@ -1102,6 +1102,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Flight%2520Crew%25202142016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Baaghi 18/4/2016" tvg-logo="https://subdl.com/p/sd1/sd1745.jpg" group-title="hindi",Baaghi 18/4/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baaghi%25201842016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminal 15/4/2016" tvg-logo="https://subdl.com/p/sd3/sd3054.jpg" group-title="english hindi",Criminal 15/4/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Criminal%25201542016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chudail Story 13/4/2016" tvg-logo="https://subdl.com/p/sd708/sd708328.jpg" group-title="hindi",Chudail Story 13/4/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chudail%2520Story%25201342016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ratche And Clank 12/4/2016" tvg-logo="https://i.imgur.com/CxJ9ZcD.jpg" group-title=" Animation english hindi",Ratche And Clank 12/4/2016
@@ -1284,6 +1286,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dragon%2520Blade%25201822015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hate Story 3 10/2/2015 " tvg-logo="https://i.imgur.com/gYna4HP.jpg" group-title="hindi",Hate Story 3 10/2/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hate%2520Story%25203%25201022015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jupiter Ascending 6/2/2015" tvg-logo="https://subdl.com/p/sd1/sd1328.jpg" group-title="english hindi",Jupiter Ascending 6/2/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jupiter%2520Ascending%25206/2/2015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Point Break 5/2/2015" tvg-logo="https://subdl.com/p/sd10/sd10763.jpg" group-title="english hindi",Point Break 5/2/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Point%2520Break%2520522015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Baby 16/1/2015 " tvg-logo="https://subdl.com/p/sd2/sd2260.jpg" group-title="hindi",Baby 16/1/2015
@@ -1404,6 +1408,8 @@ https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Queen%25202822014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Highway 14/2/2014 " tvg-logo="https://subdl.com/p/sd1/sd1656.jpg" group-title="hindi",Highway 14/2/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Highway%25201422014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 Days to Kill 12/2/2014" tvg-logo="https://subdl.com/p/sd1/sd1493.jpg" group-title="english hindi",3 Days to Kill 12/2/2014
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/3%2520Days%2520to%2520Kill%25201222014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Beauty and the Beast 12/2/2014" tvg-logo="https://i.imgur.com/h5Asi9u.png" group-title="english hindi",Beauty and the Beast 12/2/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Beauty%2520and%2520the%2520Beast%25201222014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gunday 5/2/2014 " tvg-logo="https://subdl.com/p/sd9/sd9410.jpg" group-title="hindi",Gunday 5/2/2014
@@ -1430,6 +1436,8 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gori%2520Tere%2520Pyaar%2520Mein%252013112013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Thor The Dark World 8/11/2013" tvg-logo="https://i.imgur.com/h9Qa90i.jpg" group-title="english hindi",Thor The Dark World 8/11/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Thor%2520The%2520Dark%2520World%25208112013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gravity 7/11/2013" tvg-logo="https://subdl.com/p/sd1/sd1330.jpg" group-title="english hindi",Gravity 7/11/2013
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gravity%25207/11/2013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ram Leela 1/11/2013 " tvg-logo="https://i.imgur.com/VQafS8J.jpg" group-title="hindi",Ram Leela 1/11/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ram%2520Leela%25201112013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="hours 31/10/2013" tvg-logo="https://subdl.com/p/sd8/sd8658.jpg" group-title="english hindi",hours 31/10/2013
@@ -1708,6 +1716,8 @@ https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/John%2520Carter%2520932012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Paan Singh Tomar 2/3/2012 " tvg-logo="https://subdl.com/p/sd1/sd1148.jpg" group-title="hindi",Paan Singh Tomar 2/3/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Paan%2520Singh%2520Tomar%2520232012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Safe House 24/2/2012" tvg-logo="https://subdl.com/p/sd1/sd1981.jpg" group-title="english hindi",Safe House 24/2/2012
+https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Safe%2520House%252024/2/2012.mkv
 #EXTINF:-1 tvg-id="" tvg-name="London Paris New York 9/2/2012 " tvg-logo="https://subdl.com/p/sd15/sd15674.jpg" group-title="hindi",London Paris New York 9/2/2012
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/London%2520Paris%2520New%2520York%2520922012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gali Gali Chor Hai 3/2/2012 " tvg-logo="https://i.imgur.com/h5zGA9H.jpg" group-title="hindi",Gali Gali Chor Hai 3/2/2012
