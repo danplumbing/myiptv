@@ -1040,6 +1040,8 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Raees%25202012017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Split 20/1/2017" tvg-logo="https://subdl.com/p/sd3/sd3061.jpg" group-title="english hindi",Split 20/1/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Split%25202012017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="XXx Return Of Xander Cage 19/1/2017" tvg-logo="https://subdl.com/p/sd2/sd2004.jpg" group-title="english hindi",XXx Return Of Xander Cage 19/1/2017
+https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/XXx%2520Return%2520Of%2520Xander%2520Cage%25201912017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Coffee with D 10/1/2017" tvg-logo="https://i.imgur.com/MCffBf3.jpg" group-title="hindi",Coffee with D 10/1/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Coffee%2520with%2520D%25201012017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Frozen Christmas 2 2/1/2017" tvg-logo="https://i.imgur.com/q1gFZlK.jpg" group-title="Animation english hindi",A Frozen Christmas 2 2/1/2017
@@ -1494,6 +1496,8 @@ https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Big%2520game%25201642014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Amazing Spider Man 2 16/4/2014" tvg-logo="https://i.imgur.com/6UqfcxW.png" group-title="english hindi",The Amazing Spider Man 2 16/4/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Amazing%2520Spider%2520Man%25202%25201642014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="the raid 2 11/4/2014" tvg-logo="https://i.imgur.com/ikN2UEQ.jpg" group-title="english hindi",the raid 2 11/4/2014
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/the%2520raid%25202%25201142014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Divergent 4/4/2014" tvg-logo="https://i.imgur.com/wasWybB.jpg" group-title="english hindi",Divergent 4/4/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Divergent%2520442014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Noah 4/4/2014" tvg-logo="https://i.imgur.com/hRbEo0k.jpg" group-title="english hindi",Noah 4/4/2014
@@ -2784,6 +2788,8 @@ https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Deewangee%252017102002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deewangee 17/10/2002 " tvg-logo="https://i.imgur.com/G5mkhpD.jpg" group-title="hindi",Deewangee 17/10/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Deewangee%252017102002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="xXx 17/10/2002" tvg-logo="https://subdl.com/p/sd21/sd21846.jpg" group-title="english hindi",xXx 17/10/2002
+https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/xXx%252017102002.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cabin Fever 10/10/2002" tvg-logo="https://i.imgur.com/bgein9k.jpg" group-title="english hindi",Cabin Fever 10/10/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Cabin%2520Fever%252010102002.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dil Vil Pyar Vyar 8/10/2002 " tvg-logo="https://subdl.com/p/sd41/sd41262.jpg" group-title="hindi",Dil Vil Pyar Vyar 8/10/2002
