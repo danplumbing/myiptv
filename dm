@@ -1922,6 +1922,8 @@ https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Cowboys%2520and%2520Aliens.1782011.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Drive 13/8/2011" tvg-logo="https://subdl.com/p/sd21/sd21693.jpg" group-title="Animation english hindi",Drive 13/8/2011
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Drive%25201382011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conan the Barbarian 11/8/2011" tvg-logo="https://subdl.com/p/sd11/sd11749.jpg" group-title="english hindi",Conan the Barbarian 11/8/2011
+https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Conan%2520the%2520Barbarian%25201182011.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rise of the Planet of the Apes 11/8/2011" tvg-logo="https://i.imgur.com/dfaBO3i.jpg" group-title="english hindi",Rise of the Planet of the Apes 11/8/2011
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rise%2520of%2520the%2520Planet%2520of%2520the%2520Apes%25201182011.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chitkabrey 9/8/2011 " tvg-logo="https://i.imgur.com/MNrzjXz.jpg" group-title="hindi",Chitkabrey 9/8/2011
@@ -1980,6 +1982,8 @@ https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/I%2520Am%2520Number%2520Four%25202322011.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dil Toh Baccha Hai Ji 22/2/2011 " tvg-logo="https://subdl.com/p/sd3/sd3175.jpg" group-title="hindi",Dil Toh Baccha Hai Ji 22/2/2011
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Toh%2520Baccha%2520Hai%2520Ji%25202222011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hugo 21/2/2011" tvg-logo="https://subdl.com/p/sd44/sd44455.jpg" group-title="english hindi",Hugo 21/2/2011
+https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hugo%25202122011.mkv
 #EXTINF:-1 tvg-id="" tvg-name="7 Khoon Maaf 18/02/2011 " tvg-logo="https://subdl.com/p/sd24/sd24618.jpg" group-title="hindi",7 Khoon Maaf 18/02/2011
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/7%2520Khoon%2520Maaf%252018022011.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tanu Weds Manu 15/2/2011 " tvg-logo="https://subdl.com/p/sd8/sd8369.jpg" group-title="hindi",Tanu Weds Manu 15/2/2011
@@ -2110,6 +2114,8 @@ https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/3%2520Idiots%252024122009.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pyaar Impossible! 18/12/2009 " tvg-logo="https://subdl.com/p/sd3/sd3548.jpg" group-title="hindi",Pyaar Impossible! 18/12/2009
 https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pyaar%2520Impossible!%252018122009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar 17/12/2009" tvg-logo="https://subdl.com/p/sd20/sd20442.jpg" group-title="english hindi",Avatar 17/12/2009
+https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Avatar%252017122009.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Daddy Cool Join The Fun 10/12/2009 " tvg-logo="https://subdl.com/p/sd26/sd26233.jpg" group-title="hindi",Daddy Cool Join The Fun 10/12/2009
 https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Daddy%2520Cool%2520Join%2520The%2520Fun%252010122009.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rocket Singh Salesman of the Year 4/12/2009 " tvg-logo="https://subdl.com/p/sd2/sd2391.jpg" group-title="hindi",Rocket Singh Salesman of the Year 4/12/2009
@@ -2204,6 +2210,8 @@ https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Hangover%25201262009.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sanam Teri Kasam 5/6/2009 " tvg-logo="https://i.imgur.com/QYRmu67.jpg" group-title="hindi",Sanam Teri Kasam 5/6/2009
 https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sanam%2520Teri%2520Kasam%2520562009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Night at the Museum Battle of the Smithsonian 22/5/2009" tvg-logo="https://subdl.com/p/sd1/sd1399.jpg" group-title="english hindi",Night at the Museum Battle of the Smithsonian 22/5/2009
+https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Night%2520at%2520the%2520Museum%2520Battle%2520of%2520the%2520Smithsonian%25202252009.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Angels & Demons 14/5/2009" tvg-logo="https://subdl.com/p/sd10/sd10402.jpg" group-title="english hindi",Angels & Demons 14/5/2009
 https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Angels%2520%26%2520Demons%25201452009.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Trek 8/5/2009" tvg-logo="https://i.imgur.com/213zmv0.jpg" group-title="english hindi",Star Trek 8/5/2009
@@ -2424,6 +2432,8 @@ https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/I%2520See%2520You%252029122006.mp4
 #EXTINF:-1 tvg-id="" tvg-name="the story of a murderer 26/12/2006" tvg-logo="https://subdl.com/p/sd9/sd9519.jpg" group-title="english hindi",the story of a murderer 26/12/2006
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/the%2520story%2520of%2520a%2520murderer%252026122006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Night At The Museum 17/12/2006" tvg-logo="https://subdl.com/p/sd9/sd9681.jpg" group-title="english hindi",Night At The Museum 17/12/2006
+https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Night%2520At%2520The%2520Museum%252017122006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bhagam Bhag 15/12/2006 " tvg-logo="https://subdl.com/p/sd27/sd27327.jpg" group-title="hindi",Bhagam Bhag 15/12/2006
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bhagam%2520Bhag%252015122006.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dead Mans Cards 15/12/2006" tvg-logo="https://i.imgur.com/xRiRCkn.jpg" group-title="english hindi",Dead Mans Cards 15/12/2006
@@ -2556,6 +2566,8 @@ https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Khiladi%2520Ek%2520Haseena%25203102005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Into the Blue 30/9/2005" tvg-logo="https://i.imgur.com/Lb6yWTq.jpg" group-title="english",Into the Blue 30/9/2005
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Into%2520the%2520Blue%25203092005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Land of the Dead 23/9/2005" tvg-logo="https://subdl.com/p/sd30/sd30327.jpg" group-title="english hindi",Land of the Dead 23/9/2005
+https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Land%2520of%2520the%2520Dead%25202392005.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DOR 13/9/2005 " tvg-logo="https://subdl.com/p/sd292/sd292920.jpg" group-title="hindi",DOR 13/9/2005
 https://movieshd-544-720-1080-4k-3d-2005-mute-disk-6811-danhd5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/DOR%25201392005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Barsaat 17/8/2005 " tvg-logo="https://subdl.com/p/sd27/sd27694.jpg" group-title="hindi",Barsaat 17/8/2005
@@ -2838,6 +2850,8 @@ https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Agni%2520Varsha%25202912002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Catch Me If You Can 27/1/2002" tvg-logo="https://i.imgur.com/HGk7EpN.jpg" group-title="english hindi",Catch Me If You Can 27/1/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Catch%2520Me%2520If%2520You%2520Can%25202712002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Hawk Down 18/1/2002" tvg-logo="https://subdl.com/p/sd19/sd19322.jpg" group-title="english hindi",Black Hawk Down 18/1/2002
+https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Black%2520Hawk%2520Down%25201812002.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yeh Dil Aashiqanaa 18/1/2002 " tvg-logo="https://subdl.com/p/sd32/sd32097.jpg" group-title="hindi",Yeh Dil Aashiqanaa 18/1/2002
 https://movieshd-544-720-1080-4k-3d-2002-cool-frost-88f5-danh3.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Yeh%2520Dil%2520Aashiqanaa%25201812002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hathyar 1/1/2002 " tvg-logo="https://subdl.com/p/sd185/sd185326.jpg" group-title="hindi",Hathyar 1/1/2002
@@ -3012,6 +3026,8 @@ https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kuch%20Kuch%20Hota%20Hai%203091998.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bandhan 28/9/1998 " tvg-logo="https://i.imgur.com/dVLKatC.jpg" group-title="hindi",Bandhan 28/9/1998
 https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bandhan%25202891998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saving Private Ryan 11/9/1998" tvg-logo="https://subdl.com/p/sd19/sd19365.jpg" group-title="english hindi",Saving Private Ryan 11/9/1998
+https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saving%2520Private%2520Ryan%25201191998.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dil Se 21/8/1998 " tvg-logo="https://i.imgur.com/93dzyMf.jpg" group-title="hindi",Dil Se 21/8/1998
 https://movieshd-544-720-1080-4k-3d-1998-wild-frog-b43b-d-1998.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Se%25202181998.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Barood 15/7/1998 " tvg-logo="https://i.imgur.com/KEAJ6Zh.jpg" group-title="hindi",Barood 15/7/1998
@@ -3104,6 +3120,8 @@ https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/English%2520Babu%2520Desi%2520Mem%25202211996.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Himmat 5/1/1996 " tvg-logo="https://i.imgur.com/rMacf3Q.jpg" group-title="hindi",Himmat 5/1/1996
 https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Himmat%2520511996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se7en 5/1/1996" tvg-logo="https://subdl.com/p/sd10/sd10866.jpg" group-title="english hindi",Se7en 5/1/1996
+https://movieshd-544-720-1080-4k-3d-1996-odd-bonus-3745-h-1996.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Se7en%2520511996.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Beqabu 28/12/1995 " tvg-logo="https://i.imgur.com/qwtNgxp.jpg" group-title="hindi",Beqabu 28/12/1995
 https://movieshd-544-720-1080-4k-3d-1995-gentle-meadow-9bde-95.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Beqabu%252028121995.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Haqeeqat 20/12/1995 " tvg-logo="https://i.imgur.com/vpMaGv7.jpg" group-title="hindi",Haqeeqat 20/12/1995
