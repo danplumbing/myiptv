@@ -1248,6 +1248,8 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fitoor%25201122016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool 10/2/2016" tvg-logo="https://i.imgur.com/kPcN1Jz.jpg" group-title="english hindi",Deadpool 10/2/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Deadpool%25201022016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Monkey King 2 6/2/2016" tvg-logo="https://i.imgur.com/VuC9Nwa.jpg" group-title="english hindi",The Monkey King 2 6/2/2016
+https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Monkey%2520King%25202%2520622016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Room 4/2/2016" tvg-logo="https://subdl.com/p/sd8/sd8296.jpg" group-title="english",Room 4/2/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Room%2520422016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sanam Re 2/2/2016" tvg-logo="https://i.imgur.com/A9idOnD.jpg" group-title="hindi",Sanam Re 2/2/2016
