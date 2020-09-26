@@ -1960,6 +1960,8 @@ https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Real%2520Steel%252014102011.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Azaan 11/10/2011 " tvg-logo="https://i.imgur.com/tVVLDBZ.jpg" group-title="hindi",Azaan 11/10/2011
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Azaan%252011102011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Johnny English Reborn 7/10/2011" tvg-logo="https://subdl.com/p/sd1/sd1314.jpg" group-title="english hindi",Johnny English Reborn 7/10/2011
+https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Johnny%2520English%2520Reborn%25207102011.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Breakaway 30/9/2011 " tvg-logo="https://i.imgur.com/sae17SQ.jpg" group-title="hindi",Breakaway 30/9/2011
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Breakaway%25203092011.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Saheb Biwi Aur Gangster 27/9/2011 " tvg-logo="https://i.imgur.com/3zLVkFn.jpg" group-title="hindi",Saheb Biwi Aur Gangster 27/9/2011
@@ -2046,6 +2048,8 @@ https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Paul%25201422011.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sadda Adda 11/2/2011 " tvg-logo="https://i.imgur.com/oVkNl7Z.jpg" group-title="hindi",Sadda Adda 11/2/2011
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sadda%2520Adda%25201122011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mechanic 28/1/2011" tvg-logo="https://subdl.com/p/sd20/sd20357.jpg" group-title="english hindi",The Mechanic 28/1/2011
+https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Mechanic%25202812011.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Darkest Hour 13/1/2011" tvg-logo="https://subdl.com/p/sd4/sd4205.jpg" group-title="english hindi",The Darkest Hour 13/1/2011
 https://movieshd-544-720-1080-4k-3d-2011-autumn-base-e0cf-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Darkest%2520Hour%25201312011.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dhobi Ghat 10/1/2011 " tvg-logo="https://i.imgur.com/bRyKRj2.jpg" group-title="hindi",Dhobi Ghat 10/1/2011
@@ -2308,6 +2312,8 @@ https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/EMI%2520Liya%2520Hai%2520To%2520Chukana%2520Padega%25207112008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dostana 3/11/2008 " tvg-logo="https://subdl.com/p/sd2/sd2495.jpg" group-title="hindi",Dostana 3/11/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dostana%25203112008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quantum of Solace 31/10/2008" tvg-logo="https://subdl.com/p/sd9/sd9571.jpg" group-title="english hindi",Quantum of Solace 31/10/2008
+https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Quantum%2520of%2520Solace%252031102008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chocolate 24/10/2008" tvg-logo="https://i.imgur.com/IEBCchd.jpg" group-title="Thai Hindi Eng Sub",Chocolate 24/10/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chocolate%252024102008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Heroes 24/10/2008 " tvg-logo="https://i.imgur.com/YljiIe4.jpg" group-title="hindi",Heroes 24/10/2008
@@ -2326,6 +2332,8 @@ https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Vivaah%2520Aisa%2520Bhi%252016102008.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hello 3/10/2008 " tvg-logo="https://subdl.com/p/sd227/sd227097.jpg" group-title="hindi",Hello 3/10/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hello%25203102008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death Race 26/9/2008" tvg-logo="https://subdl.com/p/sd214/sd214061.jpg" group-title="english hindi",Death Race 26/9/2008
+https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Death%2520Race%25202692008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Drona 17/9/2008 " tvg-logo="https://subdl.com/p/sd7/sd7516.jpg" group-title="hindi",Drona 17/9/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Drona%25201792008.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1920 12/09/2008 " tvg-logo="https://subdl.com/p/sd11/sd11534.jpg" group-title="hindi",1920 12/09/2008
@@ -2340,8 +2348,12 @@ https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/God%2520Tussi%2520Great%2520Ho%2520682008.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bachna A Haseeno 1/8/2008 " tvg-logo="https://i.imgur.com/P3fAp8e.jpg" group-title="hindi",Bachna A Haseeno 1/8/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bachna%2520A%2520Haseeno%2520182008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mummy Tomb of the Dragon Emperor 24/7/2008" tvg-logo="https://subdl.com/p/sd10/sd10409.jpg" group-title="english hindi",The Mummy Tomb of the Dragon Emperor 24/7/2008
+https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Mummy%2520Tomb%2520of%2520the%2520Dragon%2520Emperor%25202472008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Dark Knight 21/7/2008" tvg-logo="https://i.imgur.com/Smsvi9Y.jpg" group-title="english hindi",The Dark Knight 21/7/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Dark%2520Knight%25202172008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Journey to the Center of the Earth 10/7/2008" tvg-logo="https://subdl.com/p/sd227/sd227003.jpg" group-title="english hindi",Journey to the Center of the Earth 10/7/2008
+https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Journey%2520to%2520the%2520Center%2520of%2520the%2520Earth%25201072008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jaane Tu Ya Jaane Na 4/7/2008 " tvg-logo="https://i.imgur.com/qVfYCmP.jpg" group-title="hindi",Jaane Tu Ya Jaane Na 4/7/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Jaane%2520Tu%2520Ya%2520Jaane%2520Na%2520472008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hancock 2/7/2008" tvg-logo="https://subdl.com/p/sd19/sd19378.jpg" group-title="english hindi",Hancock 2/7/2008
@@ -2966,6 +2978,8 @@ https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Tum%2520Bin%25202662001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gadar 30/5/2001 " tvg-logo="https://i.imgur.com/N6EH159.jpg" group-title="hindi",Gadar 30/5/2001
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Gadar%25203052001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mummy Returns 18/5/2001" tvg-logo="https://subdl.com/p/sd20/sd20580.jpg" group-title="english hindi",The Mummy Returns 18/5/2001
+https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Mummy%2520Returns%25201852001.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ek Rishtaa 11/5/2001 " tvg-logo="https://i.imgur.com/s3FtWRu.jpg" group-title="hindi",Ek Rishtaa 11/5/2001
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ek%2520Rishtaa%25201152001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Albela 9/4/2001 " tvg-logo="https://subdl.com/p/sd264/sd264489.jpg" group-title="hindi",Albela 9/4/2001
@@ -3068,6 +3082,8 @@ https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hindustan%2520Ki%2520Kasam%25201571999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Haseena Maan Jaayegi 25/6/1999 " tvg-logo="https://i.imgur.com/7oGUIwx.jpg" group-title="hindi",Haseena Maan Jaayegi 25/6/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Haseena%2520Maan%2520Jaayegi%25202561999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mummy 25/6/1999" tvg-logo="https://subdl.com/p/sd22/sd22590.jpg" group-title="english hindi",The Mummy 25/6/1999
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Mummy%25202561999.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hum Dil De Chuke Sanam 18/6/1999 " tvg-logo="https://i.imgur.com/SjbPgsZ.jpg" group-title="hindi",Hum Dil De Chuke Sanam 18/6/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hum%2520Dil%2520De%2520Chuke%2520Sanam%25201861999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Matrix 11/6/1999" tvg-logo="https://subdl.com/p/sd21/sd21581.jpg" group-title="english hindi",The Matrix 11/6/1999
@@ -3470,6 +3486,8 @@ https://movieshd-544-720-1080-4k-3d-1986-purple-violet-2f3a-hd.movieshd4k3d1080p
 https://movieshd-544-720-1080-4k-3d-1985-green-grass-916c-1985.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/GERAFTAAR%25201391985.mp4
 #EXTINF:-1 tvg-id="" tvg-name="GERAFTAAR 13/9/1985 " tvg-logo="https://i.imgur.com/lsVQT5u.jpg" group-title="hindi",GERAFTAAR 13/9/1985
 https://movieshd-544-720-1080-4k-3d-1985-green-grass-916c-1985.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/GERAFTAAR%25201391985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="the terminator 1/11/1984" tvg-logo="https://subdl.com/p/sd18/sd18032.jpg" group-title="english hindi",the terminator 1/11/1984
+https://movieshd-544-720-1080-4k-3d-1984-patient-bonus-6132-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/the%2520terminator%25201111984.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Andar Bahar 7/9/1984 " tvg-logo="https://i.imgur.com/6qlsjkQ.jpg" group-title="hindi",Andar Bahar 7/9/1984
 https://movieshd-544-720-1080-4k-3d-1984-patient-bonus-6132-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Andar%2520Bahar%2520791984.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Inquilaab 25/1/1984 " tvg-logo="https://i.imgur.com/hluKSWr.jpg" group-title="hindi",Inquilaab 25/1/1984
