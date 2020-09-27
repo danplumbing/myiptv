@@ -1376,6 +1376,8 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Baahubali%2520The%2520Beginning%2520372015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="pyaar ka punchnama 2 27/6/2015 " tvg-logo="https://subdl.com/p/sd10/sd10808.jpg" group-title="hindi",pyaar ka punchnama 2 27/6/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/pyaar%2520ka%2520punchnama%25202%25202762015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terminator Genisys 25/6/2015" tvg-logo="https://subdl.com/p/sd5/sd5411.jpg" group-title="english hindi",Terminator Genisys 25/6/2015
+https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Terminator%2520Genisys%25202562015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Guddu Rangeela 18/6/2015 " tvg-logo="https://i.imgur.com/9fkUD73.jpg" group-title="hindi",Guddu Rangeela 18/6/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Guddu%2520Rangeela%25201862015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic World 11/6/2015" tvg-logo="https://subdl.com/p/sd34/sd34376.jpg" group-title="english hindi",Jurassic World 11/6/2015
@@ -2400,6 +2402,8 @@ https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Mummy%2520Tomb%2520of%2520the%2520Dragon%2520Emperor%25202472008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Dark Knight 21/7/2008" tvg-logo="https://i.imgur.com/Smsvi9Y.jpg" group-title="english hindi",The Dark Knight 21/7/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Dark%2520Knight%25202172008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hellboy 2 11/7/2008" tvg-logo="https://subdl.com/p/sd22/sd22684.jpg" group-title="english hindi",Hellboy 2 11/7/2008
+https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hellboy%25202%25201172008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Journey to the Center of the Earth 10/7/2008" tvg-logo="https://subdl.com/p/sd227/sd227003.jpg" group-title="english hindi",Journey to the Center of the Earth 10/7/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Journey%2520to%2520the%2520Center%2520of%2520the%2520Earth%25201072008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jaane Tu Ya Jaane Na 4/7/2008 " tvg-logo="https://i.imgur.com/qVfYCmP.jpg" group-title="hindi",Jaane Tu Ya Jaane Na 4/7/2008
