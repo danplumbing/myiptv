@@ -32,7 +32,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Deep%2520Blue%2520Sea%25203%25202872020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dil Bechara 24/7/2020 " tvg-logo="https://i.imgur.com/Pn5GtZ0.jpg" group-title="hindi",Dil Bechara 24/7/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dil%2520Bechara%25202472020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scoob! 20/7/2020" tvg-logo="https://subdl.com/p/sd722/sd722628.jpg" group-title=" Animation english",Scoob! 20/7/2020
+#EXTINF:-1 tvg-id="" tvg-name="Scoob! 20/7/2020" tvg-logo="https://subdl.com/p/sd722/sd722628.jpg" group-title="Animation english hindi",Scoob! 20/7/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Scoob!%25202072020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Bhanu Priya 16/7/2020 " tvg-logo="https://i.imgur.com/NuzNNy8.jpg" group-title="hindi",Virgin Bhanu Priya 16/7/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Virgin%2520Bhanu%2520Priya%25201672020.mkv
@@ -180,7 +180,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Heavenquest%2520A%2520Pilgrim%E2%80%99s%2520Progress%25202812020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vir Das For India 26/1/2020" tvg-logo="https://i.imgur.com/S4DjDlP.jpg" group-title="hindi",Vir Das For India 26/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Vir%2520Das%2520For%2520India%25202612020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Enter The Fat Dragon 23/1/2020" tvg-logo="https://i.imgur.com/eqzBFTd.jpg" group-title="chinese sub eng",Enter The Fat Dragon 23/1/2020
+#EXTINF:-1 tvg-id="" tvg-name="Enter The Fat Dragon 23/1/2020" tvg-logo="https://i.imgur.com/eqzBFTd.jpg" group-title="chinese hindi eng sub",Enter The Fat Dragon 23/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Enter%2520The%2520Fat%2520Dragon%25202312020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="court martial 19/1/2020" tvg-logo="https://i.imgur.com/32jl0Vw.jpg" group-title="hindi",court martial 19/1/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/court martial 19/1/2020.mkv
@@ -574,7 +574,7 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Zero%252021122018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="K G F Chapter 1 20/12/2018" tvg-logo="https://i.imgur.com/xwcuN2X.jpg" group-title="hindi",K G F Chapter 1 20/12/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/K%2520G%2520F%2520Chapter%25201%252020122018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Master Z The Ip Man Legacy 20/12/2018" tvg-logo="https://i.imgur.com/lIQMRR9.jpg" group-title="chinese hindi",Master Z The Ip Man Legacy 20/12/2018
+#EXTINF:-1 tvg-id="" tvg-name="Master Z The Ip Man Legacy 20/12/2018" tvg-logo="https://i.imgur.com/lIQMRR9.jpg" group-title="chinese hindi eng sub",Master Z The Ip Man Legacy 20/12/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Master%2520Z%2520The%2520Ip%2520Man%2520Legacy%252020122018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="K G F Chapter 1 20/12/2018" tvg-logo="https://i.imgur.com/Lg1ziuf.jpg" group-title="hindi",K G F Chapter 1 20/12/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/K%2520G%2520F%2520Chapter%25201%252020122018.mp4
@@ -840,7 +840,7 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kedarnath%25203122018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hate Story 4 23/2/2018" tvg-logo="https://i.imgur.com/7vgLbxB.jpg" group-title="hindi",Hate Story 4 23/2/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hate%2520Story%25204%25202322018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Monster Hunt 2 21/2/2018" tvg-logo="https://subdl.com/p/sd7/sd7150.jpg" group-title="chinese hindi",Monster Hunt 2 21/2/2018
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunt 2 21/2/2018" tvg-logo="https://subdl.com/p/sd7/sd7150.jpg" group-title="chinese hindi eng sub",Monster Hunt 2 21/2/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Monster%2520Hunt%25202%25202122018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Garbage 17/2/2018" tvg-logo="https://i.imgur.com/5aztfJA.jpg" group-title="hindi",Garbage 17/2/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Garbage%25201722018.mp4
@@ -2398,7 +2398,7 @@ https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dostana%25203112008.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Quantum of Solace 31/10/2008" tvg-logo="https://subdl.com/p/sd9/sd9571.jpg" group-title="english hindi",Quantum of Solace 31/10/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Quantum%2520of%2520Solace%252031102008.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chocolate 24/10/2008" tvg-logo="https://i.imgur.com/IEBCchd.jpg" group-title="Thai Hindi Eng Sub",Chocolate 24/10/2008
+#EXTINF:-1 tvg-id="" tvg-name="Chocolate 24/10/2008" tvg-logo="https://i.imgur.com/IEBCchd.jpg" group-title="thai hindi eng sub",Chocolate 24/10/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chocolate%252024102008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Heroes 24/10/2008 " tvg-logo="https://i.imgur.com/YljiIe4.jpg" group-title="hindi",Heroes 24/10/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Heroes%252024102008.mp4
