@@ -964,7 +964,7 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/American%2520Made%25202582017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rough Night 25/8/2017" tvg-logo="https://i.imgur.com/hCmHXmA.jpg?1" group-title="english hindi",Rough Night 25/8/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Rough%2520Night%25202582017.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Veronica 25/8/2017" tvg-logo="https://subdl.com/p/sd2/sd2473.jpg" group-title="english ",Veronica 25/8/2017
+#EXTINF:-1 tvg-id="" tvg-name="Veronica 25/8/2017" tvg-logo="https://subdl.com/p/sd2/sd2473.jpg" group-title="english",Veronica 25/8/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Veronica%252025/8/2017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shubh Mangal Saavdhan 24/8/2017" tvg-logo="https://i.imgur.com/9uus56y.jpg" group-title="hindi",Shubh Mangal Saavdhan 24/8/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shubh%2520Mangal%2520Saavdhan%25202482017.mp4
@@ -1016,7 +1016,7 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/the%2520mummy%25202252017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Half Girlfriend 19/5/2017" tvg-logo="https://subdl.com/p/sd1/sd1931.jpg" group-title="hindi",Half Girlfriend 19/5/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Half%2520Girlfriend%25201952017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="King Arthur Legend of the Sword 19/5/2017" tvg-logo="https://subdl.com/p/sd176/sd176557.jpg" group-title="english ",King Arthur Legend of the Sword 19/5/2017
+#EXTINF:-1 tvg-id="" tvg-name="King Arthur Legend of the Sword 19/5/2017" tvg-logo="https://subdl.com/p/sd176/sd176557.jpg" group-title="english",King Arthur Legend of the Sword 19/5/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/King%2520Arthur%2520Legend%2520of%2520the%2520Sword%25201952017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Wonder Woman 15/5/2017" tvg-logo="https://i.imgur.com/OT9DRF1.jpg" group-title="english hindi",Wonder Woman 15/5/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Wonder%2520Woman%25201552017.mp4
@@ -1046,7 +1046,7 @@ https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Thoroughbreds%2520642017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Detective Byomkesh Bakshy! 3/4/2015" tvg-logo="https://i.imgur.com/4q19gJm.jpg" group-title="hindi",Detective Byomkesh Bakshy! 3/4/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Detective%2520Byomkesh%2520Bakshy!%2520342015
-#EXTINF:-1 tvg-id="" tvg-name="Ghost in the Shell 30/3/2017" tvg-logo="https://subdl.com/p/sd1/sd1339.jpg" group-title="english ",Ghost in the Shell 30/3/2017
+#EXTINF:-1 tvg-id="" tvg-name="Ghost in the Shell 30/3/2017" tvg-logo="https://subdl.com/p/sd1/sd1339.jpg" group-title="english",Ghost in the Shell 30/3/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ghost%2520in%2520the%2520Shell%252030/3/2017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Marine 5 Battleground 28/3/2017" tvg-logo="https://i.imgur.com/1im4Hlc.jpg" group-title="english hindi",The Marine 5 Battleground 28/3/2017
 https://movieshd-544-720-1080-4k-3d-2017-curly-haze-3794-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Marine%25205%2520Battleground%25202832017.mkv
@@ -1358,7 +1358,7 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Hitman%2520Agent%252047%25201782015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Talvar 14/8/2015 " tvg-logo="https://subdl.com/p/sd24/sd24582.jpg" group-title="hindi",Talvar 14/8/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Talvar%25201482015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Man from U.N.C.L.E. 14/8/2015" tvg-logo="https://subdl.com/p/sd2/sd2053.jpg" group-title="english ",The Man from U.N.C.L.E. 14/8/2015
+#EXTINF:-1 tvg-id="" tvg-name="The Man from U.N.C.L.E. 14/8/2015" tvg-logo="https://subdl.com/p/sd2/sd2053.jpg" group-title="english",The Man from U.N.C.L.E. 14/8/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Man%2520from%2520U.N.C.L.E.%25201482015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="All is Well 13/8/2015 " tvg-logo="https://i.imgur.com/qXiEpaD.jpg" group-title="hindi",All is Well 13/8/2015 
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/All%2520is%2520Well%25201382015.mp4
@@ -1432,7 +1432,7 @@ https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Fast%2520and%2520Furious%25207%2520342015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Detective Byomkesh Bakshy! 24/3/2015 " tvg-logo="https://i.imgur.com/n2W9bFW.jpg" group-title="hindi",Detective Byomkesh Bakshy! 24/3/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Detective%2520Byomkesh%2520Bakshy!%25202432015.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wild Card 20/3/2015" tvg-logo="https://subdl.com/p/sd5/sd5594.jpg" group-title="english ",Wild Card 20/3/2015
+#EXTINF:-1 tvg-id="" tvg-name="Wild Card 20/3/2015" tvg-logo="https://subdl.com/p/sd5/sd5594.jpg" group-title="english",Wild Card 20/3/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Wild%2520Card%25202032015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Insurgent 19/3/2015" tvg-logo="https://i.imgur.com/Zy09CuO.png" group-title="english hindi",Insurgent 19/3/2015
 https://movieshd-544-720-1080-4k-3d-2015-patient-forest-d16b-d.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Insurgent%25201932015.mkv
@@ -1578,7 +1578,7 @@ https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/I%2520Love%2520NY%25202942014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The White Haired Witch of Lunar Kingdom 25/4/2014" tvg-logo="https://subdl.com/p/sd1/sd1526.jpg" group-title="english hindi",The White Haired Witch of Lunar Kingdom 25/4/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520White%2520Haired%2520Witch%2520of%2520Lunar%2520Kingdom%25202542014.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Transcendence 25/4/2014" tvg-logo="https://subdl.com/p/sd1/sd1853.jpg" group-title="english ",Transcendence 25/4/2014
+#EXTINF:-1 tvg-id="" tvg-name="Transcendence 25/4/2014" tvg-logo="https://subdl.com/p/sd1/sd1853.jpg" group-title="english",Transcendence 25/4/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Transcendence%252025/4/2014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Iceman 24/4/2014" tvg-logo="https://i.imgur.com/TQ9kalT.jpg" group-title="english hindi",Iceman 24/4/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Iceman%252024/4/2014.mkv
@@ -1852,7 +1852,7 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Inkaar%25201812013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Race 2 16/1/2013 " tvg-logo="https://i.imgur.com/gE4qncK.jpg" group-title="hindi",Race 2 16/1/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Race%25202%25201612013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Texas Chainsaw 3d 4/1/2013" tvg-logo="https://subdl.com/p/sd2/sd2171.jpg" group-title="english ",Texas Chainsaw 3d 4/1/2013
+#EXTINF:-1 tvg-id="" tvg-name="Texas Chainsaw 3d 4/1/2013" tvg-logo="https://subdl.com/p/sd2/sd2171.jpg" group-title="english",Texas Chainsaw 3d 4/1/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Texas%2520Chainsaw%25203d%2520412013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="B A Pass 2/1/2013 " tvg-logo="https://i.imgur.com/qIrFwrA.jpg" group-title="hindi",B A Pass 2/1/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/B%2520A%2520Pass%2520212013.mp4
@@ -2164,7 +2164,7 @@ https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Action%2520Replayy%252005112010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="paan singh tomar 31/10/2010 " tvg-logo="https://i.imgur.com/D2ijNuu.jpg" group-title="hindi",paan singh tomar 31/10/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/paan%2520singh%2520tomar%252031102010.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SAW 3d VII The Final Chapter UNRATED 29/10/2010" tvg-logo="https://subdl.com/p/sd1/sd1491.jpg" group-title="english ",SAW 3d VII The Final Chapter UNRATED 29/10/2010
+#EXTINF:-1 tvg-id="" tvg-name="SAW 3d VII The Final Chapter UNRATED 29/10/2010" tvg-logo="https://subdl.com/p/sd1/sd1491.jpg" group-title="english",SAW 3d VII The Final Chapter UNRATED 29/10/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/SAW%25203d%2520VII%2520The%2520Final%2520Chapter%2520UNRATED%252029102010.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Golmaal 3 26/10/2010 " tvg-logo="https://i.imgur.com/5F17Aoj.jpg" group-title="hindi",Golmaal 3 26/10/2010
 https://movieshd-544-720-1080-4k-3d-2010-green-thunder-3b69-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Golmaal%25203%252026102010.mkv
@@ -2278,7 +2278,7 @@ https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/London%2520Dreams%252030102009.mkv
 #EXTINF:-1 tvg-id="" tvg-name="London Dreams 30/10/2009" tvg-logo="https://i.imgur.com/Wwuv5B3.jpg" group-title="hindi",London Dreams 30/10/2009
 https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/London%2520Dreams%252030102009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SAW VI UNRATED 23/10/2009" tvg-logo="https://subdl.com/p/sd14/sd14988.jpg" group-title="english ",SAW VI UNRATED 23/10/2009
+#EXTINF:-1 tvg-id="" tvg-name="SAW VI UNRATED 23/10/2009" tvg-logo="https://subdl.com/p/sd14/sd14988.jpg" group-title="english",SAW VI UNRATED 23/10/2009
 https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/SAW%2520VI%2520UNRATED%252023102009.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aladin 20/10/2009 " tvg-logo="https://subdl.com/p/sd9/sd9390.jpg" group-title="hindi",Aladin 20/10/2009
 https://movieshd-544-720-1080-4k-3d-2009-icy-snowflake-3151-da.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aladin%252020102009.mp4
@@ -2512,7 +2512,7 @@ https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saawariya%25209112007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="30 Days Of Night 1/11/2007" tvg-logo="https://i.imgur.com/P9FncaK.jpg" group-title="english hindi",30 Days Of Night 1/11/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/30%2520Days%2520Of%2520Night%25201112007.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Saw IV UNRATED 26/10/2007" tvg-logo="https://subdl.com/p/sd10/sd10868.jpg" group-title="english ",Saw IV UNRATED 26/10/2007
+#EXTINF:-1 tvg-id="" tvg-name="Saw IV UNRATED 26/10/2007" tvg-logo="https://subdl.com/p/sd10/sd10868.jpg" group-title="english",Saw IV UNRATED 26/10/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Saw%2520IV%2520UNRATED%252026/10/2007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Boogeyman 20/10/2007" tvg-logo="https://i.imgur.com/7OsdTzy.jpg" group-title="english hindi",Boogeyman 20/10/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Boogeyman%252020102007.mkv
