@@ -60,8 +60,6 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://snowy-poetry-5455-2012.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Agneepath%2520(2012)%25201080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Choked Paisa Bolta Hai 5/6/2020 " tvg-logo="https://i.imgur.com/wVysKco.jpg" group-title="hindi",Choked Paisa Bolta Hai 5/6/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Choked%2520Paisa%2520Bolta%2520Hai%2520562020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Onward 6/3/2020" tvg-logo="https://subdl.com/p/sd542/sd542482.jpg" group-title=" Animation english",Onward 6/3/2020
-https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Onward%2520632020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chippa 3/6/2020 " tvg-logo="https://i.imgur.com/VVNKnx9.jpg" group-title="hindi",Chippa 3/6/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chippa%2520362020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Purush 1/6/2020 " tvg-logo="https://i.imgur.com/rNGF5dB.jpg" group-title="hindi",Purush 1/6/2020
@@ -118,6 +116,8 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Guilty%2520632020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kaamyaab 6/3/2020" tvg-logo="https://subdl.com/p/sd635/sd635783.jpg" group-title="hindi",Kaamyaab 6/3/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kaamyaab%2520632020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Onward 6/3/2020" tvg-logo="https://subdl.com/p/sd542/sd542482.jpg" group-title="Animation english hindi",Onward 6/3/2020
+https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Onward%2520632020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Doordarshan 28/2/2020" tvg-logo="https://i.imgur.com/caSyCP4.jpg" group-title="hindi",Doordarshan 28/2/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Doordarshan%25202822020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Invisible Man 28/2/2020" tvg-logo="https://i.imgur.com/kSQFUqQ.jpg" group-title="english hindi",The Invisible Man 28/2/2020
