@@ -408,7 +408,7 @@ https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Super%252030%2520672019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Malaal 5/7/2019" tvg-logo="https://subdl.com/p/sd340/sd340512.jpg" group-title="hindi",Malaal 5/7/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Malaal%2520572019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mewtwo Strikes Back Evolution 4/7/2019" tvg-logo="https://i.imgur.com/4lo7gC6.jpg" group-title=" Animation english hindi",Mewtwo Strikes Back Evolution 4/7/2019
+#EXTINF:-1 tvg-id="" tvg-name="Mewtwo Strikes Back Evolution 4/7/2019" tvg-logo="https://i.imgur.com/4lo7gC6.jpg" group-title="Animation english hindi",Mewtwo Strikes Back Evolution 4/7/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mewtwo%2520Strikes%2520Back%2520Evolution%2520472019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spider Man Far from Home 2/7/2019" tvg-logo="https://i.imgur.com/gLWwHQb.jpg" group-title="english hindi",Spider Man Far from Home 2/7/2019
 https://movieshd54472010804k3dtwilight-truth04ce-english-hindi.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Spider%2520Man%2520Far%2520from%2520Home%2520272019.mkv
@@ -580,7 +580,7 @@ https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/K%2520G%2520F%2520Chapter%25201%252020122018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aquaman 12/12/2018" tvg-logo="https://i.imgur.com/sOzgTDZ.jpg" group-title="english hindi",Aquaman 12/12/2018
 https://movieshd-544-720-1080-4k-3d-2012-late-sound-521a-danhd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aquaman%252012122018.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spider Man Into The Spider Verse 12/12/2018" tvg-logo="https://i.imgur.com/hG394sj.jpg" group-title=" Animation english hindi",Spider Man Into The Spider Verse 12/12/2018
+#EXTINF:-1 tvg-id="" tvg-name="Spider Man Into The Spider Verse 12/12/2018" tvg-logo="https://i.imgur.com/hG394sj.jpg" group-title="Animation english hindi",Spider Man Into The Spider Verse 12/12/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Spider%2520Man%2520Into%2520The%2520Spider%2520Verse%252012122018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Creed II 30/11/2018" tvg-logo="https://subdl.com/p/sd68/sd68043.jpg" group-title="english",Creed II 30/11/2018
 https://movieshd54472010804k3d-2018-dan-danall-late-shape-ec0f.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Creed%2520II%252030112018.mkv
@@ -1240,7 +1240,7 @@ https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Criminal%25201542016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chudail Story 13/4/2016" tvg-logo="https://subdl.com/p/sd708/sd708328.jpg" group-title="hindi",Chudail Story 13/4/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Chudail%2520Story%25201342016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratche And Clank 12/4/2016" tvg-logo="https://i.imgur.com/CxJ9ZcD.jpg" group-title=" Animation english hindi",Ratche And Clank 12/4/2016
+#EXTINF:-1 tvg-id="" tvg-name="Ratche And Clank 12/4/2016" tvg-logo="https://i.imgur.com/CxJ9ZcD.jpg" group-title="Animation english hindi",Ratche And Clank 12/4/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ratchet%2520And%2520Clank%25201242016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="American Poltergeist 10/4/2016" tvg-logo="https://i.imgur.com/QcEpLYJ.jpg" group-title="english hindi",American Poltergeist 10/4/2016
 https://movieshd-544-720-1080-4k-3d-2016-broken-resonance-acb5.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/American%2520Poltergeist%25201042016.mkv
@@ -2496,7 +2496,7 @@ https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/I%2520Am%2520Legend%252026122007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aliens Vs Predator Requiem 25/12/2007" tvg-logo="https://subdl.com/p/sd13/sd13115.jpg" group-title="english hindi",Aliens Vs Predator Requiem 25/12/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aliens%2520Vs%2520Predator%2520Requiem%252025122007.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bee Movie 14/12/2007" tvg-logo="https://i.imgur.com/MLRfF3a.jpg" group-title=" Animation english hindi",Bee Movie 14/12/2007
+#EXTINF:-1 tvg-id="" tvg-name="Bee Movie 14/12/2007" tvg-logo="https://i.imgur.com/MLRfF3a.jpg" group-title="Animation english hindi",Bee Movie 14/12/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bee%2520Movie%252014122007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dus Kahaniyaan 29/11/2007 " tvg-logo="https://i.imgur.com/o9HNAe2.jpg" group-title="hindi",Dus Kahaniyaan 29/11/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Dus%2520Kahaniyaan%252029112007.mp4
