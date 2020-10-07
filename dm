@@ -2542,6 +2542,8 @@ https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/I%2520Am%2520Legend%252026122007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aliens Vs Predator Requiem 25/12/2007" tvg-logo="https://subdl.com/p/sd13/sd13115.jpg" group-title="english hindi",Aliens Vs Predator Requiem 25/12/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aliens%2520Vs%2520Predator%2520Requiem%252025122007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="National Treasure Book of Secrets 21/12/2007" tvg-logo="https://subdl.com/p/sd213/sd213868.jpg" group-title="english hindi",National Treasure Book of Secrets 21/12/2007
+https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/National%2520Treasure%2520Book%2520of%2520Secrets%252021122007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bee Movie 14/12/2007" tvg-logo="https://i.imgur.com/MLRfF3a.jpg" group-title="Animation english hindi",Bee Movie 14/12/2007
 https://movieshd-544-720-1080-4k-3d-2007-odd-dust-bd00-hddanjk.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bee%2520Movie%252014122007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dus Kahaniyaan 29/11/2007 " tvg-logo="https://i.imgur.com/o9HNAe2.jpg" group-title="hindi",Dus Kahaniyaan 29/11/2007
@@ -3606,6 +3608,8 @@ https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1991-frosty-term-ec0f-1991.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Farishtey%25201111991.m4v
 #EXTINF:-1 tvg-id="" tvg-name="Baaghi 11/12/1990 " tvg-logo="https://i.imgur.com/KkRoUxu.jpg" group-title="hindi",Baaghi 11/12/1990
 https://movieshd-544-720-1080-4k-3d-1990-late-poetry-66cd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Baaghi%252011121990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Exorcist III 23/11/1990" tvg-logo="https://i.imgur.com/ZUjuTR2.jpg" group-title="english",The Exorcist III 23/11/1990
+https://movieshd-544-720-1080-4k-3d-1990-late-poetry-66cd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/The%2520Exorcist%2520III%252023111990.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Doodh Ka Karz 21/8/1990 " tvg-logo="https://i.imgur.com/c8yLP9Z.jpg" group-title="hindi",Doodh Ka Karz 21/8/1990
 https://movieshd-544-720-1080-4k-3d-1990-late-poetry-66cd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Doodh%2520Ka%2520Karz%25202181990.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aaj Ka Arjun 3/8/1990 " tvg-logo="https://i.imgur.com/MA3iCwe.jpg" group-title="hindi",Aaj Ka Arjun 3/8/1990
