@@ -1682,6 +1682,8 @@ https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Total%2520Siyapaa%2520732014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Exodus Gods and Kings 31/2/2014" tvg-logo="https://subdl.com/p/sd1/sd1433.jpg" group-title="english hindi",Exodus Gods and Kings 31/2/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Exodus%2520Gods%2520and%2520Kings%25203122014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ride Along 28/2/2014" tvg-logo="https://subdl.com/p/sd1/sd1975.jpg" group-title="english hindi",Ride Along 28/2/2014
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ride%2520Along%25202822014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Queen 28/2/2014 " tvg-logo="https://subdl.com/p/sd1/sd1407.jpg" group-title="hindi",Queen 28/2/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Queen%25202822014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pompeii 20/2/2014" tvg-logo="https://subdl.com/p/sd11/sd11152.jpg" group-title="english hindi",Pompeii 20/2/2014
@@ -1766,6 +1768,8 @@ https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Scavengers%2520392013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pain and Gain 30/8/2013" tvg-logo="https://i.imgur.com/JRbQiJM.jpg" group-title="english hindi",Pain and Gain 30/8/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pain%2520and%2520Gain%25203082013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Closed Circuit 28/8/2013" tvg-logo="https://subdl.com/p/sd17/sd17584.jpg" group-title="english hindi",Closed Circuit 28/8/2013
+https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Closed%2520Circuit%25202882013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shuddh Desi Romance 27/8/2013 " tvg-logo="https://subdl.com/p/sd2/sd2677.jpg" group-title="hindi",Shuddh Desi Romance 27/8/2013
 https://movieshd-544-720-1080-4k-3d-2013-summer-feather-8483-h.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Shuddh%2520Desi%2520Romance%25202782013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Elysium 21/8/2013" tvg-logo="https://i.imgur.com/1jWRVVh.jpg" group-title="english hindi",Elysium 21/8/2013
@@ -2790,6 +2794,8 @@ https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Pirates%2520of%2520the%2520Caribbean%2520Dead%2520Man%2527s%2520Chest%2520672006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Corporate 23/6/2006 " tvg-logo="https://subdl.com/p/sd216/sd216682.jpg" group-title="hindi",Corporate 23/6/2006
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Corporate%25202362006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ultraviolet 23/6/2006" tvg-logo="https://subdl.com/p/sd27/sd27834.jpg" group-title="english hindi",Ultraviolet 23/6/2006
+https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ultraviolet%25202362006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alag 16/6/2006 " tvg-logo="https://subdl.com/p/sd217/sd217917.jpg" group-title="hindi",Alag 16/6/2006
 https://movieshd-544-720-1080-4k-3d-2006-long-dream-d08e-danh6.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Alag%25201662006.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Fast and the Furious Tokyo Drift 16/6/2006" tvg-logo="https://subdl.com/p/sd19/sd19776.jpg" group-title="english hindi",The Fast and the Furious Tokyo Drift 16/6/2006
@@ -3376,6 +3382,8 @@ https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aarzoo%25201231999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Anari No 1 10/3/1999 " tvg-logo="https://i.imgur.com/dXx3Nve.jpg" group-title="hindi",Anari No 1 10/3/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Anari%2520No%25201%25201031999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Three Kings 3/3/1999" tvg-logo="https://subdl.com/p/sd37/sd37644.jpg" group-title="english hindi",Three Kings 3/3/1999
+https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Three%2520Kings%2520331999.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kaun 26/2/1999 " tvg-logo="https://i.imgur.com/HnIG2I6.jpg" group-title="hindi",Kaun 26/2/1999
 https://movieshd-544-720-1080-4k-3d-1999-wild-haze-be31-da1999.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Kaun%25202621999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Toy Story 2 11/2/1999" tvg-logo="https://i.imgur.com/gYG0j1f.jpg" group-title="Animation english hindi",Toy Story 2 11/2/1999
