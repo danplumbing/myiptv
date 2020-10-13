@@ -1600,6 +1600,8 @@ https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Expendables%25203%25201482014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Good People 12/8/2014" tvg-logo="https://subdl.com/p/sd3/sd3037.jpg" group-title="english hindi",Good People 12/8/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Good%2520People%25201282014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Into the Storm 7/8/2014" tvg-logo="https://subdl.com/p/sd18/sd18895.jpg" group-title="english hindi",Into the Storm 7/8/2014
+https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Into%2520the%2520Storm%2520782014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tekken Kazuyas Revenge 6/8/2014" tvg-logo="https://i.imgur.com/rJHSEKH.jpg" group-title="english hindi",Tekken Kazuyas Revenge 6/8/2014
 https://movieshd-544-720-1080-4k-3d-2014-restless-rice-c625-hd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Tekken%2520Kazuyas%2520Revenge%2520682014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy 31/7/2014" tvg-logo="https://subdl.com/p/sd2/sd2742.jpg" group-title="english hindi",Guardians of the Galaxy 31/7/2014
@@ -2528,6 +2530,8 @@ https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Death%2520Race%25202692008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Taken 26/9/2008" tvg-logo="https://subdl.com/p/sd20/sd20470.jpg" group-title="english",Taken 26/9/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Taken%25202692008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tropic Thunder 19/9/2008" tvg-logo="https://subdl.com/p/sd20/sd20835.jpg" group-title="english hindi",Tropic Thunder 19/9/2008
+https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Tropic%2520Thunder%25201992008.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Drona 17/9/2008 " tvg-logo="https://subdl.com/p/sd7/sd7516.jpg" group-title="hindi",Drona 17/9/2008
 https://movieshd-544-720-1080-4k-3d-2008-calm-forest-252c-danh.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Drona%25201792008.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1920 12/09/2008 " tvg-logo="https://subdl.com/p/sd11/sd11534.jpg" group-title="hindi",1920 12/09/2008
@@ -3258,10 +3262,14 @@ https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Albela%2520942001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Along Came A Spider 6/4/2001" tvg-logo="https://subdl.com/p/sd17/sd17616.jpg" group-title="english hindi",Along Came A Spider 6/4/2001
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Along%2520Came%2520A%2520Spider%2520642001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="15 Minutes 9/3/2001" tvg-logo="https://subdl.com/p/sd25/sd25411.jpg" group-title="english hindi",15 Minutes 9/3/2001
+https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/15%2520Minutes%2520932001.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aashiq 26/1/2001 " tvg-logo="https://subdl.com/p/sd44/sd44101.jpg" group-title="hindi",Aashiq 26/1/2001
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Aashiq%25202612001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ajnabee 15/1/2001 " tvg-logo="https://i.imgur.com/4qKhJkW.jpg" group-title="hindi",Ajnabee 15/1/2001
 https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Ajnabee%25201512001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cast Away 12/1/2001" tvg-logo="https://subdl.com/p/sd20/sd20316.jpg" group-title="english hindi",Cast Away 12/1/2001
+https://movieshd-544-720-1080-4k-3d-2001-bitter-poetry-1640-d1.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Cast%2520Away%25201212001.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Farz 29/12/2000 " tvg-logo="https://subdl.com/p/sd488/sd488881.jpg" group-title="hindi",Farz 29/12/2000
 https://movieshd-544-720-1080-4k-3d-2000-falling-night-60b5-d0.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Farz%252029122000.mp4
 #EXTINF:-1 tvg-id="" tvg-name="champion 18/12/2000 " tvg-logo="https://subdl.com/p/sd297/sd297247.jpg" group-title="hindi",champion 18/12/2000
@@ -3470,6 +3478,8 @@ https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Batman%2520%26%2520Robin%25201261997.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Insaaf 15/5/1997 " tvg-logo="https://i.imgur.com/WeZXdBb.jpg" group-title="hindi",Insaaf 15/5/1997
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Insaaf%25201551997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Donnie brasco 2/5/1997" tvg-logo="https://subdl.com/p/sd24/sd24695.jpg" group-title="english hindi",Donnie brasco 2/5/1997
+https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Donnie%2520brasco%2520251997.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sapnay 25/4/1997 " tvg-logo="https://i.imgur.com/9Q0ZG0u.jpg" group-title="hindi",Sapnay 25/4/1997
 https://movieshd-544-720-1080-4k-3d-1997-proud-dream-02c3-1997.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Sapnay%25202541997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Auzaar 28/2/1997 " tvg-logo="https://i.imgur.com/ea7eTw8.jpg" group-title="hindi",Auzaar 28/2/1997
@@ -3564,6 +3574,8 @@ https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Manzil%2520Manzil%25202591994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bandit Queen 9/9/1994 " tvg-logo="https://i.imgur.com/OA9qbtD.jpg" group-title="hindi",Bandit Queen 9/9/1994
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Bandit%2520Queen%2520991994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills Cop III 3/9/1994" tvg-logo="https://subdl.com/p/sd10/sd10938.jpg" group-title="english hindi",Beverly Hills Cop III 3/9/1994
+https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Beverly%2520Hills%2520Cop%2520III%2520391994.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Andaz Apna Apna 31/8/1994 " tvg-logo="https://i.imgur.com/tu6Vtmk.jpg" group-title="hindi",Andaz Apna Apna 31/8/1994
 https://movieshd-544-720-1080-4k-3d-1994-calm-disk-6333-hd1994.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Andaz%2520Apna%2520Apna%25203181994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chaand Kaa Tukdaa 19/8/1994 " tvg-logo="https://i.imgur.com/hDcBH1T.jpg" group-title="hindi",Chaand Kaa Tukdaa 19/8/1994
@@ -3794,6 +3806,8 @@ https://movieshd-544-720-1080-4k-3d-1985-green-grass-916c-1985.movieshd4k3d1080p
 https://movieshd-544-720-1080-4k-3d-1984-patient-bonus-6132-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/the%2520terminator%25201111984.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Andar Bahar 7/9/1984 " tvg-logo="https://i.imgur.com/6qlsjkQ.jpg" group-title="hindi",Andar Bahar 7/9/1984
 https://movieshd-544-720-1080-4k-3d-1984-patient-bonus-6132-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Andar%2520Bahar%2520791984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beveryly Hills Cop 11/2/1984" tvg-logo="https://subdl.com/p/sd19/sd19382.jpg" group-title="english hindi",Beveryly Hills Cop 11/2/1984
+https://movieshd-544-720-1080-4k-3d-1984-patient-bonus-6132-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Beveryly%2520Hills%2520Cop%25201121984.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Inquilaab 25/1/1984 " tvg-logo="https://i.imgur.com/hluKSWr.jpg" group-title="hindi",Inquilaab 25/1/1984
 https://movieshd-544-720-1080-4k-3d-1984-patient-bonus-6132-hd.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Inquilaab%25202511984.mp4
 #EXTINF:-1 tvg-id="" tvg-name="hero 16/12/1983 " tvg-logo="https://i.imgur.com/R9J35W8.jpg" group-title="hindi",hero 16/12/1983
