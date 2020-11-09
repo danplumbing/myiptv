@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
+#EXTINF:-1 tvg-id="" tvg-name="Laxmii 9/11/2020" tvg-logo="https://i.imgur.com/Gq9bXw5.jpg" group-title="hindi",Laxmii 9/11/2020
+https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Copy%2520of%2520Laxmii%25209112020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Peninsula 6/11/2020" tvg-logo="https://i.jeded.com/i/peninsula-train-to-busan-2.154-183704.jpg" group-title="english",Peninsula 6/11/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Peninsula%25206112020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Wild with Bear Grylls 11/9/2020" tvg-logo="https://i.imgur.com/i2v6ulR.jpg" group-title="english hindi",The Wild with Bear Grylls 11/9/2020
