@@ -4,6 +4,8 @@
 https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/safari%2520park%25202392009.mkv
 #EXTINF:-1 tvg-id="" tvg-name="safari park 2392009" tvg-logo="https://i.imgur.com/q22FYsk.jpg" group-title="family",safari park 2392009
 https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Safari%2520Park%25202392009-1.m4v
+#EXTINF:-1 tvg-id="" tvg-name="safari park 2392009 1080p" tvg-logo="https://i.imgur.com/lZUjY52.jpg" group-title="family",safari park 2392009 1080p
+https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Safari%2520Park%25202392009%25201080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Laxmii 9/11/2020" tvg-logo="https://i.imgur.com/Gq9bXw5.jpg" group-title="hindi",Laxmii 9/11/2020
 https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Copy%2520of%2520Laxmii%25209112020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Peninsula 6/11/2020" tvg-logo="https://i.jeded.com/i/peninsula-train-to-busan-2.154-183704.jpg" group-title="english",Peninsula 6/11/2020
