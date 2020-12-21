@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
-#EXTINF:-1 tvg-id="" tvg-name="safari park 2392009" tvg-logo="https://i.imgur.com/gZTyk46.jpg" group-title="family",safari park 2392009
-https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/safari%2520park%25202392009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="family 11112010 1gb" tvg-logo="https://i.imgur.com/gZTyk46.jpg" group-title="family",family 11112010 1gb
+https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/family%252011112010%25201gb.m4v
+#EXTINF:-1 tvg-id="" tvg-name="family 11112010 1080p" tvg-logo="https://i.imgur.com/pzrFu7E.jpg" group-title="family",family 11112010 1080p
+https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/family%252011112010%25201080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="safari park 2392009" tvg-logo="https://i.imgur.com/q22FYsk.jpg" group-title="family",safari park 2392009
 https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Safari%2520Park%25202392009-1.m4v
 #EXTINF:-1 tvg-id="" tvg-name="safari park 2392009 1080p" tvg-logo="https://i.imgur.com/lZUjY52.jpg" group-title="family",safari park 2392009 1080p
