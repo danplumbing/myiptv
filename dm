@@ -1,5 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
+#EXTINF:-1 tvg-id="" tvg-name="coolie no 1 25122020" tvg-logo="https://i.imgur.com/D2KA3fU.jpg" group-title="hindi",coolie no 1 25122020
+https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Coolie%2520No%25201%252025122020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ak vs ak 24122020" tvg-logo="https://i.imgur.com/ytrS2xC.jpg" group-title="hindi",ak vs ak 24122020
+https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/ak%2520vs%2520ak%252024122020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="durgamati the myth 11122020" tvg-logo="https://i.imgur.com/7q4uuqE.jpg" group-title="hindi",durgamati the myth 11122020
+https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Me%2520durgamati%2520the%2520myth%252011122020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Torbaaz 11122020" tvg-logo="https://i.imgur.com/kMxaUhQ.jpg" group-title="hindi",Torbaaz 11122020
+https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Torbaaz%252011122020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Suraj Pe Mangal Bhari 15112020" tvg-logo="https://i.imgur.com/UdCc8x0.jpg" group-title="hindi",Suraj Pe Mangal Bhari 15112020
+https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/suraj%2520pe%2520mangal%2520bhari%252015112020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="family 11112010 1gb" tvg-logo="https://i.imgur.com/gZTyk46.jpg" group-title="family",family 11112010 1gb
 https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/family%252011112010%25201gb.m4v
 #EXTINF:-1 tvg-id="" tvg-name="family 11112010 1080p" tvg-logo="https://i.imgur.com/pzrFu7E.jpg" group-title="family",family 11112010 1080p
