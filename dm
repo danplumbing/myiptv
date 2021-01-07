@@ -5,7 +5,7 @@ https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p5
 #EXTINF:-1 tvg-id="" tvg-name="ak vs ak 24122020" tvg-logo="https://i.imgur.com/ytrS2xC.jpg" group-title="hindi",ak vs ak 24122020
 https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/ak%2520vs%2520ak%252024122020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="durgamati the myth 11122020" tvg-logo="https://i.imgur.com/7q4uuqE.jpg" group-title="hindi",durgamati the myth 11122020
-https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Me%2520durgamati%2520the%2520myth%252011122020.mkv
+https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/durgamati%2520the%2520myth%252011122020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Torbaaz 11122020" tvg-logo="https://i.imgur.com/kMxaUhQ.jpg" group-title="hindi",Torbaaz 11122020
 https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Torbaaz%252011122020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Suraj Pe Mangal Bhari 15112020" tvg-logo="https://i.imgur.com/UdCc8x0.jpg" group-title="hindi",Suraj Pe Mangal Bhari 15112020
