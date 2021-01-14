@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
 #EXTINF:-1 tvg-id="" tvg-name="Nail Polish 31122020" tvg-logo="https://fs1.extraimage.org/2021/01/01/Nail-Polish-2021-Hindi-1080p-Zee5-HDRip-ESubs-1.6GB-Download8e20ebd9ba3e74c8.jpg" group-title="hindi",Nail Polish 31122020
-https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Copy%2520of%2520%2520Nail%2520Polish%252031122020.mkv
+https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Nail%20Polish%2031122020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ludo 2442020" tvg-logo="https://fs1.extraimage.org/2020/11/12/Ludo-2020-Hindi-720p-NF-HDRip-ESubs-1GB-Download.jpg" group-title="hindi",Ludo 2442020
+https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Ludo%202442020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="coolie no 1 25122020" tvg-logo="https://i.imgur.com/D2KA3fU.jpg" group-title="hindi",coolie no 1 25122020
 https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Coolie%2520No%25201%252025122020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ak vs ak 24122020" tvg-logo="https://i.imgur.com/ytrS2xC.jpg" group-title="hindi",ak vs ak 24122020
