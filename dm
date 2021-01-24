@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
+#EXTINF:-1 tvg-id="" tvg-name="adnan 2000" tvg-logo="https://i.imgur.com/bU5A7QL.jpg" group-title="family",adnan 2000
+https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/adnan.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Power 1412021" tvg-logo="https://fs1.extraimage.org/2021/01/14/The-Power-2021-Hindi-1080p-ZEE5-HDRip-ESubs-1.7GB-Download.jpg" group-title="hindi",The Power 1412021
 https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/The%2520Power%25201412021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Nail Polish 31122020" tvg-logo="https://fs1.extraimage.org/2021/01/01/Nail-Polish-2021-Hindi-1080p-Zee5-HDRip-ESubs-1.6GB-Download8e20ebd9ba3e74c8.jpg" group-title="hindi",Nail Polish 31122020
