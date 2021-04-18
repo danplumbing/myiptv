@@ -17,6 +17,8 @@ https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p5
 https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Ludo%202442020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="coolie no 1 25122020" tvg-logo="https://i.imgur.com/D2KA3fU.jpg" group-title="hindi",coolie no 1 25122020
 https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/Coolie%2520No%25201%252025122020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="3 Indians 720p 24122020" tvg-logo="https://i.imgur.com/kAK8JeL.jpg" group-title="hindi",3 Indians 720p 24122020
+http://tb28.trainbit.com:8080/files/7808919484/v3595659684449594B7A54444674735564364C4178316C6359446C3439536168316F77435A316D72513566593D/3_Indians_720p_24122021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ak vs ak 24122020" tvg-logo="https://i.imgur.com/ytrS2xC.jpg" group-title="hindi",ak vs ak 24122020
 https://sparkling-hat-6d98-aqib-2018-royal-mouse-c70f-pak.movieshd4k3d1080p720p544paizasyaeksivkbf6edjyv2qaolbxbq9q-q0t6.workers.dev/ak%2520vs%2520ak%252024122020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="durgamati the myth 11122020" tvg-logo="https://i.imgur.com/7q4uuqE.jpg" group-title="hindi",durgamati the myth 11122020
