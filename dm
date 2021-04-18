@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
+#EXTINF:-1 tvg-id="" tvg-name="Zulmi 2531999" tvg-logo="https://i.imgur.com/0UrvhGI.jpg" group-title="hindi",Zulmi 2531999
+http://tb28.trainbit.com:8080/files/0122619484/v3655A4B774166355A43376969526738636F3669686569576153495A346E53346F794C3464516777465933303D/Zulmi_1999_WebRip_720p_Hindi_AAC_2.0_x264_-_mkvCinemas_Telly.mkv
 #EXTINF:-1 tvg-id="" tvg-name="y" tvg-logo="https://i.imgur.com/8eiA0Do.jpg" group-title="family",y
 https://od.lk/s/547dd85d5c756424ccd2702103ff1cce7db5f1e16655e6276710cc4e7d9ed02a/Using%20Google%20Developer%20Console%20to%20get%20OAuth2%20Client%20ID%20and%20Client%20Secret.mp4
 #EXTINF:-1 tvg-id="" tvg-name="t" tvg-logo="https://i.imgur.com/8eiA0Do.jpg" group-title="family",t
