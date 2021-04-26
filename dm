@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="UKe
 #EXTINF:-1 tvg-id="" tvg-name="Khaali Peeli 2020" tvg-logo="https://i.imgur.com/KPdKyJU.jpg" group-title="hindi",Khaali Peeli 2020
-https://www.googleapis.com/drive/v3/files/1VLryFU7ihmkvh_Vn5C_wbmCxIdSUz90S?alt=media&key=AIzaSyCME_SKBsLguZcBjJWxYAE9-BBHQOppAuI
+https://movieshd54472010804k3dbold-2020-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Khaali%2520Peeli%25202020%2520WebRip%2520Hindi%2520720p%2520x264%2520AAC%25202.0%2520ESub%2520-%2520mkvCinemas%2520%5BTelly%5D.mkv
 #EXTINF:-1 tvg-id="" tvg-name="y" tvg-logo="https://i.imgur.com/8eiA0Do.jpg" group-title="family",y
 https://od.lk/s/547dd85d5c756424ccd2702103ff1cce7db5f1e16655e6276710cc4e7d9ed02a/Using%20Google%20Developer%20Console%20to%20get%20OAuth2%20Client%20ID%20and%20Client%20Secret.mp4
 #EXTINF:-1 tvg-id="" tvg-name="t" tvg-logo="https://i.imgur.com/8eiA0Do.jpg" group-title="family",t
