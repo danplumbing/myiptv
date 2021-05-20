@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-logo="" tvg-name="UK
 #EXTINF:-1 tvg-id="" tvg-name="Radhe 1080p 2152021" tvg-logo="https://i.imgur.com/jeVLeMU.jpg" group-title="hindi",Radhe 1080p 2152021
 https://movieshd54472010804k3dbold-2020-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Radhe%25201080p%25202152021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat 4k 1752021" tvg-logo="https://i.imgur.com/GPc2jkq.jpg" group-title="hindi",Mortal Kombat 4k 1752021
+https://movieshd54472010804k3dbold-2020-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Mortal%2520Kombat%25202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Traffic 2016" tvg-logo="https://i.imgur.com/HegqZty.jpg" group-title="hindi",Traffic 2016
 https://movieshd54472010804k3dbold-2020-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Traffic%25202016%2520BluRay%2520720p%2520Hindi%2520AAC%25205.1%2520x264%2520ESub%2520-%2520mkvCinemas%2520%5BTelly%5D.mkv
 https://movieshd54472010804k3dbold-2020-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Traffic%25202016%2520BluRay%25201080p%2520Hindi%2520DTS%2520HDMA%25205.1%2520x264%2520ESub%2520-%2520mkvCinemas%2520%5BTelly%5D.mkv
