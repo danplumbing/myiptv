@@ -96,7 +96,7 @@ https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Wild%2520with%2520Bear%2520Grylls%25201192020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Babysitter Killer Queen 10/9/2020" tvg-logo="https://subdl.com/p/sd1247/sd1247584.jpg" group-title="english hindi",The Babysitter Killer Queen 10/9/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/The%2520Babysitter%2520Killer%2520Queen%25201092020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="fast and furious 9 3182020" tvg-logo="https://i.imgur.com/QmqlSgq.jpg" group-title="english hindi",fast and furious 9 3182020
+#EXTINF:-1 tvg-id="" tvg-name="fast and furious 9 3182020" tvg-logo="https://i.imgur.com/QmqlSgq.jpg" group-title="4k",fast and furious 9 3182020
 https://4k-movies-wispy-bush-d9e4-4kmovies-4wbdiu9epshy-4kmwbd.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/F9%204k%201600p%201952021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Class of ’83 21/8/2020" tvg-logo="https://i.imgur.com/SpOQdrK.jpg" group-title="hindi",Class of ’83 21/8/2020
 https://movieshd54472010804k3dbold-term-843d-english-hindi-all.aizasydz3xwpare53rn7odo0rozkv9ewcw-ps80-2020-aizasycz8.workers.dev/Class%2520of%2520%E2%80%9983%25202182020.mkv
